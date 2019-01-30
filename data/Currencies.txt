@@ -1,0 +1,106 @@
+﻿CurrencyCode	CurrencyName	CurrencyDollar	CurrencyDollarBay	CurrencyDollarSell
+AFA	Afghani	1	0.95	1.05
+DZD	Algerian Dinar	1	0.95	1.05
+ARS	Argentine Peso	1	0.95	1.05
+AMD	Armenian Dram	1	0.95	1.05
+AWG	Aruban Guilder	1	0.95	1.05
+AUD	Australian Dollar	1	0.95	1.05
+AZM	Azerbaijanian Manat	1	0.95	1.05
+BSD	Bahamian Dollar	1	0.95	1.05
+BHD	Bahraini Dinar	1	0.95	1.05
+THB	Baht	1	0.95	1.05
+PAB	Balboa	1	0.95	1.05
+BBD	Barbados Dollar	1	0.95	1.05
+BEF	Belgian Franc	1	0.95	1.05
+VEB	Bolivar	1	0.95	1.05
+BOB	Boliviano	1	0.95	1.05
+BRL	Brazilian Real	1	0.95	1.05
+BND	Brunei Dollar	1	0.95	1.05
+BGN	Bulgarian Lev	1	0.95	1.05
+CAD	Canadian Dollar	1	0.95	1.05
+GHC	Cedi	1	0.95	1.05
+XOF	CFA Franc BCEAO	1	0.95	1.05
+CLP	Chilean Peso	1	0.95	1.05
+COP	Colombian Peso	1	0.95	1.05
+CRC	Costa Rican Colon	1	0.95	1.05
+HRK	Croatian Kuna	1	0.95	1.05
+CYP	Cyprus Pound	1	0.95	1.05
+CZK	Czech Koruna	1	0.95	1.05
+DKK	Danish Krone	1	0.95	1.05
+DEM	Deutsche Mark	1	0.95	1.05
+DOP	Dominican Peso	1	0.95	1.05
+VND	Dong	1	0.95	1.05
+GRD	Drachma	1	0.95	1.05
+EGP	Egyptian Pound	1	0.95	1.05
+SVC	El Salvador Colon	1	0.95	1.05
+AED	Emirati Dirham	1	0.95	1.05
+EUR	EURO	1	0.95	1.05
+FJD	Fiji Dollar	1	0.95	1.05
+HUF	Forint	1	0.95	1.05
+FRF	French Franc	1	0.95	1.05
+PYG	Guarani	1	0.95	1.05
+HKD	Hong Kong Dollar	1	0.95	1.05
+ISK	Iceland Krona	1	0.95	1.05
+INR	Indian Rupee	1	0.95	1.05
+IEP	Irish Pound	1	0.95	1.05
+ITL	Italian Lira	1	0.95	1.05
+JMD	Jamaican Dollar	1	0.95	1.05
+JOD	Jordanian Dinar	1	0.95	1.05
+KES	Kenyan Shilling	1	0.95	1.05
+EEK	Kroon	1	0.95	1.05
+KWD	Kuwaiti Dinar	1	0.95	1.05
+AOA	Kwanza	1	0.95	1.05
+LVL	Latvian Lats	1	0.95	1.05
+LBP	Lebanese Pound	1	0.95	1.05
+ALL	Lek	1	0.95	1.05
+ROL	Leu	1	0.95	1.05
+LTL	Lithuanian Litas	1	0.95	1.05
+MYR	Malaysian Ringgit	1	0.95	1.05
+MTL	Maltese Lira	1	0.95	1.05
+FIM	Markka	1	0.95	1.05
+MUR	Mauritius Rupee	1	0.95	1.05
+MXN	Mexican Peso	1	0.95	1.05
+MAD	Moroccan Dirham	1	0.95	1.05
+NGN	Naira	1	0.95	1.05
+NAD	Namibia Dollar	1	0.95	1.05
+NPR	Nepalese Rupee	1	0.95	1.05
+ANG	Netherlands Antillian Guilder	1	0.95	1.05
+NLG	Netherlands Guilder	1	0.95	1.05
+ILS	New Israeli Shekel	1	0.95	1.05
+TWD	New Taiwan Dollar	1	0.95	1.05
+NZD	New Zealand Dollar	1	0.95	1.05
+BTN	Ngultrum	1	0.95	1.05
+NOK	Norwegian Krone	1	0.95	1.05
+PEN	Nuevo Sol	1	0.95	1.05
+OMR	Omani Rial	1	0.95	1.05
+PKR	Pakistan Rupee	1	0.95	1.05
+PHP	Philippine Peso	1	0.95	1.05
+PLZ	Polish Zloty(old)	1	0.95	1.05
+PTE	Portuguese Escudo	1	0.95	1.05
+GTQ	Quetzal	1	0.95	1.05
+ZAR	Rand	1	0.95	1.05
+MVR	Rufiyaa	1	0.95	1.05
+IDR	Rupiah	1	0.95	1.05
+RUB	Russian Ruble	1	0.95	1.05
+RUR	Russian Ruble(old)	1	0.95	1.05
+SAR	Saudi Riyal	1	0.95	1.05
+ATS	Shilling	1	0.95	1.05
+SGD	Singapore Dollar	1	0.95	1.05
+SKK	Slovak Koruna	1	0.95	1.05
+ESP	Spanish Peseta	1	0.95	1.05
+LKR	Sri Lankan Rupee	1	0.95	1.05
+SEK	Swedish Krona	1	0.95	1.05
+CHF	Swiss Franc	1	0.95	1.05
+BDT	Taka	1	0.95	1.05
+SIT	Tolar	1	0.95	1.05
+TTD	Trinidad and Tobago Dollar	1	0.95	1.05
+TND	Tunisian Dinar	1	0.95	1.05
+TRL	Turkish Lira	1	0.95	1.05
+GBP	United Kingdom Pound	1	0.95	1.05
+UYU	Uruguayan Peso	1	0.95	1.05
+USD	US Dollar	1	0.95	1.05
+KRW	Won	1	0.95	1.05
+JPY	Yen	1	0.95	1.05
+CNY	Yuan Renminbi	1	0.95	1.05
+ZWD	Zimbabwe Dollar	1	0.95	1.05
+PLN	Zloty	1	0.95	1.05

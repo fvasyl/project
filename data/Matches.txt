@@ -1,0 +1,646 @@
+﻿HomeClub	DateMatch	AwayClub	Sport	TournamentName
+Coventry Rugby	2019-02-15 15:00:00.000	Bedford	Rugby League	RFU Championship
+Hartpury College	2019-02-15 14:30:00.000	Cornish Pirates	Rugby League	RFU Championship
+Nottingham	2019-02-28 19:45:00.000	Doncaster Knights	Rugby League	RFU Championship
+Richmond	2019-02-15 15:00:00.000	Doncaster Knights	Rugby League	RFU Championship
+Ealing Trailfinders	2019-02-15 15:00:00.000	Leeds Carnegie	Rugby League	RFU Championship
+Jersey	2019-02-28 19:45:00.000	Leeds Carnegie	Rugby League	RFU Championship
+Pfadi Winterthur	2019-02-13 19:15:00.000	K. Schaffhausen	Handball	MNLA
+Wacker Thun	2019-02-12 18:30:00.000	RTV 1879 Basel	Handball	MNLA
+HC Kriens-Luzern	2019-02-12 19:00:00.000	BSV Bern Muri	Handball	MNLA
+Widnes Vikings	2019-02-15 15:15:00.000	Halifax Blue Sox	Rugby League	Super 8s
+Leeds Rhinos	2019-02-14 19:45:00.000	Salford Red Devils	Rugby League	Super 8s
+Leeds Rhinos	2019-02-28 19:45:00.000	Toronto Wolfpack	Rugby League	Super 8s
+Toronto Wolfpack	2019-02-15 17:30:00.000	Toulouse Olympique XIII	Rugby League	Super 8s
+Salford Red Devils	2019-02-27 19:45:00.000	Toulouse Olympique XIII	Rugby League	Super 8s
+Hull Kingston Rovers	2019-02-15 18:00:00.000	London Broncos	Rugby League	Super 8s
+Regal FC Barcelona	2019-02-27 20:30:00.000	Herbalife Gran Canaria	Basketball	Spagnola ACB
+BC River Andorra	2019-02-28 18:15:00.000	UCAM Murcia	Basketball	Spagnola ACB
+Unicaja Malaga	2019-02-28 20:30:00.000	Valencia Basket	Basketball	Spagnola ACB
+Skuru IK	2019-02-12 18:00:00.000	Hoors HK H 65	Handball	Elitserien
+Kristianstad HK	2019-02-13 18:00:00.000	IK Savehof	Handball	Elitserien
+BK Heid	2019-02-13 18:30:00.000	Boden Handball IF	Handball	Elitserien
+Önnereds HK	2019-02-13 18:00:00.000	Kungälvs HK	Handball	Elitserien
+Segeltorps IF	2019-02-26 18:00:00.000	Trangsund	Ice Hockey	HockeyEttan Ostra
+Hanvikens SK	2019-02-26 18:00:00.000	Sollentuna HC	Ice Hockey	HockeyEttan Ostra
+Hammarby Hockey IF	2019-02-26 18:00:00.000	Enköpings SK HK	Ice Hockey	HockeyEttan Ostra
+Hudiksvalls HC	2019-02-26 18:00:00.000	Väsby IK	Ice Hockey	HockeyEttan Ostra
+Australia	2019-02-15 11:05:00.000	Argentina	Rugby League	The Rugby Championship
+New Zealand	2019-02-15 08:35:00.000	South Africa	Rugby League	The Rugby Championship
+Waldkirch St.Gallen	2019-02-22 17:00:00.000	SV Wiler Ersigen	Floorball	National League
+Chur Uhc	2019-02-21 19:00:00.000	Kloten-Bülach Jets	Floorball	National League
+Grasshopper Club Zurich	2019-02-22 18:00:00.000	HC Rychenberg Winterthur	Floorball	National League
+Waldkirch St.Gallen	2019-02-21 19:00:00.000	Floorball Köniz	Floorball	National League
+UHC Thun	2019-02-22 18:00:00.000	Floorball Köniz	Floorball	National League
+Zug United	2019-02-22 16:00:00.000	UHC Alligator Malans	Floorball	National League
+Tigers Langnau	2019-02-22 18:00:00.000	UHC Uster	Floorball	National League
+Universitatea Politehnica Timisoara	2019-02-12 16:00:00.000	Potaissa Turda	Handball	Liga Nationala
+Cuba	2019-02-17 15:00:00.000	Puerto Rico	Volleyball	FIVB World Championship Men
+Iran	2019-02-12 15:00:00.000	Puerto Rico	Volleyball	FIVB World Championship Men
+Puerto Rico	2019-02-13 15:00:00.000	Poland	Volleyball	FIVB World Championship Men
+Iran	2019-02-17 18:30:00.000	Poland	Volleyball	FIVB World Championship Men
+Cuba	2019-02-12 18:30:00.000	Poland	Volleyball	FIVB World Championship Men
+Egypt	2019-02-17 15:00:00.000	Netherlands	Volleyball	FIVB World Championship Men
+Cameroon	2019-02-12 13:00:00.000	Tunisia	Volleyball	FIVB World Championship Men
+Australia	2019-02-17 19:30:00.000	Tunisia	Volleyball	FIVB World Championship Men
+Australia	2019-02-12 16:00:00.000	Russia	Volleyball	FIVB World Championship Men
+Dominican Republic	2019-02-13 16:00:00.000	Japan	Volleyball	FIVB World Championship Men
+Brazil	2019-02-26 16:00:00.000	Russia	Volleyball	FIVB World Championship Men
+USA	2019-02-27 16:00:00.000	Russia	Volleyball	FIVB World Championship Men
+Cameroon	2019-02-13 19:30:00.000	Serbia	Volleyball	FIVB World Championship Men
+Poland	2019-02-27 19:30:00.000	Serbia	Volleyball	FIVB World Championship Men
+Italy	2019-02-26 20:15:00.000	Serbia	Volleyball	FIVB World Championship Men
+USA	2019-02-12 19:30:00.000	Serbia	Volleyball	FIVB World Championship Men
+Argentina	2019-02-17 19:30:00.000	Slovenia	Volleyball	FIVB World Championship Men
+Dominican Republic	2019-02-12 16:00:00.000	Slovenia	Volleyball	FIVB World Championship Men
+Brazil	2019-02-13 18:30:00.000	France	Volleyball	FIVB World Championship Men
+Belgium	2019-02-12 19:30:00.000	Argentina	Volleyball	FIVB World Championship Men
+Iran	2019-02-13 18:30:00.000	Bulgaria	Volleyball	FIVB World Championship Men
+Russia	2019-02-17 16:00:00.000	Cameroon	Volleyball	FIVB World Championship Men
+Egypt	2019-02-13 15:00:00.000	Canada	Volleyball	FIVB World Championship Men
+Brazil	2019-02-17 18:30:00.000	Canada	Volleyball	FIVB World Championship Men
+Netherlands	2019-02-12 15:00:00.000	Canada	Volleyball	FIVB World Championship Men
+Italy	2019-02-13 20:15:00.000	Belgium	Volleyball	FIVB World Championship Men
+Brazil	2019-02-12 18:30:00.000	Egypt	Volleyball	FIVB World Championship Men
+CCR Fermentoes	2019-02-12 21:30:00.000	FC Porto Vitalis	Handball	1a Divisao
+AA Aguas Santas	2019-02-12 21:00:00.000	M - Sporting CP	Handball	1a Divisao
+Belgium	2019-02-17 16:00:00.000	Dominican Republic	Volleyball	FIVB World Championship Men
+France	2019-02-12 12:00:00.000	China	Volleyball	FIVB World Championship Men
+Australia	2019-02-13 16:00:00.000	USA	Volleyball	FIVB World Championship Men
+VfL Gummersbach	2019-02-27 18:00:00.000	SC DHFK Leipzig	Handball	Bundesliga
+Füchse Berlin	2019-02-13 18:00:00.000	TSV Hannover Burgdorf	Handball	Bundesliga
+SG Flensburg-Handewitt	2019-02-27 18:00:00.000	TSV Hannover Burgdorf	Handball	Bundesliga
+SG Flensburg-Handewitt	2019-02-13 18:00:00.000	TSG Ludwigshafen-Friesenheim	Handball	Bundesliga
+SC Magdeburg	2019-02-13 18:00:00.000	THW Kiel	Handball	Bundesliga
+TSG Ludwigshafen-Friesenheim	2019-02-27 18:00:00.000	Lingen - HC Erlangen	Handball	Bundesliga
+Lübbecke - TSV GWD Minden	2019-02-13 18:00:00.000	Lingen - HC Erlangen	Handball	Bundesliga
+THW Kiel	2019-02-27 18:00:00.000	MT Melsungen	Handball	Bundesliga
+HSG Wetzlar	2019-02-13 18:00:00.000	MT Melsungen	Handball	Bundesliga
+GKS Katowice	2019-02-25 17:30:00.000	MKS Cracovia Krakow	Ice Hockey	Ekstraliga
+TMH Polonia Bytom	2019-02-25 17:00:00.000	KS Stoczniowiec Gdansk	Ice Hockey	Ekstraliga
+TH Unia Oswiecim	2019-02-25 17:00:00.000	KH Zaglebie Sosnowiec	Ice Hockey	Ekstraliga
+Orlik Opole	2019-02-25 17:30:00.000	TKH Nesta Torun	Ice Hockey	Ekstraliga
+JKH GKS Jastrzebie	2019-02-11 15:30:00.000	TMH Polonia Bytom	Ice Hockey	Ekstraliga
+JKH GKS Jastrzebie	2019-02-25 17:00:00.000	Gorniczy Klub Sportowy Tychy	Ice Hockey	Ekstraliga
+GKS Katowice	2019-02-18 17:30:00.000	Gorniczy Klub Sportowy Tychy	Ice Hockey	Ekstraliga
+Newcastle Falcons	2019-02-21 19:45:00.000	Exeter Chiefs	Rugby League	English Premiership
+Gloucester Rugby	2019-02-14 19:45:00.000	Bristol Shoguns	Rugby League	English Premiership
+AC Fafe	2019-02-26 21:00:00.000	CCR Fermentoes	Handball	1a Divisao
+Sport Lisboa Benfica	2019-02-26 21:00:00.000	AA Avanca	Handball	1a Divisao
+FC Porto Vitalis	2019-02-26 20:30:00.000	M - Sporting CP	Handball	1a Divisao
+Instituto Atletico Central Cordoba	2019-02-28 01:00:00.000	Quimsa Santiago del Estero	Basketball	LNB
+Boca Juniors	2019-02-27 00:00:00.000	Obras Sanitarias	Basketball	LNB
+Penarol Mar Del Plata	2019-02-27 01:00:00.000	Argentino Junin	Basketball	LNB
+Club Deportivo Hispano Americano	2019-02-28 01:00:00.000	Club Atletico San Lorenzo De Almagro	Basketball	LNB
+San Martin Corrientes	2019-02-27 01:30:00.000	Estudiantes de Concordia	Basketball	LNB
+Comunicaciones	2019-02-25 01:30:00.000	Estudiantes de Concordia	Basketball	LNB
+KK Cedevita Zagreb	2019-02-21 17:00:00.000	KK Zadar	Basketball	Liga ABA Super Cup
+Crvena Zvezda Telekom	2019-02-21 19:30:00.000	U. Olimpija Ljubljana	Basketball	Liga ABA Super Cup
+Team Kiruna	2019-02-27 18:00:00.000	Piteå HC	Ice Hockey	HockeyEttan Norra
+Kiruna AIF	2019-02-17 18:00:00.000	Team Kiruna	Ice Hockey	HockeyEttan Norra
+Bodens HF	2019-02-26 18:00:00.000	SK Lejon	Ice Hockey	HockeyEttan Norra
+CJF Fleury Les Aubrais	2019-02-12 19:30:00.000	OGC Nice Cote D´Azur	Handball	LNH Division 1
+Brest Bretagne Handball	2019-02-12 19:30:00.000	Nantes Loire Atlantique HB	Handball	LNH Division 1
+Metz Handball	2019-02-12 19:00:00.000	Cercle Dijon Bourgogne	Handball	LNH Division 1
+Bourg De Peage	2019-02-12 19:00:00.000	Chambray Touraine	Handball	LNH Division 1
+ESBF Besancon	2019-02-12 19:00:00.000	HBC Saint-Amand-les-Eaux Porte du Hainaut	Handball	LNH Division 1
+Toulon Saint Cyr Var Handball	2019-02-12 19:00:00.000	Issy Paris	Handball	LNH Division 1
+HC La Chaux-de-Fonds	2019-02-26 18:45:00.000	HC Ajoie	Ice Hockey	National League B
+Hockey Academy Zug	2019-02-25 18:45:00.000	de-Fonds - HC Biasca	Ice Hockey	National League B
+Sheffield Sharks	2019-02-28 19:30:00.000	Surrey Heat	Basketball	BBL
+London Lions	2019-02-28 19:30:00.000	Worcester Wolves	Basketball	BBL
+IFK Skövde HK	2019-02-12 18:00:00.000	Redbergslids IK	Handball	Elitserien
+HK Malmö	2019-02-12 18:00:00.000	Lugi HF	Handball	Elitserien
+Alingsås HK	2019-02-11 18:00:00.000	AIK	Handball	Elitserien
+IK Savehof	2019-02-26 18:00:00.000	Alingsås HK	Handball	Elitserien
+IFK Skövde HK	2019-02-17 18:00:00.000	Alingsås HK	Handball	Elitserien
+IK Savehof	2019-02-13 18:15:00.000	Hammarby HB	Handball	Elitserien
+Ystads IF HF	2019-02-25 18:00:00.000	Hästö IF	Handball	Elitserien
+Lugi HF	2019-02-26 18:00:00.000	IFK Kristianstad	Handball	Elitserien
+Ystads IF HF	2019-02-12 18:00:00.000	IFK Kristianstad	Handball	Elitserien
+Hästö IF	2019-02-12 18:00:00.000	IFK Ystads HK	Handball	Elitserien
+HK Malmö	2019-02-24 18:00:00.000	IFK Ystads HK	Handball	Elitserien
+IK Pantern	2019-02-26 18:00:00.000	IK Oskarshamn	Ice Hockey	Hockey Allsvenskan
+Almtuna IS	2019-02-26 18:00:00.000	HC Vita Hasten	Ice Hockey	Hockey Allsvenskan
+Karlskrona HK	2019-02-26 18:00:00.000	BIK Karlskoga	Ice Hockey	Hockey Allsvenskan
+AIK IF	2019-02-25 18:00:00.000	Modo Hockey	Ice Hockey	Hockey Allsvenskan
+IF Björklöven	2019-02-26 18:00:00.000	Södertälje SK	Ice Hockey	Hockey Allsvenskan
+Leksands IF	2019-02-26 18:00:00.000	Västervik	Ice Hockey	Hockey Allsvenskan
+Tingsryds AIF	2019-02-26 18:00:00.000	VIK Vasteraas	Ice Hockey	Hockey Allsvenskan
+Hawthorn Hawks	2019-02-14 10:50:00.000	Melbourne Demons	Aussie rules	AFL
+Collingwood Magpies	2019-02-15 10:25:00.000	Greater Western Sydney	Aussie rules	AFL
+Rödovre FC	2019-02-15 12:00:00.000	Hvidovre Attack	Floorball	UFL
+Hvidovre Attack	2019-02-22 13:30:00.000	Benlose FC	Floorball	UFL
+Benlose FC	2019-02-15 13:30:00.000	BFC Vendsyssel	Floorball	UFL
+Sunds Seahawks FC	2019-02-22 14:00:00.000	Rödovre FC	Floorball	UFL
+Copenhagen SFC	2019-02-15 13:30:00.000	Sunds Seahawks FC	Floorball	UFL
+Frederikshavn Blackhawks	2019-02-16 14:00:00.000	Vanlose Floorball	Floorball	UFL
+Steaua Bucharest	2019-02-13 16:15:00.000	Vojvodina-Univerexport Novi Sad	Handball	SEHA League
+HC Croatia Osiguranje Zagreb	2019-02-11 19:45:00.000	Steaua Bucharest	Handball	SEHA League
+Steaua Bucharest	2019-02-28 16:15:00.000	HC Meshkov Brest	Handball	SEHA League
+Zeleznicar Indjija	2019-02-11 18:00:00.000	HC Meshkov Brest	Handball	SEHA League
+1946 St. Petersburg - Kapitan Stupino	2019-02-27 17:00:00.000	HC Taifun	Ice Hockey	MHL
+Vityazi Chekhov	2019-02-24 16:00:00.000	HC Taifun	Ice Hockey	MHL
+Red Star Kunlun Junior	2019-02-27 12:00:00.000	HK MVD	Ice Hockey	MHL
+HK MVD	2019-02-18 17:00:00.000	HK Riga	Ice Hockey	MHL
+SKA-Varyagi	2019-02-26 17:00:00.000	HK Riga	Ice Hockey	MHL
+SKA-Varyagi	2019-02-25 17:00:00.000	HK Riga	Ice Hockey	MHL
+S. Barsy Astana	2019-02-24 14:00:00.000	Irbis Kazan	Ice Hockey	MHL
+S. Barsy Astana	2019-02-25 14:00:00.000	Irbis Kazan	Ice Hockey	MHL
+Reaktor Nizhnekamsk	2019-02-27 16:00:00.000	Belye Medvedi	Ice Hockey	MHL
+Reaktor Nizhnekamsk	2019-02-25 16:00:00.000	Belye Medvedi	Ice Hockey	MHL
+St Petersburg	2019-02-18 16:30:00.000	Almaz Cherepovets	Ice Hockey	MHL
+1946 St. Petersburg - Kapitan Stupino	2019-02-24 17:00:00.000	Amurskie Tigry K.	Ice Hockey	MHL
+Vityazi Chekhov	2019-02-27 16:00:00.000	Amurskie Tigry K.	Ice Hockey	MHL
+Almaz Cherepovets	2019-02-27 16:30:00.000	Chaika Nizhny Nov.	Ice Hockey	MHL
+1946 St. Petersburg - Kapitan Stupino	2019-02-18 17:00:00.000	Chaika Nizhny Nov.	Ice Hockey	MHL
+Loko Yaroslavl	2019-02-24 16:00:00.000	Chaika Nizhny Nov.	Ice Hockey	MHL
+MHK Krylia Sovetov	2019-02-24 17:00:00.000	St Petersburg	Ice Hockey	MHL
+Spartak Moskow	2019-02-27 11:00:00.000	St Petersburg	Ice Hockey	MHL
+Avto Yekaterinburg	2019-02-26 14:30:00.000	Sibirskie Snaipery	Ice Hockey	MHL
+Sarmaty Orenburg	2019-02-26 15:00:00.000	Tyumenskiy Legion	Ice Hockey	MHL
+Sarmaty Orenburg	2019-02-27 15:00:00.000	Tyumenskiy Legion	Ice Hockey	MHL
+MHK Krylia Sovetov	2019-02-27 17:00:00.000	SKA-1946 St. Petersburg	Ice Hockey	MHL
+Krasnaya Armiya	2019-02-18 15:00:00.000	SKA-Varyagi	Ice Hockey	MHL
+Krasnaya Armiya	2019-02-17 15:00:00.000	SKA-Varyagi	Ice Hockey	MHL
+Stalnye Lisy	2019-02-26 13:00:00.000	Mamonty Yugry K. M.	Ice Hockey	MHL
+Spartak Moskow	2019-02-17 11:00:00.000	MHK Krylia Sovetov	Ice Hockey	MHL
+SKA-1946 St. Petersburg	2019-02-18 17:00:00.000	Loko Yaroslavl	Ice Hockey	MHL
+Red Star Kunlun Junior	2019-02-24 10:00:00.000	Krasnaya Armiya	Ice Hockey	MHL
+Tolpar UFA	2019-02-26 13:00:00.000	Kuznetskie Medvedi	Ice Hockey	MHL
+Tolpar UFA	2019-02-27 13:00:00.000	Kuznetskie Medvedi	Ice Hockey	MHL
+HC Altai	2019-02-24 13:30:00.000	Ladja Togliatti	Ice Hockey	MHL
+HC Altai	2019-02-25 13:30:00.000	Ladja Togliatti	Ice Hockey	MHL
+Loko Yaroslavl	2019-02-27 16:00:00.000	Mytishchinskie A.	Ice Hockey	MHL
+Almaz Cherepovets	2019-02-24 16:30:00.000	Mytishchinskie A.	Ice Hockey	MHL
+Vityazi Chekhov	2019-02-18 16:00:00.000	Mytishchinskie A.	Ice Hockey	MHL
+Sputnik Almetievsk	2019-02-25 15:00:00.000	Omskie Yastreby	Ice Hockey	MHL
+Sputnik Almetievsk	2019-02-26 15:00:00.000	Omskie Yastreby	Ice Hockey	MHL
+Japan	2019-02-25 11:00:00.000	Puerto Rico	Basketball	FIBA World Championship
+Argentina	2019-02-25 17:30:00.000	Nigeria	Basketball	FIBA World Championship
+Australia	2019-02-25 11:30:00.000	Turkey	Basketball	FIBA World Championship
+Belgium	2019-02-25 20:00:00.000	Spain	Basketball	FIBA World Championship
+Canada	2019-02-28 20:00:00.000	Spain	Basketball	FIBA World Championship
+Australia	2019-02-28 14:00:00.000	China	Basketball	FIBA World Championship
+Senegal	2019-02-25 14:00:00.000	China	Basketball	FIBA World Championship
+South Korea	2019-02-25 13:30:00.000	Greece	Basketball	FIBA World Championship
+Belgium	2019-02-28 17:30:00.000	France	Basketball	FIBA World Championship
+Canada	2019-02-25 20:30:00.000	France	Basketball	FIBA World Championship
+HC Sparta Prag	2019-02-25 17:30:00.000	Mountfield HK	Ice Hockey	Extraliga
+Aifk	2019-02-26 17:00:00.000	Grifk	Handball	SM-liiga
+Team TVIS Holstebro	2019-02-17 18:00:00.000	Ajax Copenhagen	Handball	Damehandboldligaen
+FC Midtjylland	2019-02-13 18:00:00.000	Kobenhavn H.b.	Handball	Damehandboldligaen
+FC Midtjylland	2019-02-13 18:00:00.000	Kobenhavn H.b.	Handball	Damehandboldligaen
+Viborg HK	2019-02-12 18:00:00.000	Randers HK	Handball	Damehandboldligaen
+Banco Di Sardegna Sassari	2019-02-11 19:30:00.000	Efes Anadolu Istanbul	Basketball	Club Friendlies
+Telnet BC Oostende	2019-02-11 19:00:00.000	Gasterra Flames Groningen	Basketball	Club Friendlies
+Lausanne HC	2019-02-25 18:45:00.000	Geneve Servette HC	Ice Hockey	National League A
+SC Bern	2019-02-25 18:45:00.000	HC Lugano	Ice Hockey	National League A
+HC Fribourg Gotteron	2019-02-25 18:45:00.000	EV Zug	Ice Hockey	National League A
+HC Ambri Piotta	2019-02-25 18:45:00.000	EHC Biel	Ice Hockey	National League A
+HC Davos	2019-02-25 18:45:00.000	Rapperswil Jona Lakers	Ice Hockey	National League A
+ZSC Lions	2019-02-25 18:45:00.000	SCL Tigers Langenau	Ice Hockey	National League A
+FBK Sokol Mlada Boleslav	2019-02-25 09:00:00.000	Sokol Kral Vinohrady	Floorball	Extraliga
+1 SC Ssk Vitkovice	2019-02-28 17:00:00.000	Sokol Kral Vinohrady	Floorball	Extraliga
+AC Sparta Prag	2019-02-28 14:30:00.000	Sokol Pardubice	Floorball	Extraliga
+FBC Liberec	2019-02-07 19:30:00.000	Sokol Pardubice	Floorball	Extraliga
+Panthers Otrokovice	2019-02-16 17:00:00.000	Tatran Omlux Stresovice	Floorball	Extraliga
+FBK Sokol Mlada Boleslav	2019-02-16 16:00:00.000	TJ JM Chodov	Floorball	Extraliga
+FBC Ostrava	2019-02-07 17:00:00.000	TJ JM Chodov	Floorball	Extraliga
+Sokol Pardubice	2019-02-17 09:10:00.000	TJ VHS Znojmo	Floorball	Extraliga
+TJ JM Chodov	2019-02-14 18:30:00.000	TJ VHS Znojmo	Floorball	Extraliga
+TJ VHS Znojmo	2019-02-28 18:00:00.000	Panthers Otrokovice	Floorball	Extraliga
+Sokol Kral Vinohrady	2019-02-14 19:00:00.000	FBC Liberec	Floorball	Extraliga
+FBS Bohemians	2019-02-28 16:00:00.000	FBC Liberec	Floorball	Extraliga
+1 SC Ssk Vitkovice	2019-02-22 17:00:00.000	FBC Ostrava	Floorball	Extraliga
+Tatran Omlux Stresovice	2019-02-28 16:00:00.000	FBC Ostrava	Floorball	Extraliga
+Sokol Kral Vinohrady	2019-02-16 17:00:00.000	FBC Ostrava	Floorball	Extraliga
+TJ JM Chodov	2019-02-28 17:00:00.000	FBC Pullo Trade Ceska Lipa	Floorball	Extraliga
+TJ VHS Znojmo	2019-02-22 19:00:00.000	FBC Pullo Trade Ceska Lipa	Floorball	Extraliga
+Sokol Pardubice	2019-02-15 13:00:00.000	FBC Pullo Trade Ceska Lipa	Floorball	Extraliga
+Panthers Otrokovice	2019-02-14 18:00:00.000	FBK Sokol Mlada Boleslav	Floorball	Extraliga
+FBC Ostrava	2019-02-14 17:00:00.000	FBS Bohemians	Floorball	Extraliga
+FBC Pullo Trade Ceska Lipa	2019-02-07 18:30:00.000	1 SC Ssk Vitkovice	Floorball	Extraliga
+FBC Liberec	2019-02-16 17:00:00.000	1 SC Ssk Vitkovice	Floorball	Extraliga
+FBC Pullo Trade Ceska Lipa	2019-02-17 17:10:00.000	AC Sparta Prag	Floorball	Extraliga
+1 SC Ssk Vitkovice	2019-02-14 18:00:00.000	AC Sparta Prag	Floorball	Extraliga
+FBK Sokol Mlada Boleslav	2019-02-28 18:00:00.000	Bulldogs Brno	Floorball	Extraliga
+FBS Bohemians	2019-02-16 15:00:00.000	Bulldogs Brno	Floorball	Extraliga
+Panthers Otrokovice	2019-02-07 18:00:00.000	Bulldogs Brno	Floorball	Extraliga
+Tatran Omlux Stresovice	2019-02-13 18:00:00.000	Bulldogs Brno	Floorball	Extraliga
+Wake Forest Demon Deacons	2019-02-13 22:30:00.000	Boston College Eagles	American Football	College
+UCF Knights	2019-02-22 00:00:00.000	Florida Atlantic Owls	American Football	College
+Illinois Fighting Illini	2019-02-22 02:00:00.000	Penn St Nittany Lions	American Football	College
+Charlotte 49ers	2019-02-13 21:00:00.000	Old Dominion	American Football	College
+Miami Florida	2019-02-28 01:00:00.000	North Carolina Tar Heels	American Football	College
+USC Trojans	2019-02-22 03:30:00.000	Washington St Cougars	American Football	College
+Castleford Tigers	2019-02-21 19:45:00.000	Wakefield Trinity Wildcats	Rugby League	Super 8s
+Wakefield Trinity Wildcats	2019-02-28 19:45:00.000	Warrington Wolves	Rugby League	Super 8s
+Wigan Warriors	2019-02-14 19:45:00.000	Warrington Wolves	Rugby League	Super 8s
+Castleford Tigers	2019-02-13 19:45:00.000	Huddersfield Giants	Rugby League	Super 8s
+St Helens Rlfc	2019-02-14 19:45:00.000	Hull FC	Rugby League	Super 8s
+Wigan Warriors	2019-02-28 19:45:00.000	Hull FC	Rugby League	Super 8s
+St Helens Rlfc	2019-02-28 19:45:00.000	Castleford Tigers	Rugby League	Super 8s
+Wakefield Trinity Wildcats	2019-02-14 19:45:00.000	Catalans Dragons	Rugby League	Super 8s
+Washington Mystics	2019-02-13 01:00:00.000	Seattle Storm	Basketball	WNBA
+HK Jestrabi Prostejov	2019-02-26 17:00:00.000	SK Kadan	Ice Hockey	1st Liga
+HC Kladno	2019-02-24 17:00:00.000	HC Zubr Prerov	Ice Hockey	1st Liga
+SK Kadan	2019-02-24 17:00:00.000	HC Motor Ceske Budejovice	Ice Hockey	1st Liga
+HC AZ Havirov 2010	2019-02-12 17:00:00.000	HC RT Torax Poruba	Ice Hockey	1st Liga
+HC Frydek Mistek	2019-02-24 17:00:00.000	HC RT Torax Poruba	Ice Hockey	1st Liga
+HC Horacka Slavia Trebic	2019-02-12 16:30:00.000	HC Stadion Litomerice	Ice Hockey	1st Liga
+HC Benatky Nad Jizerou	2019-02-26 16:30:00.000	HC Stadion Litomerice	Ice Hockey	1st Liga
+HC AZ Havirov 2010	2019-02-24 17:00:00.000	HC Slavia Prag	Ice Hockey	1st Liga
+HC Motor Ceske Budejovice	2019-02-12 16:30:00.000	HC Slavia Prag	Ice Hockey	1st Liga
+HC Slavia Prag	2019-02-26 17:00:00.000	HC Slovan Ustecti Lvi	Ice Hockey	1st Liga
+HC Kladno	2019-02-12 17:00:00.000	HC Slovnaft Vsetin	Ice Hockey	1st Liga
+HC Slovan Ustecti Lvi	2019-02-17 17:00:00.000	HC Slovnaft Vsetin	Ice Hockey	1st Liga
+HC Stadion Litomerice	2019-02-24 17:00:00.000	HC Slovnaft Vsetin	Ice Hockey	1st Liga
+HC Slovan Ustecti Lvi	2019-02-18 16:00:00.000	HC Frydek Mistek	Ice Hockey	1st Liga
+HC Slovnaft Vsetin	2019-02-26 16:30:00.000	HC Frydek Mistek	Ice Hockey	1st Liga
+HC Dukla Jihlava	2019-02-26 16:30:00.000	HC Horacka Slavia Trebic	Ice Hockey	1st Liga
+HC Motor Ceske Budejovice	2019-02-26 16:30:00.000	HC Kladno	Ice Hockey	1st Liga
+HC Zubr Prerov	2019-02-26 17:00:00.000	HC AZ Havirov 2010	Ice Hockey	1st Liga
+HC Slovan Ustecti Lvi	2019-02-24 17:00:00.000	HC Dukla Jihlava	Ice Hockey	1st Liga
+HK Jestrabi Prostejov	2019-02-12 17:00:00.000	HC Dukla Jihlava	Ice Hockey	1st Liga
+HC Horacka Slavia Trebic	2019-02-24 16:30:00.000	HC Benatky Nad Jizerou	Ice Hockey	1st Liga
+SK Kadan	2019-02-12 17:00:00.000	HC Benatky Nad Jizerou	Ice Hockey	1st Liga
+Timraa IK	2019-02-27 18:00:00.000	Färjestads BK	Ice Hockey	SHL
+Rögle BK	2019-02-27 18:00:00.000	Frölunda HC	Ice Hockey	SHL
+Luleaa Hockey	2019-02-27 18:00:00.000	Skellefteaa Aik	Ice Hockey	SHL
+Djurgaardens IF	2019-02-27 18:00:00.000	Mora IK	Ice Hockey	SHL
+HC Orebro	2019-02-27 18:00:00.000	Linköpings HC	Ice Hockey	SHL
+HV 71	2019-02-27 18:00:00.000	Malmo IF	Ice Hockey	SHL
+Brynäs IF	2019-02-27 18:00:00.000	Växjö Lakers HC	Ice Hockey	SHL
+FHK Elite	2019-02-24 19:00:00.000	Thyboron Handball - Otterup HK	Handball	1. Division
+Randers HH	2019-02-13 18:30:00.000	FHK Elite	Handball	1. Division
+Ajax Copenhagen	2019-02-28 18:30:00.000	Hoj	Handball	1. Division
+TMS Ringsted	2019-02-26 17:30:00.000	Bjerringbro	Handball	Handboldligaen
+GOG Handbold	2019-02-11 18:30:00.000	Bjerringbro	Handball	Handboldligaen
+Ribe-Esbjerg HH	2019-02-13 18:30:00.000	AaB Handball	Handball	Handboldligaen
+GOG Handbold	2019-02-26 19:30:00.000	AaB Handball	Handball	Handboldligaen
+Skanderborg Handball	2019-02-17 17:30:00.000	Aarhus Handball	Handball	Handboldligaen
+Mors-Thy Handbold	2019-02-27 18:30:00.000	Team TVIS Holstebro	Handball	Handboldligaen
+Skjern Handbold	2019-02-12 17:30:00.000	Team TVIS Holstebro	Handball	Handboldligaen
+Aarhus Handball	2019-02-11 17:30:00.000	Sønderjyske	Handball	Handboldligaen
+Lemvig-Thyboron Handball	2019-02-24 18:30:00.000	Ribe-Esbjerg HH	Handball	Handboldligaen
+Skjern Handbold	2019-02-27 17:30:00.000	Lemvig-Thyboron Handball	Handball	Handboldligaen
+Aarhus Handball	2019-02-25 18:30:00.000	Nordsjaelland Handball	Handball	Handboldligaen
+KS Vive Targi Kielce	2019-02-25 17:30:00.000	Pogon Handball Szczecin	Handball	Superliga
+Spojnia Gdynia	2019-02-11 17:00:00.000	KS Vive Targi Kielce	Handball	Superliga
+KS SPR Chrobry Glogow	2019-02-12 19:15:00.000	Wisla Plock	Handball	Superliga
+Rapaces de Gap	2019-02-18 19:30:00.000	Lyon HC	Ice Hockey	Ligue Magnus
+Rouen HE	2019-02-21 19:00:00.000	Lyon HC	Ice Hockey	Ligue Magnus
+CSG Strasbourg	2019-02-21 19:00:00.000	Morzine HC - Scorpions de Mulhouse	Ice Hockey	Ligue Magnus
+ASG Angers	2019-02-21 19:30:00.000	Rapaces de Gap	Ice Hockey	Ligue Magnus
+HC Amiens Somme	2019-02-18 19:00:00.000	Rouen HE	Ice Hockey	Ligue Magnus
+HC Nice	2019-02-25 19:00:00.000	Rouen HE	Ice Hockey	Ligue Magnus
+Bordeaux Ghc	2019-02-18 19:15:00.000	ASG Angers	Ice Hockey	Ligue Magnus
+Lyon HC	2019-02-25 19:30:00.000	ASG Angers	Ice Hockey	Ligue Magnus
+Grenoble MH 38	2019-02-18 19:00:00.000	Anglet Hormadi Elite	Ice Hockey	Ligue Magnus
+Rapaces de Gap	2019-02-25 19:30:00.000	Anglet Hormadi Elite	Ice Hockey	Ligue Magnus
+Morzine HC - Scorpions de Mulhouse	2019-02-18 19:00:00.000	Chamonix	Ice Hockey	Ligue Magnus
+Bordeaux Ghc	2019-02-25 19:15:00.000	Chamonix	Ice Hockey	Ligue Magnus
+Grenoble MH 38	2019-02-25 19:00:00.000	CSG Strasbourg	Ice Hockey	Ligue Magnus
+HC Nice	2019-02-18 19:00:00.000	CSG Strasbourg	Ice Hockey	Ligue Magnus
+HC Amiens Somme	2019-02-21 19:00:00.000	HC Nice	Ice Hockey	Ligue Magnus
+Chamonix	2019-02-21 19:00:00.000	Grenoble MH 38	Ice Hockey	Ligue Magnus
+Morzine HC - Scorpions de Mulhouse	2019-02-25 19:00:00.000	HC Amiens Somme	Ice Hockey	Ligue Magnus
+MAC Budapest	2019-02-18 18:00:00.000	HC 05 Banska Bystrica	Ice Hockey	Extraliga
+HKM Zvolen	2019-02-18 17:00:00.000	HC 07 Detva	Ice Hockey	Extraliga
+HKM Nitra	2019-02-18 17:00:00.000	HK SKP Poprad	Ice Hockey	Extraliga
+Slovakia	2019-02-27 16:00:00.000	HKM Nitra	Ice Hockey	Extraliga
+Nove Zamky	2019-02-11 17:30:00.000	Slovakia	Ice Hockey	Extraliga
+HKM Zvolen	2019-02-25 17:00:00.000	Slovakia	Ice Hockey	Extraliga
+Mshk Zilina	2019-02-18 16:30:00.000	Nove Zamky	Ice Hockey	Extraliga
+HC 05 Banska Bystrica	2019-02-25 16:30:00.000	MAC Budapest	Ice Hockey	Extraliga
+Liptovsky Mikulas	2019-02-27 16:00:00.000	Miskolci JJSE	Ice Hockey	Extraliga
+HC Kosice	2019-02-18 16:30:00.000	Miskolci JJSE	Ice Hockey	Extraliga
+Dukla Trencin	2019-02-18 17:00:00.000	Liptovsky Mikulas	Ice Hockey	Extraliga
+IR Reykjavik	2019-02-12 20:30:00.000	Selfoss	Handball	Urvalsdeild
+Akureyri Handboltafelag	2019-02-17 19:30:00.000	Selfoss	Handball	Urvalsdeild
+Afturelding	2019-02-17 20:30:00.000	IR Reykjavik	Handball	Urvalsdeild
+Haukar Hafnarfjordur	2019-02-12 20:30:00.000	FH Hafnarfjardar	Handball	Urvalsdeild
+Selfoss	2019-02-24 20:30:00.000	Afturelding	Handball	Urvalsdeild
+Stjarnan	2019-02-24 20:30:00.000	Valur Reykjavik	Handball	Urvalsdeild
+Golden Lions	2019-02-15 14:00:00.000	DHL Western Province	Rugby League	Currie Cup
+Vodacom Blue Bulls	2019-02-14 18:00:00.000	Ford Pumas	Rugby League	Currie Cup
+Toyota Free State Cheetahs	2019-02-21 16:00:00.000	Ford Pumas	Rugby League	Currie Cup
+GWK Griquas	2019-02-15 16:15:00.000	Toyota Free State Cheetahs	Rugby League	Currie Cup
+Stevnsgade Supermen	2019-02-25 18:00:00.000	Team Fog Naestved	Basketball	Basketligaen
+Vaerlose BBK	2019-02-28 17:30:00.000	Randers Cimbria	Basketball	Basketligaen
+HC Kehra	2019-02-25 17:00:00.000	Coop Polva	Handball	Meistriliiga
+HK Prizma	2019-02-11 17:00:00.000	Mogo Riga	Ice Hockey	Latvian Hockey League
+HC Barys Astana	2019-02-12 14:30:00.000	Neftekhimik Nizhnekamsk	Ice Hockey	KHL
+SKA St. Petersburg	2019-02-12 17:30:00.000	Jokerit Helsinki	Ice Hockey	KHL
+Slovan Bratislava	2019-02-27 17:30:00.000	Jokerit Helsinki	Ice Hockey	KHL
+HC Dinamo Riga	2019-02-25 17:30:00.000	Jokerit Helsinki	Ice Hockey	KHL
+HK Avangard Omsk	2019-02-13 17:30:00.000	M. Magnitogorsk	Ice Hockey	KHL
+HC Sochi	2019-02-17 17:30:00.000	M. Magnitogorsk	Ice Hockey	KHL
+HC Traktor Chelyabinsk	2019-02-11 15:00:00.000	M. Magnitogorsk	Ice Hockey	KHL
+HC Traktor Chelyabinsk	2019-02-27 15:00:00.000	Lokomotiv Yaroslavl	Ice Hockey	KHL
+Avtomobilist Yekaterinburg	2019-02-25 15:00:00.000	Lokomotiv Yaroslavl	Ice Hockey	KHL
+CSKA Moscow	2019-02-11 17:30:00.000	Lokomotiv Yaroslavl	Ice Hockey	KHL
+Slovan Bratislava	2019-02-25 17:30:00.000	Spartak Moskau	Ice Hockey	KHL
+HK Dinamo Minsk	2019-02-12 17:30:00.000	Spartak Moskau	Ice Hockey	KHL
+CSKA Moscow	2019-02-27 17:30:00.000	Spartak Moskau	Ice Hockey	KHL
+CSKA Moscow	2019-02-13 17:30:00.000	Severstal Cherepovec	Ice Hockey	KHL
+Avtomobilist Yekaterinburg	2019-02-27 15:00:00.000	Severstal Cherepovec	Ice Hockey	KHL
+Slovan Bratislava	2019-02-11 17:30:00.000	Severstal Cherepovec	Ice Hockey	KHL
+M. Magnitogorsk	2019-02-25 15:00:00.000	Severstal Cherepovec	Ice Hockey	KHL
+HC Red Star Kunlun	2019-02-17 12:30:00.000	Slovan Bratislava	Ice Hockey	KHL
+AK Bars Kazan	2019-02-24 17:30:00.000	Sibir Novosibirsk	Ice Hockey	KHL
+SKA St. Petersburg	2019-02-26 17:30:00.000	Sibir Novosibirsk	Ice Hockey	KHL
+HK Dinamo Minsk	2019-02-26 17:30:00.000	Salavat Yulaev Ufa	Ice Hockey	KHL
+HC Traktor Chelyabinsk	2019-02-24 15:00:00.000	Salavat Yulaev Ufa	Ice Hockey	KHL
+Admiral Vladivostok	2019-02-17 10:30:00.000	CSKA Moscow	Ice Hockey	KHL
+HK Avangard Omsk	2019-02-24 17:30:00.000	Amur Khabarovsk	Ice Hockey	KHL
+Neftekhimik Nizhnekamsk	2019-02-26 17:00:00.000	Amur Khabarovsk	Ice Hockey	KHL
+Torpedo N. Novgorod	2019-02-26 17:00:00.000	Admiral Vladivostok	Ice Hockey	KHL
+Amur Khabarovsk	2019-02-12 10:30:00.000	Admiral Vladivostok	Ice Hockey	KHL
+HK Avangard Omsk	2019-02-12 17:30:00.000	AK Bars Kazan	Ice Hockey	KHL
+Spartak Moskau	2019-02-17 17:30:00.000	Avtomobilist Yekaterinburg	Ice Hockey	KHL
+HC Traktor Chelyabinsk	2019-02-13 15:00:00.000	Avtomobilist Yekaterinburg	Ice Hockey	KHL
+Slovan Bratislava	2019-02-13 17:30:00.000	HC Dynamo Moscow	Ice Hockey	KHL
+M. Magnitogorsk	2019-02-27 15:00:00.000	HC Dynamo Moscow	Ice Hockey	KHL
+HC Dinamo Riga	2019-02-11 17:30:00.000	HC Dynamo Moscow	Ice Hockey	KHL
+HC Dynamo Moscow	2019-02-24 17:30:00.000	HC Barys Astana	Ice Hockey	KHL
+HC Vitiaz Chehov	2019-02-26 17:30:00.000	HC Barys Astana	Ice Hockey	KHL
+Amur Khabarovsk	2019-02-17 10:30:00.000	HC Dinamo Riga	Ice Hockey	KHL
+AK Bars Kazan	2019-02-26 17:00:00.000	HC Red Star Kunlun	Ice Hockey	KHL
+Neftekhimik Nizhnekamsk	2019-02-24 17:00:00.000	HC Red Star Kunlun	Ice Hockey	KHL
+HC Dinamo Riga	2019-02-27 17:30:00.000	HC Sochi	Ice Hockey	KHL
+HC Vitiaz Chehov	2019-02-12 17:30:00.000	HC Sochi	Ice Hockey	KHL
+CSKA Moscow	2019-02-25 17:30:00.000	HC Sochi	Ice Hockey	KHL
+Jokerit Helsinki	2019-02-17 16:30:00.000	HC Traktor Chelyabinsk	Ice Hockey	KHL
+Salavat Yulaev Ufa	2019-02-12 15:00:00.000	Torpedo N. Novgorod	Ice Hockey	KHL
+Universitet	2019-02-11 15:00:00.000	Kuban	Handball	Super League
+Hapoel Holon	2019-02-27 19:00:00.000	Hapoel Beer Sheva	Basketball	League Cup
+Maccabi Ashdod	2019-02-27 16:00:00.000	Galil Gilboa	Basketball	League Cup
+Maccabi Rishon Lezion	2019-02-26 17:45:00.000	Bnei Herzelia	Basketball	League Cup
+HC Banik Karvina	2019-02-12 17:00:00.000	HC Cement Hranice	Handball	Extraliga
+Melbourne Storm	2019-02-21 10:40:00.000	Cronulla Sharks	Rugby League	NRL
+Cronulla Sharks	2019-02-14 10:40:00.000	Penrith Panthers	Rugby League	NRL
+South Sydney Rabbitohs	2019-02-15 10:40:00.000	St George Illawarra Dragons	Rugby League	NRL
+Permskie Medvedi	2019-02-24 14:00:00.000	Spartak Moscow	Handball	Super League
+SKIF	2019-02-24 17:00:00.000	Sgau-Saratov	Handball	Super League
+Sungul	2019-02-25 14:00:00.000	Chehovski Medvedi	Handball	Super League
+BC Lietkabelis	2019-02-26 16:15:00.000	BC Alytaus Dzukija	Basketball	LKL
+KK Prienai	2019-02-27 16:50:00.000	Aviv - BC Zalgiris Kaunas	Basketball	LKL
+Juventus Utena	2019-02-26 16:30:00.000	Siauliai	Basketball	LKL
+Pieno Zvaigzdes	2019-02-26 16:00:00.000	Neptunas Klaipeda	Basketball	LKL
+Nevezis Kedainiai	2019-02-26 16:50:00.000	Lietuvos Rytas	Basketball	LKL
+FC Barcelona	2019-02-26 15:00:00.000	Bidasoa Irun	Handball	Asobal
+Reale Ademar	2019-02-26 19:30:00.000	Fraikin BM Granollers	Handball	Asobal
+BK Sluneta USTI Nad Labem	2019-02-26 17:00:00.000	BK JIP Pardubice	Basketball	NBL
+ST George Illawarra Dragons	2019-02-16 08:00:00.000	Canterbury Bulldogs	Rugby League	NSW Cup
+Columbus Blue Jackets	2019-02-18 00:00:00.000	Buffalo Sabres	Ice Hockey	NHL
+Winnipeg Jets	2019-02-18 01:00:00.000	Minnesota Wild	Ice Hockey	NHL
+Philadelphia Flyers	2019-02-18 00:00:00.000	New York Islanders	Ice Hockey	NHL
+HCM Ramnicu Valcea	2019-02-13 15:30:00.000	SCM Craiova	Handball	Liga Nationala
+Hokiklub Budapest	2019-02-17 17:40:00.000	Schiller-Vasas HC	Ice Hockey	Erste Liga
+Debreceni Egyetem AC	2019-02-11 17:00:00.000	Schiller-Vasas HC	Ice Hockey	Erste Liga
+HSC Csikszereda	2019-02-21 14:30:00.000	Schiller-Vasas HC	Ice Hockey	Erste Liga
+Hokiklub Budapest	2019-02-27 17:40:00.000	Sapa Fehervar Av19 II	Ice Hockey	Erste Liga
+HSC Csikszereda	2019-02-24 15:30:00.000	Corona Brasov	Ice Hockey	Erste Liga
+DAB Docler	2019-02-17 19:00:00.000	Corona Brasov	Ice Hockey	Erste Liga
+Ferencvaros	2019-02-21 17:00:00.000	DAB Docler	Ice Hockey	Erste Liga
+Vienna Capitals II	2019-02-11 14:50:00.000	DAB Docler	Ice Hockey	Erste Liga
+Corona Brasov	2019-02-21 14:30:00.000	Debreceni Egyetem AC	Ice Hockey	Erste Liga
+Hokiklub Budapest	2019-02-24 19:00:00.000	Ferencvaros	Ice Hockey	Erste Liga
+Ujpest Budapest	2019-02-24 17:00:00.000	Gyergyoi HK	Ice Hockey	Erste Liga
+Vienna Capitals II	2019-02-21 14:50:00.000	Gyergyoi HK	Ice Hockey	Erste Liga
+Sapa Fehervar Av19 II	2019-02-11 17:30:00.000	Hokiklub Budapest	Ice Hockey	Erste Liga
+DAB Docler	2019-02-27 17:00:00.000	HSC Csikszereda	Ice Hockey	Erste Liga
+Gyergyoi HK	2019-02-17 15:30:00.000	HSC Csikszereda	Ice Hockey	Erste Liga
+Tusem Essen	2019-02-25 18:30:00.000	HSG Nordhorn	Handball	2nd Bundesliga
+HC Elbflorenz Dresden	2019-02-28 18:30:00.000	HSV Hamburg	Handball	2nd Bundesliga
+TV Hüttenberg	2019-02-28 19:00:00.000	HSC 2000 Coburg	Handball	2nd Bundesliga
+HC Rhein Vikings	2019-02-28 19:00:00.000	Tusem Essen	Handball	2nd Bundesliga
+EHV Aue	2019-02-28 18:00:00.000	TV Emsdetten	Handball	2nd Bundesliga
+DHC Rheinland	2019-02-28 18:30:00.000	TV Grosswallstadt	Handball	2nd Bundesliga
+HSV Hamburg	2019-02-24 19:00:00.000	Lingen - Dessau-Rosslauer HV 2006	Handball	2nd Bundesliga
+TUS N	2019-02-11 18:30:00.000	Wilhelmshavener HV	Handball	2nd Bundesliga
+HC TWK Innsbruck Die Haie	2019-02-25 18:15:00.000	RB Salzburg	Ice Hockey	EBEL
+U. Olimpija Ljubljana	2019-02-28 17:00:00.000	Mornar	Basketball	Liga ABA
+Crvena Zvezda Telekom	2019-02-28 19:00:00.000	Cibona Zagreb	Basketball	Liga ABA
+Wisla Plock	2019-02-26 18:00:00.000	Cocks	Handball	Champions League
+Rhein Neckar Löwen	2019-02-26 18:00:00.000	HC Meshkov Brest	Handball	Champions League
+Dinamo Baumit Bucuresti	2019-02-12 17:30:00.000	Elverum	Handball	Champions League
+Rhein Neckar Löwen	2019-02-12 18:00:00.000	FC Barcelona	Handball	Champions League
+Motor Zaporozhye	2019-02-12 17:00:00.000	Paris Handball	Handball	Champions League
+Cocks	2019-02-12 16:15:00.000	Reale Ademar	Handball	Champions League
+Dinamo Baumit Bucuresti	2019-02-26 17:00:00.000	Wacker Thun	Handball	Champions League
+Tappara Tampere	2019-02-26 16:30:00.000	Rauma Lukko	Ice Hockey	SM-Liiga
+Kalpa Hockey	2019-02-18 16:30:00.000	Rauma Lukko	Ice Hockey	SM-Liiga
+Jukurit	2019-02-25 16:30:00.000	TPS Turku	Ice Hockey	SM-Liiga
+Pelicans Lahti	2019-02-26 16:30:00.000	Jukurit	Ice Hockey	SM-Liiga
+HIFK Hockey	2019-02-26 16:30:00.000	Kookoo Kouvola	Ice Hockey	SM-Liiga
+Ilves Tampere	2019-02-27 16:30:00.000	Kärpät Oulu	Ice Hockey	SM-Liiga
+TPS Turku	2019-02-18 16:30:00.000	Kärpät Oulu	Ice Hockey	SM-Liiga
+Kärpät Oulu	2019-02-25 16:30:00.000	HPK Hämeenlinna	Ice Hockey	SM-Liiga
+Vaasan Sport	2019-02-18 16:30:00.000	HIFK Hockey	Ice Hockey	SM-Liiga
+Saipa Lappeenranta	2019-02-26 16:30:00.000	Ässät Pori	Ice Hockey	SM-Liiga
+Ratiopharm Ulm	2019-02-28 18:00:00.000	Bayern Munich	Basketball	BBL
+Eisbären Bremerhaven	2019-02-28 19:30:00.000	Crailsheim Merlins	Basketball	BBL
+Rasta Vechta	2019-02-28 19:30:00.000	Medi Bayreuth	Basketball	BBL
+Aviron Bayonne	2019-02-21 19:00:00.000	Pays D Aix	Rugby League	Pro D2
+RC Massy	2019-02-21 19:00:00.000	Soyaux Angoulême	Rugby League	Pro D2
+Colomiers Rugby	2019-02-21 19:00:00.000	Biarritz Olympique	Rugby League	Pro D2
+Biarritz Olympique	2019-02-27 19:45:00.000	Aviron Bayonne	Rugby League	Pro D2
+Bourg	2019-02-21 19:00:00.000	US Carcassonne	Rugby League	Pro D2
+AS Beziers Herault	2019-02-21 19:30:00.000	US Montauban	Rugby League	Pro D2
+Stade Aurillacois	2019-02-21 19:00:00.000	USON Nevers	Rugby League	Pro D2
+Dunkerque HB	2019-02-26 19:00:00.000	US Ivry Handball	Handball	LNH Division 1 Men
+Tremblay En France	2019-02-12 19:30:00.000	Chambery Savoie	Handball	LNH Division 1 Men
+Pays Aix Universite Club Handball	2019-02-26 19:00:00.000	Chambery Savoie	Handball	LNH Division 1 Men
+HBC Nantes	2019-02-13 19:45:00.000	Dunkerque HB	Handball	LNH Division 1 Men
+Toulouse Handball	2019-02-26 19:30:00.000	Tremblay En France	Handball	LNH Division 1 Men
+Pays Aix Universite Club Handball	2019-02-12 19:45:00.000	Saint Raphael	Handball	LNH Division 1 Men
+Saint Raphael	2019-02-26 19:00:00.000	Pontault-Combault HB	Handball	LNH Division 1 Men
+US Ivry Handball	2019-02-12 19:30:00.000	Pontault-Combault HB	Handball	LNH Division 1 Men
+Usam Nimes	2019-02-26 17:00:00.000	Paris Handball	Handball	LNH Division 1 Men
+Usam Nimes	2019-02-12 19:00:00.000	OC Cesson Handball	Handball	LNH Division 1 Men
+Istres Ouest Provence	2019-02-26 19:00:00.000	OC Cesson Handball	Handball	LNH Division 1 Men
+HBC Nantes	2019-02-27 19:45:00.000	Montpellier Handball	Handball	LNH Division 1 Men
+Toulouse Handball	2019-02-12 19:30:00.000	Montpellier Handball	Handball	LNH Division 1 Men
+Rain Or Shine Elasto	2019-02-26 12:00:00.000	San Mig Coffee Mixers	Basketball	PBA
+Air21 Express	2019-02-26 09:30:00.000	Blackwater Elite	Basketball	PBA
+Suwon Kepco	2019-02-13 08:00:00.000	Ansan Rush&Cash	Volleyball	KOVO Cup
+Western KB Star Insurance	2019-02-13 11:00:00.000	Cheonan Hyundai Capital Skywalkers	Volleyball	KOVO Cup
+Deajeon Bluefangs	2019-02-12 08:00:00.000	Incheon Korean Air Jumbos	Volleyball	KOVO Cup
+JT Thunders	2019-02-12 11:00:00.000	Seoul Woori Card Hansae	Volleyball	KOVO Cup
+RD Ribnica Riko Hise	2019-02-26 19:15:00.000	RK Celje Pivovarna Lasko	Handball	1. liga
+RK Maribor Branik	2019-02-13 19:15:00.000	RK Cimos Koper	Handball	1. liga
+RK Jeruzalem Ormoz	2019-02-12 18:00:00.000	RK Gorenje Velenje	Handball	1. liga
+MRK Krka	2019-02-25 19:00:00.000	RK Trimo Trebnje	Handball	1. liga
+RK Celje Pivovarna Lasko	2019-02-12 17:00:00.000	RD Loka	Handball	1. liga
+Team Lakkapää	2019-02-26 17:30:00.000	Savo Volley	Volleyball	Mestaruusliiga
+Akaa Volley	2019-02-26 17:30:00.000	Valepa	Volleyball	Mestaruusliiga
+MKS Zaglebie Lubin	2019-02-12 17:30:00.000	Vistal Gdynia	Handball	Superliga
+Beskid Nowy Sacz - EKS Start Elblag	2019-02-12 17:00:00.000	MKS Lublin	Handball	Superliga
+Malungs IF	2019-02-26 18:00:00.000	Mariestads Bois	Ice Hockey	HockeyEttan Vastra
+Grums IK	2019-02-26 18:00:00.000	Lindlövens IF	Ice Hockey	HockeyEttan Vastra
+Forshaga IF	2019-02-26 18:00:00.000	Koping HC	Ice Hockey	HockeyEttan Vastra
+Borlänge HC	2019-02-24 18:00:00.000	Tranaas Aif	Ice Hockey	HockeyEttan Vastra
+Tranaas Aif	2019-02-26 18:00:00.000	Surahammar	Ice Hockey	HockeyEttan Vastra
+Skövde IK	2019-02-26 18:00:00.000	IFK Kumla	Ice Hockey	HockeyEttan Vastra
+IFK Arboga	2019-02-26 18:00:00.000	Borlänge HC	Ice Hockey	HockeyEttan Vastra
+Cincinnati Bengals	2019-02-14 01:20:00.000	Baltimore Ravens	American Football	NFL
+Chicago Bears	2019-02-18 01:15:00.000	Seattle Seahawks	American Football	NFL
+St. Louis Rams	2019-02-28 01:20:00.000	Minnesota Vikings	American Football	NFL
+Tampa Bay Buccaneers	2019-02-25 01:15:00.000	Pittsburgh Steelers	American Football	NFL
+Munster	2019-02-14 19:35:00.000	Ospreys	Rugby League	Pro14
+Cardiff Blues	2019-02-21 19:35:00.000	Munster	Rugby League	Pro14
+Leinster Lions	2019-02-15 17:15:00.000	Newport Gwent Dragons	Rugby League	Pro14
+Edinburgh Rugby	2019-02-28 19:35:00.000	Benetton Treviso	Rugby League	Pro14
+Scarlets	2019-02-15 17:15:00.000	Benetton Treviso	Rugby League	Pro14
+Cardiff Blues	2019-02-28 19:35:00.000	Cheetahs	Rugby League	Pro14
+Zebre	2019-02-15 19:35:00.000	Cardiff Blues	Rugby League	Pro14
+Edinburgh Rugby	2019-02-14 19:35:00.000	Connacht Rugby	Rugby League	Pro14
+Cheetahs	2019-02-15 18:30:00.000	Glasgow Warriors	Rugby League	Pro14
+Cheetahs	2019-02-21 18:15:00.000	Ulster	Rugby League	Pro14
+Counties Manukau	2019-02-15 03:05:00.000	Wellington	Rugby League	NPC
+Bay of Plenty	2019-02-21 08:35:00.000	Waikato	Rugby League	NPC
+Waikato	2019-02-13 08:35:00.000	Hawke´s Bay	Rugby League	NPC
+North Harbour	2019-02-16 03:05:00.000	Bay of Plenty	Rugby League	NPC
+North Harbour	2019-02-12 08:35:00.000	Canterbury	Rugby League	NPC
+Hawke´s Bay	2019-02-22 03:35:00.000	North Harbour	Rugby League	NPC
+Hawke´s Bay	2019-02-26 08:35:00.000	Northland	Rugby League	NPC
+Auckland	2019-02-28 08:35:00.000	Otago	Rugby League	NPC
+Bay of Plenty	2019-02-27 08:35:00.000	Manawatu	Rugby League	NPC
+Tasman	2019-02-14 08:45:00.000	Taranaki	Rugby League	NPC
+Waikato	2019-02-28 02:35:00.000	Southland	Rugby League	NPC
+SG BBM Bietigheim	2019-02-12 18:30:00.000	TSV Bayer 04 Leverkusen	Handball	Women Bundesliga
+Guildford Flames	2019-02-18 19:30:00.000	Fife Flyers	Ice Hockey	Elite League
+Sheffield Steelers	2019-02-12 19:30:00.000	Fife Flyers	Ice Hockey	Elite League
+Odense Bulldogs	2019-02-18 18:00:00.000	Frederikshavn White Hawks	Ice Hockey	Superisligaen
+Sonderjyske Ishockey	2019-02-25 18:00:00.000	Frederikshavn White Hawks	Ice Hockey	Superisligaen
+Rodovre Mighty Bulls	2019-02-25 18:00:00.000	Herning Blue Fox	Ice Hockey	Superisligaen
+Aalborg Pirates	2019-02-25 18:00:00.000	Hvidovre Fighters	Ice Hockey	Superisligaen
+Sonderjyske Ishockey	2019-02-18 18:00:00.000	Aalborg Pirates	Ice Hockey	Superisligaen
+Hvidovre Fighters	2019-02-18 18:00:00.000	Esbjerg Energy	Ice Hockey	Superisligaen
+Rungsted Ishockey	2019-02-25 18:00:00.000	Esbjerg Energy	Ice Hockey	Superisligaen
+Herning Blue Fox	2019-02-18 18:00:00.000	Rungsted Ishockey	Ice Hockey	Superisligaen
+Herlev Eagles	2019-02-18 18:00:00.000	Rodovre Mighty Bulls	Ice Hockey	Superisligaen
+Herlev Eagles	2019-02-25 18:00:00.000	Odense Bulldogs	Ice Hockey	Superisligaen
+Baseti	2019-02-12 19:00:00.000	Mecalia Atletico Guardes	Handball	Division De Honor Femenina
+Rocasa ACE Gran Canaria	2019-02-25 17:30:00.000	Zuazo - Handbol Canyamelar Valencia	Handball	Division De Honor Femenina
+HK Lida	2019-02-25 17:00:00.000	Yunost Minsk	Ice Hockey	Extraliga
+Belarus	2019-02-27 17:00:00.000	Yunost Minsk	Ice Hockey	Extraliga
+Metallurg Zhlobin	2019-02-13 17:00:00.000	Yunost Minsk	Ice Hockey	Extraliga
+Shakhter Soligorsk	2019-02-11 17:00:00.000	Yunost Minsk	Ice Hockey	Extraliga
+HK Lida	2019-02-27 17:00:00.000	Metallurg Zhlobin	Ice Hockey	Extraliga
+HK Gomel	2019-02-11 17:00:00.000	Metallurg Zhlobin	Ice Hockey	Extraliga
+HK Gomel	2019-02-18 17:00:00.000	Neman Grodno	Ice Hockey	Extraliga
+Neman Grodno	2019-02-25 18:00:00.000	Shakhter Soligorsk	Ice Hockey	Extraliga
+HC Dinamo Maladzyechna	2019-02-27 17:00:00.000	Shakhter Soligorsk	Ice Hockey	Extraliga
+HK Gomel	2019-02-13 17:00:00.000	Shakhter Soligorsk	Ice Hockey	Extraliga
+Shakhter Soligorsk	2019-02-18 17:00:00.000	Belarus	Ice Hockey	Extraliga
+HK Lida	2019-02-13 17:00:00.000	Belarus	Ice Hockey	Extraliga
+Neman Grodno	2019-02-27 17:00:00.000	HK Gomel	Ice Hockey	Extraliga
+Metallurg Zhlobin	2019-02-18 17:00:00.000	HK Lida	Ice Hockey	Extraliga
+Neman Grodno	2019-02-11 17:00:00.000	HK Lida	Ice Hockey	Extraliga
+Belarus	2019-02-11 17:00:00.000	HC Dinamo Maladzyechna	Ice Hockey	Extraliga
+Neman Grodno	2019-02-13 17:00:00.000	HC Dinamo Maladzyechna	Ice Hockey	Extraliga
+Yunost Minsk	2019-02-18 17:00:00.000	HC Dinamo Maladzyechna	Ice Hockey	Extraliga
+HC THP Topvar Topolcany	2019-02-26 17:00:00.000	HC Tatran Presov	Handball	Extraliga
+Gjovik Mammuts	2019-02-27 18:00:00.000	Hasle/Loren Ishockey	Ice Hockey	1st Division
+Kalmar HC	2019-02-26 18:00:00.000	HC Dalen	Ice Hockey	HockeyEttan Sodra
+Morrum Gois IK	2019-02-26 18:00:00.000	IF Troja/Ljungby	Ice Hockey	HockeyEttan Sodra
+Hanhals IF	2019-02-26 18:00:00.000	Nybro IF	Ice Hockey	HockeyEttan Sodra
+Helsingborgs HC	2019-02-26 18:00:00.000	Kallinge/Ronneby IF	Ice Hockey	HockeyEttan Sodra
+Halmstad Hammers	2019-02-26 18:00:00.000	Kristianstads IK	Ice Hockey	HockeyEttan Sodra
+Tyringe Sos	2019-02-26 18:00:00.000	Vimmerby HC	Ice Hockey	HockeyEttan Sodra
+Skaanela IF	2019-02-17 18:30:00.000	Vasterasirsta HF	Handball	Allsvenskan
+HK Aranäs	2019-02-25 18:00:00.000	OV Helsingborg HK	Handball	Allsvenskan
+FTC Budapest	2019-02-26 17:00:00.000	Pick Szeged	Handball	NB I
+MKB Veszprem KC	2019-02-25 17:00:00.000	Balatonfuredi Kse	Handball	NB I
+Pick Szeged	2019-02-11 17:00:00.000	Eger Sbs	Handball	NB I
+OLS Oulu	2019-02-16 16:00:00.000	Espoon Oilers	Floorball	Salibandyliiga
+Westend Indians	2019-02-28 16:30:00.000	FBT Pori	Floorball	Salibandyliiga
+Viikingit	2019-02-16 15:00:00.000	FBT Pori	Floorball	Salibandyliiga
+SB Welhot	2019-02-22 14:00:00.000	Classic Tampere	Floorball	Salibandyliiga
+Nokian Kristityt Palloilijat	2019-02-28 16:30:00.000	Happee	Floorball	Salibandyliiga
+Classic Tampere	2019-02-16 15:00:00.000	Happee	Floorball	Salibandyliiga
+Happee	2019-02-22 15:00:00.000	OLS Oulu	Floorball	Salibandyliiga
+SB Welhot	2019-02-26 16:30:00.000	OLS Oulu	Floorball	Salibandyliiga
+Espoon Oilers	2019-02-28 16:30:00.000	LaSB	Floorball	Salibandyliiga
+Nokian Kristityt Palloilijat	2019-02-17 16:30:00.000	SB Welhot	Floorball	Salibandyliiga
+Nokian Kristityt Palloilijat	2019-02-24 16:30:00.000	TPS	Floorball	Salibandyliiga
+LaSB	2019-02-16 14:00:00.000	TPS	Floorball	Salibandyliiga
+FBT Pori	2019-02-21 17:00:00.000	SPV	Floorball	Salibandyliiga
+Classic Tampere	2019-02-25 16:30:00.000	Steelers	Floorball	Salibandyliiga
+Koovee	2019-02-16 16:30:00.000	Steelers	Floorball	Salibandyliiga
+Espoon Oilers	2019-02-21 16:30:00.000	Viikingit	Floorball	Salibandyliiga
+SPV	2019-02-16 15:00:00.000	Westend Indians	Floorball	Salibandyliiga
+Koovee	2019-02-24 16:30:00.000	Westend Indians	Floorball	Salibandyliiga
+FC Midtjylland	2019-02-17 18:30:00.000	Nykobing F.b Handboldklub	Handball	Cup
+FC Midtjylland	2019-02-17 18:30:00.000	Nykobing F.b Handboldklub	Handball	Cup
+Stjernen Hockey	2019-02-27 17:30:00.000	Lillehammer IK	Ice Hockey	Eliteserien
+Stavanger Oilers	2019-02-13 17:00:00.000	Manglerud/Star	Ice Hockey	Eliteserien
+Ringerike IHK	2019-02-18 17:30:00.000	Manglerud/Star	Ice Hockey	Eliteserien
+Lillehammer IK	2019-02-18 18:00:00.000	Storhamar Dragons	Ice Hockey	Eliteserien
+Stjernen Hockey	2019-02-13 17:30:00.000	Storhamar Dragons	Ice Hockey	Eliteserien
+Stjernen Hockey	2019-02-18 17:30:00.000	Stavanger Oilers	Ice Hockey	Eliteserien
+Storhamar Dragons	2019-02-11 17:30:00.000	Stavanger Oilers	Ice Hockey	Eliteserien
+Manglerud/Star	2019-02-27 17:30:00.000	Frisk/Asker	Ice Hockey	Eliteserien
+IHK Sparta Sarpsborg	2019-02-25 17:30:00.000	Frisk/Asker	Ice Hockey	Eliteserien
+Lillehammer IK	2019-02-13 17:30:00.000	Frisk/Asker	Ice Hockey	Eliteserien
+Stjernen Hockey	2019-02-11 17:30:00.000	IHK Sparta Sarpsborg	Ice Hockey	Eliteserien
+Storhamar Dragons	2019-02-27 17:30:00.000	IHK Sparta Sarpsborg	Ice Hockey	Eliteserien
+Ringerike IHK	2019-02-13 17:30:00.000	IHK Sparta Sarpsborg	Ice Hockey	Eliteserien
+Valerenga IF	2019-02-18 17:30:00.000	IHK Sparta Sarpsborg	Ice Hockey	Eliteserien
+Stavanger Oilers	2019-02-25 18:00:00.000	Valerenga IF	Ice Hockey	Eliteserien
+Limoges CSP	2019-02-25 19:00:00.000	Villeurbanne - Gravelines Grand Fort BCM	Basketball	Pro A
+Champ. Chalons Reims Basket	2019-02-25 19:00:00.000	FOS Ouest Provence Basket	Basketball	Pro A
+Le Mans Basket	2019-02-25 19:00:00.000	Cholet Basket	Basketball	Pro A
+Paris Levallois	2019-02-25 19:30:00.000	ES Chalon	Basketball	Pro A
+FOS Ouest Provence Basket	2019-02-28 19:00:00.000	Dijon Bourgogne	Basketball	Pro A
+Asvel Lyon-Villeurbanne	2019-02-25 19:00:00.000	Antibes Sharks	Basketball	Pro A
+Pau Lacq Orthez	2019-02-27 19:45:00.000	AS Monaco	Basketball	Pro A
+Dijon Bourgogne	2019-02-25 19:30:00.000	Boulazac Basket	Basketball	Pro A
+Le Portel	2019-02-26 19:45:00.000	Strasbourg IG	Basketball	Pro A
+Antibes Sharks	2019-02-28 19:30:00.000	Le Mans Basket	Basketball	Pro A
+JSF Nanterre	2019-02-24 19:45:00.000	Jeunesse Laique de Bourg	Basketball	Pro A
+Norway	2019-02-27 17:45:00.000	Poland	Handball	Int. Friendly Games
+Denmark	2019-02-27 20:00:00.000	France	Handball	Int. Friendly Games
+Richmond Tigers	2019-02-21 10:50:00.000	Collingwood Magpies	Aussie rules	AFL
+Dizel Penza	2019-02-12 17:00:00.000	Chelmet Chelyabinsk	Ice Hockey	VHL
+Toros Neftekamsk	2019-02-12 15:00:00.000	Ceng Tou	Ice Hockey	VHL
+KRS Heilongjiang	2019-02-25 12:30:00.000	CSK VVS Samara	Ice Hockey	VHL
+Torpedo - Ermak Angarsk	2019-02-12 12:00:00.000	Buran Voronezh	Ice Hockey	VHL
+Ceng Tou	2019-02-17 11:30:00.000	Bars Kazan	Ice Hockey	VHL
+HK Dinamo St Petersburg	2019-02-27 17:30:00.000	Gornyak Uchaly	Ice Hockey	VHL
+Lada Togliatti	2019-02-12 16:00:00.000	Gornyak Uchaly	Ice Hockey	VHL
+Saryarka	2019-02-17 14:00:00.000	Izhstal Izhevsk	Ice Hockey	VHL
+Buran Voronezh	2019-02-26 17:00:00.000	HC Yugra Khanty-Mansiysk	Ice Hockey	VHL
+HK Ryazan	2019-02-24 17:00:00.000	HC Yugra Khanty-Mansiysk	Ice Hockey	VHL
+HK Dinamo St Petersburg	2019-02-11 17:30:00.000	HC Yugra Khanty-Mansiysk	Ice Hockey	VHL
+Sokol Krasnoyarsk	2019-02-12 13:00:00.000	HK Ryazan	Ice Hockey	VHL
+HC Tambov	2019-02-27 16:30:00.000	HK Sarov	Ice Hockey	VHL
+Metallurg Novokuznetsk	2019-02-12 13:00:00.000	HK Sarov	Ice Hockey	VHL
+CSK VVS Samara	2019-02-12 16:00:00.000	Prikamje Perm - Yuzhny Ural Orsk	Ice Hockey	VHL
+VMF St Petersburg	2019-02-27 17:00:00.000	Prikamje Perm - Yuzhny Ural Orsk	Ice Hockey	VHL
+Khimik Voskresensk	2019-02-24 16:30:00.000	Neftyanik Almetyevsk	Ice Hockey	VHL
+Zvezda Chekhov	2019-02-26 17:00:00.000	Neftyanik Almetyevsk	Ice Hockey	VHL
+Kazzink	2019-02-17 13:30:00.000	Molot	Ice Hockey	VHL
+Dizel Penza	2019-02-27 17:00:00.000	Kazzink	Ice Hockey	VHL
+Neftyanik Almetyevsk	2019-02-12 16:30:00.000	KRS Heilongjiang	Ice Hockey	VHL
+Chelmet Chelyabinsk	2019-02-25 14:30:00.000	Metallurg Novokuznetsk	Ice Hockey	VHL
+Zauralye Kurgan	2019-02-27 14:30:00.000	Metallurg Novokuznetsk	Ice Hockey	VHL
+Khimik Voskresensk	2019-02-26 16:30:00.000	Toros Neftekamsk	Ice Hockey	VHL
+Zvezda Chekhov	2019-02-24 17:00:00.000	Toros Neftekamsk	Ice Hockey	VHL
+Prikamje Perm - Yuzhny Ural Orsk	2019-02-17 14:30:00.000	Torpedo - Ermak Angarsk	Ice Hockey	VHL
+Bars Kazan	2019-02-27 16:30:00.000	Saryarka	Ice Hockey	VHL
+Buran Voronezh	2019-02-24 17:00:00.000	Rubin Tyumen	Ice Hockey	VHL
+HK Ryazan	2019-02-26 17:00:00.000	Rubin Tyumen	Ice Hockey	VHL
+VMF St Petersburg	2019-02-11 17:00:00.000	Rubin Tyumen	Ice Hockey	VHL
+Zauralye Kurgan	2019-02-25 14:30:00.000	Sokol Krasnoyarsk	Ice Hockey	VHL
+Bars Kazan	2019-02-12 16:30:00.000	Zauralye Kurgan	Ice Hockey	VHL
+Winnipeg Blue Bombers	2019-02-22 01:30:00.000	Montreal Alouettes	American Football	CFL
+Färjestads BK	2019-02-11 18:00:00.000	Mora IK	Ice Hockey	Club Friendlies
+Brynäs IF	2019-02-11 18:00:00.000	Timraa IK	Ice Hockey	Club Friendlies
+Luleaa Hockey	2019-02-11 18:00:00.000	IF Björklöven	Ice Hockey	Club Friendlies
+HC Ambri Piotta	2019-02-11 19:00:00.000	HC Davos	Ice Hockey	Club Friendlies
+EC S.feldkirch	2019-02-18 18:30:00.000	EHC Bregenzerwald	Ice Hockey	Alps Hockey League

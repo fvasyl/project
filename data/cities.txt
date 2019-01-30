@@ -1,0 +1,580 @@
+﻿CityName	CountryRegionCode
+Southfield	US
+Seattle	US
+Bendigo	AU
+San Mateo	US
+Saint Matthews	US
+Chalk Riber	CA
+Huntsville	US
+Suwanee	US
+Kirkby	GB
+Springdale	US
+Abingdon	GB
+Sammamish	US
+Maidenhead	GB
+Downey	US
+Fullerton	US
+Augsburg	DE
+Woonsocket	US
+Aujan Mournede	FR
+Denver	US
+Federal Way	US
+Port Macquarie	AU
+Pnot-Rouge	CA
+Lincoln Acres	US
+Cloverdale	AU
+Erlangen	DE
+Racine	US
+Orange	US
+Casper	US
+Carol Stream	US
+Elk Grove	US
+Carson	US
+Roncq	FR
+Kittery	US
+Irvine	US
+Baldwin Park	US
+Shelton	US
+Hillsboro	US
+Bobigny	FR
+Cambridge	US
+Saginaw	US
+South Melbourne	AU
+Sydney	AU
+Kannapolis	US
+Warwick	US
+Sulzbach Taunus	DE
+Cambridge	GB
+Garland	US
+Bell Gardens	US
+Philadelphia	US
+Lynnwood	US
+Cliffside	CA
+W. York	GB
+National City	US
+Redford	US
+Matraville	AU
+Newcastle	AU
+N. Vancouver	CA
+Kennewick	US
+Milwaukie	US
+Jefferson City	US
+Ellensburg	US
+Hixson	US
+Stockton	US
+Woolston	GB
+Burnaby	CA
+Everett	US
+Edmonds	US
+Mosinee	US
+Park City	US
+Sacramento	US
+Saint-Denis	FR
+Port Orchard	US
+North York	CA
+Tigard	US
+Ferguson	US
+Cheyenne	US
+Hooksett	US
+Charlotte	US
+Gulfport	US
+Metchosin	CA
+Lane Cove	AU
+Baytown	US
+Oregon City	US
+St. Leonards	AU
+Cincinnati	US
+Glendale	US
+Modesto	US
+Richmond	CA
+Altadena	US
+Sèvres	FR
+Newport Hills	US
+Corpus Christi	US
+Fort Wayne	US
+Montgomery	US
+Sedro Woolley	US
+Ontario	US
+Bradenton	US
+Medford	US
+Hamden	US
+Englewood	US
+Mesa	US
+La Vergne	US
+Midland	US
+Kenmore	US
+Portland	US
+Sainte-Foy	CA
+Moline	US
+Brossard	CA
+Newport News	US
+Sequim	US
+Wood Dale	US
+San Antonio	US
+Branson	US
+Fort Worth	US
+Round Rock	US
+Whittier	US
+Woodinville	US
+Augusta	US
+Virginia Beach	US
+Pantin	FR
+Oakland	US
+Stamford	US
+Toronto	CA
+Suresnes	FR
+Gloucestershire	GB
+Burbank	US
+Beverly Hills	US
+Norridge	US
+Myrtle Beach	US
+Tremblay-en-France	FR
+Yakima	US
+Port Huron	US
+Sillery	CA
+Central Valley	US
+Saint Louis	US
+San Jose	US
+Loveland	US
+Odessa	US
+Millington	US
+Solingen	DE
+Kansas City	US
+Mill Valley	US
+Boulogne-sur-Mer	FR
+Nashua	US
+Brisbane	AU
+Boston	US
+Escondido	US
+Eilenburg	DE
+Kingston	CA
+Wokingham	GB
+Braintree	US
+Hamburg	DE
+Elgin	US
+Johnson Creek	US
+Burlingame	US
+Oak Bay	CA
+Sugar Land	US
+Coronado	US
+Memphis	US
+Gold Coast	AU
+Citrus Heights	US
+Hawthorne	AU
+Townsville	AU
+Winston-Salem	US
+Basingstoke Hants	GB
+Santa Monica	US
+Spring Valley	US
+North Las Vegas	US
+Greensboro	US
+Falls Church	US
+Farmington	US
+Los Angeles	US
+Merritt Island	US
+West Kingston	US
+Berkeley	US
+Santa Cruz	US
+Newport	US
+San Carlos	US
+Richmond	US
+Westland	US
+Seaford	AU
+Clackamas	US
+Richmond Hill	CA
+Sunrise	US
+Somerset	US
+Bellflower	US
+Lemon Grove	US
+Saugus	US
+Tampa	US
+Santa Ana	US
+Rockhampton	AU
+De Witt	US
+Gilbert	US
+Salzgitter	DE
+Hayward	US
+Hervey Bay	AU
+Missoula	US
+Melville	US
+Saint Ann	US
+Alhambra	US
+North Ryde	AU
+Esher-Molesey	GB
+Southgate	US
+Monrovia	US
+Mesquite	US
+Fremont	US
+Sarasota	US
+Norwood	US
+Cheltenham	GB
+Rio Rancho	US
+Palo Alto	US
+Michigan City	US
+Markham	CA
+Daleville	US
+Clarkston	US
+Chehalis	US
+Duluth	US
+Darlinghurst	AU
+Kent	US
+Findon	AU
+Milpitas	US
+Ogden	US
+Duvall	US
+Cranbourne	AU
+Ingolstadt	DE
+Marietta	US
+Edina	US
+Lake Oswego	US
+Decatur	US
+Minneapolis	US
+Lacey	US
+Paris	FR
+Phoenix	US
+Kendall	US
+Rock Springs	US
+Branch	US
+Lakeland	US
+Melbourne	AU
+Camarillo	US
+Las Cruces	US
+Mansfield	US
+Kirkland	US
+Clearwater	US
+Scarborough	CA
+Milsons Point	AU
+Crossville	US
+Puyallup	US
+Chicago	US
+Longview	US
+Dresden	DE
+Courbevoie	FR
+Sand City	US
+Savannah	US
+Berkshire	GB
+Tupelo	US
+El Segundo	US
+Springwood	AU
+Versailles	FR
+Novi	US
+Sunbury	AU
+Columbus	US
+Münster	DE
+Frankfurt	DE
+Bellevue	US
+Geelong	AU
+Saint John	CA
+Vancouver	CA
+Norwalk	US
+St. Louis	US
+Mobile	US
+Lille	FR
+Kelso	US
+Santa Fe	US
+Drancy	FR
+Biloxi	US
+Orleans	FR
+Peterborough	GB
+Snohomish	US
+Nashville	US
+San Francisco	US
+Idaho Falls	US
+Grossmont	US
+Newcastle upon Tyne	GB
+Ithaca	US
+Werne	DE
+Plano	US
+Outremont	CA
+Irving	US
+Saarbrücken	DE
+South Bend	US
+Wrentham	US
+Longmont	US
+Denby	US
+San Gabriel	US
+Oberlin	US
+Liverpool	GB
+Upland	US
+London	GB
+Roubaix	FR
+Heath	US
+Kingsport	US
+San Ysidro	US
+Billericay	GB
+Zeeland	US
+Corvallis	US
+Burien	US
+Etobicoke	CA
+La Marque	US
+West Chicago	US
+North Bend	US
+Las Vegas	US
+Lebanon	US
+El Cajon	US
+Lancaster	GB
+Gateshead	GB
+Tucson	US
+Bonn	DE
+Woodbury	US
+Colma	US
+Reno	US
+Index	US
+Carnation	US
+Caloundra	AU
+Van Nuys	US
+Mühlheim	DE
+Malabar	AU
+Westport	US
+Warrnambool	AU
+Stoke-on-Trent	GB
+Vacaville	US
+Washougal	US
+Scottsdale	US
+Redmond	US
+Bothell	US
+Ville De'anjou	CA
+Hobart	AU
+Pontiac	US
+Barrie	CA
+Hannover	DE
+Monroe	US
+Plaistow	US
+Sooke	CA
+Paris La Defense	FR
+City Of Commerce	US
+Destin	US
+Reading	GB
+Essen	DE
+Beaverton	US
+San Bruno	US
+North Randall	US
+Melton	AU
+Offenbach	DE
+Joliet	US
+Chantilly	US
+Tuscola	US
+La Mesa	US
+Nevada	US
+Euclid	US
+Cerritos	US
+Greeley	US
+Mentor	US
+Riverton	US
+Anacortes	US
+Bury	GB
+College Station	US
+Berks	GB
+Eureka	US
+Birmingham	US
+Metz	FR
+Ascheim	DE
+Lake Elsinore	US
+Sherman Oaks	US
+Redwood City	US
+Birmingham	GB
+Goulburn	AU
+Cheektowaga	US
+Roissy en Brie	FR
+Lavender Bay	AU
+Sandy	US
+Killeen	US
+Hollywood	US
+Barstow	US
+Verrieres Le Buisson	FR
+W. Linn	US
+Royal Oak	CA
+Colomiers	FR
+North Miami Beach	US
+Gilroy	US
+Rocky Mount	US
+Holland	US
+Billings	US
+Dallas	US
+Culver City	US
+Visalia	US
+La Grange	US
+Bracknell	GB
+North Sydney	AU
+Imperial Beach	US
+Nepean	CA
+Gold Bar	US
+New Castle	US
+East Haven	US
+Bottrop	DE
+Marysville	US
+Chula Vista	US
+Atlanta	US
+Muehlheim	DE
+Lieusaint	FR
+Simi Valley	US
+Chatou	FR
+New York	US
+Port Hammond	CA
+Warrington	GB
+Silverwater	AU
+Vista	US
+Lakewood	US
+Austell	US
+York	GB
+Concord	US
+Troutdale	US
+Stafford	US
+Renton	US
+Milwaukee	US
+Houston	US
+Valley Stream	US
+Darmstadt	DE
+Peoria	US
+Croix	FR
+Union Gap	US
+Woodburn	US
+Tooele	US
+Hanford	US
+Kassel	DE
+Bellingham	US
+Poing	DE
+Surrey	CA
+Albany	US
+Cergy	FR
+North Sioux City	US
+München	DE
+Saint Germain en Laye	FR
+Clay	US
+Hof	DE
+Calgary	CA
+Canoga Park	US
+Sandpoint	US
+Maryville	US
+Orlando	US
+Miami	US
+Perth	AU
+Humble	US
+Colombes	FR
+Austin	US
+San Ramon	US
+Saint Ouen	FR
+Aurora	CA
+Haney	CA
+Kanata	CA
+Winnipeg	CA
+Spokane	US
+Madison Heights	US
+Braunschweig	DE
+Stuttgart	DE
+Watford	GB
+Rhodes	AU
+Westminster	US
+Saarlouis	DE
+Duesseldorf	DE
+Laredo	US
+Coffs Harbour	AU
+Edmonton	CA
+Milford	US
+Frankfurt am Main	DE
+Leesburg	US
+San Diego	US
+Bluffton	US
+Neunkirchen	DE
+La Jolla	US
+Bremerton	US
+Detroit	US
+Paderborn	DE
+Logansport	US
+West Covina	US
+Florence	US
+High Wycombe	GB
+Torrance	US
+Dorval	CA
+Salt Lake City	US
+Pigeon Forge	US
+Redlands	US
+Newport Beach	US
+Langford	CA
+Oxford	GB
+Walnut Creek	US
+Klamath Falls	US
+Raleigh	US
+Parker	US
+Mississauga	CA
+Sparks	US
+Fontana	US
+Smithfield	US
+Ballard	US
+Westminster	CA
+Indianapolis	US
+Trabuco Canyon	US
+Boise	US
+East Brisbane	AU
+Morangis	FR
+Weston	CA
+Leipzig	DE
+Issaquah	US
+Berlin	DE
+Walla Walla	US
+Cedar Park	US
+Runcorn	GB
+Ottawa	CA
+Bordeaux	FR
+Leeds	GB
+Endicott	US
+New Hartford	US
+Kiel	DE
+Altamonte Springs	US
+Les Ulis	FR
+Shawnee	CA
+Baltimore	US
+Bountiful	US
+Alpine	US
+Campbellsville	US
+Chandler	US
+Fernley	US
+Tilton	US
+Newark	US
+Springfield	US
+Union City	US
+Arlington	US
+Novato	US
+Bad Soden	DE
+Oxon	GB
+Alexandria	AU
+Carrollton	US
+Milton Keynes	GB
+Oxnard	US
+Newton	CA
+New Haven	US
+Montreal	CA
+Wenatchee	US
+Waterloo	CA
+Woodland Hills	US
+Randolph	US
+West Sussex	GB
+Villeneuve-d'Ascq	FR
+Langley	CA
+Mcdonough	US
+Lewiston	US
+Olympia	US
+Pleasanton	US
+Quebec	CA
+Cedar City	US
+Auburn	US
+Long Beach	US
+Hull	CA
+Surprise	US
+Lake George	US
+Waterbury	US
+Tacoma	US
+Byron	US
+Gaffney	US
+Howell	US
+Vero Beach	US
+Victoria	CA
+Grevenbroich	DE
+Dunkerque	FR
+Wollongong	AU
+Boulogne-Billancourt	FR
+Orly	FR
+Salem	US
+Brampton	CA
+Daly City	US
+Great Falls	US

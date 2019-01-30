@@ -1,0 +1,89 @@
+﻿TournamentName	Sport
+1. Division	Handball
+1. liga	Handball
+1a Divisao	Handball
+1st Division	Ice Hockey
+1st Liga	Ice Hockey
+2nd Bundesliga	Handball
+AFL	Aussie rules
+Allsvenskan	Handball
+Alps Hockey League	Ice Hockey
+Asobal	Handball
+Basketligaen	Basketball
+BBL	Basketball
+Bundesliga	Handball
+CFL	American Football
+Champions League	Handball
+Club Friendlies	Basketball
+Club Friendlies	Ice Hockey
+College	American Football
+Cup	Handball
+Currie Cup	Rugby League
+Damehandboldligaen	Handball
+Division De Honor Femenina	Handball
+EBEL	Ice Hockey
+Ekstraliga	Ice Hockey
+Elite League	Ice Hockey
+Eliteserien	Ice Hockey
+Elitserien	Handball
+English Premiership	Rugby League
+Erste Liga	Ice Hockey
+Extraliga	Floorball
+Extraliga	Handball
+Extraliga	Ice Hockey
+FIBA World Championship	Basketball
+FIVB World Championship Men	Volleyball
+Handboldligaen	Handball
+Hockey Allsvenskan	Ice Hockey
+HockeyEttan Norra	Ice Hockey
+HockeyEttan Ostra	Ice Hockey
+HockeyEttan Sodra	Ice Hockey
+HockeyEttan Vastra	Ice Hockey
+Int. Friendly Games	Handball
+KHL	Ice Hockey
+KOVO Cup	Volleyball
+Latvian Hockey League	Ice Hockey
+League Cup	Basketball
+Liga ABA	Basketball
+Liga ABA Super Cup	Basketball
+Liga Nationala	Handball
+Ligue Magnus	Ice Hockey
+LKL	Basketball
+LNB	Basketball
+LNH Division 1	Handball
+LNH Division 1 Men	Handball
+Meistriliiga	Handball
+Mestaruusliiga	Volleyball
+MHL	Ice Hockey
+MNLA	Handball
+National Football League	American Football
+National League	Floorball
+National League A	Ice Hockey
+National League B	Ice Hockey
+NB I	Handball
+NBL	Basketball
+NHL	Ice Hockey
+NPC	Rugby League
+NRL	Rugby League
+NSW Cup	Rugby League
+PBA	Basketball
+Pro A	Basketball
+Pro D2	Rugby League
+Pro14	Rugby League
+RFU Championship	Rugby League
+Salibandyliiga	Floorball
+SEHA League	Handball
+SHL	Ice Hockey
+SM-liiga	Handball
+SM-Liiga	Ice Hockey
+Spagnola ACB	Basketball
+Super 8s	Rugby League
+Super League	Handball
+Superisligaen	Ice Hockey
+Superliga	Handball
+The Rugby Championship	Rugby League
+UFL	Floorball
+Urvalsdeild	Handball
+VHL	Ice Hockey
+WNBA	Basketball
+Women Bundesliga	Handball

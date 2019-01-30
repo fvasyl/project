@@ -1,0 +1,792 @@
+﻿Team	Club
+Extraliga - 2018/19	HC 05 Banska Bystrica
+SM-Liiga - 2018/19	Kalpa Hockey
+Extraliga - 2018/19	Metallurg Zhlobin
+LKL - 2018/19	BC Lietkabelis
+NSW Cup - 2018	ST George Illawarra Dragons
+National League - 2018/19	SV Wiler Ersigen
+National League A - 2018/19	HC Fribourg Gotteron
+2nd Bundesliga - 2018/19	DHC Rheinland
+FIVB World Championship Men - 2018/19	Canada
+Eliteserien - 2018/19	IHK Sparta Sarpsborg
+Super League - 2018/19	Spartak Moscow
+VHL - 2018/19	Khimik Voskresensk
+FIBA World Championship - 2018/19	Senegal
+1. Division - 2018/19	Randers HH
+Extraliga - 2018/19	HC Sparta Prag
+MHL - 2018/19	Sibirskie Snaipery
+LKL - 2018/19	Nevezis Kedainiai
+NRL - 2018	South Sydney Rabbitohs
+SM-Liiga - 2018/19	Jukurit
+1. liga - 2018/19	RK Celje Pivovarna Lasko
+KHL - 2018/19	Admiral Vladivostok
+Eliteserien - 2018/19	Stjernen Hockey
+Salibandyliiga - 2018/19	TPS
+MHL - 2018/19	Spartak Moskow
+BBL - 2018/19	Ratiopharm Ulm
+KHL - 2018/19	AK Bars Kazan
+LNH Division 1 Men - 2018/19	Montpellier Handball
+2nd Bundesliga - 2018/19	Wilhelmshavener HV
+National League - 2018/19	Floorball Köniz
+FIBA World Championship - 2018/19	China
+SHL - 2018/19	Frölunda HC
+Liga ABA Super Cup - 2018/19	KK Zadar
+National League A - 2018/19	Rapperswil Jona Lakers
+Spagnola ACB - 2018/19	BC River Andorra
+Meistriliiga - 2018/19	HC Kehra
+Handboldligaen - 2018/19	Lemvig-Thyboron Handball
+SHL - 2018/19	Brynäs IF
+Club Friendlies - 2018/19	Brynäs IF
+National League A - 2018/19	EV Zug
+Super 8s - 2018	Salford Red Devils
+Elitserien - 2018/19	AIK
+Superisligaen - 2018/19	Herning Blue Fox
+Extraliga - 2018/19	HC THP Topvar Topolcany
+FIVB World Championship Men - 2018/19	Brazil
+2nd Bundesliga - 2018/19	Lingen - Dessau-Rosslauer HV 2006
+Mestaruusliiga - 2018/19	Valepa
+Super 8s - 2018	St Helens Rlfc
+Ligue Magnus - 2018/19	Morzine HC - Scorpions de Mulhouse
+SM-Liiga - 2018/19	Tappara Tampere
+Pro A - 2018/19	Jeunesse Laique de Bourg
+College - 2018/19	Florida Atlantic Owls
+FIBA World Championship - 2018/19	Turkey
+HockeyEttan Norra - 2018/19	Team Kiruna
+VHL - 2018/19	CSK VVS Samara
+AFL - 2018	Greater Western Sydney
+Superisligaen - 2018/19	Herlev Eagles
+Elitserien - 2018/19	Redbergslids IK
+Extraliga - 2018/19	HC Cement Hranice
+Pro D2 - 2018	AS Beziers Herault
+MHL - 2018/19	HK Riga
+College - 2018/19	Boston College Eagles
+KHL - 2018/19	HC Barys Astana
+SHL - 2018/19	Rögle BK
+VHL - 2018/19	HK Sarov
+Currie Cup - 2018	Golden Lions
+FIBA World Championship - 2018/19	Argentina
+Alps Hockey League - 2018/19	EC S.feldkirch
+Pro D2 - 2018	US Carcassonne
+HockeyEttan Vastra - 2018/19	Borlänge HC
+UFL - 2018/19	BFC Vendsyssel
+HockeyEttan Sodra - 2018/19	Tyringe Sos
+Int. Friendly Games - 2018/19	Poland
+1. liga - 2018/19	RK Maribor Branik
+MNLA - 2018/19	Pfadi Winterthur
+Hockey Allsvenskan - 2018/19	HC Vita Hasten
+English Premiership - 2018	Exeter Chiefs
+Hockey Allsvenskan - 2018/19	Västervik
+Pro A - 2018/19	Dijon Bourgogne
+SHL - 2018/19	HC Orebro
+Salibandyliiga - 2018/19	Steelers
+1a Divisao - 2018/19	Sport Lisboa Benfica
+2nd Bundesliga - 2018/19	TV Grosswallstadt
+KHL - 2018/19	M. Magnitogorsk
+Hockey Allsvenskan - 2018/19	IK Pantern
+Hockey Allsvenskan - 2018/19	Almtuna IS
+Damehandboldligaen - 2018/19	Ajax Copenhagen
+Salibandyliiga - 2018/19	OLS Oulu
+HockeyEttan Sodra - 2018/19	Kalmar HC
+HockeyEttan Sodra - 2018/19	Vimmerby HC
+NFL - 2018/19	St. Louis Rams
+Hockey Allsvenskan - 2018/19	Leksands IF
+FIVB World Championship Men - 2018/19	Japan
+Alps Hockey League - 2018/19	EHC Bregenzerwald
+Pro A - 2018/19	Cholet Basket
+LNB - 2018/19	Comunicaciones
+NPC - 2018	Wellington
+Damehandboldligaen - 2018/19	Viborg HK
+PBA - 2018/19	Air21 Express
+FIVB World Championship Men - 2018/19	Cameroon
+KHL - 2018/19	Spartak Moskau
+National League B - 2018/19	HC Ajoie
+MHL - 2018/19	S. Barsy Astana
+Hockey Allsvenskan - 2018/19	Karlskrona HK
+Liga Nationala - 2018/19	SCM Craiova
+MHL - 2018/19	Sputnik Almetievsk
+NB I - 2018/19	FTC Budapest
+MHL - 2018/19	1946 St. Petersburg - Kapitan Stupino
+Pro D2 - 2018	US Montauban
+National League - 2018/19	Grasshopper Club Zurich
+MHL - 2018/19	MHK Krylia Sovetov
+SHL - 2018/19	Malmo IF
+VHL - 2018/19	HC Yugra Khanty-Mansiysk
+MHL - 2018/19	HK MVD
+LNH Division 1 Men - 2018/19	Saint Raphael
+1. Division - 2018/19	Ajax Copenhagen
+Division De Honor Femenina - 2018/19	Rocasa ACE Gran Canaria
+Champions League - 2018/19	Paris Handball
+LNH Division 1 Men - 2018/19	Paris Handball
+Eliteserien - 2018/19	Stavanger Oilers
+VHL - 2018/19	Neftyanik Almetyevsk
+Pro A - 2018/19	Paris Levallois
+Pro14 - 2018	Cheetahs
+Handboldligaen - 2018/19	TMS Ringsted
+Pro14 - 2018	Munster
+NPC - 2018	Auckland
+Ligue Magnus - 2018/19	HC Nice
+PBA - 2018/19	San Mig Coffee Mixers
+Champions League - 2018/19	Rhein Neckar Löwen
+National League A - 2018/19	Geneve Servette HC
+1st Division - 2018/19	Hasle/Loren Ishockey
+1a Divisao - 2018/19	AA Avanca
+LNH Division 1 - 2018/19	ESBF Besancon
+KHL - 2018/19	Lokomotiv Yaroslavl
+Super 8s - 2018	Hull FC
+SHL - 2018/19	Timraa IK
+Club Friendlies - 2018/19	Timraa IK
+HockeyEttan Vastra - 2018/19	Surahammar
+2nd Bundesliga - 2018/19	HSV Hamburg
+Division De Honor Femenina - 2018/19	Zuazo - Handbol Canyamelar Valencia
+Club Friendlies - 2018/19	Gasterra Flames Groningen
+MHL - 2018/19	Tyumenskiy Legion
+Superliga - 2018/19	Spojnia Gdynia
+SHL - 2018/19	Växjö Lakers HC
+2nd Bundesliga - 2018/19	HC Elbflorenz Dresden
+RFU Championship - 2018	Nottingham
+League Cup - 2018/19	Hapoel Holon
+Eliteserien - 2018/19	Ringerike IHK
+Super 8s - 2018	Toulouse Olympique XIII
+FIVB World Championship Men - 2018/19	Belgium
+Superisligaen - 2018/19	Rungsted Ishockey
+Bundesliga - 2018/19	THW Kiel
+KHL - 2018/19	HC Dynamo Moscow
+Liga Nationala - 2018/19	Universitatea Politehnica Timisoara
+CFL - 2018/19	Montreal Alouettes
+SM-Liiga - 2018/19	Kookoo Kouvola
+NPC - 2018	Counties Manukau
+1st Liga - 2018/19	HC Slovnaft Vsetin
+Erste Liga - 2018/19	Sapa Fehervar Av19 II
+LNB - 2018/19	Instituto Atletico Central Cordoba
+VHL - 2018/19	Lada Togliatti
+VHL - 2018/19	Toros Neftekamsk
+Super League - 2018/19	Kuban
+LKL - 2018/19	BC Alytaus Dzukija
+Club Friendlies - 2018/19	Mora IK
+SHL - 2018/19	Mora IK
+Pro A - 2018/19	Antibes Sharks
+FIBA World Championship - 2018/19	Puerto Rico
+Spagnola ACB - 2018/19	Valencia Basket
+VHL - 2018/19	Torpedo - Ermak Angarsk
+Elitserien - 2018/19	Hammarby HB
+2nd Bundesliga - 2018/19	HC Rhein Vikings
+HockeyEttan Vastra - 2018/19	Grums IK
+FIVB World Championship Men - 2018/19	Russia
+FIVB World Championship Men - 2018/19	Bulgaria
+Mestaruusliiga - 2018/19	Team Lakkapää
+Bundesliga - 2018/19	Lingen - HC Erlangen
+SM-Liiga - 2018/19	Rauma Lukko
+Pro A - 2018/19	Le Portel
+HockeyEttan Vastra - 2018/19	Malungs IF
+Salibandyliiga - 2018/19	Koovee
+1. liga - 2018/19	RD Loka
+NPC - 2018	Otago
+Hockey Allsvenskan - 2018/19	AIK IF
+NRL - 2018	St George Illawarra Dragons
+1. liga - 2018/19	RK Jeruzalem Ormoz
+Superliga - 2018/19	Vistal Gdynia
+Urvalsdeild - 2018/19	Afturelding
+Extraliga - 2018/19	Yunost Minsk
+UFL - 2018/19	Frederikshavn Blackhawks
+HockeyEttan Vastra - 2018/19	Koping HC
+Club Friendlies - 2018/19	Färjestads BK
+SHL - 2018/19	Färjestads BK
+VHL - 2018/19	Bars Kazan
+Extraliga - 2018/19	Mshk Zilina
+Ligue Magnus - 2018/19	Chamonix
+Ekstraliga - 2018/19	Gorniczy Klub Sportowy Tychy
+Salibandyliiga - 2018/19	Westend Indians
+Ekstraliga - 2018/19	JKH GKS Jastrzebie
+UFL - 2018/19	Hvidovre Attack
+Champions League - 2018/19	Motor Zaporozhye
+Asobal - 2018/19	Reale Ademar
+Champions League - 2018/19	Reale Ademar
+Pro14 - 2018	Zebre
+Pro D2 - 2018	Soyaux Angoulême
+Ekstraliga - 2018/19	GKS Katowice
+NFL - 2018/19	Seattle Seahawks
+RFU Championship - 2018	Hartpury College
+Extraliga - 2018/19	HK Lida
+Hockey Allsvenskan - 2018/19	VIK Vasteraas
+Bundesliga - 2018/19	SG Flensburg-Handewitt
+Bundesliga - 2018/19	TSV Hannover Burgdorf
+Pro14 - 2018	Scarlets
+MHL - 2018/19	Loko Yaroslavl
+Urvalsdeild - 2018/19	Akureyri Handboltafelag
+Extraliga - 2018/19	MAC Budapest
+Pro A - 2018/19	Pau Lacq Orthez
+Superisligaen - 2018/19	Odense Bulldogs
+Super 8s - 2018	Catalans Dragons
+Pro D2 - 2018	RC Massy
+Hockey Allsvenskan - 2018/19	Tingsryds AIF
+MNLA - 2018/19	HC Kriens-Luzern
+1a Divisao - 2018/19	FC Porto Vitalis
+Salibandyliiga - 2018/19	LaSB
+HockeyEttan Norra - 2018/19	Piteå HC
+KHL - 2018/19	Sibir Novosibirsk
+Super 8s - 2018	Huddersfield Giants
+AFL - 2018	Melbourne Demons
+The Rugby Championship - 2018	New Zealand
+HockeyEttan Ostra - 2018/19	Väsby IK
+Currie Cup - 2018	DHL Western Province
+KOVO Cup - 2018/19	Deajeon Bluefangs
+FIBA World Championship - 2018/19	France
+NFL - 2018/19	Cincinnati Bengals
+Ekstraliga - 2018/19	KS Stoczniowiec Gdansk
+Extraliga - 2018/19	HKM Nitra
+Women Bundesliga - 2018/19	TSV Bayer 04 Leverkusen
+LNH Division 1 Men - 2018/19	HBC Nantes
+LNB - 2018/19	Estudiantes de Concordia
+VHL - 2018/19	HC Tambov
+Pro D2 - 2018	Pays D Aix
+MHL - 2018/19	Omskie Yastreby
+National League - 2018/19	Kloten-Bülach Jets
+Elitserien - 2018/19	IFK Kristianstad
+VHL - 2018/19	Chelmet Chelyabinsk
+MHL - 2018/19	Vityazi Chekhov
+Hockey Allsvenskan - 2018/19	BIK Karlskoga
+Elite League - 2018/19	Sheffield Steelers
+College - 2018/19	Miami Florida
+1. Division - 2018/19	FHK Elite
+LNH Division 1 Men - 2018/19	Istres Ouest Provence
+HockeyEttan Vastra - 2018/19	Lindlövens IF
+Superisligaen - 2018/19	Aalborg Pirates
+National League - 2018/19	UHC Uster
+1st Liga - 2018/19	HC Slovan Ustecti Lvi
+NPC - 2018	Canterbury
+Elitserien - 2018/19	BK Heid
+LNB - 2018/19	San Martin Corrientes
+KOVO Cup - 2018/19	Ansan Rush&Cash
+College - 2018/19	Charlotte 49ers
+1st Liga - 2018/19	HC AZ Havirov 2010
+Superliga - 2018/19	MKS Lublin
+Bundesliga - 2018/19	SC DHFK Leipzig
+Hockey Allsvenskan - 2018/19	Södertälje SK
+HockeyEttan Ostra - 2018/19	Sollentuna HC
+NHL - 2018/19	Philadelphia Flyers
+College - 2018/19	Old Dominion
+LNH Division 1 - 2018/19	Bourg De Peage
+Pro14 - 2018	Connacht Rugby
+UFL - 2018/19	Rödovre FC
+SM-Liiga - 2018/19	Vaasan Sport
+LKL - 2018/19	Siauliai
+Pro14 - 2018	Benetton Treviso
+National League A - 2018/19	Lausanne HC
+LNH Division 1 - 2018/19	CJF Fleury Les Aubrais
+1a Divisao - 2018/19	M - Sporting CP
+NBL - 2018/19	BK JIP Pardubice
+Extraliga - 2018/19	Bulldogs Brno
+KHL - 2018/19	CSKA Moscow
+Bundesliga - 2018/19	Füchse Berlin
+Ligue Magnus - 2018/19	ASG Angers
+Super League - 2018/19	Chehovski Medvedi
+Erste Liga - 2018/19	Hokiklub Budapest
+KHL - 2018/19	HC Vitiaz Chehov
+LNH Division 1 Men - 2018/19	Pays Aix Universite Club Handball
+EBEL - 2018/19	HC TWK Innsbruck Die Haie
+HockeyEttan Ostra - 2018/19	Segeltorps IF
+Elitserien - 2018/19	Önnereds HK
+VHL - 2018/19	Molot
+NHL - 2018/19	Columbus Blue Jackets
+Super 8s - 2018	Halifax Blue Sox
+KHL - 2018/19	HK Avangard Omsk
+Erste Liga - 2018/19	Gyergyoi HK
+Handboldligaen - 2018/19	Aarhus Handball
+SHL - 2018/19	Luleaa Hockey
+Club Friendlies - 2018/19	Luleaa Hockey
+HockeyEttan Vastra - 2018/19	IFK Kumla
+1st Division - 2018/19	Gjovik Mammuts
+Superliga - 2018/19	KS Vive Targi Kielce
+KHL - 2018/19	Slovan Bratislava
+Ekstraliga - 2018/19	TH Unia Oswiecim
+The Rugby Championship - 2018	Argentina
+Bundesliga - 2018/19	HSG Wetzlar
+National League B - 2018/19	HC La Chaux-de-Fonds
+BBL - 2018/19	Crailsheim Merlins
+LNB - 2018/19	Club Deportivo Hispano Americano
+Currie Cup - 2018	Ford Pumas
+Superisligaen - 2018/19	Esbjerg Energy
+Extraliga - 2018/19	Panthers Otrokovice
+NB I - 2018/19	Eger Sbs
+Elitserien - 2018/19	Kungälvs HK
+Int. Friendly Games - 2018/19	Norway
+HockeyEttan Vastra - 2018/19	Skövde IK
+Pro D2 - 2018	Stade Aurillacois
+Extraliga - 2018/19	Sokol Pardubice
+KOVO Cup - 2018/19	Incheon Korean Air Jumbos
+National League A - 2018/19	EHC Biel
+KHL - 2018/19	HC Sochi
+1. liga - 2018/19	RK Cimos Koper
+Extraliga - 2018/19	FBC Ostrava
+Pro A - 2018/19	Villeurbanne - Gravelines Grand Fort BCM
+MHL - 2018/19	Belye Medvedi
+Handboldligaen - 2018/19	Bjerringbro
+1a Divisao - 2018/19	AC Fafe
+Pro14 - 2018	Cardiff Blues
+1st Liga - 2018/19	HK Jestrabi Prostejov
+LNH Division 1 Men - 2018/19	US Ivry Handball
+Super 8s - 2018	Wigan Warriors
+UFL - 2018/19	Sunds Seahawks FC
+College - 2018/19	Washington St Cougars
+FIVB World Championship Men - 2018/19	Puerto Rico
+Asobal - 2018/19	Fraikin BM Granollers
+VHL - 2018/19	Saryarka
+Super 8s - 2018	Toronto Wolfpack
+Handboldligaen - 2018/19	Nordsjaelland Handball
+Super 8s - 2018	Leeds Rhinos
+KHL - 2018/19	HC Red Star Kunlun
+Urvalsdeild - 2018/19	FH Hafnarfjardar
+NPC - 2018	Waikato
+KHL - 2018/19	Jokerit Helsinki
+SEHA League - 2018/19	Vojvodina-Univerexport Novi Sad
+Club Friendlies - 2018/19	HC Davos
+National League A - 2018/19	HC Davos
+HockeyEttan Ostra - 2018/19	Hudiksvalls HC
+Women Bundesliga - 2018/19	SG BBM Bietigheim
+Superisligaen - 2018/19	Hvidovre Fighters
+Super League - 2018/19	Sgau-Saratov
+FIBA World Championship - 2018/19	South Korea
+Extraliga - 2018/19	FBC Pullo Trade Ceska Lipa
+Bundesliga - 2018/19	MT Melsungen
+Damehandboldligaen - 2018/19	Team TVIS Holstebro
+FIBA World Championship - 2018/19	Belgium
+LNH Division 1 Men - 2018/19	Chambery Savoie
+UFL - 2018/19	Vanlose Floorball
+Erste Liga - 2018/19	HSC Csikszereda
+Erste Liga - 2018/19	Ferencvaros
+LNH Division 1 Men - 2018/19	Tremblay En France
+NB I - 2018/19	Balatonfuredi Kse
+Champions League - 2018/19	Dinamo Baumit Bucuresti
+FIBA World Championship - 2018/19	Canada
+MNLA - 2018/19	BSV Bern Muri
+SEHA League - 2018/19	HC Croatia Osiguranje Zagreb
+1st Liga - 2018/19	HC Zubr Prerov
+Pro D2 - 2018	USON Nevers
+MHL - 2018/19	Sarmaty Orenburg
+KHL - 2018/19	SKA St. Petersburg
+Elitserien - 2018/19	IK Savehof
+1. liga - 2018/19	RD Ribnica Riko Hise
+Club Friendlies - 2018/19	Efes Anadolu Istanbul
+Urvalsdeild - 2018/19	Stjarnan
+VHL - 2018/19	Ceng Tou
+Currie Cup - 2018	Vodacom Blue Bulls
+Latvian Hockey League - 2018/19	HK Prizma
+SHL - 2018/19	Djurgaardens IF
+FIVB World Championship Men - 2018/19	Argentina
+Pro14 - 2018	Newport Gwent Dragons
+National League - 2018/19	UHC Thun
+Extraliga - 2018/19	1 SC Ssk Vitkovice
+KHL - 2018/19	Amur Khabarovsk
+Extraliga - 2018/19	Sokol Kral Vinohrady
+Meistriliiga - 2018/19	Coop Polva
+SM-Liiga - 2018/19	Ilves Tampere
+VHL - 2018/19	Buran Voronezh
+LNB - 2018/19	Penarol Mar Del Plata
+National League A - 2018/19	SCL Tigers Langenau
+Erste Liga - 2018/19	Corona Brasov
+FIVB World Championship Men - 2018/19	Iran
+Extraliga - 2018/19	HC Kosice
+League Cup - 2018/19	Maccabi Rishon Lezion
+FIBA World Championship - 2018/19	Nigeria
+1. liga - 2018/19	MRK Krka
+HockeyEttan Norra - 2018/19	Bodens HF
+Elitserien - 2018/19	Skuru IK
+Salibandyliiga - 2018/19	Happee
+MNLA - 2018/19	RTV 1879 Basel
+Super 8s - 2018	Hull Kingston Rovers
+LKL - 2018/19	KK Prienai
+VHL - 2018/19	KRS Heilongjiang
+League Cup - 2018/19	Bnei Herzelia
+National League B - 2018/19	Hockey Academy Zug
+RFU Championship - 2018	Bedford
+Pro A - 2018/19	Asvel Lyon-Villeurbanne
+MNLA - 2018/19	Wacker Thun
+Champions League - 2018/19	Wacker Thun
+VHL - 2018/19	Zvezda Chekhov
+Club Friendlies - 2018/19	Banco Di Sardegna Sassari
+FIVB World Championship Men - 2018/19	China
+Spagnola ACB - 2018/19	Herbalife Gran Canaria
+BBL - 2018/19	Medi Bayreuth
+NFL - 2018/19	Tampa Bay Buccaneers
+KHL - 2018/19	Avtomobilist Yekaterinburg
+Cup - 2018/19	Nykobing F.b Handboldklub
+NFL - 2018/19	Pittsburgh Steelers
+Urvalsdeild - 2018/19	IR Reykjavik
+Superisligaen - 2018/19	Sonderjyske Ishockey
+2nd Bundesliga - 2018/19	HSC 2000 Coburg
+Pro A - 2018/19	Limoges CSP
+College - 2018/19	Illinois Fighting Illini
+Asobal - 2018/19	FC Barcelona
+Champions League - 2018/19	FC Barcelona
+NRL - 2018	Penrith Panthers
+Elitserien - 2018/19	Hästö IF
+Ligue Magnus - 2018/19	CSG Strasbourg
+Eliteserien - 2018/19	Frisk/Asker
+Salibandyliiga - 2018/19	Viikingit
+MHL - 2018/19	Amurskie Tigry K.
+FIVB World Championship Men - 2018/19	Serbia
+Bundesliga - 2018/19	VfL Gummersbach
+National League - 2018/19	Waldkirch St.Gallen
+MHL - 2018/19	Reaktor Nizhnekamsk
+BBL - 2018/19	Rasta Vechta
+1. liga - 2018/19	RK Trimo Trebnje
+KOVO Cup - 2018/19	JT Thunders
+Extraliga - 2018/19	TJ VHS Znojmo
+Allsvenskan - 2018/19	Skaanela IF
+RFU Championship - 2018	Doncaster Knights
+Division De Honor Femenina - 2018/19	Mecalia Atletico Guardes
+FIVB World Championship Men - 2018/19	Italy
+Currie Cup - 2018	GWK Griquas
+Extraliga - 2018/19	HC Tatran Presov
+Extraliga - 2018/19	FBC Liberec
+NFL - 2018/19	Minnesota Vikings
+FIVB World Championship Men - 2018/19	France
+Int. Friendly Games - 2018/19	France
+Extraliga - 2018/19	HKM Zvolen
+1st Liga - 2018/19	HC Slavia Prag
+AFL - 2018	Hawthorn Hawks
+Extraliga - 2018/19	FBK Sokol Mlada Boleslav
+Elite League - 2018/19	Fife Flyers
+RFU Championship - 2018	Ealing Trailfinders
+Liga Nationala - 2018/19	HCM Ramnicu Valcea
+Liga ABA Super Cup - 2018/19	Crvena Zvezda Telekom
+Liga ABA - 2018/19	Crvena Zvezda Telekom
+Basketligaen - 2018/19	Team Fog Naestved
+SM-Liiga - 2018/19	HPK Hämeenlinna
+1st Liga - 2018/19	HC Kladno
+Liga ABA Super Cup - 2018/19	KK Cedevita Zagreb
+Erste Liga - 2018/19	Vienna Capitals II
+Pro A - 2018/19	Le Mans Basket
+Super League - 2018/19	Sungul
+1a Divisao - 2018/19	AA Aguas Santas
+Currie Cup - 2018	Toyota Free State Cheetahs
+SHL - 2018/19	HV 71
+Ekstraliga - 2018/19	TKH Nesta Torun
+NPC - 2018	Southland
+SHL - 2018/19	Linköpings HC
+FIVB World Championship Men - 2018/19	Cuba
+Eliteserien - 2018/19	Lillehammer IK
+Spagnola ACB - 2018/19	Unicaja Malaga
+Superliga - 2018/19	Pogon Handball Szczecin
+SEHA League - 2018/19	Zeleznicar Indjija
+1. liga - 2018/19	RK Gorenje Velenje
+Handboldligaen - 2018/19	Skjern Handbold
+AFL - 2018	Richmond Tigers
+LNH Division 1 Men - 2018/19	Toulouse Handball
+1st Liga - 2018/19	HC Motor Ceske Budejovice
+MHL - 2018/19	St Petersburg
+Extraliga - 2018/19	Mountfield HK
+LNH Division 1 - 2018/19	Toulon Saint Cyr Var Handball
+MHL - 2018/19	Irbis Kazan
+LNH Division 1 Men - 2018/19	Dunkerque HB
+2nd Bundesliga - 2018/19	HSG Nordhorn
+Pro A - 2018/19	AS Monaco
+LNH Division 1 - 2018/19	HBC Saint-Amand-les-Eaux Porte du Hainaut
+Super 8s - 2018	Castleford Tigers
+1st Liga - 2018/19	HC Horacka Slavia Trebic
+Superisligaen - 2018/19	Frederikshavn White Hawks
+FIBA World Championship - 2018/19	Spain
+RFU Championship - 2018	Jersey
+Extraliga - 2018/19	HK SKP Poprad
+HockeyEttan Ostra - 2018/19	Enköpings SK HK
+Pro A - 2018/19	ES Chalon
+MHL - 2018/19	Krasnaya Armiya
+LNH Division 1 Men - 2018/19	OC Cesson Handball
+NPC - 2018	Northland
+SEHA League - 2018/19	HC Meshkov Brest
+Champions League - 2018/19	HC Meshkov Brest
+LNH Division 1 - 2018/19	Nantes Loire Atlantique HB
+Extraliga - 2018/19	HC Dinamo Maladzyechna
+FIBA World Championship - 2018/19	Japan
+LNB - 2018/19	Club Atletico San Lorenzo De Almagro
+Handboldligaen - 2018/19	Ribe-Esbjerg HH
+League Cup - 2018/19	Galil Gilboa
+SM-Liiga - 2018/19	HIFK Hockey
+MHL - 2018/19	Mytishchinskie A.
+Superisligaen - 2018/19	Rodovre Mighty Bulls
+Extraliga - 2018/19	HC 07 Detva
+LNH Division 1 - 2018/19	Issy Paris
+HockeyEttan Ostra - 2018/19	Trangsund
+SEHA League - 2018/19	Steaua Bucharest
+LNB - 2018/19	Boca Juniors
+The Rugby Championship - 2018	South Africa
+Pro D2 - 2018	Aviron Bayonne
+College - 2018/19	Penn St Nittany Lions
+Basketligaen - 2018/19	Stevnsgade Supermen
+Asobal - 2018/19	Bidasoa Irun
+Elitserien - 2018/19	HK Malmö
+Pro A - 2018/19	Strasbourg IG
+Urvalsdeild - 2018/19	Selfoss
+Salibandyliiga - 2018/19	Espoon Oilers
+Cup - 2018/19	FC Midtjylland
+Damehandboldligaen - 2018/19	FC Midtjylland
+Cup - 2018/19	FC Midtjylland
+Damehandboldligaen - 2018/19	FC Midtjylland
+Handboldligaen - 2018/19	Sønderjyske
+LNB - 2018/19	Quimsa Santiago del Estero
+HockeyEttan Ostra - 2018/19	Hammarby Hockey IF
+MHL - 2018/19	Stalnye Lisy
+Super 8s - 2018	London Broncos
+BBL - 2018/19	Worcester Wolves
+Basketligaen - 2018/19	Randers Cimbria
+MNLA - 2018/19	K. Schaffhausen
+KHL - 2018/19	HC Dinamo Riga
+Extraliga - 2018/19	Tatran Omlux Stresovice
+RFU Championship - 2018	Cornish Pirates
+KHL - 2018/19	Severstal Cherepovec
+Basketligaen - 2018/19	Vaerlose BBK
+Extraliga - 2018/19	Shakhter Soligorsk
+VHL - 2018/19	HK Ryazan
+Pro D2 - 2018	Biarritz Olympique
+Elitserien - 2018/19	IFK Skövde HK
+Ekstraliga - 2018/19	KH Zaglebie Sosnowiec
+Club Friendlies - 2018/19	Telnet BC Oostende
+Pro14 - 2018	Leinster Lions
+BBL - 2018/19	Surrey Heat
+LNH Division 1 - 2018/19	OGC Nice Cote D´Azur
+FIBA World Championship - 2018/19	Greece
+NPC - 2018	Hawke´s Bay
+Spagnola ACB - 2018/19	UCAM Murcia
+Erste Liga - 2018/19	Debreceni Egyetem AC
+Extraliga - 2018/19	Belarus
+FIVB World Championship Men - 2018/19	Tunisia
+RFU Championship - 2018	Richmond
+Elitserien - 2018/19	Alingsås HK
+Ekstraliga - 2018/19	TMH Polonia Bytom
+LNH Division 1 Men - 2018/19	Pontault-Combault HB
+National League A - 2018/19	ZSC Lions
+VHL - 2018/19	Metallurg Novokuznetsk
+Extraliga - 2018/19	TJ JM Chodov
+Pro14 - 2018	Ospreys
+Ligue Magnus - 2018/19	Lyon HC
+KOVO Cup - 2018/19	Western KB Star Insurance
+NSW Cup - 2018	Canterbury Bulldogs
+College - 2018/19	North Carolina Tar Heels
+LNH Division 1 Men - 2018/19	Usam Nimes
+Erste Liga - 2018/19	Ujpest Budapest
+Elite League - 2018/19	Guildford Flames
+1st Liga - 2018/19	HC Dukla Jihlava
+HockeyEttan Sodra - 2018/19	Nybro IF
+KOVO Cup - 2018/19	Suwon Kepco
+Ligue Magnus - 2018/19	Rapaces de Gap
+Damehandboldligaen - 2018/19	Randers HK
+Salibandyliiga - 2018/19	FBT Pori
+Salibandyliiga - 2018/19	Nokian Kristityt Palloilijat
+Pro14 - 2018	Edinburgh Rugby
+HockeyEttan Vastra - 2018/19	Tranaas Aif
+NBL - 2018/19	BK Sluneta USTI Nad Labem
+HockeyEttan Sodra - 2018/19	Halmstad Hammers
+National League - 2018/19	HC Rychenberg Winterthur
+FIVB World Championship Men - 2018/19	Australia
+MHL - 2018/19	Chaika Nizhny Nov.
+SM-liiga - 2018/19	Aifk
+Ligue Magnus - 2018/19	Grenoble MH 38
+Elitserien - 2018/19	IFK Ystads HK
+KHL - 2018/19	Salavat Yulaev Ufa
+National League - 2018/19	Tigers Langnau
+WNBA - 2018/19	Washington Mystics
+Champions League - 2018/19	Wisla Plock
+Superliga - 2018/19	Wisla Plock
+MHL - 2018/19	Red Star Kunlun Junior
+Liga ABA - 2018/19	Mornar
+WNBA - 2018/19	Seattle Storm
+FIVB World Championship Men - 2018/19	USA
+Extraliga - 2018/19	Liptovsky Mikulas
+National League A - 2018/19	HC Ambri Piotta
+Club Friendlies - 2018/19	HC Ambri Piotta
+Urvalsdeild - 2018/19	Valur Reykjavik
+English Premiership - 2018	Bristol Shoguns
+1st Liga - 2018/19	HC Stadion Litomerice
+Hockey Allsvenskan - 2018/19	IK Oskarshamn
+HockeyEttan Vastra - 2018/19	Forshaga IF
+Ligue Magnus - 2018/19	Bordeaux Ghc
+MHL - 2018/19	Kuznetskie Medvedi
+SM-Liiga - 2018/19	Ässät Pori
+Liga ABA - 2018/19	Cibona Zagreb
+RFU Championship - 2018	Leeds Carnegie
+English Premiership - 2018	Gloucester Rugby
+NFL - 2018/19	Baltimore Ravens
+NRL - 2018	Melbourne Storm
+MHL - 2018/19	Mamonty Yugry K. M.
+Pro D2 - 2018	Bourg
+NHL - 2018/19	Buffalo Sabres
+KOVO Cup - 2018/19	Cheonan Hyundai Capital Skywalkers
+Handboldligaen - 2018/19	Mors-Thy Handbold
+2nd Bundesliga - 2018/19	TUS N
+Extraliga - 2018/19	Neman Grodno
+Int. Friendly Games - 2018/19	Denmark
+Latvian Hockey League - 2018/19	Mogo Riga
+LNH Division 1 - 2018/19	Brest Bretagne Handball
+FIVB World Championship Men - 2018/19	Netherlands
+Allsvenskan - 2018/19	HK Aranäs
+LNH Division 1 - 2018/19	Cercle Dijon Bourgogne
+VHL - 2018/19	VMF St Petersburg
+VHL - 2018/19	Gornyak Uchaly
+English Premiership - 2018	Newcastle Falcons
+1st Liga - 2018/19	HC RT Torax Poruba
+MHL - 2018/19	SKA-Varyagi
+National League - 2018/19	UHC Alligator Malans
+HockeyEttan Sodra - 2018/19	HC Dalen
+LNB - 2018/19	Argentino Junin
+Erste Liga - 2018/19	DAB Docler
+LNH Division 1 - 2018/19	Chambray Touraine
+Superliga - 2018/19	KS SPR Chrobry Glogow
+1. Division - 2018/19	Thyboron Handball - Otterup HK
+HockeyEttan Sodra - 2018/19	IF Troja/Ljungby
+Ekstraliga - 2018/19	MKS Cracovia Krakow
+KHL - 2018/19	Torpedo N. Novgorod
+Elitserien - 2018/19	Lugi HF
+VHL - 2018/19	Rubin Tyumen
+2nd Bundesliga - 2018/19	EHV Aue
+Salibandyliiga - 2018/19	Classic Tampere
+Handboldligaen - 2018/19	Team TVIS Holstebro
+KOVO Cup - 2018/19	Seoul Woori Card Hansae
+2nd Bundesliga - 2018/19	Tusem Essen
+KHL - 2018/19	HC Traktor Chelyabinsk
+League Cup - 2018/19	Maccabi Ashdod
+HockeyEttan Norra - 2018/19	SK Lejon
+Salibandyliiga - 2018/19	SPV
+Elitserien - 2018/19	IK Savehof
+BBL - 2018/19	London Lions
+Superliga - 2018/19	Beskid Nowy Sacz - EKS Start Elblag
+Super 8s - 2018	Wakefield Trinity Wildcats
+PBA - 2018/19	Blackwater Elite
+MHL - 2018/19	SKA-1946 St. Petersburg
+Hockey Allsvenskan - 2018/19	Modo Hockey
+Damehandboldligaen - 2018/19	Kobenhavn H.b.
+Bundesliga - 2018/19	Lübbecke - TSV GWD Minden
+Bundesliga - 2018/19	TSG Ludwigshafen-Friesenheim
+Bundesliga - 2018/19	SC Magdeburg
+HockeyEttan Vastra - 2018/19	IFK Arboga
+Pro A - 2018/19	Champ. Chalons Reims Basket
+Pro14 - 2018	Ulster
+MHL - 2018/19	Ladja Togliatti
+Super League - 2018/19	SKIF
+VHL - 2018/19	Dizel Penza
+HockeyEttan Norra - 2018/19	Kiruna AIF
+HockeyEttan Sodra - 2018/19	Morrum Gois IK
+CFL - 2018/19	Winnipeg Blue Bombers
+HockeyEttan Sodra - 2018/19	Kristianstads IK
+MHL - 2018/19	HC Taifun
+Mestaruusliiga - 2018/19	Akaa Volley
+Pro14 - 2018	Glasgow Warriors
+National League A - 2018/19	SC Bern
+NPC - 2018	Tasman
+Extraliga - 2018/19	Nove Zamky
+EBEL - 2018/19	RB Salzburg
+LKL - 2018/19	Lietuvos Rytas
+MHL - 2018/19	Almaz Cherepovets
+NPC - 2018	North Harbour
+Pro A - 2018/19	Boulazac Basket
+College - 2018/19	UCF Knights
+LKL - 2018/19	Juventus Utena
+VHL - 2018/19	Kazzink
+Champions League - 2018/19	Cocks
+HockeyEttan Vastra - 2018/19	Mariestads Bois
+NHL - 2018/19	Minnesota Wild
+NPC - 2018	Manawatu
+NPC - 2018	Bay of Plenty
+Pro A - 2018/19	JSF Nanterre
+Eliteserien - 2018/19	Valerenga IF
+LKL - 2018/19	Aviv - BC Zalgiris Kaunas
+FIVB World Championship Men - 2018/19	Egypt
+Extraliga - 2018/19	FBS Bohemians
+VHL - 2018/19	Izhstal Izhevsk
+LKL - 2018/19	Pieno Zvaigzdes
+Division De Honor Femenina - 2018/19	Baseti
+Pro D2 - 2018	Colomiers Rugby
+SM-Liiga - 2018/19	Saipa Lappeenranta
+College - 2018/19	USC Trojans
+LKL - 2018/19	Neptunas Klaipeda
+SM-liiga - 2018/19	Grifk
+Extraliga - 2018/19	Miskolci JJSE
+FIBA World Championship - 2018/19	Australia
+National League B - 2018/19	de-Fonds - HC Biasca
+1a Divisao - 2018/19	CCR Fermentoes
+Hockey Allsvenskan - 2018/19	IF Björklöven
+Club Friendlies - 2018/19	IF Björklöven
+VHL - 2018/19	HK Dinamo St Petersburg
+League Cup - 2018/19	Hapoel Beer Sheva
+UFL - 2018/19	Benlose FC
+College - 2018/19	Wake Forest Demon Deacons
+NHL - 2018/19	New York Islanders
+VHL - 2018/19	Zauralye Kurgan
+BBL - 2018/19	Bayern Munich
+Champions League - 2018/19	Elverum
+Super 8s - 2018	Warrington Wolves
+HockeyEttan Ostra - 2018/19	Hanvikens SK
+1st Liga - 2018/19	HC Benatky Nad Jizerou
+HockeyEttan Sodra - 2018/19	Helsingborgs HC
+MHL - 2018/19	Avto Yekaterinburg
+Spagnola ACB - 2018/19	Regal FC Barcelona
+Ligue Magnus - 2018/19	Rouen HE
+Elitserien - 2018/19	Ystads IF HF
+Elitserien - 2018/19	Kristianstad HK
+MHL - 2018/19	Tolpar UFA
+NRL - 2018	Cronulla Sharks
+Elitserien - 2018/19	Hoors HK H 65
+Extraliga - 2018/19	Dukla Trencin
+NHL - 2018/19	Winnipeg Jets
+Allsvenskan - 2018/19	OV Helsingborg HK
+HockeyEttan Sodra - 2018/19	Kallinge/Ronneby IF
+Ekstraliga - 2018/19	Orlik Opole
+Superliga - 2018/19	MKS Zaglebie Lubin
+Extraliga - 2018/19	HK Gomel
+Urvalsdeild - 2018/19	Haukar Hafnarfjordur
+National League - 2018/19	Chur Uhc
+Erste Liga - 2018/19	Schiller-Vasas HC
+VHL - 2018/19	Sokol Krasnoyarsk
+The Rugby Championship - 2018	Australia
+1st Liga - 2018/19	SK Kadan
+HockeyEttan Sodra - 2018/19	Hanhals IF
+LNB - 2018/19	Obras Sanitarias
+PBA - 2018/19	Rain Or Shine Elasto
+SM-Liiga - 2018/19	Kärpät Oulu
+SHL - 2018/19	Skellefteaa Aik
+2nd Bundesliga - 2018/19	TV Emsdetten
+NB I - 2018/19	MKB Veszprem KC
+AFL - 2018	Collingwood Magpies
+AFL - 2018	Collingwood Magpies
+KHL - 2018/19	Neftekhimik Nizhnekamsk
+Eliteserien - 2018/19	Storhamar Dragons
+2nd Bundesliga - 2018/19	TV Hüttenberg
+SM-Liiga - 2018/19	TPS Turku
+NB I - 2018/19	Pick Szeged
+NPC - 2018	Taranaki
+Salibandyliiga - 2018/19	SB Welhot
+Super League - 2018/19	Permskie Medvedi
+Super League - 2018/19	Universitet
+Handboldligaen - 2018/19	GOG Handbold
+Ligue Magnus - 2018/19	HC Amiens Somme
+UFL - 2018/19	Copenhagen SFC
+Elitserien - 2018/19	Boden Handball IF
+Eliteserien - 2018/19	Manglerud/Star
+Mestaruusliiga - 2018/19	Savo Volley
+BBL - 2018/19	Eisbären Bremerhaven
+Pro A - 2018/19	FOS Ouest Provence Basket
+Extraliga - 2018/19	HC Banik Karvina
+Liga ABA Super Cup - 2018/19	U. Olimpija Ljubljana
+Liga ABA - 2018/19	U. Olimpija Ljubljana
+Handboldligaen - 2018/19	AaB Handball
+NFL - 2018/19	Chicago Bears
+KHL - 2018/19	HK Dinamo Minsk
+Allsvenskan - 2018/19	Vasterasirsta HF
+SM-Liiga - 2018/19	Pelicans Lahti
+Extraliga - 2018/19	Slovakia
+LNH Division 1 - 2018/19	Metz Handball
+1st Liga - 2018/19	HC Frydek Mistek
+Extraliga - 2018/19	AC Sparta Prag
+National League - 2018/19	Zug United
+Handboldligaen - 2018/19	Skanderborg Handball
+VHL - 2018/19	Prikamje Perm - Yuzhny Ural Orsk
+Liga Nationala - 2018/19	Potaissa Turda
+FIVB World Championship Men - 2018/19	Slovenia
+FIVB World Championship Men - 2018/19	Poland
+National League A - 2018/19	HC Lugano
+FIVB World Championship Men - 2018/19	Dominican Republic
+Ligue Magnus - 2018/19	Anglet Hormadi Elite
+RFU Championship - 2018	Coventry Rugby
+1. Division - 2018/19	Hoj
+MHL - 2018/19	HC Altai
+Super 8s - 2018	Widnes Vikings
+BBL - 2018/19	Sheffield Sharks

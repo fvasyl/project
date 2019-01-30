@@ -7,11 +7,74 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
+CREATE TABLE [location].[Countries](
+	[CountryCode] [nvarchar](3) NOT NULL,
+	[CountryEnglishName] [nvarchar](max) NULL,
+	[ModifiedDate] [datetime] not null,
+ CONSTRAINT [PK_Countries] PRIMARY KEY CLUSTERED 
+(
+	[CountryCode] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [location].[Countries] ADD  CONSTRAINT [DF_Countries_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+----------------------------------------------
+
+CREATE TABLE [location].[Cities](
+	[CityID] [int] NOT NULL IDENTITY(1,1),
+	[CountryCode] [nvarchar](3) NULL,
+	[CityName] [nvarchar](max) NULL,
+	[ModifiedDate] [datetime] not null,
+ CONSTRAINT [PK_Cities] PRIMARY KEY CLUSTERED 
+(
+	[CityID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [location].[Cities]  WITH CHECK ADD  CONSTRAINT [FK_Cities_Countries] FOREIGN KEY([CountryCode])
+REFERENCES [location].[Countries] ([CountryCode])
+GO
+
+ALTER TABLE [location].[Cities] CHECK CONSTRAINT [FK_Cities_Countries]
+GO
+
+ALTER TABLE [location].[Cities] ADD  CONSTRAINT [DF_Cities_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+----------------------------------------------
+
+CREATE TABLE [location].[SportArens](
+	[SportArenaID] [int] NOT NULL IDENTITY(1,1),
+	[AmountOfSits] [int] NULL,
+	[CityID] [int] NULL,
+	[ArenaName] [nvarchar](max) NULL,
+	[ModifiedDate] [datetime] not null,
+ CONSTRAINT [PK_SportArens] PRIMARY KEY CLUSTERED 
+(
+	[SportArenaID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [location].[SportArens]  WITH CHECK ADD  CONSTRAINT [FK_SportArens_Cities] FOREIGN KEY([CityID])
+REFERENCES [location].[Cities] ([CityID])
+GO
+
+ALTER TABLE [location].[SportArens] CHECK CONSTRAINT [FK_SportArens_Cities]
+GO
+
+ALTER TABLE [location].[SportArens] ADD  CONSTRAINT [DF_SportArens_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+----------------------------------------------
+
 CREATE TABLE [sport].[Sports](
 	[SportID] [int] NOT NULL IDENTITY(1,1),
 	[Sport] [nvarchar](max) NULL,
 	[SportInformation][nvarchar](max) NULL,
 	[SportType] [nvarchar](max) NULL,
+	[ModifiedDate] [datetime] not null,
  CONSTRAINT [PK_Sports] PRIMARY KEY CLUSTERED 
 (
 	[SportID] ASC
@@ -19,6 +82,8 @@ CREATE TABLE [sport].[Sports](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 
+ALTER TABLE [sport].[Sports] ADD  CONSTRAINT [DF_Sports_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
 
 -------------------------
 CREATE TABLE [sport].[Tournaments](
@@ -26,6 +91,7 @@ CREATE TABLE [sport].[Tournaments](
 	[TournamentName] [nvarchar](max) NULL,
 	[TournamentInformation][nvarchar](max) NULL,
 	[SportID] [int] NOT NULL,
+	[ModifiedDate] [datetime] not null,
  CONSTRAINT [PK_Tournaments] PRIMARY KEY CLUSTERED 
 (
 	[TournamentID] ASC
@@ -40,6 +106,8 @@ GO
 ALTER TABLE [sport].[Tournaments] CHECK CONSTRAINT [FK_Tournament_Sport]
 GO
 
+ALTER TABLE [sport].[Tournaments] ADD  CONSTRAINT [DF_Tournaments_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
 -------------------------
 CREATE TABLE [sport].[Clubs](
 	[ClubID] [int] NOT NULL IDENTITY(1,1),
@@ -47,6 +115,7 @@ CREATE TABLE [sport].[Clubs](
 	[ClubInformation] [nvarchar](max) NULL,
 	[CouchFullName] [nvarchar](150) NULL,
 	[SportID] [int] NOT NULL,
+	[ModifiedDate] [datetime] not null,
  CONSTRAINT [PK_Clubs] PRIMARY KEY CLUSTERED 
 (
 	[ClubID] ASC
@@ -61,13 +130,17 @@ GO
 ALTER TABLE [sport].[Clubs] CHECK CONSTRAINT [FK_Clubs_Sport]
 GO
 
+ALTER TABLE [sport].[Clubs] ADD  CONSTRAINT [DF_Clubs_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
 
 -------------------------
 CREATE TABLE [sport].[Teams](
 	[TeamID] [int] NOT NULL IDENTITY(1,1),
 	[Team] [nvarchar](450) NULL,
+	[ParentTeamID] [int] NULL,
 	[TeamInformation] [nvarchar](max) NULL,
 	[TournamentID] [int] NOT NULL,
+	[ModifiedDate] [datetime] not null,
  CONSTRAINT [PK_Team] PRIMARY KEY CLUSTERED 
 (
 	[TeamID] ASC
@@ -80,6 +153,16 @@ REFERENCES [sport].[Tournaments] ([TournamentID])
 GO
 
 ALTER TABLE [sport].[Teams] CHECK CONSTRAINT [FK_Team_Tournament]
+GO
+
+ALTER TABLE [sport].[Teams]  WITH CHECK ADD  CONSTRAINT [FK_Team_Team] FOREIGN KEY([ParentTeamID])
+REFERENCES [sport].[Teams] ([TeamID])
+GO
+
+ALTER TABLE [sport].[Teams] CHECK CONSTRAINT [FK_Team_Team]
+GO
+
+ALTER TABLE [sport].[Teams] ADD  CONSTRAINT [DF_Teams_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
 GO
 
 ----------------------------
@@ -110,6 +193,7 @@ CREATE TABLE [sport].[Matches](
 	[HomeParticipant] [int] NOT NULL,
 	[AwayParticipant] [int] NOT NULL,
 	[TeamID] [int] NULL,
+	[SportArenaID] [int] NULL,
  CONSTRAINT [PK_Matches] PRIMARY KEY CLUSTERED 
 (
 	[MatchID] ASC
@@ -138,6 +222,13 @@ GO
 ALTER TABLE [sport].[Matches] CHECK CONSTRAINT [FK_Matches_Club2]
 GO
 
+ALTER TABLE [sport].[Matches]  WITH CHECK ADD  CONSTRAINT [FK_Matches_SportArens] FOREIGN KEY([SportArenaID])
+REFERENCES [location].[SportArens] ([SportArenaID])
+GO
+
+ALTER TABLE [sport].[Matches] CHECK CONSTRAINT [FK_Matches_SportArens]
+GO
+
 ----------------------------
 CREATE TABLE [finance].[CustomersGroups](
 	[CustomerGroupID] [int] NOT NULL  IDENTITY(1,1),
@@ -156,10 +247,11 @@ GO
 CREATE TABLE [finance].[Customers](
 	[CustomerID] [int] NOT NULL IDENTITY(1,1),
 	[CustomerLogin] [nvarchar](15) NOT NULL,
-	[CustomerPassword] [nvarchar](15) NOT NULL,
 	[CustomerEmail] [nvarchar](25) NOT NULL,
 	[SendMails] [bit] NULL DEFAULT(0),
 	[CustomerGroupID] [int] NOT NULL,
+	[CountryCode] [nvarchar](3) NuLL,
+	[ModifiedDate] [datetime] NOT NULL,
  CONSTRAINT [PK_Customers] PRIMARY KEY CLUSTERED 
 (
 	[CustomerID] ASC
@@ -174,28 +266,55 @@ GO
 ALTER TABLE [finance].[Customers] CHECK CONSTRAINT [FK_Customers_CustomersGroups]
 GO
 
+ALTER TABLE [finance].[Customers]  WITH CHECK ADD  CONSTRAINT [FK_Customers_Countries] FOREIGN KEY([CountryCode])
+REFERENCES [location].[Countries] ([CountryCode])
+GO
 
-------------------------------
-CREATE TABLE [finance].[Considerations](
+ALTER TABLE [finance].[Customers] CHECK CONSTRAINT [FK_Customers_Countries]
+GO
 
---maybe will add [winnerID] [int] NULL,
-	[ConsiderationID] [int] NOT NULL IDENTITY(1,1),
-	[Consideration] [nvarchar](15) NOT NULL,
- CONSTRAINT [PK_Considerations] PRIMARY KEY CLUSTERED 
+ALTER TABLE [finance].[Customers] ADD CONSTRAINT UC_Customer UNIQUE ([CustomerLogin])
+go
+
+ALTER TABLE [finance].[Customers] ADD  CONSTRAINT [DF_Customer_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+
+---------------------------------
+
+CREATE TABLE [finance].[CustomersPasswords](
+	[CustomerID] [int] NOT NULL,
+	[PasswordHash] [varchar](128) NOT NULL,
+	[PasswordSalt] [varchar](10) NOT NULL,
+	[rowguid] [uniqueidentifier] ROWGUIDCOL  NOT NULL,
+	[ModifiedDate] [datetime] NOT NULL,
+ CONSTRAINT [PK_Password_BusinessEntityID] PRIMARY KEY CLUSTERED 
 (
-	[ConsiderationID] ASC
+	[CustomerID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
 
-----------------------------
+ALTER TABLE [finance].[CustomersPasswords] ADD  CONSTRAINT [DF_Password_rowguid]  DEFAULT (newid()) FOR [rowguid]
+GO
+
+ALTER TABLE [finance].[CustomersPasswords] ADD  CONSTRAINT [DF_Password_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+
+ALTER TABLE [finance].[CustomersPasswords]  WITH CHECK ADD  CONSTRAINT [FK_Password_Person_BusinessEntityID] FOREIGN KEY([CustomerID])
+REFERENCES [finance].[Customers] ([CustomerID])
+GO
+
+ALTER TABLE [finance].[CustomersPasswords] CHECK CONSTRAINT [FK_Password_Person_BusinessEntityID]
+GO
+------------------------------
 CREATE TABLE [finance].[Events](
+
+--maybe will add [winnerID] [int] NULL,
 	[EventID] [int] NOT NULL IDENTITY(1,1),
-	[SportEventID] [int] NOT NULL,
-	[ConsiderationID] [int] NOT NULL,
-	[Chance] [float] NOT NULL,
-	[IsTrue] [bit] NULL,
-	[IsAvaliable] [bit] NULL,
+	[Event] [nvarchar](15) NOT NULL,
+	[SportID] [int] Null,
+	[EventGroup] [int] null,
+	[ModifiedDate] [datetime] NOT NULL,
  CONSTRAINT [PK_Events] PRIMARY KEY CLUSTERED 
 (
 	[EventID] ASC
@@ -203,41 +322,86 @@ CREATE TABLE [finance].[Events](
 ) ON [PRIMARY]
 GO
 
-ALTER TABLE [finance].[Events]  WITH CHECK ADD  CONSTRAINT [FK_Events_Matches] FOREIGN KEY([SportEventID])
+ALTER TABLE [finance].[Events] ADD  CONSTRAINT [DF_Events_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+
+ALTER TABLE [finance].[Events] WITH CHECK ADD  CONSTRAINT [FK_Events_Sport] FOREIGN KEY([SportID])
+REFERENCES [sport].[Sports] ([SportID])
+GO
+
+ALTER TABLE [finance].[Events] CHECK CONSTRAINT [FK_Events_Sport]
+GO
+
+----------------------------
+CREATE TABLE [finance].[Conditions](
+	[ConditionID] [int] NOT NULL IDENTITY(1,1),
+	[SportEventID] [int] NOT NULL,
+	[EventID] [int] NOT NULL,
+	[Chance] [float] NOT NULL,
+	[IsTrue] [bit] NULL,
+	[AvaliableTo] [datetime] NOT NULL,
+	---[ConditionGroup] [int] null,
+ CONSTRAINT [PK_Conditions] PRIMARY KEY CLUSTERED 
+(
+	[ConditionID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [finance].[Conditions]  WITH CHECK ADD  CONSTRAINT [FK_Conditions_Matches] FOREIGN KEY([SportEventID])
 REFERENCES [sport].[Matches]([MatchID])
 GO
 
-ALTER TABLE [finance].[Events] CHECK CONSTRAINT [FK_Events_Matches]
+ALTER TABLE [finance].[Conditions] CHECK CONSTRAINT [FK_Conditions_Matches]
 GO
 
-ALTER TABLE [finance].[Events] WITH CHECK ADD  CONSTRAINT [FK_Events_Considerations] FOREIGN KEY([ConsiderationID])
-REFERENCES [finance].[Considerations]([ConsiderationID])
+ALTER TABLE [finance].[Conditions] WITH CHECK ADD  CONSTRAINT [FK_Conditions_Events] FOREIGN KEY([EventID])
+REFERENCES [finance].[Events]([EventID])
 GO
 
-ALTER TABLE [finance].[Events] CHECK CONSTRAINT [FK_Events_Considerations]
+ALTER TABLE [finance].[Conditions] CHECK CONSTRAINT [FK_Conditions_Events]
 GO
 
 -------------------------------
 CREATE TABLE [finance].[Currencies](
-	[CurrencyID] [int] NOT NULL IDENTITY(1,1),
+	[CurrencyCode] nchar(3) not null,
+	[CurrencyName] [nvarchar] (50) Null,
+ CONSTRAINT [PK_Currencies] PRIMARY KEY CLUSTERED 
+(
+	[CurrencyCode] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+-----------------------------------------------
+
+CREATE TABLE [finance].[CurrenciesRates](
+	[CurrencyRateID] [int] NOT NULL IDENTITY(1,1),
+	[CurrencyCode] nchar(3) not null,
 	[CurrencyDollar] [float] NOT NULL,
 	[CurrencyDollarBay] [float] NULL,
 	[CurrencyDollarSell] [float] NULL,
 	[Date] [datetime] NOT NULL,
- CONSTRAINT [PK_Currencies] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_CurrenciesRates] PRIMARY KEY CLUSTERED 
 (
-	[CurrencyID] ASC
+	[CurrencyRateID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
+GO
+
+ALTER TABLE [finance].[CurrenciesRates] WITH CHECK ADD  CONSTRAINT [FK_CurrenciesRates_Currencies] FOREIGN KEY([CurrencyCode])
+REFERENCES [finance].[Currencies]([CurrencyCode])
+GO
+
+ALTER TABLE [finance].[CurrenciesRates] CHECK CONSTRAINT [FK_CurrenciesRates_Currencies]
 GO
 
 ----------------------------
 CREATE TABLE [finance].[Stakes](
 	[StakeID] [int] NOT NULL IDENTITY(1,1),
 	[Stake] [money] NOT NULL,
-	[CurrencyID] [int] NOT NULL,
+	[CurrencyCode] nchar(3) NOT NULL,
 	[CustomerID] [int] NOT NULL,
-	[EventID] [int] NOT NULL,
+	[ConditionID] [int] NOT NULL,
 	[Chance] [float] NOT NULL,
 	[Status] [int] NOT NULL,
 	[Date] [datetime] NOT NULL,
@@ -248,8 +412,8 @@ CREATE TABLE [finance].[Stakes](
 ) ON [PRIMARY]
 GO
 
-ALTER TABLE [finance].[Stakes] WITH CHECK ADD  CONSTRAINT [FK_Stakes_Currencies] FOREIGN KEY([CurrencyID])
-REFERENCES [finance].[Currencies]([CurrencyID])
+ALTER TABLE [finance].[Stakes] WITH CHECK ADD  CONSTRAINT [FK_Stakes_Currencies] FOREIGN KEY([CurrencyCode])
+REFERENCES [finance].[Currencies]([CurrencyCode])
 GO
 
 ALTER TABLE [finance].[Stakes] CHECK CONSTRAINT [FK_Stakes_Currencies]
@@ -262,11 +426,11 @@ GO
 ALTER TABLE [finance].[Stakes] CHECK CONSTRAINT [FK_Stakes_Customers]
 GO
 
-ALTER TABLE [finance].[Stakes] WITH CHECK ADD  CONSTRAINT [FK_Stakes_Events] FOREIGN KEY([EventID])
-REFERENCES [finance].[Events]([EventID])
+ALTER TABLE [finance].[Stakes] WITH CHECK ADD  CONSTRAINT [FK_Stakes_Conditions] FOREIGN KEY([ConditionID])
+REFERENCES [finance].[Conditions]([ConditionID])
 GO
 
-ALTER TABLE [finance].[Stakes] CHECK CONSTRAINT [FK_Stakes_Events]
+ALTER TABLE [finance].[Stakes] CHECK CONSTRAINT [FK_Stakes_Conditions]
 GO
 
 ----------------------------
@@ -275,8 +439,10 @@ CREATE TABLE [finance].[CustomersFinanceOperations](
 	[CustomerID] [int] NOT NULL,
 	[FinanceOperationTyp] [int] NOT NULL,
 	[Amount] [money] NOT NULL,
-	[AmountWithTax] [money] NOT NULL,
-	[CurrencyID] [int] NOT NULL,
+	[AmountCommission] [money] NOT NULL,
+	[AmountTax] [money] NOT NULL,
+	[FinalAmount] [money] NOT NULL,
+	[CurrencyCode] nchar(3) NOT NULL,
 	[OperationDate] [datetime] not null,
  CONSTRAINT [PK_CustomersFinanceOperations] PRIMARY KEY CLUSTERED 
 (
@@ -292,8 +458,8 @@ GO
 ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Customers]
 GO
 
-ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Currencies] FOREIGN KEY([CurrencyID])
-REFERENCES [finance].[Currencies] ([CurrencyID])
+ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Currencies] FOREIGN KEY([CurrencyCode])
+REFERENCES [finance].[Currencies] ([CurrencyCode])
 GO
 
 ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Currencies]
@@ -302,9 +468,9 @@ GO
 ----------------------------
 CREATE TABLE [sport].[MatchesResults](
 	[MatchID] [int] NOT NULL,
-	[ConsiderationID] [int] NOT NULL,
+	[EventID] [int] NOT NULL,
 	[IsTrue] [bit] NULL,
-	Primary key ([MatchID], [ConsiderationID])
+	Primary key ([MatchID], [EventID])
  )
 GO
 
@@ -315,53 +481,123 @@ GO
 ALTER TABLE [sport].[MatchesResults] CHECK CONSTRAINT [FK_MatchesResults_Match]
 GO
 
-ALTER TABLE [sport].[MatchesResults]  WITH CHECK ADD  CONSTRAINT [FK_MatchesResults_Consolations] FOREIGN KEY([ConsiderationID])
-REFERENCES [finance].[Considerations] ([ConsiderationID])
+ALTER TABLE [sport].[MatchesResults]  WITH CHECK ADD  CONSTRAINT [FK_MatchesResults_Consolations] FOREIGN KEY([EventID])
+REFERENCES [finance].[Events] ([EventID])
 GO
 
 ALTER TABLE [sport].[MatchesResults] CHECK CONSTRAINT [FK_MatchesResults_Consolations]
 GO
-----------------------------------------------
+-----------------------------------
 
+CREATE TABLE [finance].[Taxes](
+	[TaxID] [int] NOT NULL IDENTITY(1,1),
+	[Tax] nvarchar(50) NOT NULL,
+	[TaxRate] [float] NOT NULL,
+	[CountryCode] nvarchar(3) NOT NULL,
+	[ModifiedDate] [datetime] NOT NULL,
+ CONSTRAINT [PK_Taxes] PRIMARY KEY CLUSTERED 
+(
+	[TaxID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [finance].[Taxes]  WITH CHECK ADD  CONSTRAINT [FK_Taxes_Countries] FOREIGN KEY([CountryCode])
+REFERENCES [location].[Countries] ([CountryCode])
+GO
+
+ALTER TABLE [finance].[Taxes] CHECK CONSTRAINT [FK_Taxes_Countries]
+GO
+
+ALTER TABLE [finance].[Taxes] ADD  CONSTRAINT [DF_Taxes_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
+----------------------------------------------
+/*
+CREATE TABLE [finance].[InsideFinanceOperations](
+	[FinanceOperationID] [int] NOT NULL IDENTITY(1,1),
+	[CustomerOperationID] [int] NOT NULL,
+	[FinanceOperationTyp] [int] NOT NULL,
+	[Amount] [money] NOT NULL,
+	[CurrencyID] [int] NOT NULL,
+	[OperationDate] [datetime] not null,
+ CONSTRAINT [PK_InsideFinanceOperations] PRIMARY KEY CLUSTERED 
+(
+	[FinanceOperationID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [finance].[InsideFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_InsideFinanceOperations_Currencies] FOREIGN KEY([CurrencyID])
+REFERENCES [finance].[Currencies] ([CurrencyID])
+GO
+
+ALTER TABLE [finance].[InsideFinanceOperations] CHECK CONSTRAINT [FK_InsideFinanceOperations_Currencies]
+GO
+
+ALTER TABLE [finance].[InsideFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_InsideFinanceOperations_CustomerOperations] FOREIGN KEY([CustomerOperationID])
+REFERENCES [finance].[CustomersFinanceOperations] ([FinanceOperationID])
+GO
+
+ALTER TABLE [finance].[InsideFinanceOperations] CHECK CONSTRAINT [FK_InsideFinanceOperations_CustomerOperations]
+GO
+*/
+----------------------------------------------
 
 create view finance.CustomersBalanceView   --- view  for ballance
 with schemabinding
 as 
 select 
 	  CFO.CustomerID CustomerID,
-	sum(CFO.AmountWithTax) as Balance,
-	max(CFO.CurrencyID) AS CurrencyID,
+	sum(CFO.FinalAmount) as Balance,
+	max(CFO.CurrencyCode) AS CurrencyCode,
 	count_big(*) as Row_Count
 from finance.CustomersFinanceOperations CFO 
-group by CFO.CustomerID, CFO.CurrencyID
+group by CFO.CustomerID, CFO.CurrencyCode
 go
 
-
-create view finance.EventStakesSumView   --- view for sum for all events 
+---------------------------------------------
+create view finance.LastCurrencyCourse  --- view last course for each currency to dollar
 with schemabinding
 as 
-	with  lastCurrencyDate(CurrencyID, Date)
+	with MaxDate (CurrencyCode, Date)
+	as
+	(
+		select C.CurrencyCode CurrencyCode, max(C.Date) Date
+		from finance.CurrenciesRates C
+		group by C.CurrencyCode
+	)
+	select C.CurrencyCode, C.CurrencyDollar, C.CurrencyDollarBay, C.CurrencyDollarSell
+	from finance.CurrenciesRates C
+		join MaxDate MD on MD.CurrencyCode = C.CurrencyCode
+	where C.Date = MD.Date
+go
+
+----------------------------------------
+create view finance.ConditionStakesSumView   --- view for sum for all Conditions 
+with schemabinding
+as 
+	with  lastCurrencyDate(CurrencyCode, Date)
 as
 (
-	select C.CurrencyID, max(C.Date)
-	from finance.Currencies C
-	group by C.CurrencyID
+	select C.CurrencyCode, max(C.Date)
+	from finance.CurrenciesRates C
+	group by C.CurrencyCode
 )
-,lastCurrencyRate(currencyID, CurrencyDollar)
+,lastCurrencyRate(CurrencyCode, CurrencyDollar)
 as
 (
-	select C.CurrencyID, C.CurrencyDollar
-	from finance.Currencies C
-		join lastCurrencyDate LCD on LCD.CurrencyID = C.CurrencyID
+	select C.CurrencyCode, C.CurrencyDollar
+	from finance.CurrenciesRates C
+		join lastCurrencyDate LCD on LCD.CurrencyCode = C.CurrencyCode
 	where C.Date = LCD.Date
 )
 select 
-		 E.EventID, isnull(sum(S.Stake), 0)*isnull(max(C.CurrencyDollar), 1) as EventSum
-	from finance.Events E
-		left join finance.Stakes S on S.EventID = E.EventID
-		left join lastCurrencyRate C on C.CurrencyID = S.CurrencyID 
+		E.SportEventID, E.ConditionID, isnull(sum(S.Stake), 0)*isnull(max(C.CurrencyDollar), 1) as ConditionSum
+	from finance.Conditions E
+		left join finance.Stakes S on S.ConditionID = E.ConditionID
+		left join lastCurrencyRate C on C.CurrencyCode = S.CurrencyCode 
 	where E.IsTrue is null 
 		and isnull(S.Status, 1) =  1 
-	group by E.EventID
+	group by E.SportEventID, E.ConditionID
 go
 

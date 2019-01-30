@@ -1,0 +1,85 @@
+﻿Team	TournamentName	ParentTeamID
+1. Division - 2018/19	1. Division	NULL
+1. liga - 2018/19	1. liga	NULL
+1a Divisao - 2018/19	1a Divisao	NULL
+1st Division - 2018/19	1st Division	NULL
+1st Liga - 2018/19	1st Liga	NULL
+2nd Bundesliga - 2018/19	2nd Bundesliga	NULL
+AFL - 2018	AFL	NULL
+Allsvenskan - 2018/19	Allsvenskan	NULL
+Alps Hockey League - 2018/19	Alps Hockey League	NULL
+Asobal - 2018/19	Asobal	NULL
+Basketligaen - 2018/19	Basketligaen	NULL
+BBL - 2018/19	BBL	NULL
+Bundesliga - 2018/19	Bundesliga	NULL
+CFL - 2018/19	CFL	NULL
+Champions League - 2018/19	Champions League	NULL
+Club Friendlies - 2018/19	Club Friendlies	NULL
+College - 2018/19	College	NULL
+Cup - 2018/19	Cup	NULL
+Currie Cup - 2018	Currie Cup	NULL
+Damehandboldligaen - 2018/19	Damehandboldligaen	NULL
+Division De Honor Femenina - 2018/19	Division De Honor Femenina	NULL
+EBEL - 2018/19	EBEL	NULL
+Ekstraliga - 2018/19	Ekstraliga	NULL
+Elite League - 2018/19	Elite League	NULL
+Eliteserien - 2018/19	Eliteserien	NULL
+Elitserien - 2018/19	Elitserien	NULL
+English Premiership - 2018	English Premiership	NULL
+Erste Liga - 2018/19	Erste Liga	NULL
+Extraliga - 2018/19	Extraliga	NULL
+FIBA World Championship - 2018/19	FIBA World Championship	NULL
+FIVB World Championship Men - 2018/19	FIVB World Championship Men	NULL
+Handboldligaen - 2018/19	Handboldligaen	NULL
+Hockey Allsvenskan - 2018/19	Hockey Allsvenskan	NULL
+HockeyEttan Norra - 2018/19	HockeyEttan Norra	NULL
+HockeyEttan Ostra - 2018/19	HockeyEttan Ostra	NULL
+HockeyEttan Sodra - 2018/19	HockeyEttan Sodra	NULL
+HockeyEttan Vastra - 2018/19	HockeyEttan Vastra	NULL
+Int. Friendly Games - 2018/19	Int. Friendly Games	NULL
+KHL - 2018/19	KHL	NULL
+KOVO Cup - 2018/19	KOVO Cup	NULL
+Latvian Hockey League - 2018/19	Latvian Hockey League	NULL
+League Cup - 2018/19	League Cup	NULL
+Liga ABA - 2018/19	Liga ABA	NULL
+Liga ABA Super Cup - 2018/19	Liga ABA Super Cup	NULL
+Liga Nationala - 2018/19	Liga Nationala	NULL
+Ligue Magnus - 2018/19	Ligue Magnus	NULL
+LKL - 2018/19	LKL	NULL
+LNB - 2018/19	LNB	NULL
+LNH Division 1 - 2018/19	LNH Division 1	NULL
+LNH Division 1 Men - 2018/19	LNH Division 1 Men	NULL
+Meistriliiga - 2018/19	Meistriliiga	NULL
+Mestaruusliiga - 2018/19	Mestaruusliiga	NULL
+MHL - 2018/19	MHL	NULL
+MNLA - 2018/19	MNLA	NULL
+National League - 2018/19	National League	NULL
+National League A - 2018/19	National League A	NULL
+National League B - 2018/19	National League B	NULL
+NB I - 2018/19	NB I	NULL
+NBL - 2018/19	NBL	NULL
+NFL - 2018/19	National Football League	NULL
+NHL - 2018/19	NHL	NULL
+NPC - 2018	NPC	NULL
+NRL - 2018	NRL	NULL
+NSW Cup - 2018	NSW Cup	NULL
+PBA - 2018/19	PBA	NULL
+Pro A - 2018/19	Pro A	NULL
+Pro D2 - 2018	Pro D2	NULL
+Pro14 - 2018	Pro14	NULL
+RFU Championship - 2018	RFU Championship	NULL
+Salibandyliiga - 2018/19	Salibandyliiga	NULL
+SEHA League - 2018/19	SEHA League	NULL
+SHL - 2018/19	SHL	NULL
+SM-Liiga - 2018/19	SM-Liiga	NULL
+Spagnola ACB - 2018/19	Spagnola ACB	NULL
+Super 8s - 2018	Super 8s	NULL
+Super League - 2018/19	Super League	NULL
+Superisligaen - 2018/19	Superisligaen	NULL
+Superliga - 2018/19	Superliga	NULL
+The Rugby Championship - 2018	The Rugby Championship	NULL
+UFL - 2018/19	UFL	NULL
+Urvalsdeild - 2018/19	Urvalsdeild	NULL
+VHL - 2018/19	VHL	NULL
+WNBA - 2018/19	WNBA	NULL
+Women Bundesliga - 2018/19	Women Bundesliga	NULL

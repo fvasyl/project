@@ -1,0 +1,9 @@
+﻿SportID	Sport	SportType
+2	American Football	olimpic
+4	Basketball	olimpic
+6	Floorball	olimpic
+7	Handball	olimpic
+9	Rugby League	olimpic
+11	Ice Hockey	olimpic
+12	Aussie rules	olimpic
+13	Volleyball	olimpic

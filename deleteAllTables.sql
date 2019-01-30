@@ -1,8 +1,9 @@
 use [SportDB]
 go
 
-drop view finance.EventStakesSumView
+drop view finance.ConditionStakesSumView
 drop view finance.CustomersBalanceView
+drop view finance.LastCurrencyCourse 
 
 DECLARE @Sql NVARCHAR(500) DECLARE @Cursor CURSOR
 

@@ -1,6 +1,88 @@
 use [SportDB]
 go
 
+
+IF OBJECT_ID ( 'location.UpsertCountry', 'P' ) IS NOT NULL   ---ADD or Change Sport
+    DROP PROCEDURE location.UpsertCountry;  
+GO
+create procedure location.UpsertCountry 
+	@CountryCode  nchar(3) = null, 
+	@CountryEnglishName nvarchar(max) = null
+as
+	begin try
+		set nocount, xact_abort on
+
+		if not exists (select top (1)* from location.Countries C where C.CountryCode = @CountryCode)
+			insert into location.Countries(CountryCode, CountryEnglishName)
+			values (@CountryCode, @CountryEnglishName)
+		else
+		   update location.Countries
+		   set location.Countries.CountryEnglishName = @CountryEnglishName
+		   where location.Countries.CountryCode = @CountryCode;
+
+	end try
+	begin catch
+		throw
+	end catch
+go
+--------------------------------------------------
+
+IF OBJECT_ID ( 'location.UpsertCity', 'P' ) IS NOT NULL   ---ADD or Change Sport
+    DROP PROCEDURE location.UpsertCity;  
+GO
+create procedure location.UpsertCity 
+	@CityID int = null, 
+	@CityName nvarchar(max) = null, 
+	@CountryCode  nchar(3) = null
+as
+	begin try
+		set nocount, xact_abort on
+
+		if isnull(@CityID,'') = ''
+			insert into location.Cities(CityName, CountryCode)
+			values (@CityName, @CountryCode)
+		else
+		   update location.Cities
+		   set location.Cities.CityName = @CityName,
+				location.Cities.CountryCode = @CountryCode
+		   where location.Cities.CityID = @CityID;
+
+	end try
+	begin catch
+		throw
+	end catch
+go
+--------------------------------------------------
+
+IF OBJECT_ID ( 'location.UpsertSportArena', 'P' ) IS NOT NULL   ---ADD or Change Sport
+    DROP PROCEDURE location.UpsertSportArena;  
+GO
+create procedure location.UpsertSportArena 
+	@SportArenaID int = null, 
+	@AmountOfSits int = null, 
+	@CityID  int = null, 
+	@ArenaName nvarchar(max) = null
+as
+	begin try
+		set nocount, xact_abort on
+
+		if isnull(@SportArenaID,'') = ''
+			insert into location.SportArens(AmountOfSits, CityID, ArenaName)
+			values (@AmountOfSits, @CityID, @ArenaName)
+		else
+		   update location.SportArens
+		   set location.SportArens.AmountOfSits = @AmountOfSits,
+				location.SportArens.ArenaName = @CityID,
+				location.SportArens.CityID = @ArenaName
+		   where location.SportArens.SportArenaID = @SportArenaID;
+
+	end try
+	begin catch
+		throw
+	end catch
+go
+--------------------------------------------------
+
 IF OBJECT_ID ( 'sport.UpsertSport', 'P' ) IS NOT NULL   ---ADD or Change Sport
     DROP PROCEDURE sport.UpsertSport;  
 GO
@@ -108,6 +190,7 @@ GO
 create procedure sport.UpsertTeam 
 	@TeamID int = null, 
 	@Team nvarchar(450) = null, 
+	@ParentTeamID int = null,
 	@TeamInformation  nvarchar(max) = null, 
 	@TournamentID int = null
 as
@@ -119,8 +202,8 @@ as
 			throw 50000, 'Invalid parameters', 1
 
 		if isnull(@TeamID,'') = ''
-			insert into sport.Teams(Team, TeamInformation, TournamentID)
-			values (@Team, @TeamInformation, @TournamentID)
+			insert into sport.Teams(Team, ParentTeamID, TeamInformation, TournamentID)
+			values (@Team, @ParentTeamID, @TeamInformation, @TournamentID)
 		else
 		   update sport.Teams
 		   set sport.Teams.Team = @Team,
@@ -157,45 +240,7 @@ as
 		throw
 	end catch
 go
--------------------------------------
-
-IF OBJECT_ID ( 'sport.UpsertMatch', 'P' ) IS NOT NULL   ---ADD or Change Match
-    DROP PROCEDURE sport.UpsertMatch;  
-GO
-create procedure sport.UpsertMatch 
-
-	@MatchID int = null, 
-	@DateMatch datetime = null,
-	@HomeParticipant int = null,
-	@AwayParticipant int = null, 
-	@TeamID int = null
-as
-	begin try
-		set nocount, xact_abort on
-
-		if isnull(@DateMatch,'') = '' or
-			isnull(@HomeParticipant,'') = ''  or
-			isnull(@AwayParticipant,'') = '' 
-			throw 50000, 'Invalid parameters', 1
-
-		if isnull(@MatchID,'') = ''
-			insert into sport.Matches(DateMatch, HomeParticipant, AwayParticipant, TeamID)
-			values (@DateMatch, @HomeParticipant, @AwayParticipant, @TeamID)
-		else
-		   update sport.Matches
-		   set sport.Matches.DateMatch = @DateMatch,
-				sport.Matches.HomeParticipant = @HomeParticipant,
-				sport.Matches.AwayParticipant = @AwayParticipant,
-				sport.Matches.TeamID = @TeamID
-		   where sport.Matches.MatchID = @MatchID;
-
-	end try
-	begin catch
-		throw
-	end catch
-go
 --------------------------------------------------
-
 
 IF OBJECT_ID ( 'finance.UpsertCustomerGroup', 'P' ) IS NOT NULL   ---ADD or Change CustomersGroups
     DROP PROCEDURE finance.UpsertCustomerGroup;  
@@ -236,27 +281,42 @@ create procedure finance.UpsertCustomer
 
 	@CustomerID int = null, 
 	@CustomerLogin nvarchar(15) = null,
-	@CustomerPassword nvarchar(15) = null,
 	@CustomerEmail nvarchar(25) = null, 
-	@CustomerGroupID int = null
+	@CustomerGroupID int = null,
+	@CountryCode nchar(3) = null,
+	@PasswordHash varchar(128) =  NULL,
+	@PasswordSalt varchar(10) = NULL
 as
 	begin try
 		set nocount, xact_abort on
 
-		if isnull(@CustomerGroupID,'') = '' 
-			throw 50000, 'Invalid parameters', 1
+		if isnull(@CustomerGroupID,'') = ''  or
+			isnull(@PasswordHash,'') = '' or
+			isnull(@PasswordSalt,'') = ''
+				throw 50000, 'Invalid parameters', 1
 
 		if isnull(@CustomerID,'') = ''
-			insert into finance.Customers(CustomerLogin, CustomerPassword, CustomerEmail, CustomerGroupID)
-			values (@CustomerLogin, @CustomerPassword, @CustomerEmail, @CustomerGroupID)
+		begin
+			insert into finance.Customers(CustomerLogin, CustomerEmail, CustomerGroupID, CountryCode)
+			values (@CustomerLogin, @CustomerEmail, @CustomerGroupID, @CountryCode) --CustomerPassword
+			insert into finance.CustomersPasswords(CustomerID, PasswordHash, PasswordSalt)
+			values (@@identity, @PasswordHash, @PasswordSalt)
+		end
 		else
+		begin
 		   update finance.Customers
 		   set finance.Customers.CustomerLogin = @CustomerLogin,
-				finance.Customers.CustomerPassword = @CustomerPassword,
+				--finance.Customers.CustomerPassword = @CustomerPassword,
 				finance.Customers.CustomerEmail = @CustomerEmail,
 				finance.Customers.CustomerGroupID = @CustomerGroupID
 		   where finance.Customers.CustomerID = @CustomerID;
 
+		   update finance.CustomersPasswords
+		   set finance.CustomersPasswords.PasswordHash = @PasswordHash,
+				finance.CustomersPasswords.PasswordSalt = @PasswordSalt
+		   where finance.CustomersPasswords.CustomerID = @CustomerID;
+
+		end
 	end try
 	begin catch
 		throw
@@ -264,28 +324,31 @@ as
 go
 ---------------------------------------
 
-IF OBJECT_ID ( 'finance.UpsertConsideration', 'P' ) IS NOT NULL   ---ADD or Change Consideration
-    DROP PROCEDURE finance.UpsertConsideration;  
+IF OBJECT_ID ( 'finance.UpsertEvent', 'P' ) IS NOT NULL   ---ADD or Change Event
+    DROP PROCEDURE finance.UpsertEvent;  
 GO
-create procedure finance.UpsertConsideration 
+create procedure finance.UpsertEvent 
 
-	@ConsiderationID int = null, 
-	@Consideration nvarchar(15) = null
+	@EventID int = null, 
+	@Event nvarchar(15) = null,
+	@SportID int = Null,
+	@EventGroup int = null
 as
 	begin try
 		set nocount, xact_abort on
 
-		if isnull(@Consideration,'') = '' 
+		if isnull(@Event,'') = '' 
 			throw 50000, 'Invalid parameters', 1
 
-		if isnull(@ConsiderationID,'') = ''
-			insert into finance.Considerations(Consideration)
-			values (@Consideration)
+		if isnull(@EventID,'') = ''
+			insert into finance.Events(Event, SportID, EventGroup)
+			values (@Event, @SportID, @EventGroup)
 		else
-		   update finance.Considerations
-		   set finance.Considerations.Consideration = @Consideration
-		   where finance.Considerations.ConsiderationID = @ConsiderationID;
-
+		   update finance.Events
+		   set finance.Events.Event = @Event,
+		   finance.Events.SportID = @SportID,
+		   finance.Events.EventGroup = @SportID
+		   where finance.Events.EventID = @EventGroup
 	end try
 	begin catch
 		throw
@@ -295,34 +358,39 @@ go
 ----------------------------------
 
 
-IF OBJECT_ID ( 'finance.UpsertEvent', 'P' ) IS NOT NULL   ---ADD or Change Event
-    DROP PROCEDURE finance.UpsertEvent;  
+IF OBJECT_ID ( 'finance.UpsertCondition', 'P' ) IS NOT NULL   ---ADD or Change Condition
+    DROP PROCEDURE finance.UpsertCondition;  
 GO
-create procedure finance.UpsertEvent 
+create procedure finance.UpsertCondition 
 
-	@EventID int = null, 
+	@ConditionID int = null, 
 	@SportEventID int = null,
-	@ConsiderationID int = null, 
+	@EventID int = null, 
 	@Chance float = 0,
 	@IsTrue bit = null
+	--, @ConditionGroup int = null
 as
 	begin try
 		set nocount, xact_abort on
 
 		if isnull(@SportEventID,'') = '' or
-			isnull(@ConsiderationID,'') = ''
+			isnull(@EventID,'') = ''  
 			throw 50000, 'Invalid parameters', 1
 
-		if isnull(@EventID,'') = ''
-			insert into finance.Events(SportEventID, ConsiderationID, Chance, IsTrue)
-			values (@SportEventID, @ConsiderationID, @Chance, @IsTrue)
+		declare @AvaliableTo datetime = DATEADD(s, -10,(select M.DateMatch from sport.Matches M Where M.MatchID = @SportEventID))
+
+		if isnull(@ConditionID,'') = ''
+			insert into finance.Conditions(SportEventID, EventID, Chance, IsTrue, AvaliableTo)--, ConditionGroup)
+			values (@SportEventID, @EventID, @Chance, @IsTrue, @AvaliableTo)--, @ConditionGroup)
 		else
-		   update finance.Events
-		   set finance.Events.SportEventID = @SportEventID,
-				finance.Events.ConsiderationID = @ConsiderationID,
-				finance.Events.Chance = @Chance,
-				finance.Events.IsTrue = @IsTrue
-		   where finance.Events.EventID = @EventID;
+		   update finance.Conditions
+		   set finance.Conditions.SportEventID = @SportEventID,
+				finance.Conditions.EventID = @EventID,
+				finance.Conditions.Chance = @Chance,
+				finance.Conditions.IsTrue = @IsTrue,
+				finance.Conditions.AvaliableTo = @AvaliableTo
+				--, finance.Conditions.ConditionGroup = @ConditionGroup
+		   where finance.Conditions.ConditionID = @ConditionID;
 
 	end try
 	begin catch
@@ -332,12 +400,38 @@ go
 ---------------------------------
 
 
-IF OBJECT_ID ( 'finance.UpsertCurrency', 'P' ) IS NOT NULL   ---ADD or Change Currency 
-    DROP PROCEDURE finance.UpsertCurrency;  
+IF OBJECT_ID ( 'finance.AddCurrency', 'P' ) IS NOT NULL   ---ADD or Change Currency 
+    DROP PROCEDURE finance.AddCurrency;  
 GO
-create procedure finance.UpsertCurrency 
+create procedure finance.AddCurrency 
 
-	@CurrencyID int = null, 
+	@CurrencyCode nchar(3) = null,
+	@CurrencyName nvarchar(50) = null
+as
+	begin try
+		set nocount, xact_abort on
+
+		if not exists(select top(1) * from finance.Currencies C where C.CurrencyCode = @CurrencyCode)
+			insert into finance.Currencies(CurrencyCode, CurrencyName)
+			values (@CurrencyCode, @CurrencyName)
+		else
+		   update finance.Currencies
+		   set finance.Currencies.CurrencyName = @CurrencyName
+		   where finance.Currencies.CurrencyCode = @CurrencyCode;
+
+	end try
+	begin catch
+		throw
+	end catch
+go
+
+---------------------------------
+IF OBJECT_ID ( 'finance.UpsertCurrencyRate', 'P' ) IS NOT NULL   ---ADD or Change Currency 
+    DROP PROCEDURE finance.UpsertCurrencyRate;  
+GO
+create procedure finance.UpsertCurrencyRate 
+
+	@CurrencyCode nchar(3) = null,
 	@CurrencyDollar float = null,
 	@CurrencyDollarBay float = null, 
 	@CurrencyDollarSell float = null,
@@ -352,16 +446,12 @@ as
 		if isnull(@Date,'') = ''
 			set @Date = GETDATE()
 
-		if isnull(@CurrencyID,'') = ''
-			insert into finance.Currencies(CurrencyDollar, CurrencyDollarBay, CurrencyDollarSell, Date)
-			values (@CurrencyDollar, @CurrencyDollarBay, @CurrencyDollarSell, @Date)
+		if isnull(@CurrencyCode,'') = '' or
+			not exists(select top(1) * from finance.Currencies C where C.CurrencyCode = @CurrencyCode)
+			throw 50000, 'Invalid parameters', 1
 		else
-		   update finance.Currencies
-		   set finance.Currencies.CurrencyDollar = @CurrencyDollar,
-				finance.Currencies.CurrencyDollarBay = @CurrencyDollarBay,
-				finance.Currencies.CurrencyDollarSell = @CurrencyDollarSell,
-				finance.Currencies.Date = @Date
-		   where finance.Currencies.CurrencyID = @CurrencyID;
+		   insert into finance.CurrenciesRates(CurrencyCode, CurrencyDollar, CurrencyDollarBay, CurrencyDollarSell, Date)
+			values (@CurrencyCode, @CurrencyDollar, @CurrencyDollarBay, @CurrencyDollarSell, @Date)
 
 	end try
 	begin catch

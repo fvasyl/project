@@ -1,0 +1,768 @@
+﻿Club	Sport
+1 SC Ssk Vitkovice	Floorball
+1946 St. Petersburg - Kapitan Stupino	Ice Hockey
+AA Aguas Santas	Handball
+AA Avanca	Handball
+AaB Handball	Handball
+Aalborg Pirates	Ice Hockey
+Aarhus Handball	Handball
+AC Fafe	Handball
+AC Sparta Prag	Floorball
+Admiral Vladivostok	Ice Hockey
+Afturelding	Handball
+Aifk	Handball
+AIK	Handball
+AIK IF	Ice Hockey
+Air21 Express	Basketball
+Ajax Copenhagen	Handball
+AK Bars Kazan	Ice Hockey
+Akaa Volley	Volleyball
+Akureyri Handboltafelag	Handball
+Alingsås HK	Handball
+Almaz Cherepovets	Ice Hockey
+Almtuna IS	Ice Hockey
+Amur Khabarovsk	Ice Hockey
+Amurskie Tigry K.	Ice Hockey
+Anglet Hormadi Elite	Ice Hockey
+Ansan Rush&Cash	Volleyball
+Antibes Sharks	Basketball
+Argentina	Basketball
+Argentina	Rugby League
+Argentina	Volleyball
+Argentino Junin	Basketball
+AS Beziers Herault	Rugby League
+AS Monaco	Basketball
+ASG Angers	Ice Hockey
+Ässät Pori	Ice Hockey
+Asvel Lyon-Villeurbanne	Basketball
+Auckland	Rugby League
+Australia	Basketball
+Australia	Rugby League
+Australia	Volleyball
+Aviron Bayonne	Rugby League
+Aviv - BC Zalgiris Kaunas	Basketball
+Avto Yekaterinburg	Ice Hockey
+Avtomobilist Yekaterinburg	Ice Hockey
+Balatonfuredi Kse	Handball
+Baltimore Ravens	American Football
+Banco Di Sardegna Sassari	Basketball
+Bars Kazan	Ice Hockey
+Baseti	Handball
+Bay of Plenty	Rugby League
+Bayern Munich	Basketball
+BC Alytaus Dzukija	Basketball
+BC Lietkabelis	Basketball
+BC River Andorra	Basketball
+Bedford	Rugby League
+Belarus	Ice Hockey
+Belgium	Basketball
+Belgium	Volleyball
+Belye Medvedi	Ice Hockey
+Benetton Treviso	Rugby League
+Benlose FC	Floorball
+Beskid Nowy Sacz - EKS Start Elblag	Handball
+BFC Vendsyssel	Floorball
+Biarritz Olympique	Rugby League
+Bidasoa Irun	Handball
+BIK Karlskoga	Ice Hockey
+Bjerringbro	Handball
+BK Heid	Handball
+BK JIP Pardubice	Basketball
+BK Sluneta USTI Nad Labem	Basketball
+Blackwater Elite	Basketball
+Bnei Herzelia	Basketball
+Boca Juniors	Basketball
+Boden Handball IF	Handball
+Bodens HF	Ice Hockey
+Bordeaux Ghc	Ice Hockey
+Borlänge HC	Ice Hockey
+Boston College Eagles	American Football
+Boulazac Basket	Basketball
+Bourg	Rugby League
+Bourg De Peage	Handball
+Brazil	Volleyball
+Brest Bretagne Handball	Handball
+Bristol Shoguns	Rugby League
+Brynäs IF	Ice Hockey
+BSV Bern Muri	Handball
+Buffalo Sabres	Ice Hockey
+Bulgaria	Volleyball
+Bulldogs Brno	Floorball
+Buran Voronezh	Ice Hockey
+Cameroon	Volleyball
+Canada	Basketball
+Canada	Volleyball
+Canterbury	Rugby League
+Canterbury Bulldogs	Rugby League
+Cardiff Blues	Rugby League
+Castleford Tigers	Rugby League
+Catalans Dragons	Rugby League
+CCR Fermentoes	Handball
+Ceng Tou	Ice Hockey
+Cercle Dijon Bourgogne	Handball
+Chaika Nizhny Nov.	Ice Hockey
+Chambery Savoie	Handball
+Chambray Touraine	Handball
+Chamonix	Ice Hockey
+Champ. Chalons Reims Basket	Basketball
+Charlotte 49ers	American Football
+Cheetahs	Rugby League
+Chehovski Medvedi	Handball
+Chelmet Chelyabinsk	Ice Hockey
+Cheonan Hyundai Capital Skywalkers	Volleyball
+Chicago Bears	American Football
+China	Basketball
+China	Volleyball
+Cholet Basket	Basketball
+Chur Uhc	Floorball
+Cibona Zagreb	Basketball
+Cincinnati Bengals	American Football
+CJF Fleury Les Aubrais	Handball
+Classic Tampere	Floorball
+Club Atletico San Lorenzo De Almagro	Basketball
+Club Deportivo Hispano Americano	Basketball
+Cocks	Handball
+Collingwood Magpies	Aussie rules
+Colomiers Rugby	Rugby League
+Columbus Blue Jackets	Ice Hockey
+Comunicaciones	Basketball
+Connacht Rugby	Rugby League
+Coop Polva	Handball
+Copenhagen SFC	Floorball
+Cornish Pirates	Rugby League
+Corona Brasov	Ice Hockey
+Counties Manukau	Rugby League
+Coventry Rugby	Rugby League
+Crailsheim Merlins	Basketball
+Cronulla Sharks	Rugby League
+Crvena Zvezda Telekom	Basketball
+CSG Strasbourg	Ice Hockey
+CSK VVS Samara	Ice Hockey
+CSKA Moscow	Ice Hockey
+Cuba	Volleyball
+DAB Docler	Ice Hockey
+Deajeon Bluefangs	Volleyball
+Debreceni Egyetem AC	Ice Hockey
+de-Fonds - HC Biasca	Ice Hockey
+Denmark	Handball
+DHC Rheinland	Handball
+DHL Western Province	Rugby League
+Dijon Bourgogne	Basketball
+Dinamo Baumit Bucuresti	Handball
+Dizel Penza	Ice Hockey
+Djurgaardens IF	Ice Hockey
+Dominican Republic	Volleyball
+Doncaster Knights	Rugby League
+Dukla Trencin	Ice Hockey
+Dunkerque HB	Handball
+Ealing Trailfinders	Rugby League
+EC S.feldkirch	Ice Hockey
+Edinburgh Rugby	Rugby League
+Efes Anadolu Istanbul	Basketball
+Eger Sbs	Handball
+Egypt	Volleyball
+EHC Biel	Ice Hockey
+EHC Bregenzerwald	Ice Hockey
+EHV Aue	Handball
+Eisbären Bremerhaven	Basketball
+Elverum	Handball
+Enköpings SK HK	Ice Hockey
+ES Chalon	Basketball
+ESBF Besancon	Handball
+Esbjerg Energy	Ice Hockey
+Espoon Oilers	Floorball
+Estudiantes de Concordia	Basketball
+EV Zug	Ice Hockey
+Exeter Chiefs	Rugby League
+Färjestads BK	Ice Hockey
+FBC Liberec	Floorball
+FBC Ostrava	Floorball
+FBC Pullo Trade Ceska Lipa	Floorball
+FBK Sokol Mlada Boleslav	Floorball
+FBS Bohemians	Floorball
+FBT Pori	Floorball
+FC Barcelona	Handball
+FC Midtjylland	Handball
+FC Porto Vitalis	Handball
+Ferencvaros	Ice Hockey
+FH Hafnarfjardar	Handball
+FHK Elite	Handball
+Fife Flyers	Ice Hockey
+Floorball Köniz	Floorball
+Florida Atlantic Owls	American Football
+Ford Pumas	Rugby League
+Forshaga IF	Ice Hockey
+FOS Ouest Provence Basket	Basketball
+Fraikin BM Granollers	Handball
+France	Basketball
+France	Handball
+France	Volleyball
+Frederikshavn Blackhawks	Floorball
+Frederikshavn White Hawks	Ice Hockey
+Frisk/Asker	Ice Hockey
+Frölunda HC	Ice Hockey
+FTC Budapest	Handball
+Füchse Berlin	Handball
+Galil Gilboa	Basketball
+Gasterra Flames Groningen	Basketball
+Geneve Servette HC	Ice Hockey
+Gjovik Mammuts	Ice Hockey
+GKS Katowice	Ice Hockey
+Glasgow Warriors	Rugby League
+Gloucester Rugby	Rugby League
+GOG Handbold	Handball
+Golden Lions	Rugby League
+Gorniczy Klub Sportowy Tychy	Ice Hockey
+Gornyak Uchaly	Ice Hockey
+Grasshopper Club Zurich	Floorball
+Greater Western Sydney	Aussie rules
+Greece	Basketball
+Grenoble MH 38	Ice Hockey
+Grifk	Handball
+Grums IK	Ice Hockey
+Guildford Flames	Ice Hockey
+GWK Griquas	Rugby League
+Gyergyoi HK	Ice Hockey
+Halifax Blue Sox	Rugby League
+Halmstad Hammers	Ice Hockey
+Hammarby HB	Handball
+Hammarby Hockey IF	Ice Hockey
+Hanhals IF	Ice Hockey
+Hanvikens SK	Ice Hockey
+Hapoel Beer Sheva	Basketball
+Hapoel Holon	Basketball
+Happee	Floorball
+Hartpury College	Rugby League
+Hasle/Loren Ishockey	Ice Hockey
+Hästö IF	Handball
+Haukar Hafnarfjordur	Handball
+Hawke´s Bay	Rugby League
+Hawthorn Hawks	Aussie rules
+HBC Nantes	Handball
+HBC Saint-Amand-les-Eaux Porte du Hainaut	Handball
+HC 05 Banska Bystrica	Ice Hockey
+HC 07 Detva	Ice Hockey
+HC Ajoie	Ice Hockey
+HC Altai	Ice Hockey
+HC Ambri Piotta	Ice Hockey
+HC Amiens Somme	Ice Hockey
+HC AZ Havirov 2010	Ice Hockey
+HC Banik Karvina	Handball
+HC Barys Astana	Ice Hockey
+HC Benatky Nad Jizerou	Ice Hockey
+HC Cement Hranice	Handball
+HC Croatia Osiguranje Zagreb	Handball
+HC Dalen	Ice Hockey
+HC Davos	Ice Hockey
+HC Dinamo Maladzyechna	Ice Hockey
+HC Dinamo Riga	Ice Hockey
+HC Dukla Jihlava	Ice Hockey
+HC Dynamo Moscow	Ice Hockey
+HC Elbflorenz Dresden	Handball
+HC Fribourg Gotteron	Ice Hockey
+HC Frydek Mistek	Ice Hockey
+HC Horacka Slavia Trebic	Ice Hockey
+HC Kehra	Handball
+HC Kladno	Ice Hockey
+HC Kosice	Ice Hockey
+HC Kriens-Luzern	Handball
+HC La Chaux-de-Fonds	Ice Hockey
+HC Lugano	Ice Hockey
+HC Meshkov Brest	Handball
+HC Motor Ceske Budejovice	Ice Hockey
+HC Nice	Ice Hockey
+HC Orebro	Ice Hockey
+HC Red Star Kunlun	Ice Hockey
+HC Rhein Vikings	Handball
+HC RT Torax Poruba	Ice Hockey
+HC Rychenberg Winterthur	Floorball
+HC Slavia Prag	Ice Hockey
+HC Slovan Ustecti Lvi	Ice Hockey
+HC Slovnaft Vsetin	Ice Hockey
+HC Sochi	Ice Hockey
+HC Sparta Prag	Ice Hockey
+HC Stadion Litomerice	Ice Hockey
+HC Taifun	Ice Hockey
+HC Tambov	Ice Hockey
+HC Tatran Presov	Handball
+HC THP Topvar Topolcany	Handball
+HC Traktor Chelyabinsk	Ice Hockey
+HC TWK Innsbruck Die Haie	Ice Hockey
+HC Vita Hasten	Ice Hockey
+HC Vitiaz Chehov	Ice Hockey
+HC Yugra Khanty-Mansiysk	Ice Hockey
+HC Zubr Prerov	Ice Hockey
+HCM Ramnicu Valcea	Handball
+Helsingborgs HC	Ice Hockey
+Herbalife Gran Canaria	Basketball
+Herlev Eagles	Ice Hockey
+Herning Blue Fox	Ice Hockey
+HIFK Hockey	Ice Hockey
+HK Aranäs	Handball
+HK Avangard Omsk	Ice Hockey
+HK Dinamo Minsk	Ice Hockey
+HK Dinamo St Petersburg	Ice Hockey
+HK Gomel	Ice Hockey
+HK Jestrabi Prostejov	Ice Hockey
+HK Lida	Ice Hockey
+HK Malmö	Handball
+HK MVD	Ice Hockey
+HK Prizma	Ice Hockey
+HK Riga	Ice Hockey
+HK Ryazan	Ice Hockey
+HK Sarov	Ice Hockey
+HK SKP Poprad	Ice Hockey
+HKM Nitra	Ice Hockey
+HKM Zvolen	Ice Hockey
+Hockey Academy Zug	Ice Hockey
+Hoj	Handball
+Hokiklub Budapest	Ice Hockey
+Hoors HK H 65	Handball
+HPK Hämeenlinna	Ice Hockey
+HSC 2000 Coburg	Handball
+HSC Csikszereda	Ice Hockey
+HSG Nordhorn	Handball
+HSG Wetzlar	Handball
+HSV Hamburg	Handball
+Huddersfield Giants	Rugby League
+Hudiksvalls HC	Ice Hockey
+Hull FC	Rugby League
+Hull Kingston Rovers	Rugby League
+HV 71	Ice Hockey
+Hvidovre Attack	Floorball
+Hvidovre Fighters	Ice Hockey
+IF Björklöven	Ice Hockey
+IF Troja/Ljungby	Ice Hockey
+IFK Arboga	Ice Hockey
+IFK Kristianstad	Handball
+IFK Kumla	Ice Hockey
+IFK Skövde HK	Handball
+IFK Ystads HK	Handball
+IHK Sparta Sarpsborg	Ice Hockey
+IK Oskarshamn	Ice Hockey
+IK Pantern	Ice Hockey
+IK Savehof	Handball
+Illinois Fighting Illini	American Football
+Ilves Tampere	Ice Hockey
+Incheon Korean Air Jumbos	Volleyball
+Instituto Atletico Central Cordoba	Basketball
+IR Reykjavik	Handball
+Iran	Volleyball
+Irbis Kazan	Ice Hockey
+Issy Paris	Handball
+Istres Ouest Provence	Handball
+Italy	Volleyball
+Izhstal Izhevsk	Ice Hockey
+Japan	Basketball
+Japan	Volleyball
+Jersey	Rugby League
+Jeunesse Laique de Bourg	Basketball
+JKH GKS Jastrzebie	Ice Hockey
+Jokerit Helsinki	Ice Hockey
+JSF Nanterre	Basketball
+JT Thunders	Volleyball
+Jukurit	Ice Hockey
+Juventus Utena	Basketball
+K. Schaffhausen	Handball
+Kallinge/Ronneby IF	Ice Hockey
+Kalmar HC	Ice Hockey
+Kalpa Hockey	Ice Hockey
+Karlskrona HK	Ice Hockey
+Kärpät Oulu	Ice Hockey
+Kazzink	Ice Hockey
+KH Zaglebie Sosnowiec	Ice Hockey
+Khimik Voskresensk	Ice Hockey
+Kiruna AIF	Ice Hockey
+KK Cedevita Zagreb	Basketball
+KK Prienai	Basketball
+KK Zadar	Basketball
+Kloten-Bülach Jets	Floorball
+Kobenhavn H.b.	Handball
+Kookoo Kouvola	Ice Hockey
+Koovee	Floorball
+Koping HC	Ice Hockey
+Krasnaya Armiya	Ice Hockey
+Kristianstad HK	Handball
+Kristianstads IK	Ice Hockey
+KRS Heilongjiang	Ice Hockey
+KS SPR Chrobry Glogow	Handball
+KS Stoczniowiec Gdansk	Ice Hockey
+KS Vive Targi Kielce	Handball
+Kuban	Handball
+Kungälvs HK	Handball
+Kuznetskie Medvedi	Ice Hockey
+Lada Togliatti	Ice Hockey
+Ladja Togliatti	Ice Hockey
+LaSB	Floorball
+Lausanne HC	Ice Hockey
+Le Mans Basket	Basketball
+Le Portel	Basketball
+Leeds Carnegie	Rugby League
+Leeds Rhinos	Rugby League
+Leinster Lions	Rugby League
+Leksands IF	Ice Hockey
+Lemvig-Thyboron Handball	Handball
+Lietuvos Rytas	Basketball
+Lillehammer IK	Ice Hockey
+Limoges CSP	Basketball
+Lindlövens IF	Ice Hockey
+Lingen - Dessau-Rosslauer HV 2006	Handball
+Lingen - HC Erlangen	Handball
+Linköpings HC	Ice Hockey
+Liptovsky Mikulas	Ice Hockey
+Loko Yaroslavl	Ice Hockey
+Lokomotiv Yaroslavl	Ice Hockey
+London Broncos	Rugby League
+London Lions	Basketball
+Lübbecke - TSV GWD Minden	Handball
+Lugi HF	Handball
+Luleaa Hockey	Ice Hockey
+Lyon HC	Ice Hockey
+M - Sporting CP	Handball
+M. Magnitogorsk	Ice Hockey
+MAC Budapest	Ice Hockey
+Maccabi Ashdod	Basketball
+Maccabi Rishon Lezion	Basketball
+Malmo IF	Ice Hockey
+Malungs IF	Ice Hockey
+Mamonty Yugry K. M.	Ice Hockey
+Manawatu	Rugby League
+Manglerud/Star	Ice Hockey
+Mariestads Bois	Ice Hockey
+Mecalia Atletico Guardes	Handball
+Medi Bayreuth	Basketball
+Melbourne Demons	Aussie rules
+Melbourne Storm	Rugby League
+Metallurg Novokuznetsk	Ice Hockey
+Metallurg Zhlobin	Ice Hockey
+Metz Handball	Handball
+MHK Krylia Sovetov	Ice Hockey
+Miami Florida	American Football
+Minnesota Vikings	American Football
+Minnesota Wild	Ice Hockey
+Miskolci JJSE	Ice Hockey
+MKB Veszprem KC	Handball
+MKS Cracovia Krakow	Ice Hockey
+MKS Lublin	Handball
+MKS Zaglebie Lubin	Handball
+Modo Hockey	Ice Hockey
+Mogo Riga	Ice Hockey
+Molot	Ice Hockey
+Montpellier Handball	Handball
+Montreal Alouettes	American Football
+Mora IK	Ice Hockey
+Mornar	Basketball
+Morrum Gois IK	Ice Hockey
+Mors-Thy Handbold	Handball
+Morzine HC - Scorpions de Mulhouse	Ice Hockey
+Motor Zaporozhye	Handball
+Mountfield HK	Ice Hockey
+MRK Krka	Handball
+Mshk Zilina	Ice Hockey
+MT Melsungen	Handball
+Munster	Rugby League
+Mytishchinskie A.	Ice Hockey
+Nantes Loire Atlantique HB	Handball
+Neftekhimik Nizhnekamsk	Ice Hockey
+Neftyanik Almetyevsk	Ice Hockey
+Neman Grodno	Ice Hockey
+Neptunas Klaipeda	Basketball
+Netherlands	Volleyball
+Nevezis Kedainiai	Basketball
+New York Islanders	Ice Hockey
+New Zealand	Rugby League
+Newcastle Falcons	Rugby League
+Newport Gwent Dragons	Rugby League
+Nigeria	Basketball
+Nokian Kristityt Palloilijat	Floorball
+Nordsjaelland Handball	Handball
+North Carolina Tar Heels	American Football
+North Harbour	Rugby League
+Northland	Rugby League
+Norway	Handball
+Nottingham	Rugby League
+Nove Zamky	Ice Hockey
+Nybro IF	Ice Hockey
+Nykobing F.b Handboldklub	Handball
+Obras Sanitarias	Basketball
+OC Cesson Handball	Handball
+Odense Bulldogs	Ice Hockey
+OGC Nice Cote D´Azur	Handball
+Old Dominion	American Football
+OLS Oulu	Floorball
+Omskie Yastreby	Ice Hockey
+Önnereds HK	Handball
+Orlik Opole	Ice Hockey
+Ospreys	Rugby League
+Otago	Rugby League
+OV Helsingborg HK	Handball
+Panthers Otrokovice	Floorball
+Paris Handball	Handball
+Paris Levallois	Basketball
+Pau Lacq Orthez	Basketball
+Pays Aix Universite Club Handball	Handball
+Pays D Aix	Rugby League
+Pelicans Lahti	Ice Hockey
+Penarol Mar Del Plata	Basketball
+Penn St Nittany Lions	American Football
+Penrith Panthers	Rugby League
+Permskie Medvedi	Handball
+Pfadi Winterthur	Handball
+Philadelphia Flyers	Ice Hockey
+Pick Szeged	Handball
+Pieno Zvaigzdes	Basketball
+Piteå HC	Ice Hockey
+Pittsburgh Steelers	American Football
+Pogon Handball Szczecin	Handball
+Poland	Handball
+Poland	Volleyball
+Pontault-Combault HB	Handball
+Potaissa Turda	Handball
+Prikamje Perm - Yuzhny Ural Orsk	Ice Hockey
+Puerto Rico	Basketball
+Puerto Rico	Volleyball
+Quimsa Santiago del Estero	Basketball
+Rain Or Shine Elasto	Basketball
+Randers Cimbria	Basketball
+Randers HH	Handball
+Randers HK	Handball
+Rapaces de Gap	Ice Hockey
+Rapperswil Jona Lakers	Ice Hockey
+Rasta Vechta	Basketball
+Ratiopharm Ulm	Basketball
+Rauma Lukko	Ice Hockey
+RB Salzburg	Ice Hockey
+RC Massy	Rugby League
+RD Loka	Handball
+RD Ribnica Riko Hise	Handball
+Reaktor Nizhnekamsk	Ice Hockey
+Reale Ademar	Handball
+Red Star Kunlun Junior	Ice Hockey
+Redbergslids IK	Handball
+Regal FC Barcelona	Basketball
+Rhein Neckar Löwen	Handball
+Ribe-Esbjerg HH	Handball
+Richmond	Rugby League
+Richmond Tigers	Aussie rules
+Ringerike IHK	Ice Hockey
+RK Celje Pivovarna Lasko	Handball
+RK Cimos Koper	Handball
+RK Gorenje Velenje	Handball
+RK Jeruzalem Ormoz	Handball
+RK Maribor Branik	Handball
+RK Trimo Trebnje	Handball
+Rocasa ACE Gran Canaria	Handball
+Rödovre FC	Floorball
+Rodovre Mighty Bulls	Ice Hockey
+Rögle BK	Ice Hockey
+Rouen HE	Ice Hockey
+RTV 1879 Basel	Handball
+Rubin Tyumen	Ice Hockey
+Rungsted Ishockey	Ice Hockey
+Russia	Volleyball
+S. Barsy Astana	Ice Hockey
+Saint Raphael	Handball
+Saipa Lappeenranta	Ice Hockey
+Salavat Yulaev Ufa	Ice Hockey
+Salford Red Devils	Rugby League
+San Martin Corrientes	Basketball
+San Mig Coffee Mixers	Basketball
+Sapa Fehervar Av19 II	Ice Hockey
+Sarmaty Orenburg	Ice Hockey
+Saryarka	Ice Hockey
+Savo Volley	Volleyball
+SB Welhot	Floorball
+SC Bern	Ice Hockey
+SC DHFK Leipzig	Handball
+SC Magdeburg	Handball
+Scarlets	Rugby League
+Schiller-Vasas HC	Ice Hockey
+SCL Tigers Langenau	Ice Hockey
+SCM Craiova	Handball
+Seattle Seahawks	American Football
+Seattle Storm	Basketball
+Segeltorps IF	Ice Hockey
+Selfoss	Handball
+Senegal	Basketball
+Seoul Woori Card Hansae	Volleyball
+Serbia	Volleyball
+Severstal Cherepovec	Ice Hockey
+SG BBM Bietigheim	Handball
+SG Flensburg-Handewitt	Handball
+Sgau-Saratov	Handball
+Shakhter Soligorsk	Ice Hockey
+Sheffield Sharks	Basketball
+Sheffield Steelers	Ice Hockey
+Siauliai	Basketball
+Sibir Novosibirsk	Ice Hockey
+Sibirskie Snaipery	Ice Hockey
+SK Kadan	Ice Hockey
+SK Lejon	Ice Hockey
+SKA St. Petersburg	Ice Hockey
+SKA-1946 St. Petersburg	Ice Hockey
+Skaanela IF	Handball
+Skanderborg Handball	Handball
+SKA-Varyagi	Ice Hockey
+Skellefteaa Aik	Ice Hockey
+SKIF	Handball
+Skjern Handbold	Handball
+Skövde IK	Ice Hockey
+Skuru IK	Handball
+Slovakia	Ice Hockey
+Slovan Bratislava	Ice Hockey
+Slovenia	Volleyball
+Södertälje SK	Ice Hockey
+Sokol Kral Vinohrady	Floorball
+Sokol Krasnoyarsk	Ice Hockey
+Sokol Pardubice	Floorball
+Sollentuna HC	Ice Hockey
+Sønderjyske	Handball
+Sonderjyske Ishockey	Ice Hockey
+South Africa	Rugby League
+South Korea	Basketball
+South Sydney Rabbitohs	Rugby League
+Southland	Rugby League
+Soyaux Angoulême	Rugby League
+Spain	Basketball
+Spartak Moscow	Handball
+Spartak Moskau	Ice Hockey
+Spartak Moskow	Ice Hockey
+Spojnia Gdynia	Handball
+Sport Lisboa Benfica	Handball
+Sputnik Almetievsk	Ice Hockey
+SPV	Floorball
+St George Illawarra Dragons	Rugby League
+St Helens Rlfc	Rugby League
+St Petersburg	Ice Hockey
+St. Louis Rams	American Football
+Stade Aurillacois	Rugby League
+Stalnye Lisy	Ice Hockey
+Stavanger Oilers	Ice Hockey
+Steaua Bucharest	Handball
+Steelers	Floorball
+Stevnsgade Supermen	Basketball
+Stjarnan	Handball
+Stjernen Hockey	Ice Hockey
+Storhamar Dragons	Ice Hockey
+Strasbourg IG	Basketball
+Sunds Seahawks FC	Floorball
+Sungul	Handball
+Surahammar	Ice Hockey
+Surrey Heat	Basketball
+Suwon Kepco	Volleyball
+SV Wiler Ersigen	Floorball
+Tampa Bay Buccaneers	American Football
+Tappara Tampere	Ice Hockey
+Taranaki	Rugby League
+Tasman	Rugby League
+Tatran Omlux Stresovice	Floorball
+Team Fog Naestved	Basketball
+Team Kiruna	Ice Hockey
+Team Lakkapää	Volleyball
+Team TVIS Holstebro	Handball
+Telnet BC Oostende	Basketball
+TH Unia Oswiecim	Ice Hockey
+THW Kiel	Handball
+Thyboron Handball - Otterup HK	Handball
+Tigers Langnau	Floorball
+Timraa IK	Ice Hockey
+Tingsryds AIF	Ice Hockey
+TJ JM Chodov	Floorball
+TJ VHS Znojmo	Floorball
+TKH Nesta Torun	Ice Hockey
+TMH Polonia Bytom	Ice Hockey
+TMS Ringsted	Handball
+Tolpar UFA	Ice Hockey
+Toronto Wolfpack	Rugby League
+Toros Neftekamsk	Ice Hockey
+Torpedo - Ermak Angarsk	Ice Hockey
+Torpedo N. Novgorod	Ice Hockey
+Toulon Saint Cyr Var Handball	Handball
+Toulouse Handball	Handball
+Toulouse Olympique XIII	Rugby League
+Toyota Free State Cheetahs	Rugby League
+TPS	Floorball
+TPS Turku	Ice Hockey
+Tranaas Aif	Ice Hockey
+Trangsund	Ice Hockey
+Tremblay En France	Handball
+TSG Ludwigshafen-Friesenheim	Handball
+TSV Bayer 04 Leverkusen	Handball
+TSV Hannover Burgdorf	Handball
+Tunisia	Volleyball
+Turkey	Basketball
+TUS N	Handball
+Tusem Essen	Handball
+TV Emsdetten	Handball
+TV Grosswallstadt	Handball
+TV Hüttenberg	Handball
+Tyringe Sos	Ice Hockey
+Tyumenskiy Legion	Ice Hockey
+U. Olimpija Ljubljana	Basketball
+UCAM Murcia	Basketball
+UCF Knights	American Football
+UHC Alligator Malans	Floorball
+UHC Thun	Floorball
+UHC Uster	Floorball
+Ujpest Budapest	Ice Hockey
+Ulster	Rugby League
+Unicaja Malaga	Basketball
+Universitatea Politehnica Timisoara	Handball
+Universitet	Handball
+US Carcassonne	Rugby League
+US Ivry Handball	Handball
+US Montauban	Rugby League
+USA	Volleyball
+Usam Nimes	Handball
+USC Trojans	American Football
+USON Nevers	Rugby League
+Vaasan Sport	Ice Hockey
+Vaerlose BBK	Basketball
+Valencia Basket	Basketball
+Valepa	Volleyball
+Valerenga IF	Ice Hockey
+Valur Reykjavik	Handball
+Vanlose Floorball	Floorball
+Väsby IK	Ice Hockey
+Vasterasirsta HF	Handball
+Västervik	Ice Hockey
+Växjö Lakers HC	Ice Hockey
+VfL Gummersbach	Handball
+Viborg HK	Handball
+Vienna Capitals II	Ice Hockey
+Viikingit	Floorball
+VIK Vasteraas	Ice Hockey
+Villeurbanne - Gravelines Grand Fort BCM	Basketball
+Vimmerby HC	Ice Hockey
+Vistal Gdynia	Handball
+Vityazi Chekhov	Ice Hockey
+VMF St Petersburg	Ice Hockey
+Vodacom Blue Bulls	Rugby League
+Vojvodina-Univerexport Novi Sad	Handball
+Wacker Thun	Handball
+Waikato	Rugby League
+Wake Forest Demon Deacons	American Football
+Wakefield Trinity Wildcats	Rugby League
+Waldkirch St.Gallen	Floorball
+Warrington Wolves	Rugby League
+Washington Mystics	Basketball
+Washington St Cougars	American Football
+Wellington	Rugby League
+Westend Indians	Floorball
+Western KB Star Insurance	Volleyball
+Widnes Vikings	Rugby League
+Wigan Warriors	Rugby League
+Wilhelmshavener HV	Handball
+Winnipeg Blue Bombers	American Football
+Winnipeg Jets	Ice Hockey
+Wisla Plock	Handball
+Worcester Wolves	Basketball
+Ystads IF HF	Handball
+Yunost Minsk	Ice Hockey
+Zauralye Kurgan	Ice Hockey
+Zebre	Rugby League
+Zeleznicar Indjija	Handball
+ZSC Lions	Ice Hockey
+Zuazo - Handbol Canyamelar Valencia	Handball
+Zug United	Floorball
+Zvezda Chekhov	Ice Hockey
