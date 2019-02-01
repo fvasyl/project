@@ -1,0 +1,9 @@
+﻿Sport	SportType
+American Football	olimpic
+Basketball	olimpic
+Floorball	olimpic
+Handball	olimpic
+Rugby League	olimpic
+Ice Hockey	olimpic
+Aussie rules	olimpic
+Volleyball	olimpic

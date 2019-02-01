@@ -1,4 +1,4 @@
-SportID	Sport	SportType
+﻿SportID	Sport	SportType
 2	American Football	olimpic
 4	Basketball	olimpic
 6	Floorball	olimpic

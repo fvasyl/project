@@ -1,768 +1,768 @@
-﻿Club	Sport
-1 SC Ssk Vitkovice	Floorball
-1946 St. Petersburg - Kapitan Stupino	Ice Hockey
-AA Aguas Santas	Handball
-AA Avanca	Handball
-AaB Handball	Handball
-Aalborg Pirates	Ice Hockey
-Aarhus Handball	Handball
-AC Fafe	Handball
-AC Sparta Prag	Floorball
-Admiral Vladivostok	Ice Hockey
-Afturelding	Handball
-Aifk	Handball
-AIK	Handball
-AIK IF	Ice Hockey
-Air21 Express	Basketball
-Ajax Copenhagen	Handball
-AK Bars Kazan	Ice Hockey
-Akaa Volley	Volleyball
-Akureyri Handboltafelag	Handball
-Alingsås HK	Handball
-Almaz Cherepovets	Ice Hockey
-Almtuna IS	Ice Hockey
-Amur Khabarovsk	Ice Hockey
-Amurskie Tigry K.	Ice Hockey
-Anglet Hormadi Elite	Ice Hockey
-Ansan Rush&Cash	Volleyball
-Antibes Sharks	Basketball
-Argentina	Basketball
-Argentina	Rugby League
-Argentina	Volleyball
-Argentino Junin	Basketball
-AS Beziers Herault	Rugby League
-AS Monaco	Basketball
-ASG Angers	Ice Hockey
-Ässät Pori	Ice Hockey
-Asvel Lyon-Villeurbanne	Basketball
-Auckland	Rugby League
-Australia	Basketball
-Australia	Rugby League
-Australia	Volleyball
-Aviron Bayonne	Rugby League
-Aviv - BC Zalgiris Kaunas	Basketball
-Avto Yekaterinburg	Ice Hockey
-Avtomobilist Yekaterinburg	Ice Hockey
-Balatonfuredi Kse	Handball
-Baltimore Ravens	American Football
-Banco Di Sardegna Sassari	Basketball
-Bars Kazan	Ice Hockey
-Baseti	Handball
-Bay of Plenty	Rugby League
-Bayern Munich	Basketball
-BC Alytaus Dzukija	Basketball
-BC Lietkabelis	Basketball
-BC River Andorra	Basketball
-Bedford	Rugby League
-Belarus	Ice Hockey
-Belgium	Basketball
-Belgium	Volleyball
-Belye Medvedi	Ice Hockey
-Benetton Treviso	Rugby League
-Benlose FC	Floorball
-Beskid Nowy Sacz - EKS Start Elblag	Handball
-BFC Vendsyssel	Floorball
-Biarritz Olympique	Rugby League
-Bidasoa Irun	Handball
-BIK Karlskoga	Ice Hockey
-Bjerringbro	Handball
-BK Heid	Handball
-BK JIP Pardubice	Basketball
-BK Sluneta USTI Nad Labem	Basketball
-Blackwater Elite	Basketball
-Bnei Herzelia	Basketball
-Boca Juniors	Basketball
-Boden Handball IF	Handball
-Bodens HF	Ice Hockey
-Bordeaux Ghc	Ice Hockey
-Borlänge HC	Ice Hockey
-Boston College Eagles	American Football
-Boulazac Basket	Basketball
-Bourg	Rugby League
-Bourg De Peage	Handball
-Brazil	Volleyball
-Brest Bretagne Handball	Handball
-Bristol Shoguns	Rugby League
-Brynäs IF	Ice Hockey
-BSV Bern Muri	Handball
-Buffalo Sabres	Ice Hockey
-Bulgaria	Volleyball
-Bulldogs Brno	Floorball
-Buran Voronezh	Ice Hockey
-Cameroon	Volleyball
-Canada	Basketball
-Canada	Volleyball
-Canterbury	Rugby League
-Canterbury Bulldogs	Rugby League
-Cardiff Blues	Rugby League
-Castleford Tigers	Rugby League
-Catalans Dragons	Rugby League
-CCR Fermentoes	Handball
-Ceng Tou	Ice Hockey
-Cercle Dijon Bourgogne	Handball
-Chaika Nizhny Nov.	Ice Hockey
-Chambery Savoie	Handball
-Chambray Touraine	Handball
-Chamonix	Ice Hockey
-Champ. Chalons Reims Basket	Basketball
-Charlotte 49ers	American Football
-Cheetahs	Rugby League
-Chehovski Medvedi	Handball
-Chelmet Chelyabinsk	Ice Hockey
-Cheonan Hyundai Capital Skywalkers	Volleyball
-Chicago Bears	American Football
-China	Basketball
-China	Volleyball
-Cholet Basket	Basketball
-Chur Uhc	Floorball
-Cibona Zagreb	Basketball
-Cincinnati Bengals	American Football
-CJF Fleury Les Aubrais	Handball
-Classic Tampere	Floorball
-Club Atletico San Lorenzo De Almagro	Basketball
-Club Deportivo Hispano Americano	Basketball
-Cocks	Handball
-Collingwood Magpies	Aussie rules
-Colomiers Rugby	Rugby League
-Columbus Blue Jackets	Ice Hockey
-Comunicaciones	Basketball
-Connacht Rugby	Rugby League
-Coop Polva	Handball
-Copenhagen SFC	Floorball
-Cornish Pirates	Rugby League
-Corona Brasov	Ice Hockey
-Counties Manukau	Rugby League
-Coventry Rugby	Rugby League
-Crailsheim Merlins	Basketball
-Cronulla Sharks	Rugby League
-Crvena Zvezda Telekom	Basketball
-CSG Strasbourg	Ice Hockey
-CSK VVS Samara	Ice Hockey
-CSKA Moscow	Ice Hockey
-Cuba	Volleyball
-DAB Docler	Ice Hockey
-Deajeon Bluefangs	Volleyball
-Debreceni Egyetem AC	Ice Hockey
-de-Fonds - HC Biasca	Ice Hockey
-Denmark	Handball
-DHC Rheinland	Handball
-DHL Western Province	Rugby League
-Dijon Bourgogne	Basketball
-Dinamo Baumit Bucuresti	Handball
-Dizel Penza	Ice Hockey
-Djurgaardens IF	Ice Hockey
-Dominican Republic	Volleyball
-Doncaster Knights	Rugby League
-Dukla Trencin	Ice Hockey
-Dunkerque HB	Handball
-Ealing Trailfinders	Rugby League
-EC S.feldkirch	Ice Hockey
-Edinburgh Rugby	Rugby League
-Efes Anadolu Istanbul	Basketball
-Eger Sbs	Handball
-Egypt	Volleyball
-EHC Biel	Ice Hockey
-EHC Bregenzerwald	Ice Hockey
-EHV Aue	Handball
-Eisbären Bremerhaven	Basketball
-Elverum	Handball
-Enköpings SK HK	Ice Hockey
-ES Chalon	Basketball
-ESBF Besancon	Handball
-Esbjerg Energy	Ice Hockey
-Espoon Oilers	Floorball
-Estudiantes de Concordia	Basketball
-EV Zug	Ice Hockey
-Exeter Chiefs	Rugby League
-Färjestads BK	Ice Hockey
-FBC Liberec	Floorball
-FBC Ostrava	Floorball
-FBC Pullo Trade Ceska Lipa	Floorball
-FBK Sokol Mlada Boleslav	Floorball
-FBS Bohemians	Floorball
-FBT Pori	Floorball
-FC Barcelona	Handball
-FC Midtjylland	Handball
-FC Porto Vitalis	Handball
-Ferencvaros	Ice Hockey
-FH Hafnarfjardar	Handball
-FHK Elite	Handball
-Fife Flyers	Ice Hockey
-Floorball Köniz	Floorball
-Florida Atlantic Owls	American Football
-Ford Pumas	Rugby League
-Forshaga IF	Ice Hockey
-FOS Ouest Provence Basket	Basketball
-Fraikin BM Granollers	Handball
-France	Basketball
-France	Handball
-France	Volleyball
-Frederikshavn Blackhawks	Floorball
-Frederikshavn White Hawks	Ice Hockey
-Frisk/Asker	Ice Hockey
-Frölunda HC	Ice Hockey
-FTC Budapest	Handball
-Füchse Berlin	Handball
-Galil Gilboa	Basketball
-Gasterra Flames Groningen	Basketball
-Geneve Servette HC	Ice Hockey
-Gjovik Mammuts	Ice Hockey
-GKS Katowice	Ice Hockey
-Glasgow Warriors	Rugby League
-Gloucester Rugby	Rugby League
-GOG Handbold	Handball
-Golden Lions	Rugby League
-Gorniczy Klub Sportowy Tychy	Ice Hockey
-Gornyak Uchaly	Ice Hockey
-Grasshopper Club Zurich	Floorball
-Greater Western Sydney	Aussie rules
-Greece	Basketball
-Grenoble MH 38	Ice Hockey
-Grifk	Handball
-Grums IK	Ice Hockey
-Guildford Flames	Ice Hockey
-GWK Griquas	Rugby League
-Gyergyoi HK	Ice Hockey
-Halifax Blue Sox	Rugby League
-Halmstad Hammers	Ice Hockey
-Hammarby HB	Handball
-Hammarby Hockey IF	Ice Hockey
-Hanhals IF	Ice Hockey
-Hanvikens SK	Ice Hockey
-Hapoel Beer Sheva	Basketball
-Hapoel Holon	Basketball
-Happee	Floorball
-Hartpury College	Rugby League
-Hasle/Loren Ishockey	Ice Hockey
-Hästö IF	Handball
-Haukar Hafnarfjordur	Handball
-Hawke´s Bay	Rugby League
-Hawthorn Hawks	Aussie rules
-HBC Nantes	Handball
-HBC Saint-Amand-les-Eaux Porte du Hainaut	Handball
-HC 05 Banska Bystrica	Ice Hockey
-HC 07 Detva	Ice Hockey
-HC Ajoie	Ice Hockey
-HC Altai	Ice Hockey
-HC Ambri Piotta	Ice Hockey
-HC Amiens Somme	Ice Hockey
-HC AZ Havirov 2010	Ice Hockey
-HC Banik Karvina	Handball
-HC Barys Astana	Ice Hockey
-HC Benatky Nad Jizerou	Ice Hockey
-HC Cement Hranice	Handball
-HC Croatia Osiguranje Zagreb	Handball
-HC Dalen	Ice Hockey
-HC Davos	Ice Hockey
-HC Dinamo Maladzyechna	Ice Hockey
-HC Dinamo Riga	Ice Hockey
-HC Dukla Jihlava	Ice Hockey
-HC Dynamo Moscow	Ice Hockey
-HC Elbflorenz Dresden	Handball
-HC Fribourg Gotteron	Ice Hockey
-HC Frydek Mistek	Ice Hockey
-HC Horacka Slavia Trebic	Ice Hockey
-HC Kehra	Handball
-HC Kladno	Ice Hockey
-HC Kosice	Ice Hockey
-HC Kriens-Luzern	Handball
-HC La Chaux-de-Fonds	Ice Hockey
-HC Lugano	Ice Hockey
-HC Meshkov Brest	Handball
-HC Motor Ceske Budejovice	Ice Hockey
-HC Nice	Ice Hockey
-HC Orebro	Ice Hockey
-HC Red Star Kunlun	Ice Hockey
-HC Rhein Vikings	Handball
-HC RT Torax Poruba	Ice Hockey
-HC Rychenberg Winterthur	Floorball
-HC Slavia Prag	Ice Hockey
-HC Slovan Ustecti Lvi	Ice Hockey
-HC Slovnaft Vsetin	Ice Hockey
-HC Sochi	Ice Hockey
-HC Sparta Prag	Ice Hockey
-HC Stadion Litomerice	Ice Hockey
-HC Taifun	Ice Hockey
-HC Tambov	Ice Hockey
-HC Tatran Presov	Handball
-HC THP Topvar Topolcany	Handball
-HC Traktor Chelyabinsk	Ice Hockey
-HC TWK Innsbruck Die Haie	Ice Hockey
-HC Vita Hasten	Ice Hockey
-HC Vitiaz Chehov	Ice Hockey
-HC Yugra Khanty-Mansiysk	Ice Hockey
-HC Zubr Prerov	Ice Hockey
-HCM Ramnicu Valcea	Handball
-Helsingborgs HC	Ice Hockey
-Herbalife Gran Canaria	Basketball
-Herlev Eagles	Ice Hockey
-Herning Blue Fox	Ice Hockey
-HIFK Hockey	Ice Hockey
-HK Aranäs	Handball
-HK Avangard Omsk	Ice Hockey
-HK Dinamo Minsk	Ice Hockey
-HK Dinamo St Petersburg	Ice Hockey
-HK Gomel	Ice Hockey
-HK Jestrabi Prostejov	Ice Hockey
-HK Lida	Ice Hockey
-HK Malmö	Handball
-HK MVD	Ice Hockey
-HK Prizma	Ice Hockey
-HK Riga	Ice Hockey
-HK Ryazan	Ice Hockey
-HK Sarov	Ice Hockey
-HK SKP Poprad	Ice Hockey
-HKM Nitra	Ice Hockey
-HKM Zvolen	Ice Hockey
-Hockey Academy Zug	Ice Hockey
-Hoj	Handball
-Hokiklub Budapest	Ice Hockey
-Hoors HK H 65	Handball
-HPK Hämeenlinna	Ice Hockey
-HSC 2000 Coburg	Handball
-HSC Csikszereda	Ice Hockey
-HSG Nordhorn	Handball
-HSG Wetzlar	Handball
-HSV Hamburg	Handball
-Huddersfield Giants	Rugby League
-Hudiksvalls HC	Ice Hockey
-Hull FC	Rugby League
-Hull Kingston Rovers	Rugby League
-HV 71	Ice Hockey
-Hvidovre Attack	Floorball
-Hvidovre Fighters	Ice Hockey
-IF Björklöven	Ice Hockey
-IF Troja/Ljungby	Ice Hockey
-IFK Arboga	Ice Hockey
-IFK Kristianstad	Handball
-IFK Kumla	Ice Hockey
-IFK Skövde HK	Handball
-IFK Ystads HK	Handball
-IHK Sparta Sarpsborg	Ice Hockey
-IK Oskarshamn	Ice Hockey
-IK Pantern	Ice Hockey
-IK Savehof	Handball
-Illinois Fighting Illini	American Football
-Ilves Tampere	Ice Hockey
-Incheon Korean Air Jumbos	Volleyball
-Instituto Atletico Central Cordoba	Basketball
-IR Reykjavik	Handball
-Iran	Volleyball
-Irbis Kazan	Ice Hockey
-Issy Paris	Handball
-Istres Ouest Provence	Handball
-Italy	Volleyball
-Izhstal Izhevsk	Ice Hockey
-Japan	Basketball
-Japan	Volleyball
-Jersey	Rugby League
-Jeunesse Laique de Bourg	Basketball
-JKH GKS Jastrzebie	Ice Hockey
-Jokerit Helsinki	Ice Hockey
-JSF Nanterre	Basketball
-JT Thunders	Volleyball
-Jukurit	Ice Hockey
-Juventus Utena	Basketball
-K. Schaffhausen	Handball
-Kallinge/Ronneby IF	Ice Hockey
-Kalmar HC	Ice Hockey
-Kalpa Hockey	Ice Hockey
-Karlskrona HK	Ice Hockey
-Kärpät Oulu	Ice Hockey
-Kazzink	Ice Hockey
-KH Zaglebie Sosnowiec	Ice Hockey
-Khimik Voskresensk	Ice Hockey
-Kiruna AIF	Ice Hockey
-KK Cedevita Zagreb	Basketball
-KK Prienai	Basketball
-KK Zadar	Basketball
-Kloten-Bülach Jets	Floorball
-Kobenhavn H.b.	Handball
-Kookoo Kouvola	Ice Hockey
-Koovee	Floorball
-Koping HC	Ice Hockey
-Krasnaya Armiya	Ice Hockey
-Kristianstad HK	Handball
-Kristianstads IK	Ice Hockey
-KRS Heilongjiang	Ice Hockey
-KS SPR Chrobry Glogow	Handball
-KS Stoczniowiec Gdansk	Ice Hockey
-KS Vive Targi Kielce	Handball
-Kuban	Handball
-Kungälvs HK	Handball
-Kuznetskie Medvedi	Ice Hockey
-Lada Togliatti	Ice Hockey
-Ladja Togliatti	Ice Hockey
-LaSB	Floorball
-Lausanne HC	Ice Hockey
-Le Mans Basket	Basketball
-Le Portel	Basketball
-Leeds Carnegie	Rugby League
-Leeds Rhinos	Rugby League
-Leinster Lions	Rugby League
-Leksands IF	Ice Hockey
-Lemvig-Thyboron Handball	Handball
-Lietuvos Rytas	Basketball
-Lillehammer IK	Ice Hockey
-Limoges CSP	Basketball
-Lindlövens IF	Ice Hockey
-Lingen - Dessau-Rosslauer HV 2006	Handball
-Lingen - HC Erlangen	Handball
-Linköpings HC	Ice Hockey
-Liptovsky Mikulas	Ice Hockey
-Loko Yaroslavl	Ice Hockey
-Lokomotiv Yaroslavl	Ice Hockey
-London Broncos	Rugby League
-London Lions	Basketball
-Lübbecke - TSV GWD Minden	Handball
-Lugi HF	Handball
-Luleaa Hockey	Ice Hockey
-Lyon HC	Ice Hockey
-M - Sporting CP	Handball
-M. Magnitogorsk	Ice Hockey
-MAC Budapest	Ice Hockey
-Maccabi Ashdod	Basketball
-Maccabi Rishon Lezion	Basketball
-Malmo IF	Ice Hockey
-Malungs IF	Ice Hockey
-Mamonty Yugry K. M.	Ice Hockey
-Manawatu	Rugby League
-Manglerud/Star	Ice Hockey
-Mariestads Bois	Ice Hockey
-Mecalia Atletico Guardes	Handball
-Medi Bayreuth	Basketball
-Melbourne Demons	Aussie rules
-Melbourne Storm	Rugby League
-Metallurg Novokuznetsk	Ice Hockey
-Metallurg Zhlobin	Ice Hockey
-Metz Handball	Handball
-MHK Krylia Sovetov	Ice Hockey
-Miami Florida	American Football
-Minnesota Vikings	American Football
-Minnesota Wild	Ice Hockey
-Miskolci JJSE	Ice Hockey
-MKB Veszprem KC	Handball
-MKS Cracovia Krakow	Ice Hockey
-MKS Lublin	Handball
-MKS Zaglebie Lubin	Handball
-Modo Hockey	Ice Hockey
-Mogo Riga	Ice Hockey
-Molot	Ice Hockey
-Montpellier Handball	Handball
-Montreal Alouettes	American Football
-Mora IK	Ice Hockey
-Mornar	Basketball
-Morrum Gois IK	Ice Hockey
-Mors-Thy Handbold	Handball
-Morzine HC - Scorpions de Mulhouse	Ice Hockey
-Motor Zaporozhye	Handball
-Mountfield HK	Ice Hockey
-MRK Krka	Handball
-Mshk Zilina	Ice Hockey
-MT Melsungen	Handball
-Munster	Rugby League
-Mytishchinskie A.	Ice Hockey
-Nantes Loire Atlantique HB	Handball
-Neftekhimik Nizhnekamsk	Ice Hockey
-Neftyanik Almetyevsk	Ice Hockey
-Neman Grodno	Ice Hockey
-Neptunas Klaipeda	Basketball
-Netherlands	Volleyball
-Nevezis Kedainiai	Basketball
-New York Islanders	Ice Hockey
-New Zealand	Rugby League
-Newcastle Falcons	Rugby League
-Newport Gwent Dragons	Rugby League
-Nigeria	Basketball
-Nokian Kristityt Palloilijat	Floorball
-Nordsjaelland Handball	Handball
-North Carolina Tar Heels	American Football
-North Harbour	Rugby League
-Northland	Rugby League
-Norway	Handball
-Nottingham	Rugby League
-Nove Zamky	Ice Hockey
-Nybro IF	Ice Hockey
-Nykobing F.b Handboldklub	Handball
-Obras Sanitarias	Basketball
-OC Cesson Handball	Handball
-Odense Bulldogs	Ice Hockey
-OGC Nice Cote D´Azur	Handball
-Old Dominion	American Football
-OLS Oulu	Floorball
-Omskie Yastreby	Ice Hockey
-Önnereds HK	Handball
-Orlik Opole	Ice Hockey
-Ospreys	Rugby League
-Otago	Rugby League
-OV Helsingborg HK	Handball
-Panthers Otrokovice	Floorball
-Paris Handball	Handball
-Paris Levallois	Basketball
-Pau Lacq Orthez	Basketball
-Pays Aix Universite Club Handball	Handball
-Pays D Aix	Rugby League
-Pelicans Lahti	Ice Hockey
-Penarol Mar Del Plata	Basketball
-Penn St Nittany Lions	American Football
-Penrith Panthers	Rugby League
-Permskie Medvedi	Handball
-Pfadi Winterthur	Handball
-Philadelphia Flyers	Ice Hockey
-Pick Szeged	Handball
-Pieno Zvaigzdes	Basketball
-Piteå HC	Ice Hockey
-Pittsburgh Steelers	American Football
-Pogon Handball Szczecin	Handball
-Poland	Handball
-Poland	Volleyball
-Pontault-Combault HB	Handball
-Potaissa Turda	Handball
-Prikamje Perm - Yuzhny Ural Orsk	Ice Hockey
-Puerto Rico	Basketball
-Puerto Rico	Volleyball
-Quimsa Santiago del Estero	Basketball
-Rain Or Shine Elasto	Basketball
-Randers Cimbria	Basketball
-Randers HH	Handball
-Randers HK	Handball
-Rapaces de Gap	Ice Hockey
-Rapperswil Jona Lakers	Ice Hockey
-Rasta Vechta	Basketball
-Ratiopharm Ulm	Basketball
-Rauma Lukko	Ice Hockey
-RB Salzburg	Ice Hockey
-RC Massy	Rugby League
-RD Loka	Handball
-RD Ribnica Riko Hise	Handball
-Reaktor Nizhnekamsk	Ice Hockey
-Reale Ademar	Handball
-Red Star Kunlun Junior	Ice Hockey
-Redbergslids IK	Handball
-Regal FC Barcelona	Basketball
-Rhein Neckar Löwen	Handball
-Ribe-Esbjerg HH	Handball
-Richmond	Rugby League
-Richmond Tigers	Aussie rules
-Ringerike IHK	Ice Hockey
-RK Celje Pivovarna Lasko	Handball
-RK Cimos Koper	Handball
-RK Gorenje Velenje	Handball
-RK Jeruzalem Ormoz	Handball
-RK Maribor Branik	Handball
-RK Trimo Trebnje	Handball
-Rocasa ACE Gran Canaria	Handball
-Rödovre FC	Floorball
-Rodovre Mighty Bulls	Ice Hockey
-Rögle BK	Ice Hockey
-Rouen HE	Ice Hockey
-RTV 1879 Basel	Handball
-Rubin Tyumen	Ice Hockey
-Rungsted Ishockey	Ice Hockey
-Russia	Volleyball
-S. Barsy Astana	Ice Hockey
-Saint Raphael	Handball
-Saipa Lappeenranta	Ice Hockey
-Salavat Yulaev Ufa	Ice Hockey
-Salford Red Devils	Rugby League
-San Martin Corrientes	Basketball
-San Mig Coffee Mixers	Basketball
-Sapa Fehervar Av19 II	Ice Hockey
-Sarmaty Orenburg	Ice Hockey
-Saryarka	Ice Hockey
-Savo Volley	Volleyball
-SB Welhot	Floorball
-SC Bern	Ice Hockey
-SC DHFK Leipzig	Handball
-SC Magdeburg	Handball
-Scarlets	Rugby League
-Schiller-Vasas HC	Ice Hockey
-SCL Tigers Langenau	Ice Hockey
-SCM Craiova	Handball
-Seattle Seahawks	American Football
-Seattle Storm	Basketball
-Segeltorps IF	Ice Hockey
-Selfoss	Handball
-Senegal	Basketball
-Seoul Woori Card Hansae	Volleyball
-Serbia	Volleyball
-Severstal Cherepovec	Ice Hockey
-SG BBM Bietigheim	Handball
-SG Flensburg-Handewitt	Handball
-Sgau-Saratov	Handball
-Shakhter Soligorsk	Ice Hockey
-Sheffield Sharks	Basketball
-Sheffield Steelers	Ice Hockey
-Siauliai	Basketball
-Sibir Novosibirsk	Ice Hockey
-Sibirskie Snaipery	Ice Hockey
-SK Kadan	Ice Hockey
-SK Lejon	Ice Hockey
-SKA St. Petersburg	Ice Hockey
-SKA-1946 St. Petersburg	Ice Hockey
-Skaanela IF	Handball
-Skanderborg Handball	Handball
-SKA-Varyagi	Ice Hockey
-Skellefteaa Aik	Ice Hockey
-SKIF	Handball
-Skjern Handbold	Handball
-Skövde IK	Ice Hockey
-Skuru IK	Handball
-Slovakia	Ice Hockey
-Slovan Bratislava	Ice Hockey
-Slovenia	Volleyball
-Södertälje SK	Ice Hockey
-Sokol Kral Vinohrady	Floorball
-Sokol Krasnoyarsk	Ice Hockey
-Sokol Pardubice	Floorball
-Sollentuna HC	Ice Hockey
-Sønderjyske	Handball
-Sonderjyske Ishockey	Ice Hockey
-South Africa	Rugby League
-South Korea	Basketball
-South Sydney Rabbitohs	Rugby League
-Southland	Rugby League
-Soyaux Angoulême	Rugby League
-Spain	Basketball
-Spartak Moscow	Handball
-Spartak Moskau	Ice Hockey
-Spartak Moskow	Ice Hockey
-Spojnia Gdynia	Handball
-Sport Lisboa Benfica	Handball
-Sputnik Almetievsk	Ice Hockey
-SPV	Floorball
-St George Illawarra Dragons	Rugby League
-St Helens Rlfc	Rugby League
-St Petersburg	Ice Hockey
-St. Louis Rams	American Football
-Stade Aurillacois	Rugby League
-Stalnye Lisy	Ice Hockey
-Stavanger Oilers	Ice Hockey
-Steaua Bucharest	Handball
-Steelers	Floorball
-Stevnsgade Supermen	Basketball
-Stjarnan	Handball
-Stjernen Hockey	Ice Hockey
-Storhamar Dragons	Ice Hockey
-Strasbourg IG	Basketball
-Sunds Seahawks FC	Floorball
-Sungul	Handball
-Surahammar	Ice Hockey
-Surrey Heat	Basketball
-Suwon Kepco	Volleyball
-SV Wiler Ersigen	Floorball
-Tampa Bay Buccaneers	American Football
-Tappara Tampere	Ice Hockey
-Taranaki	Rugby League
-Tasman	Rugby League
-Tatran Omlux Stresovice	Floorball
-Team Fog Naestved	Basketball
-Team Kiruna	Ice Hockey
-Team Lakkapää	Volleyball
-Team TVIS Holstebro	Handball
-Telnet BC Oostende	Basketball
-TH Unia Oswiecim	Ice Hockey
-THW Kiel	Handball
-Thyboron Handball - Otterup HK	Handball
-Tigers Langnau	Floorball
-Timraa IK	Ice Hockey
-Tingsryds AIF	Ice Hockey
-TJ JM Chodov	Floorball
-TJ VHS Znojmo	Floorball
-TKH Nesta Torun	Ice Hockey
-TMH Polonia Bytom	Ice Hockey
-TMS Ringsted	Handball
-Tolpar UFA	Ice Hockey
-Toronto Wolfpack	Rugby League
-Toros Neftekamsk	Ice Hockey
-Torpedo - Ermak Angarsk	Ice Hockey
-Torpedo N. Novgorod	Ice Hockey
-Toulon Saint Cyr Var Handball	Handball
-Toulouse Handball	Handball
-Toulouse Olympique XIII	Rugby League
-Toyota Free State Cheetahs	Rugby League
-TPS	Floorball
-TPS Turku	Ice Hockey
-Tranaas Aif	Ice Hockey
-Trangsund	Ice Hockey
-Tremblay En France	Handball
-TSG Ludwigshafen-Friesenheim	Handball
-TSV Bayer 04 Leverkusen	Handball
-TSV Hannover Burgdorf	Handball
-Tunisia	Volleyball
-Turkey	Basketball
-TUS N	Handball
-Tusem Essen	Handball
-TV Emsdetten	Handball
-TV Grosswallstadt	Handball
-TV Hüttenberg	Handball
-Tyringe Sos	Ice Hockey
-Tyumenskiy Legion	Ice Hockey
-U. Olimpija Ljubljana	Basketball
-UCAM Murcia	Basketball
-UCF Knights	American Football
-UHC Alligator Malans	Floorball
-UHC Thun	Floorball
-UHC Uster	Floorball
-Ujpest Budapest	Ice Hockey
-Ulster	Rugby League
-Unicaja Malaga	Basketball
-Universitatea Politehnica Timisoara	Handball
-Universitet	Handball
-US Carcassonne	Rugby League
-US Ivry Handball	Handball
-US Montauban	Rugby League
-USA	Volleyball
-Usam Nimes	Handball
-USC Trojans	American Football
-USON Nevers	Rugby League
-Vaasan Sport	Ice Hockey
-Vaerlose BBK	Basketball
-Valencia Basket	Basketball
-Valepa	Volleyball
-Valerenga IF	Ice Hockey
-Valur Reykjavik	Handball
-Vanlose Floorball	Floorball
-Väsby IK	Ice Hockey
-Vasterasirsta HF	Handball
-Västervik	Ice Hockey
-Växjö Lakers HC	Ice Hockey
-VfL Gummersbach	Handball
-Viborg HK	Handball
-Vienna Capitals II	Ice Hockey
-Viikingit	Floorball
-VIK Vasteraas	Ice Hockey
-Villeurbanne - Gravelines Grand Fort BCM	Basketball
-Vimmerby HC	Ice Hockey
-Vistal Gdynia	Handball
-Vityazi Chekhov	Ice Hockey
-VMF St Petersburg	Ice Hockey
-Vodacom Blue Bulls	Rugby League
-Vojvodina-Univerexport Novi Sad	Handball
-Wacker Thun	Handball
-Waikato	Rugby League
-Wake Forest Demon Deacons	American Football
-Wakefield Trinity Wildcats	Rugby League
-Waldkirch St.Gallen	Floorball
-Warrington Wolves	Rugby League
-Washington Mystics	Basketball
-Washington St Cougars	American Football
-Wellington	Rugby League
-Westend Indians	Floorball
-Western KB Star Insurance	Volleyball
-Widnes Vikings	Rugby League
-Wigan Warriors	Rugby League
-Wilhelmshavener HV	Handball
-Winnipeg Blue Bombers	American Football
-Winnipeg Jets	Ice Hockey
-Wisla Plock	Handball
-Worcester Wolves	Basketball
-Ystads IF HF	Handball
-Yunost Minsk	Ice Hockey
-Zauralye Kurgan	Ice Hockey
-Zebre	Rugby League
-Zeleznicar Indjija	Handball
-ZSC Lions	Ice Hockey
-Zuazo - Handbol Canyamelar Valencia	Handball
-Zug United	Floorball
-Zvezda Chekhov	Ice Hockey
+﻿Club	SportID
+1 SC Ssk Vitkovice	6
+1946 St. Petersburg - Kapitan Stupino	11
+AA Aguas Santas	7
+AA Avanca	7
+AaB Handball	7
+Aalborg Pirates	11
+Aarhus Handball	7
+AC Fafe	7
+AC Sparta Prag	6
+Admiral Vladivostok	11
+Afturelding	7
+Aifk	7
+AIK	7
+AIK IF	11
+Air21 Express	4
+Ajax Copenhagen	7
+AK Bars Kazan	11
+Akaa Volley	13
+Akureyri Handboltafelag	7
+Alingsås HK	7
+Almaz Cherepovets	11
+Almtuna IS	11
+Amur Khabarovsk	11
+Amurskie Tigry K.	11
+Anglet Hormadi Elite	11
+Ansan Rush&Cash	13
+Antibes Sharks	4
+Argentina	4
+Argentina	9
+Argentina	13
+Argentino Junin	4
+AS Beziers Herault	9
+AS Monaco	4
+ASG Angers	11
+Ässät Pori	11
+Asvel Lyon-Villeurbanne	4
+Auckland	9
+Australia	4
+Australia	9
+Australia	13
+Aviron Bayonne	9
+Aviv - BC Zalgiris Kaunas	4
+Avto Yekaterinburg	11
+Avtomobilist Yekaterinburg	11
+Balatonfuredi Kse	7
+Baltimore Ravens	2
+Banco Di Sardegna Sassari	4
+Bars Kazan	11
+Baseti	7
+Bay of Plenty	9
+Bayern Munich	4
+BC Alytaus Dzukija	4
+BC Lietkabelis	4
+BC River Andorra	4
+Bedford	9
+Belarus	11
+Belgium	4
+Belgium	13
+Belye Medvedi	11
+Benetton Treviso	9
+Benlose FC	6
+Beskid Nowy Sacz - EKS Start Elblag	7
+BFC Vendsyssel	6
+Biarritz Olympique	9
+Bidasoa Irun	7
+BIK Karlskoga	11
+Bjerringbro	7
+BK Heid	7
+BK JIP Pardubice	4
+BK Sluneta USTI Nad Labem	4
+Blackwater Elite	4
+Bnei Herzelia	4
+Boca Juniors	4
+Boden Handball IF	7
+Bodens HF	11
+Bordeaux Ghc	11
+Borlänge HC	11
+Boston College Eagles	2
+Boulazac Basket	4
+Bourg	9
+Bourg De Peage	7
+Brazil	13
+Brest Bretagne Handball	7
+Bristol Shoguns	9
+Brynäs IF	11
+BSV Bern Muri	7
+Buffalo Sabres	11
+Bulgaria	13
+Bulldogs Brno	6
+Buran Voronezh	11
+Cameroon	13
+Canada	4
+Canada	13
+Canterbury	9
+Canterbury Bulldogs	9
+Cardiff Blues	9
+Castleford Tigers	9
+Catalans Dragons	9
+CCR Fermentoes	7
+Ceng Tou	11
+Cercle Dijon Bourgogne	7
+Chaika Nizhny Nov.	11
+Chambery Savoie	7
+Chambray Touraine	7
+Chamonix	11
+Champ. Chalons Reims Basket	4
+Charlotte 49ers	2
+Cheetahs	9
+Chehovski Medvedi	7
+Chelmet Chelyabinsk	11
+Cheonan Hyundai Capital Skywalkers	13
+Chicago Bears	2
+China	4
+China	13
+Cholet Basket	4
+Chur Uhc	6
+Cibona Zagreb	4
+Cincinnati Bengals	2
+CJF Fleury Les Aubrais	7
+Classic Tampere	6
+Club Atletico San Lorenzo De Almagro	4
+Club Deportivo Hispano Americano	4
+Cocks	7
+Collingwood Magpies	12
+Colomiers Rugby	9
+Columbus Blue Jackets	11
+Comunicaciones	4
+Connacht Rugby	9
+Coop Polva	7
+Copenhagen SFC	6
+Cornish Pirates	9
+Corona Brasov	11
+Counties Manukau	9
+Coventry Rugby	9
+Crailsheim Merlins	4
+Cronulla Sharks	9
+Crvena Zvezda Telekom	4
+CSG Strasbourg	11
+CSK VVS Samara	11
+CSKA Moscow	11
+Cuba	13
+DAB Docler	11
+Deajeon Bluefangs	13
+Debreceni Egyetem AC	11
+de-Fonds - HC Biasca	11
+Denmark	7
+DHC Rheinland	7
+DHL Western Province	9
+Dijon Bourgogne	4
+Dinamo Baumit Bucuresti	7
+Dizel Penza	11
+Djurgaardens IF	11
+Dominican Republic	13
+Doncaster Knights	9
+Dukla Trencin	11
+Dunkerque HB	7
+Ealing Trailfinders	9
+EC S.feldkirch	11
+Edinburgh Rugby	9
+Efes Anadolu Istanbul	4
+Eger Sbs	7
+Egypt	13
+EHC Biel	11
+EHC Bregenzerwald	11
+EHV Aue	7
+Eisbären Bremerhaven	4
+Elverum	7
+Enköpings SK HK	11
+ES Chalon	4
+ESBF Besancon	7
+Esbjerg Energy	11
+Espoon Oilers	6
+Estudiantes de Concordia	4
+EV Zug	11
+Exeter Chiefs	9
+Färjestads BK	11
+FBC Liberec	6
+FBC Ostrava	6
+FBC Pullo Trade Ceska Lipa	6
+FBK Sokol Mlada Boleslav	6
+FBS Bohemians	6
+FBT Pori	6
+FC Barcelona	7
+FC Midtjylland	7
+FC Porto Vitalis	7
+Ferencvaros	11
+FH Hafnarfjardar	7
+FHK Elite	7
+Fife Flyers	11
+Floorball Köniz	6
+Florida Atlantic Owls	2
+Ford Pumas	9
+Forshaga IF	11
+FOS Ouest Provence Basket	4
+Fraikin BM Granollers	7
+France	4
+France	7
+France	13
+Frederikshavn Blackhawks	6
+Frederikshavn White Hawks	11
+Frisk/Asker	11
+Frölunda HC	11
+FTC Budapest	7
+Füchse Berlin	7
+Galil Gilboa	4
+Gasterra Flames Groningen	4
+Geneve Servette HC	11
+Gjovik Mammuts	11
+GKS Katowice	11
+Glasgow Warriors	9
+Gloucester Rugby	9
+GOG Handbold	7
+Golden Lions	9
+Gorniczy Klub Sportowy Tychy	11
+Gornyak Uchaly	11
+Grasshopper Club Zurich	6
+Greater Western Sydney	12
+Greece	4
+Grenoble MH 38	11
+Grifk	7
+Grums IK	11
+Guildford Flames	11
+GWK Griquas	9
+Gyergyoi HK	11
+Halifax Blue Sox	9
+Halmstad Hammers	11
+Hammarby HB	7
+Hammarby Hockey IF	11
+Hanhals IF	11
+Hanvikens SK	11
+Hapoel Beer Sheva	4
+Hapoel Holon	4
+Happee	6
+Hartpury College	9
+Hasle/Loren Ishockey	11
+Hästö IF	7
+Haukar Hafnarfjordur	7
+Hawke´s Bay	9
+Hawthorn Hawks	12
+HBC Nantes	7
+HBC Saint-Amand-les-Eaux Porte du Hainaut	7
+HC 05 Banska Bystrica	11
+HC 07 Detva	11
+HC Ajoie	11
+HC Altai	11
+HC Ambri Piotta	11
+HC Amiens Somme	11
+HC AZ Havirov 2010	11
+HC Banik Karvina	7
+HC Barys Astana	11
+HC Benatky Nad Jizerou	11
+HC Cement Hranice	7
+HC Croatia Osiguranje Zagreb	7
+HC Dalen	11
+HC Davos	11
+HC Dinamo Maladzyechna	11
+HC Dinamo Riga	11
+HC Dukla Jihlava	11
+HC Dynamo Moscow	11
+HC Elbflorenz Dresden	7
+HC Fribourg Gotteron	11
+HC Frydek Mistek	11
+HC Horacka Slavia Trebic	11
+HC Kehra	7
+HC Kladno	11
+HC Kosice	11
+HC Kriens-Luzern	7
+HC La Chaux-de-Fonds	11
+HC Lugano	11
+HC Meshkov Brest	7
+HC Motor Ceske Budejovice	11
+HC Nice	11
+HC Orebro	11
+HC Red Star Kunlun	11
+HC Rhein Vikings	7
+HC RT Torax Poruba	11
+HC Rychenberg Winterthur	6
+HC Slavia Prag	11
+HC Slovan Ustecti Lvi	11
+HC Slovnaft Vsetin	11
+HC Sochi	11
+HC Sparta Prag	11
+HC Stadion Litomerice	11
+HC Taifun	11
+HC Tambov	11
+HC Tatran Presov	7
+HC THP Topvar Topolcany	7
+HC Traktor Chelyabinsk	11
+HC TWK Innsbruck Die Haie	11
+HC Vita Hasten	11
+HC Vitiaz Chehov	11
+HC Yugra Khanty-Mansiysk	11
+HC Zubr Prerov	11
+HCM Ramnicu Valcea	7
+Helsingborgs HC	11
+Herbalife Gran Canaria	4
+Herlev Eagles	11
+Herning Blue Fox	11
+HIFK Hockey	11
+HK Aranäs	7
+HK Avangard Omsk	11
+HK Dinamo Minsk	11
+HK Dinamo St Petersburg	11
+HK Gomel	11
+HK Jestrabi Prostejov	11
+HK Lida	11
+HK Malmö	7
+HK MVD	11
+HK Prizma	11
+HK Riga	11
+HK Ryazan	11
+HK Sarov	11
+HK SKP Poprad	11
+HKM Nitra	11
+HKM Zvolen	11
+Hockey Academy Zug	11
+Hoj	7
+Hokiklub Budapest	11
+Hoors HK H 65	7
+HPK Hämeenlinna	11
+HSC 2000 Coburg	7
+HSC Csikszereda	11
+HSG Nordhorn	7
+HSG Wetzlar	7
+HSV Hamburg	7
+Huddersfield Giants	9
+Hudiksvalls HC	11
+Hull FC	9
+Hull Kingston Rovers	9
+HV 71	11
+Hvidovre Attack	6
+Hvidovre Fighters	11
+IF Björklöven	11
+IF Troja/Ljungby	11
+IFK Arboga	11
+IFK Kristianstad	7
+IFK Kumla	11
+IFK Skövde HK	7
+IFK Ystads HK	7
+IHK Sparta Sarpsborg	11
+IK Oskarshamn	11
+IK Pantern	11
+IK Savehof	7
+Illinois Fighting Illini	2
+Ilves Tampere	11
+Incheon Korean Air Jumbos	13
+Instituto Atletico Central Cordoba	4
+IR Reykjavik	7
+Iran	13
+Irbis Kazan	11
+Issy Paris	7
+Istres Ouest Provence	7
+Italy	13
+Izhstal Izhevsk	11
+Japan	4
+Japan	13
+Jersey	9
+Jeunesse Laique de Bourg	4
+JKH GKS Jastrzebie	11
+Jokerit Helsinki	11
+JSF Nanterre	4
+JT Thunders	13
+Jukurit	11
+Juventus Utena	4
+K. Schaffhausen	7
+Kallinge/Ronneby IF	11
+Kalmar HC	11
+Kalpa Hockey	11
+Karlskrona HK	11
+Kärpät Oulu	11
+Kazzink	11
+KH Zaglebie Sosnowiec	11
+Khimik Voskresensk	11
+Kiruna AIF	11
+KK Cedevita Zagreb	4
+KK Prienai	4
+KK Zadar	4
+Kloten-Bülach Jets	6
+Kobenhavn H.b.	7
+Kookoo Kouvola	11
+Koovee	6
+Koping HC	11
+Krasnaya Armiya	11
+Kristianstad HK	7
+Kristianstads IK	11
+KRS Heilongjiang	11
+KS SPR Chrobry Glogow	7
+KS Stoczniowiec Gdansk	11
+KS Vive Targi Kielce	7
+Kuban	7
+Kungälvs HK	7
+Kuznetskie Medvedi	11
+Lada Togliatti	11
+Ladja Togliatti	11
+LaSB	6
+Lausanne HC	11
+Le Mans Basket	4
+Le Portel	4
+Leeds Carnegie	9
+Leeds Rhinos	9
+Leinster Lions	9
+Leksands IF	11
+Lemvig-Thyboron Handball	7
+Lietuvos Rytas	4
+Lillehammer IK	11
+Limoges CSP	4
+Lindlövens IF	11
+Lingen - Dessau-Rosslauer HV 2006	7
+Lingen - HC Erlangen	7
+Linköpings HC	11
+Liptovsky Mikulas	11
+Loko Yaroslavl	11
+Lokomotiv Yaroslavl	11
+London Broncos	9
+London Lions	4
+Lübbecke - TSV GWD Minden	7
+Lugi HF	7
+Luleaa Hockey	11
+Lyon HC	11
+M - Sporting CP	7
+M. Magnitogorsk	11
+MAC Budapest	11
+Maccabi Ashdod	4
+Maccabi Rishon Lezion	4
+Malmo IF	11
+Malungs IF	11
+Mamonty Yugry K. M.	11
+Manawatu	9
+Manglerud/Star	11
+Mariestads Bois	11
+Mecalia Atletico Guardes	7
+Medi Bayreuth	4
+Melbourne Demons	12
+Melbourne Storm	9
+Metallurg Novokuznetsk	11
+Metallurg Zhlobin	11
+Metz Handball	7
+MHK Krylia Sovetov	11
+Miami Florida	2
+Minnesota Vikings	2
+Minnesota Wild	11
+Miskolci JJSE	11
+MKB Veszprem KC	7
+MKS Cracovia Krakow	11
+MKS Lublin	7
+MKS Zaglebie Lubin	7
+Modo Hockey	11
+Mogo Riga	11
+Molot	11
+Montpellier Handball	7
+Montreal Alouettes	2
+Mora IK	11
+Mornar	4
+Morrum Gois IK	11
+Mors-Thy Handbold	7
+Morzine HC - Scorpions de Mulhouse	11
+Motor Zaporozhye	7
+Mountfield HK	11
+MRK Krka	7
+Mshk Zilina	11
+MT Melsungen	7
+Munster	9
+Mytishchinskie A.	11
+Nantes Loire Atlantique HB	7
+Neftekhimik Nizhnekamsk	11
+Neftyanik Almetyevsk	11
+Neman Grodno	11
+Neptunas Klaipeda	4
+Netherlands	13
+Nevezis Kedainiai	4
+New York Islanders	11
+New Zealand	9
+Newcastle Falcons	9
+Newport Gwent Dragons	9
+Nigeria	4
+Nokian Kristityt Palloilijat	6
+Nordsjaelland Handball	7
+North Carolina Tar Heels	2
+North Harbour	9
+Northland	9
+Norway	7
+Nottingham	9
+Nove Zamky	11
+Nybro IF	11
+Nykobing F.b Handboldklub	7
+Obras Sanitarias	4
+OC Cesson Handball	7
+Odense Bulldogs	11
+OGC Nice Cote D´Azur	7
+Old Dominion	2
+OLS Oulu	6
+Omskie Yastreby	11
+Önnereds HK	7
+Orlik Opole	11
+Ospreys	9
+Otago	9
+OV Helsingborg HK	7
+Panthers Otrokovice	6
+Paris Handball	7
+Paris Levallois	4
+Pau Lacq Orthez	4
+Pays Aix Universite Club Handball	7
+Pays D Aix	9
+Pelicans Lahti	11
+Penarol Mar Del Plata	4
+Penn St Nittany Lions	2
+Penrith Panthers	9
+Permskie Medvedi	7
+Pfadi Winterthur	7
+Philadelphia Flyers	11
+Pick Szeged	7
+Pieno Zvaigzdes	4
+Piteå HC	11
+Pittsburgh Steelers	2
+Pogon Handball Szczecin	7
+Poland	7
+Poland	13
+Pontault-Combault HB	7
+Potaissa Turda	7
+Prikamje Perm - Yuzhny Ural Orsk	11
+Puerto Rico	4
+Puerto Rico	13
+Quimsa Santiago del Estero	4
+Rain Or Shine Elasto	4
+Randers Cimbria	4
+Randers HH	7
+Randers HK	7
+Rapaces de Gap	11
+Rapperswil Jona Lakers	11
+Rasta Vechta	4
+Ratiopharm Ulm	4
+Rauma Lukko	11
+RB Salzburg	11
+RC Massy	9
+RD Loka	7
+RD Ribnica Riko Hise	7
+Reaktor Nizhnekamsk	11
+Reale Ademar	7
+Red Star Kunlun Junior	11
+Redbergslids IK	7
+Regal FC Barcelona	4
+Rhein Neckar Löwen	7
+Ribe-Esbjerg HH	7
+Richmond	9
+Richmond Tigers	12
+Ringerike IHK	11
+RK Celje Pivovarna Lasko	7
+RK Cimos Koper	7
+RK Gorenje Velenje	7
+RK Jeruzalem Ormoz	7
+RK Maribor Branik	7
+RK Trimo Trebnje	7
+Rocasa ACE Gran Canaria	7
+Rödovre FC	6
+Rodovre Mighty Bulls	11
+Rögle BK	11
+Rouen HE	11
+RTV 1879 Basel	7
+Rubin Tyumen	11
+Rungsted Ishockey	11
+Russia	13
+S. Barsy Astana	11
+Saint Raphael	7
+Saipa Lappeenranta	11
+Salavat Yulaev Ufa	11
+Salford Red Devils	9
+San Martin Corrientes	4
+San Mig Coffee Mixers	4
+Sapa Fehervar Av19 II	11
+Sarmaty Orenburg	11
+Saryarka	11
+Savo Volley	13
+SB Welhot	6
+SC Bern	11
+SC DHFK Leipzig	7
+SC Magdeburg	7
+Scarlets	9
+Schiller-Vasas HC	11
+SCL Tigers Langenau	11
+SCM Craiova	7
+Seattle Seahawks	2
+Seattle Storm	4
+Segeltorps IF	11
+Selfoss	7
+Senegal	4
+Seoul Woori Card Hansae	13
+Serbia	13
+Severstal Cherepovec	11
+SG BBM Bietigheim	7
+SG Flensburg-Handewitt	7
+Sgau-Saratov	7
+Shakhter Soligorsk	11
+Sheffield Sharks	4
+Sheffield Steelers	11
+Siauliai	4
+Sibir Novosibirsk	11
+Sibirskie Snaipery	11
+SK Kadan	11
+SK Lejon	11
+SKA St. Petersburg	11
+SKA-1946 St. Petersburg	11
+Skaanela IF	7
+Skanderborg Handball	7
+SKA-Varyagi	11
+Skellefteaa Aik	11
+SKIF	7
+Skjern Handbold	7
+Skövde IK	11
+Skuru IK	7
+Slovakia	11
+Slovan Bratislava	11
+Slovenia	13
+Södertälje SK	11
+Sokol Kral Vinohrady	6
+Sokol Krasnoyarsk	11
+Sokol Pardubice	6
+Sollentuna HC	11
+Sønderjyske	7
+Sonderjyske Ishockey	11
+South Africa	9
+South Korea	4
+South Sydney Rabbitohs	9
+Southland	9
+Soyaux Angoulême	9
+Spain	4
+Spartak Moscow	7
+Spartak Moskau	11
+Spartak Moskow	11
+Spojnia Gdynia	7
+Sport Lisboa Benfica	7
+Sputnik Almetievsk	11
+SPV	6
+St George Illawarra Dragons	9
+St Helens Rlfc	9
+St Petersburg	11
+St. Louis Rams	2
+Stade Aurillacois	9
+Stalnye Lisy	11
+Stavanger Oilers	11
+Steaua Bucharest	7
+Steelers	6
+Stevnsgade Supermen	4
+Stjarnan	7
+Stjernen Hockey	11
+Storhamar Dragons	11
+Strasbourg IG	4
+Sunds Seahawks FC	6
+Sungul	7
+Surahammar	11
+Surrey Heat	4
+Suwon Kepco	13
+SV Wiler Ersigen	6
+Tampa Bay Buccaneers	2
+Tappara Tampere	11
+Taranaki	9
+Tasman	9
+Tatran Omlux Stresovice	6
+Team Fog Naestved	4
+Team Kiruna	11
+Team Lakkapää	13
+Team TVIS Holstebro	7
+Telnet BC Oostende	4
+TH Unia Oswiecim	11
+THW Kiel	7
+Thyboron Handball - Otterup HK	7
+Tigers Langnau	6
+Timraa IK	11
+Tingsryds AIF	11
+TJ JM Chodov	6
+TJ VHS Znojmo	6
+TKH Nesta Torun	11
+TMH Polonia Bytom	11
+TMS Ringsted	7
+Tolpar UFA	11
+Toronto Wolfpack	9
+Toros Neftekamsk	11
+Torpedo - Ermak Angarsk	11
+Torpedo N. Novgorod	11
+Toulon Saint Cyr Var Handball	7
+Toulouse Handball	7
+Toulouse Olympique XIII	9
+Toyota Free State Cheetahs	9
+TPS	6
+TPS Turku	11
+Tranaas Aif	11
+Trangsund	11
+Tremblay En France	7
+TSG Ludwigshafen-Friesenheim	7
+TSV Bayer 04 Leverkusen	7
+TSV Hannover Burgdorf	7
+Tunisia	13
+Turkey	4
+TUS N	7
+Tusem Essen	7
+TV Emsdetten	7
+TV Grosswallstadt	7
+TV Hüttenberg	7
+Tyringe Sos	11
+Tyumenskiy Legion	11
+U. Olimpija Ljubljana	4
+UCAM Murcia	4
+UCF Knights	2
+UHC Alligator Malans	6
+UHC Thun	6
+UHC Uster	6
+Ujpest Budapest	11
+Ulster	9
+Unicaja Malaga	4
+Universitatea Politehnica Timisoara	7
+Universitet	7
+US Carcassonne	9
+US Ivry Handball	7
+US Montauban	9
+USA	13
+Usam Nimes	7
+USC Trojans	2
+USON Nevers	9
+Vaasan Sport	11
+Vaerlose BBK	4
+Valencia Basket	4
+Valepa	13
+Valerenga IF	11
+Valur Reykjavik	7
+Vanlose Floorball	6
+Väsby IK	11
+Vasterasirsta HF	7
+Västervik	11
+Växjö Lakers HC	11
+VfL Gummersbach	7
+Viborg HK	7
+Vienna Capitals II	11
+Viikingit	6
+VIK Vasteraas	11
+Villeurbanne - Gravelines Grand Fort BCM	4
+Vimmerby HC	11
+Vistal Gdynia	7
+Vityazi Chekhov	11
+VMF St Petersburg	11
+Vodacom Blue Bulls	9
+Vojvodina-Univerexport Novi Sad	7
+Wacker Thun	7
+Waikato	9
+Wake Forest Demon Deacons	2
+Wakefield Trinity Wildcats	9
+Waldkirch St.Gallen	6
+Warrington Wolves	9
+Washington Mystics	4
+Washington St Cougars	2
+Wellington	9
+Westend Indians	6
+Western KB Star Insurance	13
+Widnes Vikings	9
+Wigan Warriors	9
+Wilhelmshavener HV	7
+Winnipeg Blue Bombers	2
+Winnipeg Jets	11
+Wisla Plock	7
+Worcester Wolves	4
+Ystads IF HF	7
+Yunost Minsk	11
+Zauralye Kurgan	11
+Zebre	9
+Zeleznicar Indjija	7
+ZSC Lions	11
+Zuazo - Handbol Canyamelar Valencia	7
+Zug United	6
+Zvezda Chekhov	11

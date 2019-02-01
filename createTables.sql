@@ -8,9 +8,9 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 CREATE TABLE [location].[Countries](
-	[CountryCode] [nvarchar](3) NOT NULL,
+	[CountryCode] [nchar](3) NOT NULL,
 	[CountryEnglishName] [nvarchar](max) NULL,
-	[ModifiedDate] [datetime] not null,
+	[ModifiedDate] [datetime]  default (getDate()),
  CONSTRAINT [PK_Countries] PRIMARY KEY CLUSTERED 
 (
 	[CountryCode] ASC
@@ -18,13 +18,13 @@ CREATE TABLE [location].[Countries](
 ) ON [PRIMARY]
 GO
 
-ALTER TABLE [location].[Countries] ADD  CONSTRAINT [DF_Countries_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [location].[Countries] ADD  CONSTRAINT [DF_Countries_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 ----------------------------------------------
 
 CREATE TABLE [location].[Cities](
 	[CityID] [int] NOT NULL IDENTITY(1,1),
-	[CountryCode] [nvarchar](3) NULL,
+	[CountryCode] [nchar](3) NULL,
 	[CityName] [nvarchar](max) NULL,
 	[ModifiedDate] [datetime] not null,
  CONSTRAINT [PK_Cities] PRIMARY KEY CLUSTERED 
@@ -74,7 +74,7 @@ CREATE TABLE [sport].[Sports](
 	[Sport] [nvarchar](max) NULL,
 	[SportInformation][nvarchar](max) NULL,
 	[SportType] [nvarchar](max) NULL,
-	[ModifiedDate] [datetime] not null,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Sports] PRIMARY KEY CLUSTERED 
 (
 	[SportID] ASC
@@ -82,8 +82,8 @@ CREATE TABLE [sport].[Sports](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 
-ALTER TABLE [sport].[Sports] ADD  CONSTRAINT [DF_Sports_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [sport].[Sports] ADD  CONSTRAINT [DF_Sports_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 -------------------------
 CREATE TABLE [sport].[Tournaments](
@@ -115,7 +115,7 @@ CREATE TABLE [sport].[Clubs](
 	[ClubInformation] [nvarchar](max) NULL,
 	[CouchFullName] [nvarchar](150) NULL,
 	[SportID] [int] NOT NULL,
-	[ModifiedDate] [datetime] not null,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Clubs] PRIMARY KEY CLUSTERED 
 (
 	[ClubID] ASC
@@ -130,8 +130,8 @@ GO
 ALTER TABLE [sport].[Clubs] CHECK CONSTRAINT [FK_Clubs_Sport]
 GO
 
-ALTER TABLE [sport].[Clubs] ADD  CONSTRAINT [DF_Clubs_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [sport].[Clubs] ADD  CONSTRAINT [DF_Clubs_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 -------------------------
 CREATE TABLE [sport].[Teams](
@@ -140,7 +140,7 @@ CREATE TABLE [sport].[Teams](
 	[ParentTeamID] [int] NULL,
 	[TeamInformation] [nvarchar](max) NULL,
 	[TournamentID] [int] NOT NULL,
-	[ModifiedDate] [datetime] not null,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Team] PRIMARY KEY CLUSTERED 
 (
 	[TeamID] ASC
@@ -162,8 +162,8 @@ GO
 ALTER TABLE [sport].[Teams] CHECK CONSTRAINT [FK_Team_Team]
 GO
 
-ALTER TABLE [sport].[Teams] ADD  CONSTRAINT [DF_Teams_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [sport].[Teams] ADD  CONSTRAINT [DF_Teams_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 ----------------------------
 CREATE TABLE [sport].[TeamsClubs](
@@ -236,6 +236,7 @@ CREATE TABLE [finance].[CustomersGroups](
 	[CustomerGroupCommissionAddStake] [float] NULL,
 	[CustomerGroupCommissionEditStake] [float] NULL,
 	[CustomerGroupCommissionDeleteStake] [float] NULL,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_CustomersGroups] PRIMARY KEY CLUSTERED 
 (
 	[CustomerGroupID] ASC
@@ -246,12 +247,12 @@ GO
 ----------------------------
 CREATE TABLE [finance].[Customers](
 	[CustomerID] [int] NOT NULL IDENTITY(1,1),
-	[CustomerLogin] [nvarchar](15) NOT NULL,
-	[CustomerEmail] [nvarchar](25) NOT NULL,
+	[CustomerLogin] [nvarchar](50) NOT NULL,
+	[CustomerEmail] [nvarchar](50) NOT NULL,
 	[SendMails] [bit] NULL DEFAULT(0),
 	[CustomerGroupID] [int] NOT NULL,
-	[CountryCode] [nvarchar](3) NuLL,
-	[ModifiedDate] [datetime] NOT NULL,
+	[CountryCode] [nchar](3) NuLL,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Customers] PRIMARY KEY CLUSTERED 
 (
 	[CustomerID] ASC
@@ -276,8 +277,8 @@ GO
 ALTER TABLE [finance].[Customers] ADD CONSTRAINT UC_Customer UNIQUE ([CustomerLogin])
 go
 
-ALTER TABLE [finance].[Customers] ADD  CONSTRAINT [DF_Customer_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [finance].[Customers] ADD  CONSTRAINT [DF_Customer_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 ---------------------------------
 
@@ -286,7 +287,7 @@ CREATE TABLE [finance].[CustomersPasswords](
 	[PasswordHash] [varchar](128) NOT NULL,
 	[PasswordSalt] [varchar](10) NOT NULL,
 	[rowguid] [uniqueidentifier] ROWGUIDCOL  NOT NULL,
-	[ModifiedDate] [datetime] NOT NULL,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Password_BusinessEntityID] PRIMARY KEY CLUSTERED 
 (
 	[CustomerID] ASC
@@ -297,8 +298,8 @@ GO
 ALTER TABLE [finance].[CustomersPasswords] ADD  CONSTRAINT [DF_Password_rowguid]  DEFAULT (newid()) FOR [rowguid]
 GO
 
-ALTER TABLE [finance].[CustomersPasswords] ADD  CONSTRAINT [DF_Password_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [finance].[CustomersPasswords] ADD  CONSTRAINT [DF_Password_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 ALTER TABLE [finance].[CustomersPasswords]  WITH CHECK ADD  CONSTRAINT [FK_Password_Person_BusinessEntityID] FOREIGN KEY([CustomerID])
 REFERENCES [finance].[Customers] ([CustomerID])
@@ -314,7 +315,7 @@ CREATE TABLE [finance].[Events](
 	[Event] [nvarchar](15) NOT NULL,
 	[SportID] [int] Null,
 	[EventGroup] [int] null,
-	[ModifiedDate] [datetime] NOT NULL,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Events] PRIMARY KEY CLUSTERED 
 (
 	[EventID] ASC
@@ -322,8 +323,8 @@ CREATE TABLE [finance].[Events](
 ) ON [PRIMARY]
 GO
 
-ALTER TABLE [finance].[Events] ADD  CONSTRAINT [DF_Events_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
-GO
+--ALTER TABLE [finance].[Events] ADD  CONSTRAINT [DF_Events_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
+--GO
 
 ALTER TABLE [finance].[Events] WITH CHECK ADD  CONSTRAINT [FK_Events_Sport] FOREIGN KEY([SportID])
 REFERENCES [sport].[Sports] ([SportID])
@@ -380,7 +381,7 @@ CREATE TABLE [finance].[CurrenciesRates](
 	[CurrencyDollar] [float] NOT NULL,
 	[CurrencyDollarBay] [float] NULL,
 	[CurrencyDollarSell] [float] NULL,
-	[Date] [datetime] NOT NULL,
+	[Date] [datetime] default (getDate()),
  CONSTRAINT [PK_CurrenciesRates] PRIMARY KEY CLUSTERED 
 (
 	[CurrencyRateID] ASC
@@ -493,7 +494,7 @@ CREATE TABLE [finance].[Taxes](
 	[TaxID] [int] NOT NULL IDENTITY(1,1),
 	[Tax] nvarchar(50) NOT NULL,
 	[TaxRate] [float] NOT NULL,
-	[CountryCode] nvarchar(3) NOT NULL,
+	[CountryCode] nchar(3) NOT NULL,
 	[ModifiedDate] [datetime] NOT NULL,
  CONSTRAINT [PK_Taxes] PRIMARY KEY CLUSTERED 
 (

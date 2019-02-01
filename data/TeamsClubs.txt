@@ -1,792 +1,928 @@
-﻿Team	Club
-Extraliga - 2018/19	HC 05 Banska Bystrica
-SM-Liiga - 2018/19	Kalpa Hockey
-Extraliga - 2018/19	Metallurg Zhlobin
-LKL - 2018/19	BC Lietkabelis
-NSW Cup - 2018	ST George Illawarra Dragons
-National League - 2018/19	SV Wiler Ersigen
-National League A - 2018/19	HC Fribourg Gotteron
-2nd Bundesliga - 2018/19	DHC Rheinland
-FIVB World Championship Men - 2018/19	Canada
-Eliteserien - 2018/19	IHK Sparta Sarpsborg
-Super League - 2018/19	Spartak Moscow
-VHL - 2018/19	Khimik Voskresensk
-FIBA World Championship - 2018/19	Senegal
-1. Division - 2018/19	Randers HH
-Extraliga - 2018/19	HC Sparta Prag
-MHL - 2018/19	Sibirskie Snaipery
-LKL - 2018/19	Nevezis Kedainiai
-NRL - 2018	South Sydney Rabbitohs
-SM-Liiga - 2018/19	Jukurit
-1. liga - 2018/19	RK Celje Pivovarna Lasko
-KHL - 2018/19	Admiral Vladivostok
-Eliteserien - 2018/19	Stjernen Hockey
-Salibandyliiga - 2018/19	TPS
-MHL - 2018/19	Spartak Moskow
-BBL - 2018/19	Ratiopharm Ulm
-KHL - 2018/19	AK Bars Kazan
-LNH Division 1 Men - 2018/19	Montpellier Handball
-2nd Bundesliga - 2018/19	Wilhelmshavener HV
-National League - 2018/19	Floorball Köniz
-FIBA World Championship - 2018/19	China
-SHL - 2018/19	Frölunda HC
-Liga ABA Super Cup - 2018/19	KK Zadar
-National League A - 2018/19	Rapperswil Jona Lakers
-Spagnola ACB - 2018/19	BC River Andorra
-Meistriliiga - 2018/19	HC Kehra
-Handboldligaen - 2018/19	Lemvig-Thyboron Handball
-SHL - 2018/19	Brynäs IF
-Club Friendlies - 2018/19	Brynäs IF
-National League A - 2018/19	EV Zug
-Super 8s - 2018	Salford Red Devils
-Elitserien - 2018/19	AIK
-Superisligaen - 2018/19	Herning Blue Fox
-Extraliga - 2018/19	HC THP Topvar Topolcany
-FIVB World Championship Men - 2018/19	Brazil
-2nd Bundesliga - 2018/19	Lingen - Dessau-Rosslauer HV 2006
-Mestaruusliiga - 2018/19	Valepa
-Super 8s - 2018	St Helens Rlfc
-Ligue Magnus - 2018/19	Morzine HC - Scorpions de Mulhouse
-SM-Liiga - 2018/19	Tappara Tampere
-Pro A - 2018/19	Jeunesse Laique de Bourg
-College - 2018/19	Florida Atlantic Owls
-FIBA World Championship - 2018/19	Turkey
-HockeyEttan Norra - 2018/19	Team Kiruna
-VHL - 2018/19	CSK VVS Samara
-AFL - 2018	Greater Western Sydney
-Superisligaen - 2018/19	Herlev Eagles
-Elitserien - 2018/19	Redbergslids IK
-Extraliga - 2018/19	HC Cement Hranice
-Pro D2 - 2018	AS Beziers Herault
-MHL - 2018/19	HK Riga
-College - 2018/19	Boston College Eagles
-KHL - 2018/19	HC Barys Astana
-SHL - 2018/19	Rögle BK
-VHL - 2018/19	HK Sarov
-Currie Cup - 2018	Golden Lions
-FIBA World Championship - 2018/19	Argentina
-Alps Hockey League - 2018/19	EC S.feldkirch
-Pro D2 - 2018	US Carcassonne
-HockeyEttan Vastra - 2018/19	Borlänge HC
-UFL - 2018/19	BFC Vendsyssel
-HockeyEttan Sodra - 2018/19	Tyringe Sos
-Int. Friendly Games - 2018/19	Poland
-1. liga - 2018/19	RK Maribor Branik
-MNLA - 2018/19	Pfadi Winterthur
-Hockey Allsvenskan - 2018/19	HC Vita Hasten
-English Premiership - 2018	Exeter Chiefs
-Hockey Allsvenskan - 2018/19	Västervik
-Pro A - 2018/19	Dijon Bourgogne
-SHL - 2018/19	HC Orebro
-Salibandyliiga - 2018/19	Steelers
-1a Divisao - 2018/19	Sport Lisboa Benfica
-2nd Bundesliga - 2018/19	TV Grosswallstadt
-KHL - 2018/19	M. Magnitogorsk
-Hockey Allsvenskan - 2018/19	IK Pantern
-Hockey Allsvenskan - 2018/19	Almtuna IS
-Damehandboldligaen - 2018/19	Ajax Copenhagen
-Salibandyliiga - 2018/19	OLS Oulu
-HockeyEttan Sodra - 2018/19	Kalmar HC
-HockeyEttan Sodra - 2018/19	Vimmerby HC
-NFL - 2018/19	St. Louis Rams
-Hockey Allsvenskan - 2018/19	Leksands IF
-FIVB World Championship Men - 2018/19	Japan
-Alps Hockey League - 2018/19	EHC Bregenzerwald
-Pro A - 2018/19	Cholet Basket
-LNB - 2018/19	Comunicaciones
-NPC - 2018	Wellington
-Damehandboldligaen - 2018/19	Viborg HK
-PBA - 2018/19	Air21 Express
-FIVB World Championship Men - 2018/19	Cameroon
-KHL - 2018/19	Spartak Moskau
-National League B - 2018/19	HC Ajoie
-MHL - 2018/19	S. Barsy Astana
-Hockey Allsvenskan - 2018/19	Karlskrona HK
-Liga Nationala - 2018/19	SCM Craiova
-MHL - 2018/19	Sputnik Almetievsk
-NB I - 2018/19	FTC Budapest
-MHL - 2018/19	1946 St. Petersburg - Kapitan Stupino
-Pro D2 - 2018	US Montauban
-National League - 2018/19	Grasshopper Club Zurich
-MHL - 2018/19	MHK Krylia Sovetov
-SHL - 2018/19	Malmo IF
-VHL - 2018/19	HC Yugra Khanty-Mansiysk
-MHL - 2018/19	HK MVD
-LNH Division 1 Men - 2018/19	Saint Raphael
-1. Division - 2018/19	Ajax Copenhagen
-Division De Honor Femenina - 2018/19	Rocasa ACE Gran Canaria
-Champions League - 2018/19	Paris Handball
-LNH Division 1 Men - 2018/19	Paris Handball
-Eliteserien - 2018/19	Stavanger Oilers
-VHL - 2018/19	Neftyanik Almetyevsk
-Pro A - 2018/19	Paris Levallois
-Pro14 - 2018	Cheetahs
-Handboldligaen - 2018/19	TMS Ringsted
-Pro14 - 2018	Munster
-NPC - 2018	Auckland
-Ligue Magnus - 2018/19	HC Nice
-PBA - 2018/19	San Mig Coffee Mixers
-Champions League - 2018/19	Rhein Neckar Löwen
-National League A - 2018/19	Geneve Servette HC
-1st Division - 2018/19	Hasle/Loren Ishockey
-1a Divisao - 2018/19	AA Avanca
-LNH Division 1 - 2018/19	ESBF Besancon
-KHL - 2018/19	Lokomotiv Yaroslavl
-Super 8s - 2018	Hull FC
-SHL - 2018/19	Timraa IK
-Club Friendlies - 2018/19	Timraa IK
-HockeyEttan Vastra - 2018/19	Surahammar
-2nd Bundesliga - 2018/19	HSV Hamburg
-Division De Honor Femenina - 2018/19	Zuazo - Handbol Canyamelar Valencia
-Club Friendlies - 2018/19	Gasterra Flames Groningen
-MHL - 2018/19	Tyumenskiy Legion
-Superliga - 2018/19	Spojnia Gdynia
-SHL - 2018/19	Växjö Lakers HC
-2nd Bundesliga - 2018/19	HC Elbflorenz Dresden
-RFU Championship - 2018	Nottingham
-League Cup - 2018/19	Hapoel Holon
-Eliteserien - 2018/19	Ringerike IHK
-Super 8s - 2018	Toulouse Olympique XIII
-FIVB World Championship Men - 2018/19	Belgium
-Superisligaen - 2018/19	Rungsted Ishockey
-Bundesliga - 2018/19	THW Kiel
-KHL - 2018/19	HC Dynamo Moscow
-Liga Nationala - 2018/19	Universitatea Politehnica Timisoara
-CFL - 2018/19	Montreal Alouettes
-SM-Liiga - 2018/19	Kookoo Kouvola
-NPC - 2018	Counties Manukau
-1st Liga - 2018/19	HC Slovnaft Vsetin
-Erste Liga - 2018/19	Sapa Fehervar Av19 II
-LNB - 2018/19	Instituto Atletico Central Cordoba
-VHL - 2018/19	Lada Togliatti
-VHL - 2018/19	Toros Neftekamsk
-Super League - 2018/19	Kuban
-LKL - 2018/19	BC Alytaus Dzukija
-Club Friendlies - 2018/19	Mora IK
-SHL - 2018/19	Mora IK
-Pro A - 2018/19	Antibes Sharks
-FIBA World Championship - 2018/19	Puerto Rico
-Spagnola ACB - 2018/19	Valencia Basket
-VHL - 2018/19	Torpedo - Ermak Angarsk
-Elitserien - 2018/19	Hammarby HB
-2nd Bundesliga - 2018/19	HC Rhein Vikings
-HockeyEttan Vastra - 2018/19	Grums IK
-FIVB World Championship Men - 2018/19	Russia
-FIVB World Championship Men - 2018/19	Bulgaria
-Mestaruusliiga - 2018/19	Team Lakkapää
-Bundesliga - 2018/19	Lingen - HC Erlangen
-SM-Liiga - 2018/19	Rauma Lukko
-Pro A - 2018/19	Le Portel
-HockeyEttan Vastra - 2018/19	Malungs IF
-Salibandyliiga - 2018/19	Koovee
-1. liga - 2018/19	RD Loka
-NPC - 2018	Otago
-Hockey Allsvenskan - 2018/19	AIK IF
-NRL - 2018	St George Illawarra Dragons
-1. liga - 2018/19	RK Jeruzalem Ormoz
-Superliga - 2018/19	Vistal Gdynia
-Urvalsdeild - 2018/19	Afturelding
-Extraliga - 2018/19	Yunost Minsk
-UFL - 2018/19	Frederikshavn Blackhawks
-HockeyEttan Vastra - 2018/19	Koping HC
-Club Friendlies - 2018/19	Färjestads BK
-SHL - 2018/19	Färjestads BK
-VHL - 2018/19	Bars Kazan
-Extraliga - 2018/19	Mshk Zilina
-Ligue Magnus - 2018/19	Chamonix
-Ekstraliga - 2018/19	Gorniczy Klub Sportowy Tychy
-Salibandyliiga - 2018/19	Westend Indians
-Ekstraliga - 2018/19	JKH GKS Jastrzebie
-UFL - 2018/19	Hvidovre Attack
-Champions League - 2018/19	Motor Zaporozhye
-Asobal - 2018/19	Reale Ademar
-Champions League - 2018/19	Reale Ademar
-Pro14 - 2018	Zebre
-Pro D2 - 2018	Soyaux Angoulême
-Ekstraliga - 2018/19	GKS Katowice
-NFL - 2018/19	Seattle Seahawks
-RFU Championship - 2018	Hartpury College
-Extraliga - 2018/19	HK Lida
-Hockey Allsvenskan - 2018/19	VIK Vasteraas
-Bundesliga - 2018/19	SG Flensburg-Handewitt
-Bundesliga - 2018/19	TSV Hannover Burgdorf
-Pro14 - 2018	Scarlets
-MHL - 2018/19	Loko Yaroslavl
-Urvalsdeild - 2018/19	Akureyri Handboltafelag
-Extraliga - 2018/19	MAC Budapest
-Pro A - 2018/19	Pau Lacq Orthez
-Superisligaen - 2018/19	Odense Bulldogs
-Super 8s - 2018	Catalans Dragons
-Pro D2 - 2018	RC Massy
-Hockey Allsvenskan - 2018/19	Tingsryds AIF
-MNLA - 2018/19	HC Kriens-Luzern
-1a Divisao - 2018/19	FC Porto Vitalis
-Salibandyliiga - 2018/19	LaSB
-HockeyEttan Norra - 2018/19	Piteå HC
-KHL - 2018/19	Sibir Novosibirsk
-Super 8s - 2018	Huddersfield Giants
-AFL - 2018	Melbourne Demons
-The Rugby Championship - 2018	New Zealand
-HockeyEttan Ostra - 2018/19	Väsby IK
-Currie Cup - 2018	DHL Western Province
-KOVO Cup - 2018/19	Deajeon Bluefangs
-FIBA World Championship - 2018/19	France
-NFL - 2018/19	Cincinnati Bengals
-Ekstraliga - 2018/19	KS Stoczniowiec Gdansk
-Extraliga - 2018/19	HKM Nitra
-Women Bundesliga - 2018/19	TSV Bayer 04 Leverkusen
-LNH Division 1 Men - 2018/19	HBC Nantes
-LNB - 2018/19	Estudiantes de Concordia
-VHL - 2018/19	HC Tambov
-Pro D2 - 2018	Pays D Aix
-MHL - 2018/19	Omskie Yastreby
-National League - 2018/19	Kloten-Bülach Jets
-Elitserien - 2018/19	IFK Kristianstad
-VHL - 2018/19	Chelmet Chelyabinsk
-MHL - 2018/19	Vityazi Chekhov
-Hockey Allsvenskan - 2018/19	BIK Karlskoga
-Elite League - 2018/19	Sheffield Steelers
-College - 2018/19	Miami Florida
-1. Division - 2018/19	FHK Elite
-LNH Division 1 Men - 2018/19	Istres Ouest Provence
-HockeyEttan Vastra - 2018/19	Lindlövens IF
-Superisligaen - 2018/19	Aalborg Pirates
-National League - 2018/19	UHC Uster
-1st Liga - 2018/19	HC Slovan Ustecti Lvi
-NPC - 2018	Canterbury
-Elitserien - 2018/19	BK Heid
-LNB - 2018/19	San Martin Corrientes
-KOVO Cup - 2018/19	Ansan Rush&Cash
-College - 2018/19	Charlotte 49ers
-1st Liga - 2018/19	HC AZ Havirov 2010
-Superliga - 2018/19	MKS Lublin
-Bundesliga - 2018/19	SC DHFK Leipzig
-Hockey Allsvenskan - 2018/19	Södertälje SK
-HockeyEttan Ostra - 2018/19	Sollentuna HC
-NHL - 2018/19	Philadelphia Flyers
-College - 2018/19	Old Dominion
-LNH Division 1 - 2018/19	Bourg De Peage
-Pro14 - 2018	Connacht Rugby
-UFL - 2018/19	Rödovre FC
-SM-Liiga - 2018/19	Vaasan Sport
-LKL - 2018/19	Siauliai
-Pro14 - 2018	Benetton Treviso
-National League A - 2018/19	Lausanne HC
-LNH Division 1 - 2018/19	CJF Fleury Les Aubrais
-1a Divisao - 2018/19	M - Sporting CP
-NBL - 2018/19	BK JIP Pardubice
-Extraliga - 2018/19	Bulldogs Brno
-KHL - 2018/19	CSKA Moscow
-Bundesliga - 2018/19	Füchse Berlin
-Ligue Magnus - 2018/19	ASG Angers
-Super League - 2018/19	Chehovski Medvedi
-Erste Liga - 2018/19	Hokiklub Budapest
-KHL - 2018/19	HC Vitiaz Chehov
-LNH Division 1 Men - 2018/19	Pays Aix Universite Club Handball
-EBEL - 2018/19	HC TWK Innsbruck Die Haie
-HockeyEttan Ostra - 2018/19	Segeltorps IF
-Elitserien - 2018/19	Önnereds HK
-VHL - 2018/19	Molot
-NHL - 2018/19	Columbus Blue Jackets
-Super 8s - 2018	Halifax Blue Sox
-KHL - 2018/19	HK Avangard Omsk
-Erste Liga - 2018/19	Gyergyoi HK
-Handboldligaen - 2018/19	Aarhus Handball
-SHL - 2018/19	Luleaa Hockey
-Club Friendlies - 2018/19	Luleaa Hockey
-HockeyEttan Vastra - 2018/19	IFK Kumla
-1st Division - 2018/19	Gjovik Mammuts
-Superliga - 2018/19	KS Vive Targi Kielce
-KHL - 2018/19	Slovan Bratislava
-Ekstraliga - 2018/19	TH Unia Oswiecim
-The Rugby Championship - 2018	Argentina
-Bundesliga - 2018/19	HSG Wetzlar
-National League B - 2018/19	HC La Chaux-de-Fonds
-BBL - 2018/19	Crailsheim Merlins
-LNB - 2018/19	Club Deportivo Hispano Americano
-Currie Cup - 2018	Ford Pumas
-Superisligaen - 2018/19	Esbjerg Energy
-Extraliga - 2018/19	Panthers Otrokovice
-NB I - 2018/19	Eger Sbs
-Elitserien - 2018/19	Kungälvs HK
-Int. Friendly Games - 2018/19	Norway
-HockeyEttan Vastra - 2018/19	Skövde IK
-Pro D2 - 2018	Stade Aurillacois
-Extraliga - 2018/19	Sokol Pardubice
-KOVO Cup - 2018/19	Incheon Korean Air Jumbos
-National League A - 2018/19	EHC Biel
-KHL - 2018/19	HC Sochi
-1. liga - 2018/19	RK Cimos Koper
-Extraliga - 2018/19	FBC Ostrava
-Pro A - 2018/19	Villeurbanne - Gravelines Grand Fort BCM
-MHL - 2018/19	Belye Medvedi
-Handboldligaen - 2018/19	Bjerringbro
-1a Divisao - 2018/19	AC Fafe
-Pro14 - 2018	Cardiff Blues
-1st Liga - 2018/19	HK Jestrabi Prostejov
-LNH Division 1 Men - 2018/19	US Ivry Handball
-Super 8s - 2018	Wigan Warriors
-UFL - 2018/19	Sunds Seahawks FC
-College - 2018/19	Washington St Cougars
-FIVB World Championship Men - 2018/19	Puerto Rico
-Asobal - 2018/19	Fraikin BM Granollers
-VHL - 2018/19	Saryarka
-Super 8s - 2018	Toronto Wolfpack
-Handboldligaen - 2018/19	Nordsjaelland Handball
-Super 8s - 2018	Leeds Rhinos
-KHL - 2018/19	HC Red Star Kunlun
-Urvalsdeild - 2018/19	FH Hafnarfjardar
-NPC - 2018	Waikato
-KHL - 2018/19	Jokerit Helsinki
-SEHA League - 2018/19	Vojvodina-Univerexport Novi Sad
-Club Friendlies - 2018/19	HC Davos
-National League A - 2018/19	HC Davos
-HockeyEttan Ostra - 2018/19	Hudiksvalls HC
-Women Bundesliga - 2018/19	SG BBM Bietigheim
-Superisligaen - 2018/19	Hvidovre Fighters
-Super League - 2018/19	Sgau-Saratov
-FIBA World Championship - 2018/19	South Korea
-Extraliga - 2018/19	FBC Pullo Trade Ceska Lipa
-Bundesliga - 2018/19	MT Melsungen
-Damehandboldligaen - 2018/19	Team TVIS Holstebro
-FIBA World Championship - 2018/19	Belgium
-LNH Division 1 Men - 2018/19	Chambery Savoie
-UFL - 2018/19	Vanlose Floorball
-Erste Liga - 2018/19	HSC Csikszereda
-Erste Liga - 2018/19	Ferencvaros
-LNH Division 1 Men - 2018/19	Tremblay En France
-NB I - 2018/19	Balatonfuredi Kse
-Champions League - 2018/19	Dinamo Baumit Bucuresti
-FIBA World Championship - 2018/19	Canada
-MNLA - 2018/19	BSV Bern Muri
-SEHA League - 2018/19	HC Croatia Osiguranje Zagreb
-1st Liga - 2018/19	HC Zubr Prerov
-Pro D2 - 2018	USON Nevers
-MHL - 2018/19	Sarmaty Orenburg
-KHL - 2018/19	SKA St. Petersburg
-Elitserien - 2018/19	IK Savehof
-1. liga - 2018/19	RD Ribnica Riko Hise
-Club Friendlies - 2018/19	Efes Anadolu Istanbul
-Urvalsdeild - 2018/19	Stjarnan
-VHL - 2018/19	Ceng Tou
-Currie Cup - 2018	Vodacom Blue Bulls
-Latvian Hockey League - 2018/19	HK Prizma
-SHL - 2018/19	Djurgaardens IF
-FIVB World Championship Men - 2018/19	Argentina
-Pro14 - 2018	Newport Gwent Dragons
-National League - 2018/19	UHC Thun
-Extraliga - 2018/19	1 SC Ssk Vitkovice
-KHL - 2018/19	Amur Khabarovsk
-Extraliga - 2018/19	Sokol Kral Vinohrady
-Meistriliiga - 2018/19	Coop Polva
-SM-Liiga - 2018/19	Ilves Tampere
-VHL - 2018/19	Buran Voronezh
-LNB - 2018/19	Penarol Mar Del Plata
-National League A - 2018/19	SCL Tigers Langenau
-Erste Liga - 2018/19	Corona Brasov
-FIVB World Championship Men - 2018/19	Iran
-Extraliga - 2018/19	HC Kosice
-League Cup - 2018/19	Maccabi Rishon Lezion
-FIBA World Championship - 2018/19	Nigeria
-1. liga - 2018/19	MRK Krka
-HockeyEttan Norra - 2018/19	Bodens HF
-Elitserien - 2018/19	Skuru IK
-Salibandyliiga - 2018/19	Happee
-MNLA - 2018/19	RTV 1879 Basel
-Super 8s - 2018	Hull Kingston Rovers
-LKL - 2018/19	KK Prienai
-VHL - 2018/19	KRS Heilongjiang
-League Cup - 2018/19	Bnei Herzelia
-National League B - 2018/19	Hockey Academy Zug
-RFU Championship - 2018	Bedford
-Pro A - 2018/19	Asvel Lyon-Villeurbanne
-MNLA - 2018/19	Wacker Thun
-Champions League - 2018/19	Wacker Thun
-VHL - 2018/19	Zvezda Chekhov
-Club Friendlies - 2018/19	Banco Di Sardegna Sassari
-FIVB World Championship Men - 2018/19	China
-Spagnola ACB - 2018/19	Herbalife Gran Canaria
-BBL - 2018/19	Medi Bayreuth
-NFL - 2018/19	Tampa Bay Buccaneers
-KHL - 2018/19	Avtomobilist Yekaterinburg
-Cup - 2018/19	Nykobing F.b Handboldklub
-NFL - 2018/19	Pittsburgh Steelers
-Urvalsdeild - 2018/19	IR Reykjavik
-Superisligaen - 2018/19	Sonderjyske Ishockey
-2nd Bundesliga - 2018/19	HSC 2000 Coburg
-Pro A - 2018/19	Limoges CSP
-College - 2018/19	Illinois Fighting Illini
-Asobal - 2018/19	FC Barcelona
-Champions League - 2018/19	FC Barcelona
-NRL - 2018	Penrith Panthers
-Elitserien - 2018/19	Hästö IF
-Ligue Magnus - 2018/19	CSG Strasbourg
-Eliteserien - 2018/19	Frisk/Asker
-Salibandyliiga - 2018/19	Viikingit
-MHL - 2018/19	Amurskie Tigry K.
-FIVB World Championship Men - 2018/19	Serbia
-Bundesliga - 2018/19	VfL Gummersbach
-National League - 2018/19	Waldkirch St.Gallen
-MHL - 2018/19	Reaktor Nizhnekamsk
-BBL - 2018/19	Rasta Vechta
-1. liga - 2018/19	RK Trimo Trebnje
-KOVO Cup - 2018/19	JT Thunders
-Extraliga - 2018/19	TJ VHS Znojmo
-Allsvenskan - 2018/19	Skaanela IF
-RFU Championship - 2018	Doncaster Knights
-Division De Honor Femenina - 2018/19	Mecalia Atletico Guardes
-FIVB World Championship Men - 2018/19	Italy
-Currie Cup - 2018	GWK Griquas
-Extraliga - 2018/19	HC Tatran Presov
-Extraliga - 2018/19	FBC Liberec
-NFL - 2018/19	Minnesota Vikings
-FIVB World Championship Men - 2018/19	France
-Int. Friendly Games - 2018/19	France
-Extraliga - 2018/19	HKM Zvolen
-1st Liga - 2018/19	HC Slavia Prag
-AFL - 2018	Hawthorn Hawks
-Extraliga - 2018/19	FBK Sokol Mlada Boleslav
-Elite League - 2018/19	Fife Flyers
-RFU Championship - 2018	Ealing Trailfinders
-Liga Nationala - 2018/19	HCM Ramnicu Valcea
-Liga ABA Super Cup - 2018/19	Crvena Zvezda Telekom
-Liga ABA - 2018/19	Crvena Zvezda Telekom
-Basketligaen - 2018/19	Team Fog Naestved
-SM-Liiga - 2018/19	HPK Hämeenlinna
-1st Liga - 2018/19	HC Kladno
-Liga ABA Super Cup - 2018/19	KK Cedevita Zagreb
-Erste Liga - 2018/19	Vienna Capitals II
-Pro A - 2018/19	Le Mans Basket
-Super League - 2018/19	Sungul
-1a Divisao - 2018/19	AA Aguas Santas
-Currie Cup - 2018	Toyota Free State Cheetahs
-SHL - 2018/19	HV 71
-Ekstraliga - 2018/19	TKH Nesta Torun
-NPC - 2018	Southland
-SHL - 2018/19	Linköpings HC
-FIVB World Championship Men - 2018/19	Cuba
-Eliteserien - 2018/19	Lillehammer IK
-Spagnola ACB - 2018/19	Unicaja Malaga
-Superliga - 2018/19	Pogon Handball Szczecin
-SEHA League - 2018/19	Zeleznicar Indjija
-1. liga - 2018/19	RK Gorenje Velenje
-Handboldligaen - 2018/19	Skjern Handbold
-AFL - 2018	Richmond Tigers
-LNH Division 1 Men - 2018/19	Toulouse Handball
-1st Liga - 2018/19	HC Motor Ceske Budejovice
-MHL - 2018/19	St Petersburg
-Extraliga - 2018/19	Mountfield HK
-LNH Division 1 - 2018/19	Toulon Saint Cyr Var Handball
-MHL - 2018/19	Irbis Kazan
-LNH Division 1 Men - 2018/19	Dunkerque HB
-2nd Bundesliga - 2018/19	HSG Nordhorn
-Pro A - 2018/19	AS Monaco
-LNH Division 1 - 2018/19	HBC Saint-Amand-les-Eaux Porte du Hainaut
-Super 8s - 2018	Castleford Tigers
-1st Liga - 2018/19	HC Horacka Slavia Trebic
-Superisligaen - 2018/19	Frederikshavn White Hawks
-FIBA World Championship - 2018/19	Spain
-RFU Championship - 2018	Jersey
-Extraliga - 2018/19	HK SKP Poprad
-HockeyEttan Ostra - 2018/19	Enköpings SK HK
-Pro A - 2018/19	ES Chalon
-MHL - 2018/19	Krasnaya Armiya
-LNH Division 1 Men - 2018/19	OC Cesson Handball
-NPC - 2018	Northland
-SEHA League - 2018/19	HC Meshkov Brest
-Champions League - 2018/19	HC Meshkov Brest
-LNH Division 1 - 2018/19	Nantes Loire Atlantique HB
-Extraliga - 2018/19	HC Dinamo Maladzyechna
-FIBA World Championship - 2018/19	Japan
-LNB - 2018/19	Club Atletico San Lorenzo De Almagro
-Handboldligaen - 2018/19	Ribe-Esbjerg HH
-League Cup - 2018/19	Galil Gilboa
-SM-Liiga - 2018/19	HIFK Hockey
-MHL - 2018/19	Mytishchinskie A.
-Superisligaen - 2018/19	Rodovre Mighty Bulls
-Extraliga - 2018/19	HC 07 Detva
-LNH Division 1 - 2018/19	Issy Paris
-HockeyEttan Ostra - 2018/19	Trangsund
-SEHA League - 2018/19	Steaua Bucharest
-LNB - 2018/19	Boca Juniors
-The Rugby Championship - 2018	South Africa
-Pro D2 - 2018	Aviron Bayonne
-College - 2018/19	Penn St Nittany Lions
-Basketligaen - 2018/19	Stevnsgade Supermen
-Asobal - 2018/19	Bidasoa Irun
-Elitserien - 2018/19	HK Malmö
-Pro A - 2018/19	Strasbourg IG
-Urvalsdeild - 2018/19	Selfoss
-Salibandyliiga - 2018/19	Espoon Oilers
-Cup - 2018/19	FC Midtjylland
-Damehandboldligaen - 2018/19	FC Midtjylland
-Cup - 2018/19	FC Midtjylland
-Damehandboldligaen - 2018/19	FC Midtjylland
-Handboldligaen - 2018/19	Sønderjyske
-LNB - 2018/19	Quimsa Santiago del Estero
-HockeyEttan Ostra - 2018/19	Hammarby Hockey IF
-MHL - 2018/19	Stalnye Lisy
-Super 8s - 2018	London Broncos
-BBL - 2018/19	Worcester Wolves
-Basketligaen - 2018/19	Randers Cimbria
-MNLA - 2018/19	K. Schaffhausen
-KHL - 2018/19	HC Dinamo Riga
-Extraliga - 2018/19	Tatran Omlux Stresovice
-RFU Championship - 2018	Cornish Pirates
-KHL - 2018/19	Severstal Cherepovec
-Basketligaen - 2018/19	Vaerlose BBK
-Extraliga - 2018/19	Shakhter Soligorsk
-VHL - 2018/19	HK Ryazan
-Pro D2 - 2018	Biarritz Olympique
-Elitserien - 2018/19	IFK Skövde HK
-Ekstraliga - 2018/19	KH Zaglebie Sosnowiec
-Club Friendlies - 2018/19	Telnet BC Oostende
-Pro14 - 2018	Leinster Lions
-BBL - 2018/19	Surrey Heat
-LNH Division 1 - 2018/19	OGC Nice Cote D´Azur
-FIBA World Championship - 2018/19	Greece
-NPC - 2018	Hawke´s Bay
-Spagnola ACB - 2018/19	UCAM Murcia
-Erste Liga - 2018/19	Debreceni Egyetem AC
-Extraliga - 2018/19	Belarus
-FIVB World Championship Men - 2018/19	Tunisia
-RFU Championship - 2018	Richmond
-Elitserien - 2018/19	Alingsås HK
-Ekstraliga - 2018/19	TMH Polonia Bytom
-LNH Division 1 Men - 2018/19	Pontault-Combault HB
-National League A - 2018/19	ZSC Lions
-VHL - 2018/19	Metallurg Novokuznetsk
-Extraliga - 2018/19	TJ JM Chodov
-Pro14 - 2018	Ospreys
-Ligue Magnus - 2018/19	Lyon HC
-KOVO Cup - 2018/19	Western KB Star Insurance
-NSW Cup - 2018	Canterbury Bulldogs
-College - 2018/19	North Carolina Tar Heels
-LNH Division 1 Men - 2018/19	Usam Nimes
-Erste Liga - 2018/19	Ujpest Budapest
-Elite League - 2018/19	Guildford Flames
-1st Liga - 2018/19	HC Dukla Jihlava
-HockeyEttan Sodra - 2018/19	Nybro IF
-KOVO Cup - 2018/19	Suwon Kepco
-Ligue Magnus - 2018/19	Rapaces de Gap
-Damehandboldligaen - 2018/19	Randers HK
-Salibandyliiga - 2018/19	FBT Pori
-Salibandyliiga - 2018/19	Nokian Kristityt Palloilijat
-Pro14 - 2018	Edinburgh Rugby
-HockeyEttan Vastra - 2018/19	Tranaas Aif
-NBL - 2018/19	BK Sluneta USTI Nad Labem
-HockeyEttan Sodra - 2018/19	Halmstad Hammers
-National League - 2018/19	HC Rychenberg Winterthur
-FIVB World Championship Men - 2018/19	Australia
-MHL - 2018/19	Chaika Nizhny Nov.
-SM-liiga - 2018/19	Aifk
-Ligue Magnus - 2018/19	Grenoble MH 38
-Elitserien - 2018/19	IFK Ystads HK
-KHL - 2018/19	Salavat Yulaev Ufa
-National League - 2018/19	Tigers Langnau
-WNBA - 2018/19	Washington Mystics
-Champions League - 2018/19	Wisla Plock
-Superliga - 2018/19	Wisla Plock
-MHL - 2018/19	Red Star Kunlun Junior
-Liga ABA - 2018/19	Mornar
-WNBA - 2018/19	Seattle Storm
-FIVB World Championship Men - 2018/19	USA
-Extraliga - 2018/19	Liptovsky Mikulas
-National League A - 2018/19	HC Ambri Piotta
-Club Friendlies - 2018/19	HC Ambri Piotta
-Urvalsdeild - 2018/19	Valur Reykjavik
-English Premiership - 2018	Bristol Shoguns
-1st Liga - 2018/19	HC Stadion Litomerice
-Hockey Allsvenskan - 2018/19	IK Oskarshamn
-HockeyEttan Vastra - 2018/19	Forshaga IF
-Ligue Magnus - 2018/19	Bordeaux Ghc
-MHL - 2018/19	Kuznetskie Medvedi
-SM-Liiga - 2018/19	Ässät Pori
-Liga ABA - 2018/19	Cibona Zagreb
-RFU Championship - 2018	Leeds Carnegie
-English Premiership - 2018	Gloucester Rugby
-NFL - 2018/19	Baltimore Ravens
-NRL - 2018	Melbourne Storm
-MHL - 2018/19	Mamonty Yugry K. M.
-Pro D2 - 2018	Bourg
-NHL - 2018/19	Buffalo Sabres
-KOVO Cup - 2018/19	Cheonan Hyundai Capital Skywalkers
-Handboldligaen - 2018/19	Mors-Thy Handbold
-2nd Bundesliga - 2018/19	TUS N
-Extraliga - 2018/19	Neman Grodno
-Int. Friendly Games - 2018/19	Denmark
-Latvian Hockey League - 2018/19	Mogo Riga
-LNH Division 1 - 2018/19	Brest Bretagne Handball
-FIVB World Championship Men - 2018/19	Netherlands
-Allsvenskan - 2018/19	HK Aranäs
-LNH Division 1 - 2018/19	Cercle Dijon Bourgogne
-VHL - 2018/19	VMF St Petersburg
-VHL - 2018/19	Gornyak Uchaly
-English Premiership - 2018	Newcastle Falcons
-1st Liga - 2018/19	HC RT Torax Poruba
-MHL - 2018/19	SKA-Varyagi
-National League - 2018/19	UHC Alligator Malans
-HockeyEttan Sodra - 2018/19	HC Dalen
-LNB - 2018/19	Argentino Junin
-Erste Liga - 2018/19	DAB Docler
-LNH Division 1 - 2018/19	Chambray Touraine
-Superliga - 2018/19	KS SPR Chrobry Glogow
-1. Division - 2018/19	Thyboron Handball - Otterup HK
-HockeyEttan Sodra - 2018/19	IF Troja/Ljungby
-Ekstraliga - 2018/19	MKS Cracovia Krakow
-KHL - 2018/19	Torpedo N. Novgorod
-Elitserien - 2018/19	Lugi HF
-VHL - 2018/19	Rubin Tyumen
-2nd Bundesliga - 2018/19	EHV Aue
-Salibandyliiga - 2018/19	Classic Tampere
-Handboldligaen - 2018/19	Team TVIS Holstebro
-KOVO Cup - 2018/19	Seoul Woori Card Hansae
-2nd Bundesliga - 2018/19	Tusem Essen
-KHL - 2018/19	HC Traktor Chelyabinsk
-League Cup - 2018/19	Maccabi Ashdod
-HockeyEttan Norra - 2018/19	SK Lejon
-Salibandyliiga - 2018/19	SPV
-Elitserien - 2018/19	IK Savehof
-BBL - 2018/19	London Lions
-Superliga - 2018/19	Beskid Nowy Sacz - EKS Start Elblag
-Super 8s - 2018	Wakefield Trinity Wildcats
-PBA - 2018/19	Blackwater Elite
-MHL - 2018/19	SKA-1946 St. Petersburg
-Hockey Allsvenskan - 2018/19	Modo Hockey
-Damehandboldligaen - 2018/19	Kobenhavn H.b.
-Bundesliga - 2018/19	Lübbecke - TSV GWD Minden
-Bundesliga - 2018/19	TSG Ludwigshafen-Friesenheim
-Bundesliga - 2018/19	SC Magdeburg
-HockeyEttan Vastra - 2018/19	IFK Arboga
-Pro A - 2018/19	Champ. Chalons Reims Basket
-Pro14 - 2018	Ulster
-MHL - 2018/19	Ladja Togliatti
-Super League - 2018/19	SKIF
-VHL - 2018/19	Dizel Penza
-HockeyEttan Norra - 2018/19	Kiruna AIF
-HockeyEttan Sodra - 2018/19	Morrum Gois IK
-CFL - 2018/19	Winnipeg Blue Bombers
-HockeyEttan Sodra - 2018/19	Kristianstads IK
-MHL - 2018/19	HC Taifun
-Mestaruusliiga - 2018/19	Akaa Volley
-Pro14 - 2018	Glasgow Warriors
-National League A - 2018/19	SC Bern
-NPC - 2018	Tasman
-Extraliga - 2018/19	Nove Zamky
-EBEL - 2018/19	RB Salzburg
-LKL - 2018/19	Lietuvos Rytas
-MHL - 2018/19	Almaz Cherepovets
-NPC - 2018	North Harbour
-Pro A - 2018/19	Boulazac Basket
-College - 2018/19	UCF Knights
-LKL - 2018/19	Juventus Utena
-VHL - 2018/19	Kazzink
-Champions League - 2018/19	Cocks
-HockeyEttan Vastra - 2018/19	Mariestads Bois
-NHL - 2018/19	Minnesota Wild
-NPC - 2018	Manawatu
-NPC - 2018	Bay of Plenty
-Pro A - 2018/19	JSF Nanterre
-Eliteserien - 2018/19	Valerenga IF
-LKL - 2018/19	Aviv - BC Zalgiris Kaunas
-FIVB World Championship Men - 2018/19	Egypt
-Extraliga - 2018/19	FBS Bohemians
-VHL - 2018/19	Izhstal Izhevsk
-LKL - 2018/19	Pieno Zvaigzdes
-Division De Honor Femenina - 2018/19	Baseti
-Pro D2 - 2018	Colomiers Rugby
-SM-Liiga - 2018/19	Saipa Lappeenranta
-College - 2018/19	USC Trojans
-LKL - 2018/19	Neptunas Klaipeda
-SM-liiga - 2018/19	Grifk
-Extraliga - 2018/19	Miskolci JJSE
-FIBA World Championship - 2018/19	Australia
-National League B - 2018/19	de-Fonds - HC Biasca
-1a Divisao - 2018/19	CCR Fermentoes
-Hockey Allsvenskan - 2018/19	IF Björklöven
-Club Friendlies - 2018/19	IF Björklöven
-VHL - 2018/19	HK Dinamo St Petersburg
-League Cup - 2018/19	Hapoel Beer Sheva
-UFL - 2018/19	Benlose FC
-College - 2018/19	Wake Forest Demon Deacons
-NHL - 2018/19	New York Islanders
-VHL - 2018/19	Zauralye Kurgan
-BBL - 2018/19	Bayern Munich
-Champions League - 2018/19	Elverum
-Super 8s - 2018	Warrington Wolves
-HockeyEttan Ostra - 2018/19	Hanvikens SK
-1st Liga - 2018/19	HC Benatky Nad Jizerou
-HockeyEttan Sodra - 2018/19	Helsingborgs HC
-MHL - 2018/19	Avto Yekaterinburg
-Spagnola ACB - 2018/19	Regal FC Barcelona
-Ligue Magnus - 2018/19	Rouen HE
-Elitserien - 2018/19	Ystads IF HF
-Elitserien - 2018/19	Kristianstad HK
-MHL - 2018/19	Tolpar UFA
-NRL - 2018	Cronulla Sharks
-Elitserien - 2018/19	Hoors HK H 65
-Extraliga - 2018/19	Dukla Trencin
-NHL - 2018/19	Winnipeg Jets
-Allsvenskan - 2018/19	OV Helsingborg HK
-HockeyEttan Sodra - 2018/19	Kallinge/Ronneby IF
-Ekstraliga - 2018/19	Orlik Opole
-Superliga - 2018/19	MKS Zaglebie Lubin
-Extraliga - 2018/19	HK Gomel
-Urvalsdeild - 2018/19	Haukar Hafnarfjordur
-National League - 2018/19	Chur Uhc
-Erste Liga - 2018/19	Schiller-Vasas HC
-VHL - 2018/19	Sokol Krasnoyarsk
-The Rugby Championship - 2018	Australia
-1st Liga - 2018/19	SK Kadan
-HockeyEttan Sodra - 2018/19	Hanhals IF
-LNB - 2018/19	Obras Sanitarias
-PBA - 2018/19	Rain Or Shine Elasto
-SM-Liiga - 2018/19	Kärpät Oulu
-SHL - 2018/19	Skellefteaa Aik
-2nd Bundesliga - 2018/19	TV Emsdetten
-NB I - 2018/19	MKB Veszprem KC
-AFL - 2018	Collingwood Magpies
-AFL - 2018	Collingwood Magpies
-KHL - 2018/19	Neftekhimik Nizhnekamsk
-Eliteserien - 2018/19	Storhamar Dragons
-2nd Bundesliga - 2018/19	TV Hüttenberg
-SM-Liiga - 2018/19	TPS Turku
-NB I - 2018/19	Pick Szeged
-NPC - 2018	Taranaki
-Salibandyliiga - 2018/19	SB Welhot
-Super League - 2018/19	Permskie Medvedi
-Super League - 2018/19	Universitet
-Handboldligaen - 2018/19	GOG Handbold
-Ligue Magnus - 2018/19	HC Amiens Somme
-UFL - 2018/19	Copenhagen SFC
-Elitserien - 2018/19	Boden Handball IF
-Eliteserien - 2018/19	Manglerud/Star
-Mestaruusliiga - 2018/19	Savo Volley
-BBL - 2018/19	Eisbären Bremerhaven
-Pro A - 2018/19	FOS Ouest Provence Basket
-Extraliga - 2018/19	HC Banik Karvina
-Liga ABA Super Cup - 2018/19	U. Olimpija Ljubljana
-Liga ABA - 2018/19	U. Olimpija Ljubljana
-Handboldligaen - 2018/19	AaB Handball
-NFL - 2018/19	Chicago Bears
-KHL - 2018/19	HK Dinamo Minsk
-Allsvenskan - 2018/19	Vasterasirsta HF
-SM-Liiga - 2018/19	Pelicans Lahti
-Extraliga - 2018/19	Slovakia
-LNH Division 1 - 2018/19	Metz Handball
-1st Liga - 2018/19	HC Frydek Mistek
-Extraliga - 2018/19	AC Sparta Prag
-National League - 2018/19	Zug United
-Handboldligaen - 2018/19	Skanderborg Handball
-VHL - 2018/19	Prikamje Perm - Yuzhny Ural Orsk
-Liga Nationala - 2018/19	Potaissa Turda
-FIVB World Championship Men - 2018/19	Slovenia
-FIVB World Championship Men - 2018/19	Poland
-National League A - 2018/19	HC Lugano
-FIVB World Championship Men - 2018/19	Dominican Republic
-Ligue Magnus - 2018/19	Anglet Hormadi Elite
-RFU Championship - 2018	Coventry Rugby
-1. Division - 2018/19	Hoj
-MHL - 2018/19	HC Altai
-Super 8s - 2018	Widnes Vikings
-BBL - 2018/19	Sheffield Sharks
+﻿Team	TeamID	TournamentID	Club	ClubID	SportID
+MNLA - 2018/19	1	57	BSV Bern Muri	86	7
+MNLA - 2018/19	1	57	HC Kriens-Luzern	267	7
+MNLA - 2018/19	1	57	K. Schaffhausen	365	7
+MNLA - 2018/19	1	57	Pfadi Winterthur	509	7
+MNLA - 2018/19	1	57	RTV 1879 Basel	558	7
+MNLA - 2018/19	1	57	Wacker Thun	741	7
+VHL - 2018/19	2	86	Bars Kazan	48	11
+VHL - 2018/19	2	86	Buran Voronezh	90	11
+VHL - 2018/19	2	86	Ceng Tou	100	11
+VHL - 2018/19	2	86	Chelmet Chelyabinsk	110	11
+VHL - 2018/19	2	86	CSK VVS Samara	139	11
+VHL - 2018/19	2	86	Dizel Penza	151	11
+VHL - 2018/19	2	86	Gornyak Uchaly	215	11
+VHL - 2018/19	2	86	HC Tambov	285	11
+VHL - 2018/19	2	86	HC Yugra Khanty-Mansiysk	292	11
+VHL - 2018/19	2	86	HK Dinamo St Petersburg	303	11
+VHL - 2018/19	2	86	HK Ryazan	311	11
+VHL - 2018/19	2	86	HK Sarov	312	11
+VHL - 2018/19	2	86	Izhstal Izhevsk	354	11
+VHL - 2018/19	2	86	Kazzink	371	11
+VHL - 2018/19	2	86	Khimik Voskresensk	373	11
+VHL - 2018/19	2	86	KRS Heilongjiang	386	11
+VHL - 2018/19	2	86	Lada Togliatti	393	11
+VHL - 2018/19	2	86	Metallurg Novokuznetsk	435	11
+VHL - 2018/19	2	86	Molot	449	11
+VHL - 2018/19	2	86	Neftyanik Almetyevsk	466	11
+VHL - 2018/19	2	86	Prikamje Perm - Yuzhny Ural Orsk	520	11
+VHL - 2018/19	2	86	Rubin Tyumen	559	11
+VHL - 2018/19	2	86	Saryarka	571	11
+VHL - 2018/19	2	86	Sokol Krasnoyarsk	615	11
+VHL - 2018/19	2	86	Toros Neftekamsk	676	11
+VHL - 2018/19	2	86	Torpedo - Ermak Angarsk	677	11
+VHL - 2018/19	2	86	VMF St Petersburg	738	11
+VHL - 2018/19	2	86	Zauralye Kurgan	761	11
+VHL - 2018/19	2	86	Zvezda Chekhov	767	11
+English Premiership - 2018	3	28	Bristol Shoguns	84	9
+English Premiership - 2018	3	28	Exeter Chiefs	175	9
+English Premiership - 2018	3	28	Gloucester Rugby	211	9
+English Premiership - 2018	3	28	Newcastle Falcons	473	9
+Spagnola ACB - 2018/19	4	78	BC River Andorra	54	4
+Spagnola ACB - 2018/19	4	78	Herbalife Gran Canaria	296	4
+Spagnola ACB - 2018/19	4	78	Regal FC Barcelona	541	4
+Spagnola ACB - 2018/19	4	78	UCAM Murcia	701	4
+Spagnola ACB - 2018/19	4	78	Unicaja Malaga	708	4
+Spagnola ACB - 2018/19	4	78	Valencia Basket	720	4
+Allsvenskan - 2018/19	5	8	HK Aranäs	300	7
+Allsvenskan - 2018/19	5	8	OV Helsingborg HK	497	7
+Allsvenskan - 2018/19	5	8	Skaanela IF	602	7
+Allsvenskan - 2018/19	5	8	Vasterasirsta HF	726	7
+Latvian Hockey League - 2018/19	6	44	HK Prizma	309	11
+Latvian Hockey League - 2018/19	6	44	Mogo Riga	448	11
+Club Friendlies - 2018/19	7	16	Banco Di Sardegna Sassari	47	4
+Club Friendlies - 2018/19	7	16	Brynäs IF	85	11
+Club Friendlies - 2018/19	7	16	Efes Anadolu Istanbul	160	4
+Club Friendlies - 2018/19	7	16	Färjestads BK	176	11
+Club Friendlies - 2018/19	7	16	Gasterra Flames Groningen	206	4
+Club Friendlies - 2018/19	7	16	HC Ambri Piotta	246	11
+Club Friendlies - 2018/19	7	16	HC Davos	255	11
+Club Friendlies - 2018/19	7	16	IF Björklöven	333	11
+Club Friendlies - 2018/19	7	16	Luleaa Hockey	418	11
+Club Friendlies - 2018/19	7	16	Mora IK	452	11
+Club Friendlies - 2018/19	7	16	Telnet BC Oostende	662	4
+Club Friendlies - 2018/19	7	16	Timraa IK	667	11
+League Cup - 2018/19	8	45	Bnei Herzelia	72	4
+League Cup - 2018/19	8	45	Galil Gilboa	205	4
+League Cup - 2018/19	8	45	Hapoel Beer Sheva	231	4
+League Cup - 2018/19	8	45	Hapoel Holon	232	4
+League Cup - 2018/19	8	45	Maccabi Ashdod	423	4
+League Cup - 2018/19	8	45	Maccabi Rishon Lezion	424	4
+Eliteserien - 2018/19	9	26	Frisk/Asker	201	11
+Eliteserien - 2018/19	9	26	IHK Sparta Sarpsborg	340	11
+Eliteserien - 2018/19	9	26	Lillehammer IK	405	11
+Eliteserien - 2018/19	9	26	Manglerud/Star	429	11
+Eliteserien - 2018/19	9	26	Ringerike IHK	546	11
+Eliteserien - 2018/19	9	26	Stavanger Oilers	639	11
+Eliteserien - 2018/19	9	26	Stjernen Hockey	644	11
+Eliteserien - 2018/19	9	26	Storhamar Dragons	645	11
+Eliteserien - 2018/19	9	26	Valerenga IF	722	11
+Salibandyliiga - 2018/19	10	73	Classic Tampere	120	6
+Salibandyliiga - 2018/19	10	73	Espoon Oilers	172	6
+Salibandyliiga - 2018/19	10	73	FBT Pori	182	6
+Salibandyliiga - 2018/19	10	73	Happee	233	6
+Salibandyliiga - 2018/19	10	73	Koovee	381	6
+Salibandyliiga - 2018/19	10	73	LaSB	395	6
+Salibandyliiga - 2018/19	10	73	Nokian Kristityt Palloilijat	476	6
+Salibandyliiga - 2018/19	10	73	OLS Oulu	491	6
+Salibandyliiga - 2018/19	10	73	SB Welhot	573	6
+Salibandyliiga - 2018/19	10	73	SPV	632	6
+Salibandyliiga - 2018/19	10	73	Steelers	641	6
+Salibandyliiga - 2018/19	10	73	TPS	683	6
+Salibandyliiga - 2018/19	10	73	Viikingit	732	6
+Salibandyliiga - 2018/19	10	73	Westend Indians	750	6
+SEHA League - 2018/19	11	74	HC Croatia Osiguranje Zagreb	253	7
+SEHA League - 2018/19	11	74	HC Meshkov Brest	270	7
+SEHA League - 2018/19	11	74	Steaua Bucharest	640	7
+SEHA League - 2018/19	11	74	Vojvodina-Univerexport Novi Sad	740	7
+SEHA League - 2018/19	11	74	Zeleznicar Indjija	763	7
+Pro14 - 2018	12	71	Benetton Treviso	60	9
+Pro14 - 2018	12	71	Cardiff Blues	96	9
+Pro14 - 2018	12	71	Cheetahs	108	9
+Pro14 - 2018	12	71	Connacht Rugby	128	9
+Pro14 - 2018	12	71	Edinburgh Rugby	159	9
+Pro14 - 2018	12	71	Glasgow Warriors	210	9
+Pro14 - 2018	12	71	Leinster Lions	401	9
+Pro14 - 2018	12	71	Munster	462	9
+Pro14 - 2018	12	71	Newport Gwent Dragons	474	9
+Pro14 - 2018	12	71	Ospreys	495	9
+Pro14 - 2018	12	71	Scarlets	577	9
+Pro14 - 2018	12	71	Ulster	707	9
+Pro14 - 2018	12	71	Zebre	762	9
+NHL - 2018/19	13	64	Buffalo Sabres	87	11
+NHL - 2018/19	13	64	Columbus Blue Jackets	126	11
+NHL - 2018/19	13	64	Minnesota Wild	441	11
+NHL - 2018/19	13	64	New York Islanders	471	11
+NHL - 2018/19	13	64	Philadelphia Flyers	510	11
+NHL - 2018/19	13	64	Winnipeg Jets	756	11
+BBL - 2018/19	14	12	Bayern Munich	51	4
+BBL - 2018/19	14	12	Crailsheim Merlins	135	4
+BBL - 2018/19	14	12	Eisbären Bremerhaven	166	4
+BBL - 2018/19	14	12	London Lions	415	4
+BBL - 2018/19	14	12	Medi Bayreuth	432	4
+BBL - 2018/19	14	12	Rasta Vechta	530	4
+BBL - 2018/19	14	12	Ratiopharm Ulm	531	4
+BBL - 2018/19	14	12	Sheffield Sharks	593	4
+BBL - 2018/19	14	12	Surrey Heat	650	4
+BBL - 2018/19	14	12	Worcester Wolves	758	4
+Basketligaen - 2018/19	15	11	Randers Cimbria	525	4
+Basketligaen - 2018/19	15	11	Stevnsgade Supermen	642	4
+Basketligaen - 2018/19	15	11	Team Fog Naestved	658	4
+Basketligaen - 2018/19	15	11	Vaerlose BBK	719	4
+UFL - 2018/19	16	84	Benlose FC	61	6
+UFL - 2018/19	16	84	BFC Vendsyssel	63	6
+UFL - 2018/19	16	84	Copenhagen SFC	130	6
+UFL - 2018/19	16	84	Frederikshavn Blackhawks	199	6
+UFL - 2018/19	16	84	Hvidovre Attack	331	6
+UFL - 2018/19	16	84	Rödovre FC	554	6
+UFL - 2018/19	16	84	Sunds Seahawks FC	647	6
+UFL - 2018/19	16	84	Vanlose Floorball	724	6
+Asobal - 2018/19	17	10	Bidasoa Irun	65	7
+Asobal - 2018/19	17	10	FC Barcelona	183	7
+Asobal - 2018/19	17	10	Fraikin BM Granollers	195	7
+Asobal - 2018/19	17	10	Reale Ademar	538	7
+1a Divisao - 2018/19	18	3	AA Aguas Santas	3	7
+1a Divisao - 2018/19	18	3	AA Avanca	4	7
+1a Divisao - 2018/19	18	3	AC Fafe	8	7
+1a Divisao - 2018/19	18	3	CCR Fermentoes	99	7
+1a Divisao - 2018/19	18	3	FC Porto Vitalis	185	7
+1a Divisao - 2018/19	18	3	M - Sporting CP	420	7
+1a Divisao - 2018/19	18	3	Sport Lisboa Benfica	630	7
+Superliga - 2018/19	19	82	Beskid Nowy Sacz - EKS Start Elblag	62	7
+Superliga - 2018/19	19	82	KS SPR Chrobry Glogow	387	7
+Superliga - 2018/19	19	82	KS Vive Targi Kielce	389	7
+Superliga - 2018/19	19	82	MKS Lublin	445	7
+Superliga - 2018/19	19	82	MKS Zaglebie Lubin	446	7
+Superliga - 2018/19	19	82	Pogon Handball Szczecin	515	7
+Superliga - 2018/19	19	82	Spojnia Gdynia	629	7
+Superliga - 2018/19	19	82	Vistal Gdynia	736	7
+Superliga - 2018/19	19	82	Wisla Plock	757	7
+NBL - 2018/19	20	63	BK JIP Pardubice	69	4
+NBL - 2018/19	20	63	BK Sluneta USTI Nad Labem	70	4
+SHL - 2018/19	21	75	Brynäs IF	85	11
+SHL - 2018/19	21	75	Djurgaardens IF	152	11
+SHL - 2018/19	21	75	Färjestads BK	176	11
+SHL - 2018/19	21	75	Frölunda HC	202	11
+SHL - 2018/19	21	75	HC Orebro	273	11
+SHL - 2018/19	21	75	HV 71	330	11
+SHL - 2018/19	21	75	Linköpings HC	410	11
+SHL - 2018/19	21	75	Luleaa Hockey	418	11
+SHL - 2018/19	21	75	Malmo IF	425	11
+SHL - 2018/19	21	75	Mora IK	452	11
+SHL - 2018/19	21	75	Rögle BK	556	11
+SHL - 2018/19	21	75	Skellefteaa Aik	605	11
+SHL - 2018/19	21	75	Timraa IK	667	11
+SHL - 2018/19	21	75	Växjö Lakers HC	728	11
+Pro A - 2018/19	22	69	Antibes Sharks	27	4
+Pro A - 2018/19	22	69	AS Monaco	33	4
+Pro A - 2018/19	22	69	Asvel Lyon-Villeurbanne	36	4
+Pro A - 2018/19	22	69	Boulazac Basket	79	4
+Pro A - 2018/19	22	69	Champ. Chalons Reims Basket	106	4
+Pro A - 2018/19	22	69	Cholet Basket	115	4
+Pro A - 2018/19	22	69	Dijon Bourgogne	149	4
+Pro A - 2018/19	22	69	ES Chalon	169	4
+Pro A - 2018/19	22	69	FOS Ouest Provence Basket	194	4
+Pro A - 2018/19	22	69	Jeunesse Laique de Bourg	358	4
+Pro A - 2018/19	22	69	JSF Nanterre	361	4
+Pro A - 2018/19	22	69	Le Mans Basket	397	4
+Pro A - 2018/19	22	69	Le Portel	398	4
+Pro A - 2018/19	22	69	Limoges CSP	406	4
+Pro A - 2018/19	22	69	Paris Levallois	500	4
+Pro A - 2018/19	22	69	Pau Lacq Orthez	501	4
+Pro A - 2018/19	22	69	Strasbourg IG	646	4
+Pro A - 2018/19	22	69	Villeurbanne - Gravelines Grand Fort BCM	734	4
+NFL - 2018/19	23	58	Baltimore Ravens	46	2
+NFL - 2018/19	23	58	Chicago Bears	112	2
+NFL - 2018/19	23	58	Cincinnati Bengals	118	2
+NFL - 2018/19	23	58	Minnesota Vikings	440	2
+NFL - 2018/19	23	58	Pittsburgh Steelers	514	2
+NFL - 2018/19	23	58	Seattle Seahawks	581	2
+NFL - 2018/19	23	58	St. Louis Rams	636	2
+NFL - 2018/19	23	58	Tampa Bay Buccaneers	653	2
+KHL - 2018/19	24	42	Admiral Vladivostok	10	11
+KHL - 2018/19	24	42	AK Bars Kazan	17	11
+KHL - 2018/19	24	42	Amur Khabarovsk	23	11
+KHL - 2018/19	24	42	Avtomobilist Yekaterinburg	44	11
+KHL - 2018/19	24	42	CSKA Moscow	140	11
+KHL - 2018/19	24	42	HC Barys Astana	250	11
+KHL - 2018/19	24	42	HC Dinamo Riga	257	11
+KHL - 2018/19	24	42	HC Dynamo Moscow	259	11
+KHL - 2018/19	24	42	HC Red Star Kunlun	274	11
+KHL - 2018/19	24	42	HC Sochi	281	11
+KHL - 2018/19	24	42	HC Traktor Chelyabinsk	288	11
+KHL - 2018/19	24	42	HC Vitiaz Chehov	291	11
+KHL - 2018/19	24	42	HK Avangard Omsk	301	11
+KHL - 2018/19	24	42	HK Dinamo Minsk	302	11
+KHL - 2018/19	24	42	Jokerit Helsinki	360	11
+KHL - 2018/19	24	42	Lokomotiv Yaroslavl	413	11
+KHL - 2018/19	24	42	M. Magnitogorsk	421	11
+KHL - 2018/19	24	42	Neftekhimik Nizhnekamsk	465	11
+KHL - 2018/19	24	42	Salavat Yulaev Ufa	565	11
+KHL - 2018/19	24	42	Severstal Cherepovec	588	11
+KHL - 2018/19	24	42	Sibir Novosibirsk	596	11
+KHL - 2018/19	24	42	SKA St. Petersburg	600	11
+KHL - 2018/19	24	42	Slovan Bratislava	611	11
+KHL - 2018/19	24	42	Spartak Moskau	627	11
+KHL - 2018/19	24	42	Torpedo N. Novgorod	678	11
+PBA - 2018/19	25	68	Air21 Express	15	4
+PBA - 2018/19	25	68	Blackwater Elite	71	4
+PBA - 2018/19	25	68	Rain Or Shine Elasto	524	4
+PBA - 2018/19	25	68	San Mig Coffee Mixers	568	4
+Int. Friendly Games - 2018/19	26	41	Denmark	146	7
+Int. Friendly Games - 2018/19	26	41	France	196	4
+Int. Friendly Games - 2018/19	26	41	France	197	7
+Int. Friendly Games - 2018/19	26	41	France	198	13
+Int. Friendly Games - 2018/19	26	41	Norway	481	7
+Int. Friendly Games - 2018/19	26	41	Poland	516	7
+Int. Friendly Games - 2018/19	26	41	Poland	517	13
+NSW Cup - 2018	27	67	Canterbury Bulldogs	95	9
+NSW Cup - 2018	27	67	ST George Illawarra Dragons	633	9
+National League A - 2018/19	28	60	EHC Biel	163	11
+National League A - 2018/19	28	60	EV Zug	174	11
+National League A - 2018/19	28	60	Geneve Servette HC	207	11
+National League A - 2018/19	28	60	HC Ambri Piotta	246	11
+National League A - 2018/19	28	60	HC Davos	255	11
+National League A - 2018/19	28	60	HC Fribourg Gotteron	261	11
+National League A - 2018/19	28	60	HC Lugano	269	11
+National League A - 2018/19	28	60	Lausanne HC	396	11
+National League A - 2018/19	28	60	Rapperswil Jona Lakers	529	11
+National League A - 2018/19	28	60	SC Bern	574	11
+National League A - 2018/19	28	60	SCL Tigers Langenau	579	11
+National League A - 2018/19	28	60	ZSC Lions	764	11
+Elitserien - 2018/19	29	27	AIK	13	7
+Elitserien - 2018/19	29	27	Alingsås HK	20	7
+Elitserien - 2018/19	29	27	BK Heid	68	7
+Elitserien - 2018/19	29	27	Boden Handball IF	74	7
+Elitserien - 2018/19	29	27	Hammarby HB	227	7
+Elitserien - 2018/19	29	27	Hästö IF	236	7
+Elitserien - 2018/19	29	27	HK Malmö	307	7
+Elitserien - 2018/19	29	27	Hoors HK H 65	319	7
+Elitserien - 2018/19	29	27	IFK Kristianstad	336	7
+Elitserien - 2018/19	29	27	IFK Skövde HK	338	7
+Elitserien - 2018/19	29	27	IFK Ystads HK	339	7
+Elitserien - 2018/19	29	27	IK Savehof	343	7
+Elitserien - 2018/19	29	27	Kristianstad HK	384	7
+Elitserien - 2018/19	29	27	Kungälvs HK	391	7
+Elitserien - 2018/19	29	27	Lugi HF	417	7
+Elitserien - 2018/19	29	27	Önnereds HK	493	7
+Elitserien - 2018/19	29	27	Redbergslids IK	540	7
+Elitserien - 2018/19	29	27	Skuru IK	609	7
+Elitserien - 2018/19	29	27	Ystads IF HF	759	7
+RFU Championship - 2018	30	72	Bedford	55	9
+RFU Championship - 2018	30	72	Cornish Pirates	131	9
+RFU Championship - 2018	30	72	Coventry Rugby	134	9
+RFU Championship - 2018	30	72	Doncaster Knights	154	9
+RFU Championship - 2018	30	72	Ealing Trailfinders	157	9
+RFU Championship - 2018	30	72	Hartpury College	234	9
+RFU Championship - 2018	30	72	Jersey	357	9
+RFU Championship - 2018	30	72	Leeds Carnegie	399	9
+RFU Championship - 2018	30	72	Nottingham	482	9
+RFU Championship - 2018	30	72	Richmond	544	9
+Extraliga - 2018/19	31	30	1 SC Ssk Vitkovice	1	6
+Extraliga - 2018/19	31	30	AC Sparta Prag	9	6
+Extraliga - 2018/19	31	30	Belarus	56	11
+Extraliga - 2018/19	31	30	Bulldogs Brno	89	6
+Extraliga - 2018/19	31	30	Dukla Trencin	155	11
+Extraliga - 2018/19	31	30	FBC Liberec	177	6
+Extraliga - 2018/19	31	30	FBC Ostrava	178	6
+Extraliga - 2018/19	31	30	FBC Pullo Trade Ceska Lipa	179	6
+Extraliga - 2018/19	31	30	FBK Sokol Mlada Boleslav	180	6
+Extraliga - 2018/19	31	30	FBS Bohemians	181	6
+Extraliga - 2018/19	31	30	HC 05 Banska Bystrica	242	11
+Extraliga - 2018/19	31	30	HC 07 Detva	243	11
+Extraliga - 2018/19	31	30	HC Banik Karvina	249	7
+Extraliga - 2018/19	31	30	HC Cement Hranice	252	7
+Extraliga - 2018/19	31	30	HC Dinamo Maladzyechna	256	11
+Extraliga - 2018/19	31	30	HC Kosice	266	11
+Extraliga - 2018/19	31	30	HC Sparta Prag	282	11
+Extraliga - 2018/19	31	30	HC Tatran Presov	286	7
+Extraliga - 2018/19	31	30	HC THP Topvar Topolcany	287	7
+Extraliga - 2018/19	31	30	HK Gomel	304	11
+Extraliga - 2018/19	31	30	HK Lida	306	11
+Extraliga - 2018/19	31	30	HK SKP Poprad	313	11
+Extraliga - 2018/19	31	30	HKM Nitra	314	11
+Extraliga - 2018/19	31	30	HKM Zvolen	315	11
+Extraliga - 2018/19	31	30	Liptovsky Mikulas	411	11
+Extraliga - 2018/19	31	30	MAC Budapest	422	11
+Extraliga - 2018/19	31	30	Metallurg Zhlobin	436	11
+Extraliga - 2018/19	31	30	Miskolci JJSE	442	11
+Extraliga - 2018/19	31	30	Mountfield HK	458	11
+Extraliga - 2018/19	31	30	Mshk Zilina	460	11
+Extraliga - 2018/19	31	30	Neman Grodno	467	11
+Extraliga - 2018/19	31	30	Nove Zamky	483	11
+Extraliga - 2018/19	31	30	Panthers Otrokovice	498	6
+Extraliga - 2018/19	31	30	Shakhter Soligorsk	592	11
+Extraliga - 2018/19	31	30	Slovakia	610	11
+Extraliga - 2018/19	31	30	Sokol Kral Vinohrady	614	6
+Extraliga - 2018/19	31	30	Sokol Pardubice	616	6
+Extraliga - 2018/19	31	30	Tatran Omlux Stresovice	657	6
+Extraliga - 2018/19	31	30	TJ JM Chodov	669	6
+Extraliga - 2018/19	31	30	TJ VHS Znojmo	670	6
+Extraliga - 2018/19	31	30	Yunost Minsk	760	11
+1st Division - 2018/19	32	4	Gjovik Mammuts	208	11
+1st Division - 2018/19	32	4	Hasle/Loren Ishockey	235	11
+Erste Liga - 2018/19	33	29	Corona Brasov	132	11
+Erste Liga - 2018/19	33	29	DAB Docler	142	11
+Erste Liga - 2018/19	33	29	Debreceni Egyetem AC	144	11
+Erste Liga - 2018/19	33	29	Ferencvaros	186	11
+Erste Liga - 2018/19	33	29	Gyergyoi HK	224	11
+Erste Liga - 2018/19	33	29	Hokiklub Budapest	318	11
+Erste Liga - 2018/19	33	29	HSC Csikszereda	322	11
+Erste Liga - 2018/19	33	29	Sapa Fehervar Av19 II	569	11
+Erste Liga - 2018/19	33	29	Schiller-Vasas HC	578	11
+Erste Liga - 2018/19	33	29	Ujpest Budapest	706	11
+Erste Liga - 2018/19	33	29	Vienna Capitals II	731	11
+Super League - 2018/19	34	80	Chehovski Medvedi	109	7
+Super League - 2018/19	34	80	Kuban	390	7
+Super League - 2018/19	34	80	Permskie Medvedi	508	7
+Super League - 2018/19	34	80	Sgau-Saratov	591	7
+Super League - 2018/19	34	80	SKIF	606	7
+Super League - 2018/19	34	80	Spartak Moscow	626	7
+Super League - 2018/19	34	80	Sungul	648	7
+Super League - 2018/19	34	80	Universitet	710	7
+Urvalsdeild - 2018/19	35	85	Afturelding	11	7
+Urvalsdeild - 2018/19	35	85	Akureyri Handboltafelag	19	7
+Urvalsdeild - 2018/19	35	85	FH Hafnarfjardar	187	7
+Urvalsdeild - 2018/19	35	85	Haukar Hafnarfjordur	237	7
+Urvalsdeild - 2018/19	35	85	IR Reykjavik	348	7
+Urvalsdeild - 2018/19	35	85	Selfoss	584	7
+Urvalsdeild - 2018/19	35	85	Stjarnan	643	7
+Urvalsdeild - 2018/19	35	85	Valur Reykjavik	723	7
+MHL - 2018/19	36	56	1946 St. Petersburg - Kapitan Stupino	2	11
+MHL - 2018/19	36	56	Almaz Cherepovets	21	11
+MHL - 2018/19	36	56	Amurskie Tigry K.	24	11
+MHL - 2018/19	36	56	Avto Yekaterinburg	43	11
+MHL - 2018/19	36	56	Belye Medvedi	59	11
+MHL - 2018/19	36	56	Chaika Nizhny Nov.	102	11
+MHL - 2018/19	36	56	HC Altai	245	11
+MHL - 2018/19	36	56	HC Taifun	284	11
+MHL - 2018/19	36	56	HK MVD	308	11
+MHL - 2018/19	36	56	HK Riga	310	11
+MHL - 2018/19	36	56	Irbis Kazan	350	11
+MHL - 2018/19	36	56	Krasnaya Armiya	383	11
+MHL - 2018/19	36	56	Kuznetskie Medvedi	392	11
+MHL - 2018/19	36	56	Ladja Togliatti	394	11
+MHL - 2018/19	36	56	Loko Yaroslavl	412	11
+MHL - 2018/19	36	56	Mamonty Yugry K. M.	427	11
+MHL - 2018/19	36	56	MHK Krylia Sovetov	438	11
+MHL - 2018/19	36	56	Mytishchinskie A.	463	11
+MHL - 2018/19	36	56	Omskie Yastreby	492	11
+MHL - 2018/19	36	56	Reaktor Nizhnekamsk	537	11
+MHL - 2018/19	36	56	Red Star Kunlun Junior	539	11
+MHL - 2018/19	36	56	S. Barsy Astana	562	11
+MHL - 2018/19	36	56	Sarmaty Orenburg	570	11
+MHL - 2018/19	36	56	Sibirskie Snaipery	597	11
+MHL - 2018/19	36	56	SKA-1946 St. Petersburg	601	11
+MHL - 2018/19	36	56	SKA-Varyagi	604	11
+MHL - 2018/19	36	56	Spartak Moskow	628	11
+MHL - 2018/19	36	56	Sputnik Almetievsk	631	11
+MHL - 2018/19	36	56	St Petersburg	635	11
+MHL - 2018/19	36	56	Stalnye Lisy	638	11
+MHL - 2018/19	36	56	Tolpar UFA	674	11
+MHL - 2018/19	36	56	Tyumenskiy Legion	699	11
+MHL - 2018/19	36	56	Vityazi Chekhov	737	11
+Liga Nationala - 2018/19	37	48	HCM Ramnicu Valcea	294	7
+Liga Nationala - 2018/19	37	48	Potaissa Turda	519	7
+Liga Nationala - 2018/19	37	48	SCM Craiova	580	7
+Liga Nationala - 2018/19	37	48	Universitatea Politehnica Timisoara	709	7
+The Rugby Championship - 2018	38	83	Argentina	28	4
+The Rugby Championship - 2018	38	83	Argentina	29	9
+The Rugby Championship - 2018	38	83	Argentina	30	13
+The Rugby Championship - 2018	38	83	Australia	38	4
+The Rugby Championship - 2018	38	83	Australia	39	9
+The Rugby Championship - 2018	38	83	Australia	40	13
+The Rugby Championship - 2018	38	83	New Zealand	472	9
+The Rugby Championship - 2018	38	83	South Africa	620	9
+Cup - 2018/19	39	19	FC Midtjylland	184	7
+Cup - 2018/19	39	19	Nykobing F.b Handboldklub	485	7
+Elite League - 2018/19	40	25	Fife Flyers	189	11
+Elite League - 2018/19	40	25	Guildford Flames	222	11
+Elite League - 2018/19	40	25	Sheffield Steelers	594	11
+Alps Hockey League - 2018/19	41	9	EC S.feldkirch	158	11
+Alps Hockey League - 2018/19	41	9	EHC Bregenzerwald	164	11
+SM-liiga - 2018/19	42	76	Aifk	12	7
+SM-Liiga - 2018/19	42	76	Ässät Pori	35	11
+SM-liiga - 2018/19	42	76	Grifk	220	7
+SM-Liiga - 2018/19	42	76	HIFK Hockey	299	11
+SM-Liiga - 2018/19	42	76	HPK Hämeenlinna	320	11
+SM-Liiga - 2018/19	42	76	Ilves Tampere	345	11
+SM-Liiga - 2018/19	42	76	Jukurit	363	11
+SM-Liiga - 2018/19	42	76	Kalpa Hockey	368	11
+SM-Liiga - 2018/19	42	76	Kärpät Oulu	370	11
+SM-Liiga - 2018/19	42	76	Kookoo Kouvola	380	11
+SM-Liiga - 2018/19	42	76	Pelicans Lahti	504	11
+SM-Liiga - 2018/19	42	76	Rauma Lukko	532	11
+SM-Liiga - 2018/19	42	76	Saipa Lappeenranta	564	11
+SM-Liiga - 2018/19	42	76	Tappara Tampere	654	11
+SM-Liiga - 2018/19	42	76	TPS Turku	684	11
+SM-Liiga - 2018/19	42	76	Vaasan Sport	718	11
+Super 8s - 2018	43	79	Castleford Tigers	97	9
+Super 8s - 2018	43	79	Catalans Dragons	98	9
+Super 8s - 2018	43	79	Halifax Blue Sox	225	9
+Super 8s - 2018	43	79	Huddersfield Giants	326	9
+Super 8s - 2018	43	79	Hull FC	328	9
+Super 8s - 2018	43	79	Hull Kingston Rovers	329	9
+Super 8s - 2018	43	79	Leeds Rhinos	400	9
+Super 8s - 2018	43	79	London Broncos	414	9
+Super 8s - 2018	43	79	Salford Red Devils	566	9
+Super 8s - 2018	43	79	St Helens Rlfc	634	9
+Super 8s - 2018	43	79	Toronto Wolfpack	675	9
+Super 8s - 2018	43	79	Toulouse Olympique XIII	681	9
+Super 8s - 2018	43	79	Wakefield Trinity Wildcats	744	9
+Super 8s - 2018	43	79	Warrington Wolves	746	9
+Super 8s - 2018	43	79	Widnes Vikings	752	9
+Super 8s - 2018	43	79	Wigan Warriors	753	9
+HockeyEttan Sodra - 2018/19	44	39	Halmstad Hammers	226	11
+HockeyEttan Sodra - 2018/19	44	39	Hanhals IF	229	11
+HockeyEttan Sodra - 2018/19	44	39	HC Dalen	254	11
+HockeyEttan Sodra - 2018/19	44	39	Helsingborgs HC	295	11
+HockeyEttan Sodra - 2018/19	44	39	IF Troja/Ljungby	334	11
+HockeyEttan Sodra - 2018/19	44	39	Kallinge/Ronneby IF	366	11
+HockeyEttan Sodra - 2018/19	44	39	Kalmar HC	367	11
+HockeyEttan Sodra - 2018/19	44	39	Kristianstads IK	385	11
+HockeyEttan Sodra - 2018/19	44	39	Morrum Gois IK	454	11
+HockeyEttan Sodra - 2018/19	44	39	Nybro IF	484	11
+HockeyEttan Sodra - 2018/19	44	39	Tyringe Sos	698	11
+HockeyEttan Sodra - 2018/19	44	39	Vimmerby HC	735	11
+LNH Division 1 - 2018/19	45	52	Bourg De Peage	81	7
+LNH Division 1 - 2018/19	45	52	Brest Bretagne Handball	83	7
+LNH Division 1 - 2018/19	45	52	Cercle Dijon Bourgogne	101	7
+LNH Division 1 - 2018/19	45	52	Chambray Touraine	104	7
+LNH Division 1 - 2018/19	45	52	CJF Fleury Les Aubrais	119	7
+LNH Division 1 - 2018/19	45	52	ESBF Besancon	170	7
+LNH Division 1 - 2018/19	45	52	HBC Saint-Amand-les-Eaux Porte du Hainaut	241	7
+LNH Division 1 - 2018/19	45	52	Issy Paris	351	7
+LNH Division 1 - 2018/19	45	52	Metz Handball	437	7
+LNH Division 1 - 2018/19	45	52	Nantes Loire Atlantique HB	464	7
+LNH Division 1 - 2018/19	45	52	OGC Nice Cote D´Azur	489	7
+LNH Division 1 - 2018/19	45	52	Toulon Saint Cyr Var Handball	679	7
+Hockey Allsvenskan - 2018/19	46	36	AIK IF	14	11
+Hockey Allsvenskan - 2018/19	46	36	Almtuna IS	22	11
+Hockey Allsvenskan - 2018/19	46	36	BIK Karlskoga	66	11
+Hockey Allsvenskan - 2018/19	46	36	HC Vita Hasten	290	11
+Hockey Allsvenskan - 2018/19	46	36	IF Björklöven	333	11
+Hockey Allsvenskan - 2018/19	46	36	IK Oskarshamn	341	11
+Hockey Allsvenskan - 2018/19	46	36	IK Pantern	342	11
+Hockey Allsvenskan - 2018/19	46	36	Karlskrona HK	369	11
+Hockey Allsvenskan - 2018/19	46	36	Leksands IF	402	11
+Hockey Allsvenskan - 2018/19	46	36	Modo Hockey	447	11
+Hockey Allsvenskan - 2018/19	46	36	Södertälje SK	613	11
+Hockey Allsvenskan - 2018/19	46	36	Tingsryds AIF	668	11
+Hockey Allsvenskan - 2018/19	46	36	Västervik	727	11
+Hockey Allsvenskan - 2018/19	46	36	VIK Vasteraas	733	11
+Extraliga - 2018/19	47	32	1 SC Ssk Vitkovice	1	6
+Extraliga - 2018/19	47	32	AC Sparta Prag	9	6
+Extraliga - 2018/19	47	32	Belarus	56	11
+Extraliga - 2018/19	47	32	Bulldogs Brno	89	6
+Extraliga - 2018/19	47	32	Dukla Trencin	155	11
+Extraliga - 2018/19	47	32	FBC Liberec	177	6
+Extraliga - 2018/19	47	32	FBC Ostrava	178	6
+Extraliga - 2018/19	47	32	FBC Pullo Trade Ceska Lipa	179	6
+Extraliga - 2018/19	47	32	FBK Sokol Mlada Boleslav	180	6
+Extraliga - 2018/19	47	32	FBS Bohemians	181	6
+Extraliga - 2018/19	47	32	HC 05 Banska Bystrica	242	11
+Extraliga - 2018/19	47	32	HC 07 Detva	243	11
+Extraliga - 2018/19	47	32	HC Banik Karvina	249	7
+Extraliga - 2018/19	47	32	HC Cement Hranice	252	7
+Extraliga - 2018/19	47	32	HC Dinamo Maladzyechna	256	11
+Extraliga - 2018/19	47	32	HC Kosice	266	11
+Extraliga - 2018/19	47	32	HC Sparta Prag	282	11
+Extraliga - 2018/19	47	32	HC Tatran Presov	286	7
+Extraliga - 2018/19	47	32	HC THP Topvar Topolcany	287	7
+Extraliga - 2018/19	47	32	HK Gomel	304	11
+Extraliga - 2018/19	47	32	HK Lida	306	11
+Extraliga - 2018/19	47	32	HK SKP Poprad	313	11
+Extraliga - 2018/19	47	32	HKM Nitra	314	11
+Extraliga - 2018/19	47	32	HKM Zvolen	315	11
+Extraliga - 2018/19	47	32	Liptovsky Mikulas	411	11
+Extraliga - 2018/19	47	32	MAC Budapest	422	11
+Extraliga - 2018/19	47	32	Metallurg Zhlobin	436	11
+Extraliga - 2018/19	47	32	Miskolci JJSE	442	11
+Extraliga - 2018/19	47	32	Mountfield HK	458	11
+Extraliga - 2018/19	47	32	Mshk Zilina	460	11
+Extraliga - 2018/19	47	32	Neman Grodno	467	11
+Extraliga - 2018/19	47	32	Nove Zamky	483	11
+Extraliga - 2018/19	47	32	Panthers Otrokovice	498	6
+Extraliga - 2018/19	47	32	Shakhter Soligorsk	592	11
+Extraliga - 2018/19	47	32	Slovakia	610	11
+Extraliga - 2018/19	47	32	Sokol Kral Vinohrady	614	6
+Extraliga - 2018/19	47	32	Sokol Pardubice	616	6
+Extraliga - 2018/19	47	32	Tatran Omlux Stresovice	657	6
+Extraliga - 2018/19	47	32	TJ JM Chodov	669	6
+Extraliga - 2018/19	47	32	TJ VHS Znojmo	670	6
+Extraliga - 2018/19	47	32	Yunost Minsk	760	11
+CFL - 2018/19	48	14	Montreal Alouettes	451	2
+CFL - 2018/19	48	14	Winnipeg Blue Bombers	755	2
+EBEL - 2018/19	49	23	HC TWK Innsbruck Die Haie	289	11
+EBEL - 2018/19	49	23	RB Salzburg	533	11
+1st Liga - 2018/19	50	5	HC AZ Havirov 2010	248	11
+1st Liga - 2018/19	50	5	HC Benatky Nad Jizerou	251	11
+1st Liga - 2018/19	50	5	HC Dukla Jihlava	258	11
+1st Liga - 2018/19	50	5	HC Frydek Mistek	262	11
+1st Liga - 2018/19	50	5	HC Horacka Slavia Trebic	263	11
+1st Liga - 2018/19	50	5	HC Kladno	265	11
+1st Liga - 2018/19	50	5	HC Motor Ceske Budejovice	271	11
+1st Liga - 2018/19	50	5	HC RT Torax Poruba	276	11
+1st Liga - 2018/19	50	5	HC Slavia Prag	278	11
+1st Liga - 2018/19	50	5	HC Slovan Ustecti Lvi	279	11
+1st Liga - 2018/19	50	5	HC Slovnaft Vsetin	280	11
+1st Liga - 2018/19	50	5	HC Stadion Litomerice	283	11
+1st Liga - 2018/19	50	5	HC Zubr Prerov	293	11
+1st Liga - 2018/19	50	5	HK Jestrabi Prostejov	305	11
+1st Liga - 2018/19	50	5	SK Kadan	598	11
+Liga ABA - 2018/19	51	46	Cibona Zagreb	117	4
+Liga ABA - 2018/19	51	46	Crvena Zvezda Telekom	137	4
+Liga ABA - 2018/19	51	46	Mornar	453	4
+Liga ABA - 2018/19	51	46	U. Olimpija Ljubljana	700	4
+NRL - 2018	52	66	Cronulla Sharks	136	9
+NRL - 2018	52	66	Melbourne Storm	434	9
+NRL - 2018	52	66	Penrith Panthers	507	9
+NRL - 2018	52	66	South Sydney Rabbitohs	622	9
+NRL - 2018	52	66	St George Illawarra Dragons	633	9
+WNBA - 2018/19	53	87	Seattle Storm	582	4
+WNBA - 2018/19	53	87	Washington Mystics	747	4
+Bundesliga - 2018/19	54	13	Füchse Berlin	204	7
+Bundesliga - 2018/19	54	13	HSG Wetzlar	324	7
+Bundesliga - 2018/19	54	13	Lingen - HC Erlangen	409	7
+Bundesliga - 2018/19	54	13	Lübbecke - TSV GWD Minden	416	7
+Bundesliga - 2018/19	54	13	MT Melsungen	461	7
+Bundesliga - 2018/19	54	13	SC DHFK Leipzig	575	7
+Bundesliga - 2018/19	54	13	SC Magdeburg	576	7
+Bundesliga - 2018/19	54	13	SG Flensburg-Handewitt	590	7
+Bundesliga - 2018/19	54	13	THW Kiel	664	7
+Bundesliga - 2018/19	54	13	TSG Ludwigshafen-Friesenheim	688	7
+Bundesliga - 2018/19	54	13	TSV Hannover Burgdorf	690	7
+Bundesliga - 2018/19	54	13	VfL Gummersbach	729	7
+Superisligaen - 2018/19	55	81	Aalborg Pirates	6	11
+Superisligaen - 2018/19	55	81	Esbjerg Energy	171	11
+Superisligaen - 2018/19	55	81	Frederikshavn White Hawks	200	11
+Superisligaen - 2018/19	55	81	Herlev Eagles	297	11
+Superisligaen - 2018/19	55	81	Herning Blue Fox	298	11
+Superisligaen - 2018/19	55	81	Hvidovre Fighters	332	11
+Superisligaen - 2018/19	55	81	Odense Bulldogs	488	11
+Superisligaen - 2018/19	55	81	Rodovre Mighty Bulls	555	11
+Superisligaen - 2018/19	55	81	Rungsted Ishockey	560	11
+Superisligaen - 2018/19	55	81	Sonderjyske Ishockey	619	11
+HockeyEttan Vastra - 2018/19	56	40	Borlänge HC	77	11
+HockeyEttan Vastra - 2018/19	56	40	Forshaga IF	193	11
+HockeyEttan Vastra - 2018/19	56	40	Grums IK	221	11
+HockeyEttan Vastra - 2018/19	56	40	IFK Arboga	335	11
+HockeyEttan Vastra - 2018/19	56	40	IFK Kumla	337	11
+HockeyEttan Vastra - 2018/19	56	40	Koping HC	382	11
+HockeyEttan Vastra - 2018/19	56	40	Lindlövens IF	407	11
+HockeyEttan Vastra - 2018/19	56	40	Malungs IF	426	11
+HockeyEttan Vastra - 2018/19	56	40	Mariestads Bois	430	11
+HockeyEttan Vastra - 2018/19	56	40	Skövde IK	608	11
+HockeyEttan Vastra - 2018/19	56	40	Surahammar	649	11
+HockeyEttan Vastra - 2018/19	56	40	Tranaas Aif	685	11
+HockeyEttan Ostra - 2018/19	57	38	Enköpings SK HK	168	11
+HockeyEttan Ostra - 2018/19	57	38	Hammarby Hockey IF	228	11
+HockeyEttan Ostra - 2018/19	57	38	Hanvikens SK	230	11
+HockeyEttan Ostra - 2018/19	57	38	Hudiksvalls HC	327	11
+HockeyEttan Ostra - 2018/19	57	38	Segeltorps IF	583	11
+HockeyEttan Ostra - 2018/19	57	38	Sollentuna HC	617	11
+HockeyEttan Ostra - 2018/19	57	38	Trangsund	686	11
+HockeyEttan Ostra - 2018/19	57	38	Väsby IK	725	11
+FIVB World Championship Men - 2018/19	58	34	Argentina	28	4
+FIVB World Championship Men - 2018/19	58	34	Argentina	29	9
+FIVB World Championship Men - 2018/19	58	34	Argentina	30	13
+FIVB World Championship Men - 2018/19	58	34	Australia	38	4
+FIVB World Championship Men - 2018/19	58	34	Australia	39	9
+FIVB World Championship Men - 2018/19	58	34	Australia	40	13
+FIVB World Championship Men - 2018/19	58	34	Belgium	57	4
+FIVB World Championship Men - 2018/19	58	34	Belgium	58	13
+FIVB World Championship Men - 2018/19	58	34	Brazil	82	13
+FIVB World Championship Men - 2018/19	58	34	Bulgaria	88	13
+FIVB World Championship Men - 2018/19	58	34	Cameroon	91	13
+FIVB World Championship Men - 2018/19	58	34	Canada	92	4
+FIVB World Championship Men - 2018/19	58	34	Canada	93	13
+FIVB World Championship Men - 2018/19	58	34	China	113	4
+FIVB World Championship Men - 2018/19	58	34	China	114	13
+FIVB World Championship Men - 2018/19	58	34	Cuba	141	13
+FIVB World Championship Men - 2018/19	58	34	Dominican Republic	153	13
+FIVB World Championship Men - 2018/19	58	34	Egypt	162	13
+FIVB World Championship Men - 2018/19	58	34	France	196	4
+FIVB World Championship Men - 2018/19	58	34	France	197	7
+FIVB World Championship Men - 2018/19	58	34	France	198	13
+FIVB World Championship Men - 2018/19	58	34	Iran	349	13
+FIVB World Championship Men - 2018/19	58	34	Italy	353	13
+FIVB World Championship Men - 2018/19	58	34	Japan	355	4
+FIVB World Championship Men - 2018/19	58	34	Japan	356	13
+FIVB World Championship Men - 2018/19	58	34	Netherlands	469	13
+FIVB World Championship Men - 2018/19	58	34	Poland	516	7
+FIVB World Championship Men - 2018/19	58	34	Poland	517	13
+FIVB World Championship Men - 2018/19	58	34	Puerto Rico	521	4
+FIVB World Championship Men - 2018/19	58	34	Puerto Rico	522	13
+FIVB World Championship Men - 2018/19	58	34	Russia	561	13
+FIVB World Championship Men - 2018/19	58	34	Serbia	587	13
+FIVB World Championship Men - 2018/19	58	34	Slovenia	612	13
+FIVB World Championship Men - 2018/19	58	34	Tunisia	691	13
+FIVB World Championship Men - 2018/19	58	34	USA	714	13
+Champions League - 2018/19	59	15	Cocks	123	7
+Champions League - 2018/19	59	15	Dinamo Baumit Bucuresti	150	7
+Champions League - 2018/19	59	15	Elverum	167	7
+Champions League - 2018/19	59	15	FC Barcelona	183	7
+Champions League - 2018/19	59	15	HC Meshkov Brest	270	7
+Champions League - 2018/19	59	15	Motor Zaporozhye	457	7
+Champions League - 2018/19	59	15	Paris Handball	499	7
+Champions League - 2018/19	59	15	Reale Ademar	538	7
+Champions League - 2018/19	59	15	Rhein Neckar Löwen	542	7
+Champions League - 2018/19	59	15	Wacker Thun	741	7
+Champions League - 2018/19	59	15	Wisla Plock	757	7
+College - 2018/19	60	18	Boston College Eagles	78	2
+College - 2018/19	60	18	Charlotte 49ers	107	2
+College - 2018/19	60	18	Florida Atlantic Owls	191	2
+College - 2018/19	60	18	Illinois Fighting Illini	344	2
+College - 2018/19	60	18	Miami Florida	439	2
+College - 2018/19	60	18	North Carolina Tar Heels	478	2
+College - 2018/19	60	18	Old Dominion	490	2
+College - 2018/19	60	18	Penn St Nittany Lions	506	2
+College - 2018/19	60	18	UCF Knights	702	2
+College - 2018/19	60	18	USC Trojans	716	2
+College - 2018/19	60	18	Wake Forest Demon Deacons	743	2
+College - 2018/19	60	18	Washington St Cougars	748	2
+Currie Cup - 2018	61	20	DHL Western Province	148	9
+Currie Cup - 2018	61	20	Ford Pumas	192	9
+Currie Cup - 2018	61	20	Golden Lions	213	9
+Currie Cup - 2018	61	20	GWK Griquas	223	9
+Currie Cup - 2018	61	20	Toyota Free State Cheetahs	682	9
+Currie Cup - 2018	61	20	Vodacom Blue Bulls	739	9
+Extraliga - 2018/19	62	31	1 SC Ssk Vitkovice	1	6
+Extraliga - 2018/19	62	31	AC Sparta Prag	9	6
+Extraliga - 2018/19	62	31	Belarus	56	11
+Extraliga - 2018/19	62	31	Bulldogs Brno	89	6
+Extraliga - 2018/19	62	31	Dukla Trencin	155	11
+Extraliga - 2018/19	62	31	FBC Liberec	177	6
+Extraliga - 2018/19	62	31	FBC Ostrava	178	6
+Extraliga - 2018/19	62	31	FBC Pullo Trade Ceska Lipa	179	6
+Extraliga - 2018/19	62	31	FBK Sokol Mlada Boleslav	180	6
+Extraliga - 2018/19	62	31	FBS Bohemians	181	6
+Extraliga - 2018/19	62	31	HC 05 Banska Bystrica	242	11
+Extraliga - 2018/19	62	31	HC 07 Detva	243	11
+Extraliga - 2018/19	62	31	HC Banik Karvina	249	7
+Extraliga - 2018/19	62	31	HC Cement Hranice	252	7
+Extraliga - 2018/19	62	31	HC Dinamo Maladzyechna	256	11
+Extraliga - 2018/19	62	31	HC Kosice	266	11
+Extraliga - 2018/19	62	31	HC Sparta Prag	282	11
+Extraliga - 2018/19	62	31	HC Tatran Presov	286	7
+Extraliga - 2018/19	62	31	HC THP Topvar Topolcany	287	7
+Extraliga - 2018/19	62	31	HK Gomel	304	11
+Extraliga - 2018/19	62	31	HK Lida	306	11
+Extraliga - 2018/19	62	31	HK SKP Poprad	313	11
+Extraliga - 2018/19	62	31	HKM Nitra	314	11
+Extraliga - 2018/19	62	31	HKM Zvolen	315	11
+Extraliga - 2018/19	62	31	Liptovsky Mikulas	411	11
+Extraliga - 2018/19	62	31	MAC Budapest	422	11
+Extraliga - 2018/19	62	31	Metallurg Zhlobin	436	11
+Extraliga - 2018/19	62	31	Miskolci JJSE	442	11
+Extraliga - 2018/19	62	31	Mountfield HK	458	11
+Extraliga - 2018/19	62	31	Mshk Zilina	460	11
+Extraliga - 2018/19	62	31	Neman Grodno	467	11
+Extraliga - 2018/19	62	31	Nove Zamky	483	11
+Extraliga - 2018/19	62	31	Panthers Otrokovice	498	6
+Extraliga - 2018/19	62	31	Shakhter Soligorsk	592	11
+Extraliga - 2018/19	62	31	Slovakia	610	11
+Extraliga - 2018/19	62	31	Sokol Kral Vinohrady	614	6
+Extraliga - 2018/19	62	31	Sokol Pardubice	616	6
+Extraliga - 2018/19	62	31	Tatran Omlux Stresovice	657	6
+Extraliga - 2018/19	62	31	TJ JM Chodov	669	6
+Extraliga - 2018/19	62	31	TJ VHS Znojmo	670	6
+Extraliga - 2018/19	62	31	Yunost Minsk	760	11
+1. liga - 2018/19	63	2	MRK Krka	459	7
+1. liga - 2018/19	63	2	RD Loka	535	7
+1. liga - 2018/19	63	2	RD Ribnica Riko Hise	536	7
+1. liga - 2018/19	63	2	RK Celje Pivovarna Lasko	547	7
+1. liga - 2018/19	63	2	RK Cimos Koper	548	7
+1. liga - 2018/19	63	2	RK Gorenje Velenje	549	7
+1. liga - 2018/19	63	2	RK Jeruzalem Ormoz	550	7
+1. liga - 2018/19	63	2	RK Maribor Branik	551	7
+1. liga - 2018/19	63	2	RK Trimo Trebnje	552	7
+LNH Division 1 Men - 2018/19	64	53	Chambery Savoie	103	7
+LNH Division 1 Men - 2018/19	64	53	Dunkerque HB	156	7
+LNH Division 1 Men - 2018/19	64	53	HBC Nantes	240	7
+LNH Division 1 Men - 2018/19	64	53	Istres Ouest Provence	352	7
+LNH Division 1 Men - 2018/19	64	53	Montpellier Handball	450	7
+LNH Division 1 Men - 2018/19	64	53	OC Cesson Handball	487	7
+LNH Division 1 Men - 2018/19	64	53	Paris Handball	499	7
+LNH Division 1 Men - 2018/19	64	53	Pays Aix Universite Club Handball	502	7
+LNH Division 1 Men - 2018/19	64	53	Pontault-Combault HB	518	7
+LNH Division 1 Men - 2018/19	64	53	Saint Raphael	563	7
+LNH Division 1 Men - 2018/19	64	53	Toulouse Handball	680	7
+LNH Division 1 Men - 2018/19	64	53	Tremblay En France	687	7
+LNH Division 1 Men - 2018/19	64	53	US Ivry Handball	712	7
+LNH Division 1 Men - 2018/19	64	53	Usam Nimes	715	7
+Liga ABA Super Cup - 2018/19	65	47	Crvena Zvezda Telekom	137	4
+Liga ABA Super Cup - 2018/19	65	47	KK Cedevita Zagreb	375	4
+Liga ABA Super Cup - 2018/19	65	47	KK Zadar	377	4
+Liga ABA Super Cup - 2018/19	65	47	U. Olimpija Ljubljana	700	4
+Women Bundesliga - 2018/19	66	88	SG BBM Bietigheim	589	7
+Women Bundesliga - 2018/19	66	88	TSV Bayer 04 Leverkusen	689	7
+NPC - 2018	67	65	Auckland	37	9
+NPC - 2018	67	65	Bay of Plenty	50	9
+NPC - 2018	67	65	Canterbury	94	9
+NPC - 2018	67	65	Counties Manukau	133	9
+NPC - 2018	67	65	Hawke´s Bay	238	9
+NPC - 2018	67	65	Manawatu	428	9
+NPC - 2018	67	65	North Harbour	479	9
+NPC - 2018	67	65	Northland	480	9
+NPC - 2018	67	65	Otago	496	9
+NPC - 2018	67	65	Southland	623	9
+NPC - 2018	67	65	Taranaki	655	9
+NPC - 2018	67	65	Tasman	656	9
+NPC - 2018	67	65	Waikato	742	9
+NPC - 2018	67	65	Wellington	749	9
+LKL - 2018/19	68	50	Aviv - BC Zalgiris Kaunas	42	4
+LKL - 2018/19	68	50	BC Alytaus Dzukija	52	4
+LKL - 2018/19	68	50	BC Lietkabelis	53	4
+LKL - 2018/19	68	50	Juventus Utena	364	4
+LKL - 2018/19	68	50	KK Prienai	376	4
+LKL - 2018/19	68	50	Lietuvos Rytas	404	4
+LKL - 2018/19	68	50	Neptunas Klaipeda	468	4
+LKL - 2018/19	68	50	Nevezis Kedainiai	470	4
+LKL - 2018/19	68	50	Pieno Zvaigzdes	512	4
+LKL - 2018/19	68	50	Siauliai	595	4
+Division De Honor Femenina - 2018/19	69	22	Baseti	49	7
+Division De Honor Femenina - 2018/19	69	22	Mecalia Atletico Guardes	431	7
+Division De Honor Femenina - 2018/19	69	22	Rocasa ACE Gran Canaria	553	7
+Division De Honor Femenina - 2018/19	69	22	Zuazo - Handbol Canyamelar Valencia	765	7
+NB I - 2018/19	70	62	Balatonfuredi Kse	45	7
+NB I - 2018/19	70	62	Eger Sbs	161	7
+NB I - 2018/19	70	62	FTC Budapest	203	7
+NB I - 2018/19	70	62	MKB Veszprem KC	443	7
+NB I - 2018/19	70	62	Pick Szeged	511	7
+1. Division - 2018/19	71	1	Ajax Copenhagen	16	7
+1. Division - 2018/19	71	1	FHK Elite	188	7
+1. Division - 2018/19	71	1	Hoj	317	7
+1. Division - 2018/19	71	1	Randers HH	526	7
+1. Division - 2018/19	71	1	Thyboron Handball - Otterup HK	665	7
+SM-liiga - 2018/19	72	77	Aifk	12	7
+SM-Liiga - 2018/19	72	77	Ässät Pori	35	11
+SM-liiga - 2018/19	72	77	Grifk	220	7
+SM-Liiga - 2018/19	72	77	HIFK Hockey	299	11
+SM-Liiga - 2018/19	72	77	HPK Hämeenlinna	320	11
+SM-Liiga - 2018/19	72	77	Ilves Tampere	345	11
+SM-Liiga - 2018/19	72	77	Jukurit	363	11
+SM-Liiga - 2018/19	72	77	Kalpa Hockey	368	11
+SM-Liiga - 2018/19	72	77	Kärpät Oulu	370	11
+SM-Liiga - 2018/19	72	77	Kookoo Kouvola	380	11
+SM-Liiga - 2018/19	72	77	Pelicans Lahti	504	11
+SM-Liiga - 2018/19	72	77	Rauma Lukko	532	11
+SM-Liiga - 2018/19	72	77	Saipa Lappeenranta	564	11
+SM-Liiga - 2018/19	72	77	Tappara Tampere	654	11
+SM-Liiga - 2018/19	72	77	TPS Turku	684	11
+SM-Liiga - 2018/19	72	77	Vaasan Sport	718	11
+Pro D2 - 2018	73	70	AS Beziers Herault	32	9
+Pro D2 - 2018	73	70	Aviron Bayonne	41	9
+Pro D2 - 2018	73	70	Biarritz Olympique	64	9
+Pro D2 - 2018	73	70	Bourg	80	9
+Pro D2 - 2018	73	70	Colomiers Rugby	125	9
+Pro D2 - 2018	73	70	Pays D Aix	503	9
+Pro D2 - 2018	73	70	RC Massy	534	9
+Pro D2 - 2018	73	70	Soyaux Angoulême	624	9
+Pro D2 - 2018	73	70	Stade Aurillacois	637	9
+Pro D2 - 2018	73	70	US Carcassonne	711	9
+Pro D2 - 2018	73	70	US Montauban	713	9
+Pro D2 - 2018	73	70	USON Nevers	717	9
+National League B - 2018/19	74	61	de-Fonds - HC Biasca	145	11
+National League B - 2018/19	74	61	HC Ajoie	244	11
+National League B - 2018/19	74	61	HC La Chaux-de-Fonds	268	11
+National League B - 2018/19	74	61	Hockey Academy Zug	316	11
+AFL - 2018	75	7	Collingwood Magpies	124	12
+AFL - 2018	75	7	Greater Western Sydney	217	12
+AFL - 2018	75	7	Hawthorn Hawks	239	12
+AFL - 2018	75	7	Melbourne Demons	433	12
+AFL - 2018	75	7	Richmond Tigers	545	12
+Ligue Magnus - 2018/19	76	49	Anglet Hormadi Elite	25	11
+Ligue Magnus - 2018/19	76	49	ASG Angers	34	11
+Ligue Magnus - 2018/19	76	49	Bordeaux Ghc	76	11
+Ligue Magnus - 2018/19	76	49	Chamonix	105	11
+Ligue Magnus - 2018/19	76	49	CSG Strasbourg	138	11
+Ligue Magnus - 2018/19	76	49	Grenoble MH 38	219	11
+Ligue Magnus - 2018/19	76	49	HC Amiens Somme	247	11
+Ligue Magnus - 2018/19	76	49	HC Nice	272	11
+Ligue Magnus - 2018/19	76	49	Lyon HC	419	11
+Ligue Magnus - 2018/19	76	49	Morzine HC - Scorpions de Mulhouse	456	11
+Ligue Magnus - 2018/19	76	49	Rapaces de Gap	528	11
+Ligue Magnus - 2018/19	76	49	Rouen HE	557	11
+Damehandboldligaen - 2018/19	77	21	Ajax Copenhagen	16	7
+Damehandboldligaen - 2018/19	77	21	FC Midtjylland	184	7
+Damehandboldligaen - 2018/19	77	21	Kobenhavn H.b.	379	7
+Damehandboldligaen - 2018/19	77	21	Randers HK	527	7
+Damehandboldligaen - 2018/19	77	21	Team TVIS Holstebro	661	7
+Damehandboldligaen - 2018/19	77	21	Viborg HK	730	7
+Mestaruusliiga - 2018/19	78	55	Akaa Volley	18	13
+Mestaruusliiga - 2018/19	78	55	Savo Volley	572	13
+Mestaruusliiga - 2018/19	78	55	Team Lakkapää	660	13
+Mestaruusliiga - 2018/19	78	55	Valepa	721	13
+Handboldligaen - 2018/19	79	35	AaB Handball	5	7
+Handboldligaen - 2018/19	79	35	Aarhus Handball	7	7
+Handboldligaen - 2018/19	79	35	Bjerringbro	67	7
+Handboldligaen - 2018/19	79	35	GOG Handbold	212	7
+Handboldligaen - 2018/19	79	35	Lemvig-Thyboron Handball	403	7
+Handboldligaen - 2018/19	79	35	Mors-Thy Handbold	455	7
+Handboldligaen - 2018/19	79	35	Nordsjaelland Handball	477	7
+Handboldligaen - 2018/19	79	35	Ribe-Esbjerg HH	543	7
+Handboldligaen - 2018/19	79	35	Skanderborg Handball	603	7
+Handboldligaen - 2018/19	79	35	Skjern Handbold	607	7
+Handboldligaen - 2018/19	79	35	Sønderjyske	618	7
+Handboldligaen - 2018/19	79	35	Team TVIS Holstebro	661	7
+Handboldligaen - 2018/19	79	35	TMS Ringsted	673	7
+FIBA World Championship - 2018/19	80	33	Argentina	28	4
+FIBA World Championship - 2018/19	80	33	Argentina	29	9
+FIBA World Championship - 2018/19	80	33	Argentina	30	13
+FIBA World Championship - 2018/19	80	33	Australia	38	4
+FIBA World Championship - 2018/19	80	33	Australia	39	9
+FIBA World Championship - 2018/19	80	33	Australia	40	13
+FIBA World Championship - 2018/19	80	33	Belgium	57	4
+FIBA World Championship - 2018/19	80	33	Belgium	58	13
+FIBA World Championship - 2018/19	80	33	Canada	92	4
+FIBA World Championship - 2018/19	80	33	Canada	93	13
+FIBA World Championship - 2018/19	80	33	China	113	4
+FIBA World Championship - 2018/19	80	33	China	114	13
+FIBA World Championship - 2018/19	80	33	France	196	4
+FIBA World Championship - 2018/19	80	33	France	197	7
+FIBA World Championship - 2018/19	80	33	France	198	13
+FIBA World Championship - 2018/19	80	33	Greece	218	4
+FIBA World Championship - 2018/19	80	33	Japan	355	4
+FIBA World Championship - 2018/19	80	33	Japan	356	13
+FIBA World Championship - 2018/19	80	33	Nigeria	475	4
+FIBA World Championship - 2018/19	80	33	Puerto Rico	521	4
+FIBA World Championship - 2018/19	80	33	Puerto Rico	522	13
+FIBA World Championship - 2018/19	80	33	Senegal	585	4
+FIBA World Championship - 2018/19	80	33	South Korea	621	4
+FIBA World Championship - 2018/19	80	33	Spain	625	4
+FIBA World Championship - 2018/19	80	33	Turkey	692	4
+KOVO Cup - 2018/19	81	43	Ansan Rush&Cash	26	13
+KOVO Cup - 2018/19	81	43	Cheonan Hyundai Capital Skywalkers	111	13
+KOVO Cup - 2018/19	81	43	Deajeon Bluefangs	143	13
+KOVO Cup - 2018/19	81	43	Incheon Korean Air Jumbos	346	13
+KOVO Cup - 2018/19	81	43	JT Thunders	362	13
+KOVO Cup - 2018/19	81	43	Seoul Woori Card Hansae	586	13
+KOVO Cup - 2018/19	81	43	Suwon Kepco	651	13
+KOVO Cup - 2018/19	81	43	Western KB Star Insurance	751	13
+National League - 2018/19	82	59	Chur Uhc	116	6
+National League - 2018/19	82	59	Floorball Köniz	190	6
+National League - 2018/19	82	59	Grasshopper Club Zurich	216	6
+National League - 2018/19	82	59	HC Rychenberg Winterthur	277	6
+National League - 2018/19	82	59	Kloten-Bülach Jets	378	6
+National League - 2018/19	82	59	SV Wiler Ersigen	652	6
+National League - 2018/19	82	59	Tigers Langnau	666	6
+National League - 2018/19	82	59	UHC Alligator Malans	703	6
+National League - 2018/19	82	59	UHC Thun	704	6
+National League - 2018/19	82	59	UHC Uster	705	6
+National League - 2018/19	82	59	Waldkirch St.Gallen	745	6
+National League - 2018/19	82	59	Zug United	766	6
+LNB - 2018/19	83	51	Argentino Junin	31	4
+LNB - 2018/19	83	51	Boca Juniors	73	4
+LNB - 2018/19	83	51	Club Atletico San Lorenzo De Almagro	121	4
+LNB - 2018/19	83	51	Club Deportivo Hispano Americano	122	4
+LNB - 2018/19	83	51	Comunicaciones	127	4
+LNB - 2018/19	83	51	Estudiantes de Concordia	173	4
+LNB - 2018/19	83	51	Instituto Atletico Central Cordoba	347	4
+LNB - 2018/19	83	51	Obras Sanitarias	486	4
+LNB - 2018/19	83	51	Penarol Mar Del Plata	505	4
+LNB - 2018/19	83	51	Quimsa Santiago del Estero	523	4
+LNB - 2018/19	83	51	San Martin Corrientes	567	4
+Meistriliiga - 2018/19	84	54	Coop Polva	129	7
+Meistriliiga - 2018/19	84	54	HC Kehra	264	7
+Ekstraliga - 2018/19	85	24	GKS Katowice	209	11
+Ekstraliga - 2018/19	85	24	Gorniczy Klub Sportowy Tychy	214	11
+Ekstraliga - 2018/19	85	24	JKH GKS Jastrzebie	359	11
+Ekstraliga - 2018/19	85	24	KH Zaglebie Sosnowiec	372	11
+Ekstraliga - 2018/19	85	24	KS Stoczniowiec Gdansk	388	11
+Ekstraliga - 2018/19	85	24	MKS Cracovia Krakow	444	11
+Ekstraliga - 2018/19	85	24	Orlik Opole	494	11
+Ekstraliga - 2018/19	85	24	TH Unia Oswiecim	663	11
+Ekstraliga - 2018/19	85	24	TKH Nesta Torun	671	11
+Ekstraliga - 2018/19	85	24	TMH Polonia Bytom	672	11
+Club Friendlies - 2018/19	86	17	Banco Di Sardegna Sassari	47	4
+Club Friendlies - 2018/19	86	17	Brynäs IF	85	11
+Club Friendlies - 2018/19	86	17	Efes Anadolu Istanbul	160	4
+Club Friendlies - 2018/19	86	17	Färjestads BK	176	11
+Club Friendlies - 2018/19	86	17	Gasterra Flames Groningen	206	4
+Club Friendlies - 2018/19	86	17	HC Ambri Piotta	246	11
+Club Friendlies - 2018/19	86	17	HC Davos	255	11
+Club Friendlies - 2018/19	86	17	IF Björklöven	333	11
+Club Friendlies - 2018/19	86	17	Luleaa Hockey	418	11
+Club Friendlies - 2018/19	86	17	Mora IK	452	11
+Club Friendlies - 2018/19	86	17	Telnet BC Oostende	662	4
+Club Friendlies - 2018/19	86	17	Timraa IK	667	11
+2nd Bundesliga - 2018/19	87	6	DHC Rheinland	147	7
+2nd Bundesliga - 2018/19	87	6	EHV Aue	165	7
+2nd Bundesliga - 2018/19	87	6	HC Elbflorenz Dresden	260	7
+2nd Bundesliga - 2018/19	87	6	HC Rhein Vikings	275	7
+2nd Bundesliga - 2018/19	87	6	HSC 2000 Coburg	321	7
+2nd Bundesliga - 2018/19	87	6	HSG Nordhorn	323	7
+2nd Bundesliga - 2018/19	87	6	HSV Hamburg	325	7
+2nd Bundesliga - 2018/19	87	6	Lingen - Dessau-Rosslauer HV 2006	408	7
+2nd Bundesliga - 2018/19	87	6	TUS N	693	7
+2nd Bundesliga - 2018/19	87	6	Tusem Essen	694	7
+2nd Bundesliga - 2018/19	87	6	TV Emsdetten	695	7
+2nd Bundesliga - 2018/19	87	6	TV Grosswallstadt	696	7
+2nd Bundesliga - 2018/19	87	6	TV Hüttenberg	697	7
+2nd Bundesliga - 2018/19	87	6	Wilhelmshavener HV	754	7
+HockeyEttan Norra - 2018/19	88	37	Bodens HF	75	11
+HockeyEttan Norra - 2018/19	88	37	Kiruna AIF	374	11
+HockeyEttan Norra - 2018/19	88	37	Piteå HC	513	11
+HockeyEttan Norra - 2018/19	88	37	SK Lejon	599	11
+HockeyEttan Norra - 2018/19	88	37	Team Kiruna	659	11

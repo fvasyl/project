@@ -1,0 +1,6 @@
+﻿EventID	Event	SportID	EventGroup	ModifiedDate
+1	first win	NULL	1	2019-01-31 12:21:48.507
+2	second win	NULL	1	2019-01-31 12:21:48.510
+3	nobody win	NULL	1	2019-01-31 12:21:48.510
+4	first not win	NULL	2	2019-01-31 12:21:48.510
+5	second not win	NULL	2	2019-01-31 12:21:48.510
