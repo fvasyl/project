@@ -1,644 +1,644 @@
-﻿dateT	AwayClub	ClubIDA	HomeClub	ClubIDH	AwayTeam	TeamID	SportID	SportArenaID
-2019-02-07 17:00:00.000	TJ JM Chodov	669	FBC Ostrava	178	Extraliga - 2018/19	31	6	15
-2019-02-07 18:00:00.000	Bulldogs Brno	89	Panthers Otrokovice	498	Extraliga - 2018/19	31	6	420
-2019-02-07 18:30:00.000	1 SC Ssk Vitkovice	1	FBC Pullo Trade Ceska Lipa	179	Extraliga - 2018/19	31	6	232
-2019-02-07 19:30:00.000	Sokol Pardubice	616	FBC Liberec	177	Extraliga - 2018/19	31	6	436
-2019-02-11 14:50:00.000	DAB Docler	142	Vienna Capitals II	731	Erste Liga - 2018/19	33	11	462
-2019-02-11 15:00:00.000	Kuban	390	Universitet	710	Super League - 2018/19	34	7	279
-2019-02-11 15:00:00.000	M. Magnitogorsk	421	HC Traktor Chelyabinsk	288	KHL - 2018/19	24	11	480
-2019-02-11 15:30:00.000	TMH Polonia Bytom	672	JKH GKS Jastrzebie	359	Ekstraliga - 2018/19	85	11	437
-2019-02-11 17:00:00.000	Eger Sbs	161	Pick Szeged	511	NB I - 2018/19	70	7	389
-2019-02-11 17:00:00.000	HC Dinamo Maladzyechna	256	Belarus	56	Extraliga - 2018/19	47	11	335
-2019-02-11 17:00:00.000	HK Lida	306	Neman Grodno	467	Extraliga - 2018/19	47	11	528
-2019-02-11 17:00:00.000	KS Vive Targi Kielce	389	Spojnia Gdynia	629	Superliga - 2018/19	19	7	30
-2019-02-11 17:00:00.000	Metallurg Zhlobin	436	HK Gomel	304	Extraliga - 2018/19	47	11	313
-2019-02-11 17:00:00.000	Mogo Riga	448	HK Prizma	309	Latvian Hockey League - 2018/19	6	11	93
-2019-02-11 17:00:00.000	Rubin Tyumen	559	VMF St Petersburg	738	VHL - 2018/19	2	11	533
-2019-02-11 17:00:00.000	Schiller-Vasas HC	578	Debreceni Egyetem AC	144	Erste Liga - 2018/19	33	11	544
-2019-02-11 17:00:00.000	Yunost Minsk	760	Shakhter Soligorsk	592	Extraliga - 2018/19	47	11	160
-2019-02-11 17:30:00.000	HC Dynamo Moscow	259	HC Dinamo Riga	257	KHL - 2018/19	24	11	267
-2019-02-11 17:30:00.000	HC Yugra Khanty-Mansiysk	292	HK Dinamo St Petersburg	303	VHL - 2018/19	2	11	579
-2019-02-11 17:30:00.000	Hokiklub Budapest	318	Sapa Fehervar Av19 II	569	Erste Liga - 2018/19	33	11	339
-2019-02-11 17:30:00.000	IHK Sparta Sarpsborg	340	Stjernen Hockey	644	Eliteserien - 2018/19	9	11	330
-2019-02-11 17:30:00.000	Lokomotiv Yaroslavl	413	CSKA Moscow	140	KHL - 2018/19	24	11	171
-2019-02-11 17:30:00.000	Severstal Cherepovec	588	Slovan Bratislava	611	KHL - 2018/19	24	11	112
-2019-02-11 17:30:00.000	Slovakia	610	Nove Zamky	483	Extraliga - 2018/19	47	11	181
-2019-02-11 17:30:00.000	Sønderjyske	618	Aarhus Handball	7	Handboldligaen - 2018/19	79	7	76
-2019-02-11 17:30:00.000	Stavanger Oilers	639	Storhamar Dragons	645	Eliteserien - 2018/19	9	11	27
-2019-02-11 18:00:00.000	AIK	13	Alingsås HK	20	Elitserien - 2018/19	29	7	572
-2019-02-11 18:00:00.000	HC Meshkov Brest	270	Zeleznicar Indjija	763	SEHA League - 2018/19	11	7	315
-2019-02-11 18:00:00.000	IF Björklöven	333	Luleaa Hockey	418	Club Friendlies - 2018/19	86	11	446
-2019-02-11 18:00:00.000	Mora IK	452	Färjestads BK	176	Club Friendlies - 2018/19	86	11	539
-2019-02-11 18:00:00.000	Timraa IK	667	Brynäs IF	85	Club Friendlies - 2018/19	86	11	290
-2019-02-11 18:30:00.000	Bjerringbro	67	GOG Handbold	212	Handboldligaen - 2018/19	79	7	223
-2019-02-11 18:30:00.000	Wilhelmshavener HV	754	TUS N	693	2nd Bundesliga - 2018/19	87	7	151
-2019-02-11 19:00:00.000	Gasterra Flames Groningen	206	Telnet BC Oostende	662	Club Friendlies - 2018/19	7	4	107
-2019-02-11 19:00:00.000	HC Davos	255	HC Ambri Piotta	246	Club Friendlies - 2018/19	86	11	6
-2019-02-11 19:30:00.000	Efes Anadolu Istanbul	160	Banco Di Sardegna Sassari	47	Club Friendlies - 2018/19	7	4	347
-2019-02-11 19:45:00.000	Steaua Bucharest	640	HC Croatia Osiguranje Zagreb	253	SEHA League - 2018/19	11	7	381
-2019-02-12 08:00:00.000	Incheon Korean Air Jumbos	346	Deajeon Bluefangs	143	KOVO Cup - 2018/19	81	13	248
-2019-02-12 08:35:00.000	Canterbury	94	North Harbour	479	NPC - 2018	67	9	187
-2019-02-12 10:30:00.000	Admiral Vladivostok	10	Amur Khabarovsk	23	KHL - 2018/19	24	11	370
-2019-02-12 11:00:00.000	Seoul Woori Card Hansae	586	JT Thunders	362	KOVO Cup - 2018/19	81	13	208
-2019-02-12 12:00:00.000	Buran Voronezh	90	Torpedo - Ermak Angarsk	677	VHL - 2018/19	2	11	123
-2019-02-12 12:00:00.000	China	114	France	198	FIVB World Championship Men - 2018/19	58	13	16
-2019-02-12 13:00:00.000	HK Ryazan	311	Sokol Krasnoyarsk	615	VHL - 2018/19	2	11	412
-2019-02-12 13:00:00.000	HK Sarov	312	Metallurg Novokuznetsk	435	VHL - 2018/19	2	11	551
-2019-02-12 13:00:00.000	Tunisia	691	Cameroon	91	FIVB World Championship Men - 2018/19	58	13	483
-2019-02-12 14:30:00.000	Neftekhimik Nizhnekamsk	465	HC Barys Astana	250	KHL - 2018/19	24	11	252
-2019-02-12 15:00:00.000	Canada	93	Netherlands	469	FIVB World Championship Men - 2018/19	58	13	489
-2019-02-12 15:00:00.000	Ceng Tou	100	Toros Neftekamsk	676	VHL - 2018/19	2	11	309
-2019-02-12 15:00:00.000	Puerto Rico	522	Iran	349	FIVB World Championship Men - 2018/19	58	13	512
-2019-02-12 15:00:00.000	Torpedo N. Novgorod	678	Salavat Yulaev Ufa	565	KHL - 2018/19	24	11	157
-2019-02-12 16:00:00.000	Gornyak Uchaly	215	Lada Togliatti	393	VHL - 2018/19	2	11	360
-2019-02-12 16:00:00.000	Potaissa Turda	519	Universitatea Politehnica Timisoara	709	Liga Nationala - 2018/19	37	7	187
-2019-02-12 16:00:00.000	Prikamje Perm - Yuzhny Ural Orsk	520	CSK VVS Samara	139	VHL - 2018/19	2	11	232
-2019-02-12 16:00:00.000	Russia	561	Australia	40	FIVB World Championship Men - 2018/19	58	13	299
-2019-02-12 16:00:00.000	Slovenia	612	Dominican Republic	153	FIVB World Championship Men - 2018/19	58	13	336
-2019-02-12 16:15:00.000	Reale Ademar	538	Cocks	123	Champions League - 2018/19	59	7	268
-2019-02-12 16:30:00.000	HC Slavia Prag	278	HC Motor Ceske Budejovice	271	1st Liga - 2018/19	50	11	558
-2019-02-12 16:30:00.000	HC Stadion Litomerice	283	HC Horacka Slavia Trebic	263	1st Liga - 2018/19	50	11	302
-2019-02-12 16:30:00.000	KRS Heilongjiang	386	Neftyanik Almetyevsk	466	VHL - 2018/19	2	11	127
-2019-02-12 16:30:00.000	Zauralye Kurgan	761	Bars Kazan	48	VHL - 2018/19	2	11	187
-2019-02-12 17:00:00.000	Chelmet Chelyabinsk	110	Dizel Penza	151	VHL - 2018/19	2	11	522
-2019-02-12 17:00:00.000	HC Benatky Nad Jizerou	251	SK Kadan	598	1st Liga - 2018/19	50	11	548
-2019-02-12 17:00:00.000	HC Cement Hranice	252	HC Banik Karvina	249	Extraliga - 2018/19	62	7	58
-2019-02-12 17:00:00.000	HC Dukla Jihlava	258	HK Jestrabi Prostejov	305	1st Liga - 2018/19	50	11	30
-2019-02-12 17:00:00.000	HC RT Torax Poruba	276	HC AZ Havirov 2010	248	1st Liga - 2018/19	50	11	217
-2019-02-12 17:00:00.000	HC Slovnaft Vsetin	280	HC Kladno	265	1st Liga - 2018/19	50	11	540
-2019-02-12 17:00:00.000	MKS Lublin	445	Beskid Nowy Sacz - EKS Start Elblag	62	Superliga - 2018/19	19	7	306
-2019-02-12 17:00:00.000	Paris Handball	499	Motor Zaporozhye	457	Champions League - 2018/19	59	7	177
-2019-02-12 17:00:00.000	RD Loka	535	RK Celje Pivovarna Lasko	547	1. liga - 2018/19	63	7	102
-2019-02-12 17:30:00.000	AK Bars Kazan	17	HK Avangard Omsk	301	KHL - 2018/19	24	11	309
-2019-02-12 17:30:00.000	Elverum	167	Dinamo Baumit Bucuresti	150	Champions League - 2018/19	59	7	272
-2019-02-12 17:30:00.000	HC Sochi	281	HC Vitiaz Chehov	291	KHL - 2018/19	24	11	145
-2019-02-12 17:30:00.000	Jokerit Helsinki	360	SKA St. Petersburg	600	KHL - 2018/19	24	11	189
-2019-02-12 17:30:00.000	Spartak Moskau	627	HK Dinamo Minsk	302	KHL - 2018/19	24	11	46
-2019-02-12 17:30:00.000	Team TVIS Holstebro	661	Skjern Handbold	607	Handboldligaen - 2018/19	79	7	179
-2019-02-12 17:30:00.000	Vistal Gdynia	736	MKS Zaglebie Lubin	446	Superliga - 2018/19	19	7	217
-2019-02-12 18:00:00.000	FC Barcelona	183	Rhein Neckar Löwen	542	Champions League - 2018/19	59	7	31
-2019-02-12 18:00:00.000	Hoors HK H 65	319	Skuru IK	609	Elitserien - 2018/19	29	7	379
-2019-02-12 18:00:00.000	IFK Kristianstad	336	Ystads IF HF	759	Elitserien - 2018/19	29	7	450
-2019-02-12 18:00:00.000	IFK Ystads HK	339	Hästö IF	236	Elitserien - 2018/19	29	7	412
-2019-02-12 18:00:00.000	Lugi HF	417	HK Malmö	307	Elitserien - 2018/19	29	7	342
-2019-02-12 18:00:00.000	Randers HK	527	Viborg HK	730	Damehandboldligaen - 2018/19	77	7	383
-2019-02-12 18:00:00.000	Redbergslids IK	540	IFK Skövde HK	338	Elitserien - 2018/19	29	7	354
-2019-02-12 18:00:00.000	RK Gorenje Velenje	549	RK Jeruzalem Ormoz	550	1. liga - 2018/19	63	7	29
-2019-02-12 18:30:00.000	Egypt	162	Brazil	82	FIVB World Championship Men - 2018/19	58	13	326
-2019-02-12 18:30:00.000	Poland	517	Cuba	141	FIVB World Championship Men - 2018/19	58	13	71
-2019-02-12 18:30:00.000	RTV 1879 Basel	558	Wacker Thun	741	MNLA - 2018/19	1	7	433
-2019-02-12 18:30:00.000	TSV Bayer 04 Leverkusen	689	SG BBM Bietigheim	589	Women Bundesliga - 2018/19	66	7	201
-2019-02-12 19:00:00.000	BSV Bern Muri	86	HC Kriens-Luzern	267	MNLA - 2018/19	1	7	523
-2019-02-12 19:00:00.000	Cercle Dijon Bourgogne	101	Metz Handball	437	LNH Division 1 - 2018/19	45	7	89
-2019-02-12 19:00:00.000	Chambray Touraine	104	Bourg De Peage	81	LNH Division 1 - 2018/19	45	7	218
-2019-02-12 19:00:00.000	HBC Saint-Amand-les-Eaux Porte du Hainaut	241	ESBF Besancon	170	LNH Division 1 - 2018/19	45	7	322
-2019-02-12 19:00:00.000	Issy Paris	351	Toulon Saint Cyr Var Handball	679	LNH Division 1 - 2018/19	45	7	5
-2019-02-12 19:00:00.000	Mecalia Atletico Guardes	431	Baseti	49	Division De Honor Femenina - 2018/19	69	7	388
-2019-02-12 19:00:00.000	OC Cesson Handball	487	Usam Nimes	715	LNH Division 1 Men - 2018/19	64	7	529
-2019-02-12 19:15:00.000	Wisla Plock	757	KS SPR Chrobry Glogow	387	Superliga - 2018/19	19	7	152
-2019-02-12 19:30:00.000	Argentina	30	Belgium	58	FIVB World Championship Men - 2018/19	58	13	331
-2019-02-12 19:30:00.000	Chambery Savoie	103	Tremblay En France	687	LNH Division 1 Men - 2018/19	64	7	487
-2019-02-12 19:30:00.000	Fife Flyers	189	Sheffield Steelers	594	Elite League - 2018/19	40	11	313
-2019-02-12 19:30:00.000	Montpellier Handball	450	Toulouse Handball	680	LNH Division 1 Men - 2018/19	64	7	40
-2019-02-12 19:30:00.000	Nantes Loire Atlantique HB	464	Brest Bretagne Handball	83	LNH Division 1 - 2018/19	45	7	284
-2019-02-12 19:30:00.000	OGC Nice Cote D´Azur	489	CJF Fleury Les Aubrais	119	LNH Division 1 - 2018/19	45	7	94
-2019-02-12 19:30:00.000	Pontault-Combault HB	518	US Ivry Handball	712	LNH Division 1 Men - 2018/19	64	7	151
-2019-02-12 19:30:00.000	Serbia	587	USA	714	FIVB World Championship Men - 2018/19	58	13	13
-2019-02-12 19:45:00.000	Saint Raphael	563	Pays Aix Universite Club Handball	502	LNH Division 1 Men - 2018/19	64	7	286
-2019-02-12 20:30:00.000	FH Hafnarfjardar	187	Haukar Hafnarfjordur	237	Urvalsdeild - 2018/19	35	7	508
-2019-02-12 20:30:00.000	Selfoss	584	IR Reykjavik	348	Urvalsdeild - 2018/19	35	7	361
-2019-02-12 21:00:00.000	M - Sporting CP	420	AA Aguas Santas	3	1a Divisao - 2018/19	18	7	254
-2019-02-12 21:30:00.000	FC Porto Vitalis	185	CCR Fermentoes	99	1a Divisao - 2018/19	18	7	284
-2019-02-13 01:00:00.000	Seattle Storm	582	Washington Mystics	747	WNBA - 2018/19	53	4	53
-2019-02-13 08:00:00.000	Ansan Rush&Cash	26	Suwon Kepco	651	KOVO Cup - 2018/19	81	13	531
-2019-02-13 08:35:00.000	Hawke´s Bay	238	Waikato	742	NPC - 2018	67	9	355
-2019-02-13 11:00:00.000	Cheonan Hyundai Capital Skywalkers	111	Western KB Star Insurance	751	KOVO Cup - 2018/19	81	13	218
-2019-02-13 15:00:00.000	Avtomobilist Yekaterinburg	44	HC Traktor Chelyabinsk	288	KHL - 2018/19	24	11	17
-2019-02-13 15:00:00.000	Canada	93	Egypt	162	FIVB World Championship Men - 2018/19	58	13	260
-2019-02-13 15:00:00.000	Poland	517	Puerto Rico	522	FIVB World Championship Men - 2018/19	58	13	353
-2019-02-13 15:30:00.000	SCM Craiova	580	HCM Ramnicu Valcea	294	Liga Nationala - 2018/19	37	7	118
-2019-02-13 16:00:00.000	Japan	356	Dominican Republic	153	FIVB World Championship Men - 2018/19	58	13	30
-2019-02-13 16:00:00.000	USA	714	Australia	40	FIVB World Championship Men - 2018/19	58	13	153
-2019-02-13 16:15:00.000	Vojvodina-Univerexport Novi Sad	740	Steaua Bucharest	640	SEHA League - 2018/19	11	7	344
-2019-02-13 17:00:00.000	Belarus	56	HK Lida	306	Extraliga - 2018/19	47	11	521
-2019-02-13 17:00:00.000	HC Dinamo Maladzyechna	256	Neman Grodno	467	Extraliga - 2018/19	47	11	201
-2019-02-13 17:00:00.000	Manglerud/Star	429	Stavanger Oilers	639	Eliteserien - 2018/19	9	11	168
-2019-02-13 17:00:00.000	Shakhter Soligorsk	592	HK Gomel	304	Extraliga - 2018/19	47	11	504
-2019-02-13 17:00:00.000	Yunost Minsk	760	Metallurg Zhlobin	436	Extraliga - 2018/19	47	11	258
-2019-02-13 17:30:00.000	Frisk/Asker	201	Lillehammer IK	405	Eliteserien - 2018/19	9	11	399
-2019-02-13 17:30:00.000	HC Dynamo Moscow	259	Slovan Bratislava	611	KHL - 2018/19	24	11	539
-2019-02-13 17:30:00.000	IHK Sparta Sarpsborg	340	Ringerike IHK	546	Eliteserien - 2018/19	9	11	241
-2019-02-13 17:30:00.000	M. Magnitogorsk	421	HK Avangard Omsk	301	KHL - 2018/19	24	11	174
-2019-02-13 17:30:00.000	Severstal Cherepovec	588	CSKA Moscow	140	KHL - 2018/19	24	11	365
-2019-02-13 17:30:00.000	Storhamar Dragons	645	Stjernen Hockey	644	Eliteserien - 2018/19	9	11	365
-2019-02-13 18:00:00.000	Bulldogs Brno	89	Tatran Omlux Stresovice	657	Extraliga - 2018/19	31	6	448
-2019-02-13 18:00:00.000	IK Savehof	343	Kristianstad HK	384	Elitserien - 2018/19	29	7	232
-2019-02-13 18:00:00.000	Kobenhavn H.b.	379	FC Midtjylland	184	Damehandboldligaen - 2018/19	77	7	101
-2019-02-13 18:00:00.000	Kungälvs HK	391	Önnereds HK	493	Elitserien - 2018/19	29	7	43
-2019-02-13 18:00:00.000	Lingen - HC Erlangen	409	Lübbecke - TSV GWD Minden	416	Bundesliga - 2018/19	54	7	517
-2019-02-13 18:00:00.000	MT Melsungen	461	HSG Wetzlar	324	Bundesliga - 2018/19	54	7	302
-2019-02-13 18:00:00.000	THW Kiel	664	SC Magdeburg	576	Bundesliga - 2018/19	54	7	343
-2019-02-13 18:00:00.000	TSG Ludwigshafen-Friesenheim	688	SG Flensburg-Handewitt	590	Bundesliga - 2018/19	54	7	104
-2019-02-13 18:00:00.000	TSV Hannover Burgdorf	690	Füchse Berlin	204	Bundesliga - 2018/19	54	7	344
-2019-02-13 18:15:00.000	Hammarby HB	227	IK Savehof	343	Elitserien - 2018/19	29	7	20
-2019-02-13 18:30:00.000	AaB Handball	5	Ribe-Esbjerg HH	543	Handboldligaen - 2018/19	79	7	413
-2019-02-13 18:30:00.000	Boden Handball IF	74	BK Heid	68	Elitserien - 2018/19	29	7	494
-2019-02-13 18:30:00.000	Bulgaria	88	Iran	349	FIVB World Championship Men - 2018/19	58	13	306
-2019-02-13 18:30:00.000	FHK Elite	188	Randers HH	526	1. Division - 2018/19	71	7	45
-2019-02-13 18:30:00.000	France	198	Brazil	82	FIVB World Championship Men - 2018/19	58	13	106
-2019-02-13 19:15:00.000	K. Schaffhausen	365	Pfadi Winterthur	509	MNLA - 2018/19	1	7	363
-2019-02-13 19:15:00.000	RK Cimos Koper	548	RK Maribor Branik	551	1. liga - 2018/19	63	7	535
-2019-02-13 19:30:00.000	Serbia	587	Cameroon	91	FIVB World Championship Men - 2018/19	58	13	274
-2019-02-13 19:45:00.000	Dunkerque HB	156	HBC Nantes	240	LNH Division 1 Men - 2018/19	64	7	441
-2019-02-13 19:45:00.000	Huddersfield Giants	326	Castleford Tigers	97	Super 8s - 2018	43	9	430
-2019-02-13 20:15:00.000	Belgium	58	Italy	353	FIVB World Championship Men - 2018/19	58	13	169
-2019-02-13 21:00:00.000	Old Dominion	490	Charlotte 49ers	107	College - 2018/19	60	2	394
-2019-02-13 22:30:00.000	Boston College Eagles	78	Wake Forest Demon Deacons	743	College - 2018/19	60	2	98
-2019-02-14 01:20:00.000	Baltimore Ravens	46	Cincinnati Bengals	118	NFL - 2018/19	23	2	495
-2019-02-14 08:45:00.000	Taranaki	655	Tasman	656	NPC - 2018	67	9	499
-2019-02-14 10:40:00.000	Penrith Panthers	507	Cronulla Sharks	136	NRL - 2018	52	9	8
-2019-02-14 10:50:00.000	Melbourne Demons	433	Hawthorn Hawks	239	AFL - 2018	75	12	74
-2019-02-14 17:00:00.000	FBS Bohemians	181	FBC Ostrava	178	Extraliga - 2018/19	31	6	423
-2019-02-14 18:00:00.000	AC Sparta Prag	9	1 SC Ssk Vitkovice	1	Extraliga - 2018/19	31	6	106
-2019-02-14 18:00:00.000	FBK Sokol Mlada Boleslav	180	Panthers Otrokovice	498	Extraliga - 2018/19	31	6	346
-2019-02-14 18:00:00.000	Ford Pumas	192	Vodacom Blue Bulls	739	Currie Cup - 2018	61	9	472
-2019-02-14 18:30:00.000	TJ VHS Znojmo	670	TJ JM Chodov	669	Extraliga - 2018/19	31	6	273
-2019-02-14 19:00:00.000	FBC Liberec	177	Sokol Kral Vinohrady	614	Extraliga - 2018/19	31	6	276
-2019-02-14 19:35:00.000	Connacht Rugby	128	Edinburgh Rugby	159	Pro14 - 2018	12	9	259
-2019-02-14 19:35:00.000	Ospreys	495	Munster	462	Pro14 - 2018	12	9	369
-2019-02-14 19:45:00.000	Bristol Shoguns	84	Gloucester Rugby	211	English Premiership - 2018	3	9	396
-2019-02-14 19:45:00.000	Catalans Dragons	98	Wakefield Trinity Wildcats	744	Super 8s - 2018	43	9	307
-2019-02-14 19:45:00.000	Hull FC	328	St Helens Rlfc	634	Super 8s - 2018	43	9	217
-2019-02-14 19:45:00.000	Salford Red Devils	566	Leeds Rhinos	400	Super 8s - 2018	43	9	143
-2019-02-14 19:45:00.000	Warrington Wolves	746	Wigan Warriors	753	Super 8s - 2018	43	9	573
-2019-02-15 03:05:00.000	Wellington	749	Counties Manukau	133	NPC - 2018	67	9	203
-2019-02-15 08:35:00.000	South Africa	620	New Zealand	472	The Rugby Championship - 2018	38	9	74
-2019-02-15 10:25:00.000	Greater Western Sydney	217	Collingwood Magpies	124	AFL - 2018	75	12	143
-2019-02-15 10:40:00.000	St George Illawarra Dragons	633	South Sydney Rabbitohs	622	NRL - 2018	52	9	49
-2019-02-15 11:05:00.000	Argentina	29	Australia	39	The Rugby Championship - 2018	38	9	406
-2019-02-15 12:00:00.000	Hvidovre Attack	331	Rödovre FC	554	UFL - 2018/19	16	6	7
-2019-02-15 13:00:00.000	FBC Pullo Trade Ceska Lipa	179	Sokol Pardubice	616	Extraliga - 2018/19	31	6	274
-2019-02-15 13:30:00.000	BFC Vendsyssel	63	Benlose FC	61	UFL - 2018/19	16	6	388
-2019-02-15 13:30:00.000	Sunds Seahawks FC	647	Copenhagen SFC	130	UFL - 2018/19	16	6	229
-2019-02-15 14:00:00.000	DHL Western Province	148	Golden Lions	213	Currie Cup - 2018	61	9	146
-2019-02-15 14:30:00.000	Cornish Pirates	131	Hartpury College	234	RFU Championship - 2018	30	9	69
-2019-02-15 15:00:00.000	Bedford	55	Coventry Rugby	134	RFU Championship - 2018	30	9	312
-2019-02-15 15:00:00.000	Doncaster Knights	154	Richmond	544	RFU Championship - 2018	30	9	317
-2019-02-15 15:00:00.000	Leeds Carnegie	399	Ealing Trailfinders	157	RFU Championship - 2018	30	9	375
-2019-02-15 15:15:00.000	Halifax Blue Sox	225	Widnes Vikings	752	Super 8s - 2018	43	9	496
-2019-02-15 16:15:00.000	Toyota Free State Cheetahs	682	GWK Griquas	223	Currie Cup - 2018	61	9	372
-2019-02-15 17:15:00.000	Benetton Treviso	60	Scarlets	577	Pro14 - 2018	12	9	85
-2019-02-15 17:15:00.000	Newport Gwent Dragons	474	Leinster Lions	401	Pro14 - 2018	12	9	333
-2019-02-15 17:30:00.000	Toulouse Olympique XIII	681	Toronto Wolfpack	675	Super 8s - 2018	43	9	445
-2019-02-15 18:00:00.000	London Broncos	414	Hull Kingston Rovers	329	Super 8s - 2018	43	9	278
-2019-02-15 18:30:00.000	Glasgow Warriors	210	Cheetahs	108	Pro14 - 2018	12	9	439
-2019-02-15 19:35:00.000	Cardiff Blues	96	Zebre	762	Pro14 - 2018	12	9	334
-2019-02-16 03:05:00.000	Bay of Plenty	50	North Harbour	479	NPC - 2018	67	9	196
-2019-02-16 08:00:00.000	Canterbury Bulldogs	95	ST George Illawarra Dragons	633	NSW Cup - 2018	27	9	57
-2019-02-16 14:00:00.000	TPS	683	LaSB	395	Salibandyliiga - 2018/19	10	6	330
-2019-02-16 14:00:00.000	Vanlose Floorball	724	Frederikshavn Blackhawks	199	UFL - 2018/19	16	6	148
-2019-02-16 15:00:00.000	Bulldogs Brno	89	FBS Bohemians	181	Extraliga - 2018/19	31	6	47
-2019-02-16 15:00:00.000	FBT Pori	182	Viikingit	732	Salibandyliiga - 2018/19	10	6	379
-2019-02-16 15:00:00.000	Happee	233	Classic Tampere	120	Salibandyliiga - 2018/19	10	6	273
-2019-02-16 15:00:00.000	Westend Indians	750	SPV	632	Salibandyliiga - 2018/19	10	6	205
-2019-02-16 16:00:00.000	Espoon Oilers	172	OLS Oulu	491	Salibandyliiga - 2018/19	10	6	189
-2019-02-16 16:00:00.000	TJ JM Chodov	669	FBK Sokol Mlada Boleslav	180	Extraliga - 2018/19	31	6	49
-2019-02-16 16:30:00.000	Steelers	641	Koovee	381	Salibandyliiga - 2018/19	10	6	318
-2019-02-16 17:00:00.000	1 SC Ssk Vitkovice	1	FBC Liberec	177	Extraliga - 2018/19	31	6	103
-2019-02-16 17:00:00.000	FBC Ostrava	178	Sokol Kral Vinohrady	614	Extraliga - 2018/19	31	6	186
-2019-02-16 17:00:00.000	Tatran Omlux Stresovice	657	Panthers Otrokovice	498	Extraliga - 2018/19	31	6	393
-2019-02-17 09:10:00.000	TJ VHS Znojmo	670	Sokol Pardubice	616	Extraliga - 2018/19	31	6	401
-2019-02-17 10:30:00.000	CSKA Moscow	140	Admiral Vladivostok	10	KHL - 2018/19	24	11	259
-2019-02-17 10:30:00.000	HC Dinamo Riga	257	Amur Khabarovsk	23	KHL - 2018/19	24	11	562
-2019-02-17 11:00:00.000	MHK Krylia Sovetov	438	Spartak Moskow	628	MHL - 2018/19	36	11	31
-2019-02-17 11:30:00.000	Bars Kazan	48	Ceng Tou	100	VHL - 2018/19	2	11	274
-2019-02-17 12:30:00.000	Slovan Bratislava	611	HC Red Star Kunlun	274	KHL - 2018/19	24	11	267
-2019-02-17 13:30:00.000	Molot	449	Kazzink	371	VHL - 2018/19	2	11	91
-2019-02-17 14:00:00.000	Izhstal Izhevsk	354	Saryarka	571	VHL - 2018/19	2	11	527
-2019-02-17 14:30:00.000	Torpedo - Ermak Angarsk	677	Prikamje Perm - Yuzhny Ural Orsk	520	VHL - 2018/19	2	11	426
-2019-02-17 15:00:00.000	Netherlands	469	Egypt	162	FIVB World Championship Men - 2018/19	58	13	369
-2019-02-17 15:00:00.000	Puerto Rico	522	Cuba	141	FIVB World Championship Men - 2018/19	58	13	186
-2019-02-17 15:00:00.000	SKA-Varyagi	604	Krasnaya Armiya	383	MHL - 2018/19	36	11	324
-2019-02-17 15:30:00.000	HSC Csikszereda	322	Gyergyoi HK	224	Erste Liga - 2018/19	33	11	463
-2019-02-17 16:00:00.000	Cameroon	91	Russia	561	FIVB World Championship Men - 2018/19	58	13	208
-2019-02-17 16:00:00.000	Dominican Republic	153	Belgium	58	FIVB World Championship Men - 2018/19	58	13	116
-2019-02-17 16:30:00.000	HC Traktor Chelyabinsk	288	Jokerit Helsinki	360	KHL - 2018/19	24	11	46
-2019-02-17 16:30:00.000	SB Welhot	573	Nokian Kristityt Palloilijat	476	Salibandyliiga - 2018/19	10	6	210
-2019-02-17 17:00:00.000	HC Slovnaft Vsetin	280	HC Slovan Ustecti Lvi	279	1st Liga - 2018/19	50	11	317
-2019-02-17 17:10:00.000	AC Sparta Prag	9	FBC Pullo Trade Ceska Lipa	179	Extraliga - 2018/19	31	6	170
-2019-02-17 17:30:00.000	Aarhus Handball	7	Skanderborg Handball	603	Handboldligaen - 2018/19	79	7	283
-2019-02-17 17:30:00.000	Avtomobilist Yekaterinburg	44	Spartak Moskau	627	KHL - 2018/19	24	11	325
-2019-02-17 17:30:00.000	M. Magnitogorsk	421	HC Sochi	281	KHL - 2018/19	24	11	52
-2019-02-17 17:40:00.000	Schiller-Vasas HC	578	Hokiklub Budapest	318	Erste Liga - 2018/19	33	11	251
-2019-02-17 18:00:00.000	Ajax Copenhagen	16	Team TVIS Holstebro	661	Damehandboldligaen - 2018/19	77	7	453
-2019-02-17 18:00:00.000	Alingsås HK	20	IFK Skövde HK	338	Elitserien - 2018/19	29	7	55
-2019-02-17 18:00:00.000	Team Kiruna	659	Kiruna AIF	374	HockeyEttan Norra - 2018/19	88	11	468
-2019-02-17 18:30:00.000	Canada	93	Brazil	82	FIVB World Championship Men - 2018/19	58	13	141
-2019-02-17 18:30:00.000	Nykobing F.b Handboldklub	485	FC Midtjylland	184	Cup - 2018/19	39	7	60
-2019-02-17 18:30:00.000	Poland	517	Iran	349	FIVB World Championship Men - 2018/19	58	13	136
-2019-02-17 18:30:00.000	Vasterasirsta HF	726	Skaanela IF	602	Allsvenskan - 2018/19	5	7	538
-2019-02-17 19:00:00.000	Corona Brasov	132	DAB Docler	142	Erste Liga - 2018/19	33	11	175
-2019-02-17 19:30:00.000	Selfoss	584	Akureyri Handboltafelag	19	Urvalsdeild - 2018/19	35	7	390
-2019-02-17 19:30:00.000	Slovenia	612	Argentina	30	FIVB World Championship Men - 2018/19	58	13	43
-2019-02-17 19:30:00.000	Tunisia	691	Australia	40	FIVB World Championship Men - 2018/19	58	13	93
-2019-02-17 20:30:00.000	IR Reykjavik	348	Afturelding	11	Urvalsdeild - 2018/19	35	7	321
-2019-02-18 00:00:00.000	Buffalo Sabres	87	Columbus Blue Jackets	126	NHL - 2018/19	13	11	477
-2019-02-18 00:00:00.000	New York Islanders	471	Philadelphia Flyers	510	NHL - 2018/19	13	11	294
-2019-02-18 01:00:00.000	Minnesota Wild	441	Winnipeg Jets	756	NHL - 2018/19	13	11	555
-2019-02-18 01:15:00.000	Seattle Seahawks	581	Chicago Bears	112	NFL - 2018/19	23	2	329
-2019-02-18 15:00:00.000	SKA-Varyagi	604	Krasnaya Armiya	383	MHL - 2018/19	36	11	573
-2019-02-18 16:00:00.000	HC Frydek Mistek	262	HC Slovan Ustecti Lvi	279	1st Liga - 2018/19	50	11	246
-2019-02-18 16:00:00.000	Mytishchinskie A.	463	Vityazi Chekhov	737	MHL - 2018/19	36	11	111
-2019-02-18 16:30:00.000	Almaz Cherepovets	21	St Petersburg	635	MHL - 2018/19	36	11	7
-2019-02-18 16:30:00.000	HIFK Hockey	299	Vaasan Sport	718	SM-Liiga - 2018/19	72	11	478
-2019-02-18 16:30:00.000	Kärpät Oulu	370	TPS Turku	684	SM-Liiga - 2018/19	72	11	359
-2019-02-18 16:30:00.000	Miskolci JJSE	442	HC Kosice	266	Extraliga - 2018/19	47	11	395
-2019-02-18 16:30:00.000	Nove Zamky	483	Mshk Zilina	460	Extraliga - 2018/19	47	11	371
-2019-02-18 16:30:00.000	Rauma Lukko	532	Kalpa Hockey	368	SM-Liiga - 2018/19	72	11	318
-2019-02-18 17:00:00.000	Belarus	56	Shakhter Soligorsk	592	Extraliga - 2018/19	47	11	183
-2019-02-18 17:00:00.000	Chaika Nizhny Nov.	102	1946 St. Petersburg - Kapitan Stupino	2	MHL - 2018/19	36	11	329
-2019-02-18 17:00:00.000	HC 07 Detva	243	HKM Zvolen	315	Extraliga - 2018/19	47	11	251
-2019-02-18 17:00:00.000	HC Dinamo Maladzyechna	256	Yunost Minsk	760	Extraliga - 2018/19	47	11	370
-2019-02-18 17:00:00.000	HK Lida	306	Metallurg Zhlobin	436	Extraliga - 2018/19	47	11	292
-2019-02-18 17:00:00.000	HK Riga	310	HK MVD	308	MHL - 2018/19	36	11	126
-2019-02-18 17:00:00.000	HK SKP Poprad	313	HKM Nitra	314	Extraliga - 2018/19	47	11	293
-2019-02-18 17:00:00.000	Liptovsky Mikulas	411	Dukla Trencin	155	Extraliga - 2018/19	47	11	494
-2019-02-18 17:00:00.000	Loko Yaroslavl	412	SKA-1946 St. Petersburg	601	MHL - 2018/19	36	11	379
-2019-02-18 17:00:00.000	Neman Grodno	467	HK Gomel	304	Extraliga - 2018/19	47	11	84
-2019-02-18 17:30:00.000	Gorniczy Klub Sportowy Tychy	214	GKS Katowice	209	Ekstraliga - 2018/19	85	11	427
-2019-02-18 17:30:00.000	IHK Sparta Sarpsborg	340	Valerenga IF	722	Eliteserien - 2018/19	9	11	276
-2019-02-18 17:30:00.000	Manglerud/Star	429	Ringerike IHK	546	Eliteserien - 2018/19	9	11	12
-2019-02-18 17:30:00.000	Stavanger Oilers	639	Stjernen Hockey	644	Eliteserien - 2018/19	9	11	343
-2019-02-18 18:00:00.000	Aalborg Pirates	6	Sonderjyske Ishockey	619	Superisligaen - 2018/19	55	11	411
-2019-02-18 18:00:00.000	Esbjerg Energy	171	Hvidovre Fighters	332	Superisligaen - 2018/19	55	11	477
-2019-02-18 18:00:00.000	Frederikshavn White Hawks	200	Odense Bulldogs	488	Superisligaen - 2018/19	55	11	461
-2019-02-18 18:00:00.000	HC 05 Banska Bystrica	242	MAC Budapest	422	Extraliga - 2018/19	47	11	579
-2019-02-18 18:00:00.000	Rodovre Mighty Bulls	555	Herlev Eagles	297	Superisligaen - 2018/19	55	11	93
-2019-02-18 18:00:00.000	Rungsted Ishockey	560	Herning Blue Fox	298	Superisligaen - 2018/19	55	11	233
-2019-02-18 18:00:00.000	Storhamar Dragons	645	Lillehammer IK	405	Eliteserien - 2018/19	9	11	182
-2019-02-18 18:30:00.000	EHC Bregenzerwald	164	EC S.feldkirch	158	Alps Hockey League - 2018/19	41	11	426
-2019-02-18 19:00:00.000	Anglet Hormadi Elite	25	Grenoble MH 38	219	Ligue Magnus - 2018/19	76	11	428
-2019-02-18 19:00:00.000	Chamonix	105	Morzine HC - Scorpions de Mulhouse	456	Ligue Magnus - 2018/19	76	11	153
-2019-02-18 19:00:00.000	CSG Strasbourg	138	HC Nice	272	Ligue Magnus - 2018/19	76	11	518
-2019-02-18 19:00:00.000	Rouen HE	557	HC Amiens Somme	247	Ligue Magnus - 2018/19	76	11	116
-2019-02-18 19:15:00.000	ASG Angers	34	Bordeaux Ghc	76	Ligue Magnus - 2018/19	76	11	476
-2019-02-18 19:30:00.000	Fife Flyers	189	Guildford Flames	222	Elite League - 2018/19	40	11	579
-2019-02-18 19:30:00.000	Lyon HC	419	Rapaces de Gap	528	Ligue Magnus - 2018/19	76	11	505
-2019-02-21 08:35:00.000	Waikato	742	Bay of Plenty	50	NPC - 2018	67	9	115
-2019-02-21 10:40:00.000	Cronulla Sharks	136	Melbourne Storm	434	NRL - 2018	52	9	111
-2019-02-21 10:50:00.000	Collingwood Magpies	124	Richmond Tigers	545	AFL - 2018	75	12	377
-2019-02-21 14:30:00.000	Debreceni Egyetem AC	144	Corona Brasov	132	Erste Liga - 2018/19	33	11	241
-2019-02-21 14:30:00.000	Schiller-Vasas HC	578	HSC Csikszereda	322	Erste Liga - 2018/19	33	11	497
-2019-02-21 14:50:00.000	Gyergyoi HK	224	Vienna Capitals II	731	Erste Liga - 2018/19	33	11	45
-2019-02-21 16:00:00.000	Ford Pumas	192	Toyota Free State Cheetahs	682	Currie Cup - 2018	61	9	329
-2019-02-21 16:30:00.000	Viikingit	732	Espoon Oilers	172	Salibandyliiga - 2018/19	10	6	76
-2019-02-21 17:00:00.000	DAB Docler	142	Ferencvaros	186	Erste Liga - 2018/19	33	11	377
-2019-02-21 17:00:00.000	KK Zadar	377	KK Cedevita Zagreb	375	Liga ABA Super Cup - 2018/19	65	4	342
-2019-02-21 17:00:00.000	SPV	632	FBT Pori	182	Salibandyliiga - 2018/19	10	6	348
-2019-02-21 18:15:00.000	Ulster	707	Cheetahs	108	Pro14 - 2018	12	9	31
-2019-02-21 19:00:00.000	Biarritz Olympique	64	Colomiers Rugby	125	Pro D2 - 2018	73	9	240
-2019-02-21 19:00:00.000	Floorball Köniz	190	Waldkirch St.Gallen	745	National League - 2018/19	82	6	531
-2019-02-21 19:00:00.000	Grenoble MH 38	219	Chamonix	105	Ligue Magnus - 2018/19	76	11	162
-2019-02-21 19:00:00.000	HC Nice	272	HC Amiens Somme	247	Ligue Magnus - 2018/19	76	11	137
-2019-02-21 19:00:00.000	Kloten-Bülach Jets	378	Chur Uhc	116	National League - 2018/19	82	6	113
-2019-02-21 19:00:00.000	Lyon HC	419	Rouen HE	557	Ligue Magnus - 2018/19	76	11	185
-2019-02-21 19:00:00.000	Morzine HC - Scorpions de Mulhouse	456	CSG Strasbourg	138	Ligue Magnus - 2018/19	76	11	429
-2019-02-21 19:00:00.000	Pays D Aix	503	Aviron Bayonne	41	Pro D2 - 2018	73	9	170
-2019-02-21 19:00:00.000	Soyaux Angoulême	624	RC Massy	534	Pro D2 - 2018	73	9	18
-2019-02-21 19:00:00.000	US Carcassonne	711	Bourg	80	Pro D2 - 2018	73	9	195
-2019-02-21 19:00:00.000	USON Nevers	717	Stade Aurillacois	637	Pro D2 - 2018	73	9	349
-2019-02-21 19:30:00.000	Rapaces de Gap	528	ASG Angers	34	Ligue Magnus - 2018/19	76	11	143
-2019-02-21 19:30:00.000	U. Olimpija Ljubljana	700	Crvena Zvezda Telekom	137	Liga ABA Super Cup - 2018/19	65	4	195
-2019-02-21 19:30:00.000	US Montauban	713	AS Beziers Herault	32	Pro D2 - 2018	73	9	204
-2019-02-21 19:35:00.000	Munster	462	Cardiff Blues	96	Pro14 - 2018	12	9	95
-2019-02-21 19:45:00.000	Exeter Chiefs	175	Newcastle Falcons	473	English Premiership - 2018	3	9	404
-2019-02-21 19:45:00.000	Wakefield Trinity Wildcats	744	Castleford Tigers	97	Super 8s - 2018	43	9	99
-2019-02-22 00:00:00.000	Florida Atlantic Owls	191	UCF Knights	702	College - 2018/19	60	2	568
-2019-02-22 01:30:00.000	Montreal Alouettes	451	Winnipeg Blue Bombers	755	CFL - 2018/19	48	2	569
-2019-02-22 02:00:00.000	Penn St Nittany Lions	506	Illinois Fighting Illini	344	College - 2018/19	60	2	411
-2019-02-22 03:30:00.000	Washington St Cougars	748	USC Trojans	716	College - 2018/19	60	2	497
-2019-02-22 03:35:00.000	North Harbour	479	Hawke´s Bay	238	NPC - 2018	67	9	187
-2019-02-22 13:30:00.000	Benlose FC	61	Hvidovre Attack	331	UFL - 2018/19	16	6	218
-2019-02-22 14:00:00.000	Classic Tampere	120	SB Welhot	573	Salibandyliiga - 2018/19	10	6	187
-2019-02-22 14:00:00.000	Rödovre FC	554	Sunds Seahawks FC	647	UFL - 2018/19	16	6	185
-2019-02-22 15:00:00.000	OLS Oulu	491	Happee	233	Salibandyliiga - 2018/19	10	6	62
-2019-02-22 16:00:00.000	UHC Alligator Malans	703	Zug United	766	National League - 2018/19	82	6	355
-2019-02-22 17:00:00.000	FBC Ostrava	178	1 SC Ssk Vitkovice	1	Extraliga - 2018/19	31	6	292
-2019-02-22 17:00:00.000	SV Wiler Ersigen	652	Waldkirch St.Gallen	745	National League - 2018/19	82	6	192
-2019-02-22 18:00:00.000	Floorball Köniz	190	UHC Thun	704	National League - 2018/19	82	6	421
-2019-02-22 18:00:00.000	HC Rychenberg Winterthur	277	Grasshopper Club Zurich	216	National League - 2018/19	82	6	101
-2019-02-22 18:00:00.000	UHC Uster	705	Tigers Langnau	666	National League - 2018/19	82	6	361
-2019-02-22 19:00:00.000	FBC Pullo Trade Ceska Lipa	179	TJ VHS Znojmo	670	Extraliga - 2018/19	31	6	500
-2019-02-24 10:00:00.000	Krasnaya Armiya	383	Red Star Kunlun Junior	539	MHL - 2018/19	36	11	321
-2019-02-24 13:30:00.000	Ladja Togliatti	394	HC Altai	245	MHL - 2018/19	36	11	237
-2019-02-24 14:00:00.000	Irbis Kazan	350	S. Barsy Astana	562	MHL - 2018/19	36	11	53
-2019-02-24 14:00:00.000	Spartak Moscow	626	Permskie Medvedi	508	Super League - 2018/19	34	7	242
-2019-02-24 15:00:00.000	Salavat Yulaev Ufa	565	HC Traktor Chelyabinsk	288	KHL - 2018/19	24	11	133
-2019-02-24 15:30:00.000	Corona Brasov	132	HSC Csikszereda	322	Erste Liga - 2018/19	33	11	315
-2019-02-24 16:00:00.000	Chaika Nizhny Nov.	102	Loko Yaroslavl	412	MHL - 2018/19	36	11	523
-2019-02-24 16:00:00.000	HC Taifun	284	Vityazi Chekhov	737	MHL - 2018/19	36	11	500
-2019-02-24 16:30:00.000	HC Benatky Nad Jizerou	251	HC Horacka Slavia Trebic	263	1st Liga - 2018/19	50	11	218
-2019-02-24 16:30:00.000	Mytishchinskie A.	463	Almaz Cherepovets	21	MHL - 2018/19	36	11	423
-2019-02-24 16:30:00.000	Neftyanik Almetyevsk	466	Khimik Voskresensk	373	VHL - 2018/19	2	11	145
-2019-02-24 16:30:00.000	TPS	683	Nokian Kristityt Palloilijat	476	Salibandyliiga - 2018/19	10	6	510
-2019-02-24 16:30:00.000	Westend Indians	750	Koovee	381	Salibandyliiga - 2018/19	10	6	425
-2019-02-24 17:00:00.000	Amurskie Tigry K.	24	1946 St. Petersburg - Kapitan Stupino	2	MHL - 2018/19	36	11	290
-2019-02-24 17:00:00.000	Gyergyoi HK	224	Ujpest Budapest	706	Erste Liga - 2018/19	33	11	381
-2019-02-24 17:00:00.000	HC Dukla Jihlava	258	HC Slovan Ustecti Lvi	279	1st Liga - 2018/19	50	11	166
-2019-02-24 17:00:00.000	HC Motor Ceske Budejovice	271	SK Kadan	598	1st Liga - 2018/19	50	11	573
-2019-02-24 17:00:00.000	HC Red Star Kunlun	274	Neftekhimik Nizhnekamsk	465	KHL - 2018/19	24	11	189
-2019-02-24 17:00:00.000	HC RT Torax Poruba	276	HC Frydek Mistek	262	1st Liga - 2018/19	50	11	567
-2019-02-24 17:00:00.000	HC Slavia Prag	278	HC AZ Havirov 2010	248	1st Liga - 2018/19	50	11	440
-2019-02-24 17:00:00.000	HC Slovnaft Vsetin	280	HC Stadion Litomerice	283	1st Liga - 2018/19	50	11	383
-2019-02-24 17:00:00.000	HC Yugra Khanty-Mansiysk	292	HK Ryazan	311	VHL - 2018/19	2	11	250
-2019-02-24 17:00:00.000	HC Zubr Prerov	293	HC Kladno	265	1st Liga - 2018/19	50	11	149
-2019-02-24 17:00:00.000	Rubin Tyumen	559	Buran Voronezh	90	VHL - 2018/19	2	11	567
-2019-02-24 17:00:00.000	Sgau-Saratov	591	SKIF	606	Super League - 2018/19	34	7	92
-2019-02-24 17:00:00.000	St Petersburg	635	MHK Krylia Sovetov	438	MHL - 2018/19	36	11	78
-2019-02-24 17:00:00.000	Toros Neftekamsk	676	Zvezda Chekhov	767	VHL - 2018/19	2	11	256
-2019-02-24 17:30:00.000	Amur Khabarovsk	23	HK Avangard Omsk	301	KHL - 2018/19	24	11	544
-2019-02-24 17:30:00.000	HC Barys Astana	250	HC Dynamo Moscow	259	KHL - 2018/19	24	11	71
-2019-02-24 17:30:00.000	Sibir Novosibirsk	596	AK Bars Kazan	17	KHL - 2018/19	24	11	480
-2019-02-24 18:00:00.000	IFK Ystads HK	339	HK Malmö	307	Elitserien - 2018/19	29	7	345
-2019-02-24 18:00:00.000	Tranaas Aif	685	Borlänge HC	77	HockeyEttan Vastra - 2018/19	56	11	195
-2019-02-24 18:30:00.000	Ribe-Esbjerg HH	543	Lemvig-Thyboron Handball	403	Handboldligaen - 2018/19	79	7	462
-2019-02-24 19:00:00.000	Ferencvaros	186	Hokiklub Budapest	318	Erste Liga - 2018/19	33	11	549
-2019-02-24 19:00:00.000	Lingen - Dessau-Rosslauer HV 2006	408	HSV Hamburg	325	2nd Bundesliga - 2018/19	87	7	513
-2019-02-24 19:00:00.000	Thyboron Handball - Otterup HK	665	FHK Elite	188	1. Division - 2018/19	71	7	119
-2019-02-24 19:45:00.000	Jeunesse Laique de Bourg	358	JSF Nanterre	361	Pro A - 2018/19	22	4	177
-2019-02-24 20:30:00.000	Afturelding	11	Selfoss	584	Urvalsdeild - 2018/19	35	7	64
-2019-02-24 20:30:00.000	Valur Reykjavik	723	Stjarnan	643	Urvalsdeild - 2018/19	35	7	391
-2019-02-25 01:15:00.000	Pittsburgh Steelers	514	Tampa Bay Buccaneers	653	NFL - 2018/19	23	2	485
-2019-02-25 01:30:00.000	Estudiantes de Concordia	173	Comunicaciones	127	LNB - 2018/19	83	4	46
-2019-02-25 09:00:00.000	Sokol Kral Vinohrady	614	FBK Sokol Mlada Boleslav	180	Extraliga - 2018/19	31	6	138
-2019-02-25 11:00:00.000	Puerto Rico	521	Japan	355	FIBA World Championship - 2018/19	80	4	103
-2019-02-25 11:30:00.000	Turkey	692	Australia	38	FIBA World Championship - 2018/19	80	4	157
-2019-02-25 12:30:00.000	CSK VVS Samara	139	KRS Heilongjiang	386	VHL - 2018/19	2	11	452
-2019-02-25 13:30:00.000	Greece	218	South Korea	621	FIBA World Championship - 2018/19	80	4	280
-2019-02-25 13:30:00.000	Ladja Togliatti	394	HC Altai	245	MHL - 2018/19	36	11	271
-2019-02-25 14:00:00.000	Chehovski Medvedi	109	Sungul	648	Super League - 2018/19	34	7	155
-2019-02-25 14:00:00.000	China	113	Senegal	585	FIBA World Championship - 2018/19	80	4	31
-2019-02-25 14:00:00.000	Irbis Kazan	350	S. Barsy Astana	562	MHL - 2018/19	36	11	50
-2019-02-25 14:30:00.000	Metallurg Novokuznetsk	435	Chelmet Chelyabinsk	110	VHL - 2018/19	2	11	232
-2019-02-25 14:30:00.000	Sokol Krasnoyarsk	615	Zauralye Kurgan	761	VHL - 2018/19	2	11	295
-2019-02-25 15:00:00.000	Lokomotiv Yaroslavl	413	Avtomobilist Yekaterinburg	44	KHL - 2018/19	24	11	410
-2019-02-25 15:00:00.000	Omskie Yastreby	492	Sputnik Almetievsk	631	MHL - 2018/19	36	11	20
-2019-02-25 15:00:00.000	Severstal Cherepovec	588	M. Magnitogorsk	421	KHL - 2018/19	24	11	80
-2019-02-25 16:00:00.000	Belye Medvedi	59	Reaktor Nizhnekamsk	537	MHL - 2018/19	36	11	42
-2019-02-25 16:30:00.000	HPK Hämeenlinna	320	Kärpät Oulu	370	SM-Liiga - 2018/19	72	11	299
-2019-02-25 16:30:00.000	MAC Budapest	422	HC 05 Banska Bystrica	242	Extraliga - 2018/19	47	11	399
-2019-02-25 16:30:00.000	Steelers	641	Classic Tampere	120	Salibandyliiga - 2018/19	10	6	372
-2019-02-25 16:30:00.000	TPS Turku	684	Jukurit	363	SM-Liiga - 2018/19	72	11	186
-2019-02-25 17:00:00.000	Balatonfuredi Kse	45	MKB Veszprem KC	443	NB I - 2018/19	70	7	161
-2019-02-25 17:00:00.000	Coop Polva	129	HC Kehra	264	Meistriliiga - 2018/19	84	7	531
-2019-02-25 17:00:00.000	Gorniczy Klub Sportowy Tychy	214	JKH GKS Jastrzebie	359	Ekstraliga - 2018/19	85	11	484
-2019-02-25 17:00:00.000	HK Riga	310	SKA-Varyagi	604	MHL - 2018/19	36	11	236
-2019-02-25 17:00:00.000	KH Zaglebie Sosnowiec	372	TH Unia Oswiecim	663	Ekstraliga - 2018/19	85	11	91
-2019-02-25 17:00:00.000	KS Stoczniowiec Gdansk	388	TMH Polonia Bytom	672	Ekstraliga - 2018/19	85	11	528
-2019-02-25 17:00:00.000	Slovakia	610	HKM Zvolen	315	Extraliga - 2018/19	47	11	541
-2019-02-25 17:00:00.000	Yunost Minsk	760	HK Lida	306	Extraliga - 2018/19	47	11	240
-2019-02-25 17:30:00.000	Frisk/Asker	201	IHK Sparta Sarpsborg	340	Eliteserien - 2018/19	9	11	131
-2019-02-25 17:30:00.000	HC Sochi	281	CSKA Moscow	140	KHL - 2018/19	24	11	341
-2019-02-25 17:30:00.000	Jokerit Helsinki	360	HC Dinamo Riga	257	KHL - 2018/19	24	11	481
-2019-02-25 17:30:00.000	MKS Cracovia Krakow	444	GKS Katowice	209	Ekstraliga - 2018/19	85	11	564
-2019-02-25 17:30:00.000	Mountfield HK	458	HC Sparta Prag	282	Extraliga - 2018/19	47	11	547
-2019-02-25 17:30:00.000	Nigeria	475	Argentina	28	FIBA World Championship - 2018/19	80	4	365
-2019-02-25 17:30:00.000	Pogon Handball Szczecin	515	KS Vive Targi Kielce	389	Superliga - 2018/19	19	7	328
-2019-02-25 17:30:00.000	Spartak Moskau	627	Slovan Bratislava	611	KHL - 2018/19	24	11	43
-2019-02-25 17:30:00.000	TKH Nesta Torun	671	Orlik Opole	494	Ekstraliga - 2018/19	85	11	205
-2019-02-25 17:30:00.000	Zuazo - Handbol Canyamelar Valencia	765	Rocasa ACE Gran Canaria	553	Division De Honor Femenina - 2018/19	69	7	61
-2019-02-25 18:00:00.000	Esbjerg Energy	171	Rungsted Ishockey	560	Superisligaen - 2018/19	55	11	46
-2019-02-25 18:00:00.000	Frederikshavn White Hawks	200	Sonderjyske Ishockey	619	Superisligaen - 2018/19	55	11	410
-2019-02-25 18:00:00.000	Hästö IF	236	Ystads IF HF	759	Elitserien - 2018/19	29	7	451
-2019-02-25 18:00:00.000	Herning Blue Fox	298	Rodovre Mighty Bulls	555	Superisligaen - 2018/19	55	11	279
-2019-02-25 18:00:00.000	Hvidovre Fighters	332	Aalborg Pirates	6	Superisligaen - 2018/19	55	11	341
-2019-02-25 18:00:00.000	Modo Hockey	447	AIK IF	14	Hockey Allsvenskan - 2018/19	46	11	278
-2019-02-25 18:00:00.000	Odense Bulldogs	488	Herlev Eagles	297	Superisligaen - 2018/19	55	11	333
-2019-02-25 18:00:00.000	OV Helsingborg HK	497	HK Aranäs	300	Allsvenskan - 2018/19	5	7	553
-2019-02-25 18:00:00.000	Shakhter Soligorsk	592	Neman Grodno	467	Extraliga - 2018/19	47	11	340
-2019-02-25 18:00:00.000	Team Fog Naestved	658	Stevnsgade Supermen	642	Basketligaen - 2018/19	15	4	451
-2019-02-25 18:00:00.000	Valerenga IF	722	Stavanger Oilers	639	Eliteserien - 2018/19	9	11	31
-2019-02-25 18:15:00.000	RB Salzburg	533	HC TWK Innsbruck Die Haie	289	EBEL - 2018/19	49	11	264
-2019-02-25 18:30:00.000	HSG Nordhorn	323	Tusem Essen	694	2nd Bundesliga - 2018/19	87	7	481
-2019-02-25 18:30:00.000	Nordsjaelland Handball	477	Aarhus Handball	7	Handboldligaen - 2018/19	79	7	154
-2019-02-25 18:45:00.000	de-Fonds - HC Biasca	145	Hockey Academy Zug	316	National League B - 2018/19	74	11	508
-2019-02-25 18:45:00.000	EHC Biel	163	HC Ambri Piotta	246	National League A - 2018/19	28	11	301
-2019-02-25 18:45:00.000	EV Zug	174	HC Fribourg Gotteron	261	National League A - 2018/19	28	11	125
-2019-02-25 18:45:00.000	Geneve Servette HC	207	Lausanne HC	396	National League A - 2018/19	28	11	235
-2019-02-25 18:45:00.000	HC Lugano	269	SC Bern	574	National League A - 2018/19	28	11	235
-2019-02-25 18:45:00.000	Rapperswil Jona Lakers	529	HC Davos	255	National League A - 2018/19	28	11	228
-2019-02-25 18:45:00.000	SCL Tigers Langenau	579	ZSC Lions	764	National League A - 2018/19	28	11	220
-2019-02-25 19:00:00.000	Antibes Sharks	27	Asvel Lyon-Villeurbanne	36	Pro A - 2018/19	22	4	389
-2019-02-25 19:00:00.000	Cholet Basket	115	Le Mans Basket	397	Pro A - 2018/19	22	4	413
-2019-02-25 19:00:00.000	CSG Strasbourg	138	Grenoble MH 38	219	Ligue Magnus - 2018/19	76	11	565
-2019-02-25 19:00:00.000	FOS Ouest Provence Basket	194	Champ. Chalons Reims Basket	106	Pro A - 2018/19	22	4	79
-2019-02-25 19:00:00.000	HC Amiens Somme	247	Morzine HC - Scorpions de Mulhouse	456	Ligue Magnus - 2018/19	76	11	157
-2019-02-25 19:00:00.000	RK Trimo Trebnje	552	MRK Krka	459	1. liga - 2018/19	63	7	145
-2019-02-25 19:00:00.000	Rouen HE	557	HC Nice	272	Ligue Magnus - 2018/19	76	11	336
-2019-02-25 19:00:00.000	Villeurbanne - Gravelines Grand Fort BCM	734	Limoges CSP	406	Pro A - 2018/19	22	4	70
-2019-02-25 19:15:00.000	Chamonix	105	Bordeaux Ghc	76	Ligue Magnus - 2018/19	76	11	351
-2019-02-25 19:30:00.000	Anglet Hormadi Elite	25	Rapaces de Gap	528	Ligue Magnus - 2018/19	76	11	77
-2019-02-25 19:30:00.000	ASG Angers	34	Lyon HC	419	Ligue Magnus - 2018/19	76	11	76
-2019-02-25 19:30:00.000	Boulazac Basket	79	Dijon Bourgogne	149	Pro A - 2018/19	22	4	342
-2019-02-25 19:30:00.000	ES Chalon	169	Paris Levallois	500	Pro A - 2018/19	22	4	186
-2019-02-25 20:00:00.000	Spain	625	Belgium	57	FIBA World Championship - 2018/19	80	4	134
-2019-02-25 20:30:00.000	France	196	Canada	92	FIBA World Championship - 2018/19	80	4	396
-2019-02-26 08:35:00.000	Northland	480	Hawke´s Bay	238	NPC - 2018	67	9	55
-2019-02-26 09:30:00.000	Blackwater Elite	71	Air21 Express	15	PBA - 2018/19	25	4	565
-2019-02-26 12:00:00.000	San Mig Coffee Mixers	568	Rain Or Shine Elasto	524	PBA - 2018/19	25	4	193
-2019-02-26 13:00:00.000	Kuznetskie Medvedi	392	Tolpar UFA	674	MHL - 2018/19	36	11	204
-2019-02-26 13:00:00.000	Mamonty Yugry K. M.	427	Stalnye Lisy	638	MHL - 2018/19	36	11	124
-2019-02-26 14:30:00.000	Sibirskie Snaipery	597	Avto Yekaterinburg	43	MHL - 2018/19	36	11	293
-2019-02-26 15:00:00.000	Bidasoa Irun	65	FC Barcelona	183	Asobal - 2018/19	17	7	442
-2019-02-26 15:00:00.000	Omskie Yastreby	492	Sputnik Almetievsk	631	MHL - 2018/19	36	11	190
-2019-02-26 15:00:00.000	Tyumenskiy Legion	699	Sarmaty Orenburg	570	MHL - 2018/19	36	11	372
-2019-02-26 16:00:00.000	Neptunas Klaipeda	468	Pieno Zvaigzdes	512	LKL - 2018/19	68	4	396
-2019-02-26 16:00:00.000	Russia	561	Brazil	82	FIVB World Championship Men - 2018/19	58	13	25
-2019-02-26 16:15:00.000	BC Alytaus Dzukija	52	BC Lietkabelis	53	LKL - 2018/19	68	4	546
-2019-02-26 16:30:00.000	Ässät Pori	35	Saipa Lappeenranta	564	SM-Liiga - 2018/19	72	11	568
-2019-02-26 16:30:00.000	HC Frydek Mistek	262	HC Slovnaft Vsetin	280	1st Liga - 2018/19	50	11	490
-2019-02-26 16:30:00.000	HC Horacka Slavia Trebic	263	HC Dukla Jihlava	258	1st Liga - 2018/19	50	11	299
-2019-02-26 16:30:00.000	HC Kladno	265	HC Motor Ceske Budejovice	271	1st Liga - 2018/19	50	11	508
-2019-02-26 16:30:00.000	HC Stadion Litomerice	283	HC Benatky Nad Jizerou	251	1st Liga - 2018/19	50	11	371
-2019-02-26 16:30:00.000	Jukurit	363	Pelicans Lahti	504	SM-Liiga - 2018/19	72	11	399
-2019-02-26 16:30:00.000	Kookoo Kouvola	380	HIFK Hockey	299	SM-Liiga - 2018/19	72	11	70
-2019-02-26 16:30:00.000	OLS Oulu	491	SB Welhot	573	Salibandyliiga - 2018/19	10	6	283
-2019-02-26 16:30:00.000	Rauma Lukko	532	Tappara Tampere	654	SM-Liiga - 2018/19	72	11	57
-2019-02-26 16:30:00.000	Siauliai	595	Juventus Utena	364	LKL - 2018/19	68	4	243
-2019-02-26 16:30:00.000	Toros Neftekamsk	676	Khimik Voskresensk	373	VHL - 2018/19	2	11	510
-2019-02-26 16:50:00.000	Lietuvos Rytas	404	Nevezis Kedainiai	470	LKL - 2018/19	68	4	540
-2019-02-26 17:00:00.000	Admiral Vladivostok	10	Torpedo N. Novgorod	678	KHL - 2018/19	24	11	52
-2019-02-26 17:00:00.000	Amur Khabarovsk	23	Neftekhimik Nizhnekamsk	465	KHL - 2018/19	24	11	419
-2019-02-26 17:00:00.000	BK JIP Pardubice	69	BK Sluneta USTI Nad Labem	70	NBL - 2018/19	20	4	36
-2019-02-26 17:00:00.000	Grifk	220	Aifk	12	SM-liiga - 2018/19	42	7	339
-2019-02-26 17:00:00.000	HC AZ Havirov 2010	248	HC Zubr Prerov	293	1st Liga - 2018/19	50	11	123
-2019-02-26 17:00:00.000	HC Red Star Kunlun	274	AK Bars Kazan	17	KHL - 2018/19	24	11	4
-2019-02-26 17:00:00.000	HC Slovan Ustecti Lvi	279	HC Slavia Prag	278	1st Liga - 2018/19	50	11	142
-2019-02-26 17:00:00.000	HC Tatran Presov	286	HC THP Topvar Topolcany	287	Extraliga - 2018/19	62	7	72
-2019-02-26 17:00:00.000	HC Yugra Khanty-Mansiysk	292	Buran Voronezh	90	VHL - 2018/19	2	11	562
-2019-02-26 17:00:00.000	HK Riga	310	SKA-Varyagi	604	MHL - 2018/19	36	11	512
-2019-02-26 17:00:00.000	Neftyanik Almetyevsk	466	Zvezda Chekhov	767	VHL - 2018/19	2	11	195
-2019-02-26 17:00:00.000	Paris Handball	499	Usam Nimes	715	LNH Division 1 Men - 2018/19	64	7	477
-2019-02-26 17:00:00.000	Pick Szeged	511	FTC Budapest	203	NB I - 2018/19	70	7	387
-2019-02-26 17:00:00.000	Rubin Tyumen	559	HK Ryazan	311	VHL - 2018/19	2	11	319
-2019-02-26 17:00:00.000	SK Kadan	598	HK Jestrabi Prostejov	305	1st Liga - 2018/19	50	11	450
-2019-02-26 17:00:00.000	Wacker Thun	741	Dinamo Baumit Bucuresti	150	Champions League - 2018/19	59	7	28
-2019-02-26 17:30:00.000	Bjerringbro	67	TMS Ringsted	673	Handboldligaen - 2018/19	79	7	108
-2019-02-26 17:30:00.000	HC Barys Astana	250	HC Vitiaz Chehov	291	KHL - 2018/19	24	11	510
-2019-02-26 17:30:00.000	Salavat Yulaev Ufa	565	HK Dinamo Minsk	302	KHL - 2018/19	24	11	516
-2019-02-26 17:30:00.000	Savo Volley	572	Team Lakkapää	660	Mestaruusliiga - 2018/19	78	13	554
-2019-02-26 17:30:00.000	Sibir Novosibirsk	596	SKA St. Petersburg	600	KHL - 2018/19	24	11	474
-2019-02-26 17:30:00.000	Valepa	721	Akaa Volley	18	Mestaruusliiga - 2018/19	78	13	495
-2019-02-26 17:45:00.000	Bnei Herzelia	72	Maccabi Rishon Lezion	424	League Cup - 2018/19	8	4	224
-2019-02-26 18:00:00.000	Alingsås HK	20	IK Savehof	343	Elitserien - 2018/19	29	7	102
-2019-02-26 18:00:00.000	BIK Karlskoga	66	Karlskrona HK	369	Hockey Allsvenskan - 2018/19	46	11	250
-2019-02-26 18:00:00.000	Borlänge HC	77	IFK Arboga	335	HockeyEttan Vastra - 2018/19	56	11	221
-2019-02-26 18:00:00.000	Cocks	123	Wisla Plock	757	Champions League - 2018/19	59	7	130
-2019-02-26 18:00:00.000	Enköpings SK HK	168	Hammarby Hockey IF	228	HockeyEttan Ostra - 2018/19	57	11	216
-2019-02-26 18:00:00.000	HC Dalen	254	Kalmar HC	367	HockeyEttan Sodra - 2018/19	44	11	166
-2019-02-26 18:00:00.000	HC Meshkov Brest	270	Rhein Neckar Löwen	542	Champions League - 2018/19	59	7	520
-2019-02-26 18:00:00.000	HC Vita Hasten	290	Almtuna IS	22	Hockey Allsvenskan - 2018/19	46	11	47
-2019-02-26 18:00:00.000	IF Troja/Ljungby	334	Morrum Gois IK	454	HockeyEttan Sodra - 2018/19	44	11	337
-2019-02-26 18:00:00.000	IFK Kristianstad	336	Lugi HF	417	Elitserien - 2018/19	29	7	245
-2019-02-26 18:00:00.000	IFK Kumla	337	Skövde IK	608	HockeyEttan Vastra - 2018/19	56	11	531
-2019-02-26 18:00:00.000	IK Oskarshamn	341	IK Pantern	342	Hockey Allsvenskan - 2018/19	46	11	416
-2019-02-26 18:00:00.000	Kallinge/Ronneby IF	366	Helsingborgs HC	295	HockeyEttan Sodra - 2018/19	44	11	67
-2019-02-26 18:00:00.000	Koping HC	382	Forshaga IF	193	HockeyEttan Vastra - 2018/19	56	11	82
-2019-02-26 18:00:00.000	Kristianstads IK	385	Halmstad Hammers	226	HockeyEttan Sodra - 2018/19	44	11	133
-2019-02-26 18:00:00.000	Lindlövens IF	407	Grums IK	221	HockeyEttan Vastra - 2018/19	56	11	572
-2019-02-26 18:00:00.000	Mariestads Bois	430	Malungs IF	426	HockeyEttan Vastra - 2018/19	56	11	160
-2019-02-26 18:00:00.000	Nybro IF	484	Hanhals IF	229	HockeyEttan Sodra - 2018/19	44	11	554
-2019-02-26 18:00:00.000	SK Lejon	599	Bodens HF	75	HockeyEttan Norra - 2018/19	88	11	325
-2019-02-26 18:00:00.000	Södertälje SK	613	IF Björklöven	333	Hockey Allsvenskan - 2018/19	46	11	507
-2019-02-26 18:00:00.000	Sollentuna HC	617	Hanvikens SK	230	HockeyEttan Ostra - 2018/19	57	11	77
-2019-02-26 18:00:00.000	Surahammar	649	Tranaas Aif	685	HockeyEttan Vastra - 2018/19	56	11	192
-2019-02-26 18:00:00.000	Trangsund	686	Segeltorps IF	583	HockeyEttan Ostra - 2018/19	57	11	460
-2019-02-26 18:00:00.000	Väsby IK	725	Hudiksvalls HC	327	HockeyEttan Ostra - 2018/19	57	11	294
-2019-02-26 18:00:00.000	Västervik	727	Leksands IF	402	Hockey Allsvenskan - 2018/19	46	11	455
-2019-02-26 18:00:00.000	VIK Vasteraas	733	Tingsryds AIF	668	Hockey Allsvenskan - 2018/19	46	11	205
-2019-02-26 18:00:00.000	Vimmerby HC	735	Tyringe Sos	698	HockeyEttan Sodra - 2018/19	44	11	205
-2019-02-26 18:45:00.000	HC Ajoie	244	HC La Chaux-de-Fonds	268	National League B - 2018/19	74	11	363
-2019-02-26 19:00:00.000	Chambery Savoie	103	Pays Aix Universite Club Handball	502	LNH Division 1 Men - 2018/19	64	7	181
-2019-02-26 19:00:00.000	OC Cesson Handball	487	Istres Ouest Provence	352	LNH Division 1 Men - 2018/19	64	7	356
-2019-02-26 19:00:00.000	Pontault-Combault HB	518	Saint Raphael	563	LNH Division 1 Men - 2018/19	64	7	106
-2019-02-26 19:00:00.000	US Ivry Handball	712	Dunkerque HB	156	LNH Division 1 Men - 2018/19	64	7	176
-2019-02-26 19:15:00.000	RK Celje Pivovarna Lasko	547	RD Ribnica Riko Hise	536	1. liga - 2018/19	63	7	51
-2019-02-26 19:30:00.000	AaB Handball	5	GOG Handbold	212	Handboldligaen - 2018/19	79	7	577
-2019-02-26 19:30:00.000	Fraikin BM Granollers	195	Reale Ademar	538	Asobal - 2018/19	17	7	519
-2019-02-26 19:30:00.000	Tremblay En France	687	Toulouse Handball	680	LNH Division 1 Men - 2018/19	64	7	550
-2019-02-26 19:45:00.000	Strasbourg IG	646	Le Portel	398	Pro A - 2018/19	22	4	414
-2019-02-26 20:15:00.000	Serbia	587	Italy	353	FIVB World Championship Men - 2018/19	58	13	348
-2019-02-26 20:30:00.000	M - Sporting CP	420	FC Porto Vitalis	185	1a Divisao - 2018/19	18	7	69
-2019-02-26 21:00:00.000	AA Avanca	4	Sport Lisboa Benfica	630	1a Divisao - 2018/19	18	7	565
-2019-02-26 21:00:00.000	CCR Fermentoes	99	AC Fafe	8	1a Divisao - 2018/19	18	7	364
-2019-02-27 00:00:00.000	Obras Sanitarias	486	Boca Juniors	73	LNB - 2018/19	83	4	525
-2019-02-27 01:00:00.000	Argentino Junin	31	Penarol Mar Del Plata	505	LNB - 2018/19	83	4	286
-2019-02-27 01:30:00.000	Estudiantes de Concordia	173	San Martin Corrientes	567	LNB - 2018/19	83	4	360
-2019-02-27 08:35:00.000	Manawatu	428	Bay of Plenty	50	NPC - 2018	67	9	436
-2019-02-27 11:00:00.000	St Petersburg	635	Spartak Moskow	628	MHL - 2018/19	36	11	44
-2019-02-27 12:00:00.000	HK MVD	308	Red Star Kunlun Junior	539	MHL - 2018/19	36	11	539
-2019-02-27 13:00:00.000	Kuznetskie Medvedi	392	Tolpar UFA	674	MHL - 2018/19	36	11	7
-2019-02-27 14:30:00.000	Metallurg Novokuznetsk	435	Zauralye Kurgan	761	VHL - 2018/19	2	11	7
-2019-02-27 15:00:00.000	HC Dynamo Moscow	259	M. Magnitogorsk	421	KHL - 2018/19	24	11	423
-2019-02-27 15:00:00.000	Lokomotiv Yaroslavl	413	HC Traktor Chelyabinsk	288	KHL - 2018/19	24	11	529
-2019-02-27 15:00:00.000	Severstal Cherepovec	588	Avtomobilist Yekaterinburg	44	KHL - 2018/19	24	11	238
-2019-02-27 15:00:00.000	Tyumenskiy Legion	699	Sarmaty Orenburg	570	MHL - 2018/19	36	11	78
-2019-02-27 16:00:00.000	Amurskie Tigry K.	24	Vityazi Chekhov	737	MHL - 2018/19	36	11	520
-2019-02-27 16:00:00.000	Belye Medvedi	59	Reaktor Nizhnekamsk	537	MHL - 2018/19	36	11	436
-2019-02-27 16:00:00.000	Galil Gilboa	205	Maccabi Ashdod	423	League Cup - 2018/19	8	4	29
-2019-02-27 16:00:00.000	HKM Nitra	314	Slovakia	610	Extraliga - 2018/19	47	11	362
-2019-02-27 16:00:00.000	Miskolci JJSE	442	Liptovsky Mikulas	411	Extraliga - 2018/19	47	11	519
-2019-02-27 16:00:00.000	Mytishchinskie A.	463	Loko Yaroslavl	412	MHL - 2018/19	36	11	125
-2019-02-27 16:00:00.000	Russia	561	USA	714	FIVB World Championship Men - 2018/19	58	13	91
-2019-02-27 16:30:00.000	Chaika Nizhny Nov.	102	Almaz Cherepovets	21	MHL - 2018/19	36	11	12
-2019-02-27 16:30:00.000	HK Sarov	312	HC Tambov	285	VHL - 2018/19	2	11	64
-2019-02-27 16:30:00.000	Kärpät Oulu	370	Ilves Tampere	345	SM-Liiga - 2018/19	72	11	531
-2019-02-27 16:30:00.000	Saryarka	571	Bars Kazan	48	VHL - 2018/19	2	11	451
-2019-02-27 16:50:00.000	Aviv - BC Zalgiris Kaunas	42	KK Prienai	376	LKL - 2018/19	68	4	261
-2019-02-27 17:00:00.000	HC Taifun	284	1946 St. Petersburg - Kapitan Stupino	2	MHL - 2018/19	36	11	72
-2019-02-27 17:00:00.000	HK Gomel	304	Neman Grodno	467	Extraliga - 2018/19	47	11	198
-2019-02-27 17:00:00.000	HSC Csikszereda	322	DAB Docler	142	Erste Liga - 2018/19	33	11	29
-2019-02-27 17:00:00.000	Kazzink	371	Dizel Penza	151	VHL - 2018/19	2	11	34
-2019-02-27 17:00:00.000	Metallurg Zhlobin	436	HK Lida	306	Extraliga - 2018/19	47	11	222
-2019-02-27 17:00:00.000	Prikamje Perm - Yuzhny Ural Orsk	520	VMF St Petersburg	738	VHL - 2018/19	2	11	456
-2019-02-27 17:00:00.000	Shakhter Soligorsk	592	HC Dinamo Maladzyechna	256	Extraliga - 2018/19	47	11	204
-2019-02-27 17:00:00.000	SKA-1946 St. Petersburg	601	MHK Krylia Sovetov	438	MHL - 2018/19	36	11	577
-2019-02-27 17:00:00.000	Yunost Minsk	760	Belarus	56	Extraliga - 2018/19	47	11	60
-2019-02-27 17:30:00.000	Frisk/Asker	201	Manglerud/Star	429	Eliteserien - 2018/19	9	11	360
-2019-02-27 17:30:00.000	Gornyak Uchaly	215	HK Dinamo St Petersburg	303	VHL - 2018/19	2	11	540
-2019-02-27 17:30:00.000	HC Sochi	281	HC Dinamo Riga	257	KHL - 2018/19	24	11	556
-2019-02-27 17:30:00.000	IHK Sparta Sarpsborg	340	Storhamar Dragons	645	Eliteserien - 2018/19	9	11	519
-2019-02-27 17:30:00.000	Jokerit Helsinki	360	Slovan Bratislava	611	KHL - 2018/19	24	11	376
-2019-02-27 17:30:00.000	Lemvig-Thyboron Handball	403	Skjern Handbold	607	Handboldligaen - 2018/19	79	7	518
-2019-02-27 17:30:00.000	Lillehammer IK	405	Stjernen Hockey	644	Eliteserien - 2018/19	9	11	377
-2019-02-27 17:30:00.000	Spartak Moskau	627	CSKA Moscow	140	KHL - 2018/19	24	11	269
-2019-02-27 17:40:00.000	Sapa Fehervar Av19 II	569	Hokiklub Budapest	318	Erste Liga - 2018/19	33	11	374
-2019-02-27 17:45:00.000	Poland	516	Norway	481	Int. Friendly Games - 2018/19	26	7	539
-2019-02-27 18:00:00.000	Färjestads BK	176	Timraa IK	667	SHL - 2018/19	21	11	315
-2019-02-27 18:00:00.000	Frölunda HC	202	Rögle BK	556	SHL - 2018/19	21	11	177
-2019-02-27 18:00:00.000	Hasle/Loren Ishockey	235	Gjovik Mammuts	208	1st Division - 2018/19	32	11	454
-2019-02-27 18:00:00.000	Lingen - HC Erlangen	409	TSG Ludwigshafen-Friesenheim	688	Bundesliga - 2018/19	54	7	380
-2019-02-27 18:00:00.000	Linköpings HC	410	HC Orebro	273	SHL - 2018/19	21	11	87
-2019-02-27 18:00:00.000	Malmo IF	425	HV 71	330	SHL - 2018/19	21	11	170
-2019-02-27 18:00:00.000	Mora IK	452	Djurgaardens IF	152	SHL - 2018/19	21	11	357
-2019-02-27 18:00:00.000	MT Melsungen	461	THW Kiel	664	Bundesliga - 2018/19	54	7	288
-2019-02-27 18:00:00.000	Piteå HC	513	Team Kiruna	659	HockeyEttan Norra - 2018/19	88	11	432
-2019-02-27 18:00:00.000	SC DHFK Leipzig	575	VfL Gummersbach	729	Bundesliga - 2018/19	54	7	445
-2019-02-27 18:00:00.000	Skellefteaa Aik	605	Luleaa Hockey	418	SHL - 2018/19	21	11	366
-2019-02-27 18:00:00.000	TSV Hannover Burgdorf	690	SG Flensburg-Handewitt	590	Bundesliga - 2018/19	54	7	291
-2019-02-27 18:00:00.000	Växjö Lakers HC	728	Brynäs IF	85	SHL - 2018/19	21	11	296
-2019-02-27 18:30:00.000	Team TVIS Holstebro	661	Mors-Thy Handbold	455	Handboldligaen - 2018/19	79	7	31
-2019-02-27 19:00:00.000	Hapoel Beer Sheva	231	Hapoel Holon	232	League Cup - 2018/19	8	4	421
-2019-02-27 19:30:00.000	Serbia	587	Poland	517	FIVB World Championship Men - 2018/19	58	13	414
-2019-02-27 19:45:00.000	AS Monaco	33	Pau Lacq Orthez	501	Pro A - 2018/19	22	4	568
-2019-02-27 19:45:00.000	Aviron Bayonne	41	Biarritz Olympique	64	Pro D2 - 2018	73	9	27
-2019-02-27 19:45:00.000	Montpellier Handball	450	HBC Nantes	240	LNH Division 1 Men - 2018/19	64	7	296
-2019-02-27 19:45:00.000	Toulouse Olympique XIII	681	Salford Red Devils	566	Super 8s - 2018	43	9	498
-2019-02-27 20:00:00.000	France	197	Denmark	146	Int. Friendly Games - 2018/19	26	7	204
-2019-02-27 20:30:00.000	Herbalife Gran Canaria	296	Regal FC Barcelona	541	Spagnola ACB - 2018/19	4	4	93
-2019-02-28 01:00:00.000	Club Atletico San Lorenzo De Almagro	121	Club Deportivo Hispano Americano	122	LNB - 2018/19	83	4	394
-2019-02-28 01:00:00.000	North Carolina Tar Heels	478	Miami Florida	439	College - 2018/19	60	2	200
-2019-02-28 01:00:00.000	Quimsa Santiago del Estero	523	Instituto Atletico Central Cordoba	347	LNB - 2018/19	83	4	89
-2019-02-28 01:20:00.000	Minnesota Vikings	440	St. Louis Rams	636	NFL - 2018/19	23	2	380
-2019-02-28 02:35:00.000	Southland	623	Waikato	742	NPC - 2018	67	9	214
-2019-02-28 08:35:00.000	Otago	496	Auckland	37	NPC - 2018	67	9	538
-2019-02-28 14:00:00.000	China	113	Australia	38	FIBA World Championship - 2018/19	80	4	167
-2019-02-28 14:30:00.000	Sokol Pardubice	616	AC Sparta Prag	9	Extraliga - 2018/19	31	6	368
-2019-02-28 16:00:00.000	FBC Liberec	177	FBS Bohemians	181	Extraliga - 2018/19	31	6	77
-2019-02-28 16:00:00.000	FBC Ostrava	178	Tatran Omlux Stresovice	657	Extraliga - 2018/19	31	6	297
-2019-02-28 16:15:00.000	HC Meshkov Brest	270	Steaua Bucharest	640	SEHA League - 2018/19	11	7	417
-2019-02-28 16:30:00.000	FBT Pori	182	Westend Indians	750	Salibandyliiga - 2018/19	10	6	218
-2019-02-28 16:30:00.000	Happee	233	Nokian Kristityt Palloilijat	476	Salibandyliiga - 2018/19	10	6	359
-2019-02-28 16:30:00.000	LaSB	395	Espoon Oilers	172	Salibandyliiga - 2018/19	10	6	358
-2019-02-28 17:00:00.000	FBC Pullo Trade Ceska Lipa	179	TJ JM Chodov	669	Extraliga - 2018/19	31	6	35
-2019-02-28 17:00:00.000	Mornar	453	U. Olimpija Ljubljana	700	Liga ABA - 2018/19	51	4	49
-2019-02-28 17:00:00.000	Sokol Kral Vinohrady	614	1 SC Ssk Vitkovice	1	Extraliga - 2018/19	31	6	434
-2019-02-28 17:30:00.000	France	196	Belgium	57	FIBA World Championship - 2018/19	80	4	448
-2019-02-28 17:30:00.000	Randers Cimbria	525	Vaerlose BBK	719	Basketligaen - 2018/19	15	4	367
-2019-02-28 18:00:00.000	Bayern Munich	51	Ratiopharm Ulm	531	BBL - 2018/19	14	4	276
-2019-02-28 18:00:00.000	Bulldogs Brno	89	FBK Sokol Mlada Boleslav	180	Extraliga - 2018/19	31	6	12
-2019-02-28 18:00:00.000	Panthers Otrokovice	498	TJ VHS Znojmo	670	Extraliga - 2018/19	31	6	164
-2019-02-28 18:00:00.000	TV Emsdetten	695	EHV Aue	165	2nd Bundesliga - 2018/19	87	7	257
-2019-02-28 18:15:00.000	UCAM Murcia	701	BC River Andorra	54	Spagnola ACB - 2018/19	4	4	396
-2019-02-28 18:30:00.000	Hoj	317	Ajax Copenhagen	16	1. Division - 2018/19	71	7	513
-2019-02-28 18:30:00.000	HSV Hamburg	325	HC Elbflorenz Dresden	260	2nd Bundesliga - 2018/19	87	7	446
-2019-02-28 18:30:00.000	TV Grosswallstadt	696	DHC Rheinland	147	2nd Bundesliga - 2018/19	87	7	569
-2019-02-28 19:00:00.000	Cibona Zagreb	117	Crvena Zvezda Telekom	137	Liga ABA - 2018/19	51	4	476
-2019-02-28 19:00:00.000	Dijon Bourgogne	149	FOS Ouest Provence Basket	194	Pro A - 2018/19	22	4	56
-2019-02-28 19:00:00.000	HSC 2000 Coburg	321	TV Hüttenberg	697	2nd Bundesliga - 2018/19	87	7	6
-2019-02-28 19:00:00.000	Tusem Essen	694	HC Rhein Vikings	275	2nd Bundesliga - 2018/19	87	7	460
-2019-02-28 19:30:00.000	Crailsheim Merlins	135	Eisbären Bremerhaven	166	BBL - 2018/19	14	4	371
-2019-02-28 19:30:00.000	Le Mans Basket	397	Antibes Sharks	27	Pro A - 2018/19	22	4	268
-2019-02-28 19:30:00.000	Medi Bayreuth	432	Rasta Vechta	530	BBL - 2018/19	14	4	452
-2019-02-28 19:30:00.000	Surrey Heat	650	Sheffield Sharks	593	BBL - 2018/19	14	4	182
-2019-02-28 19:30:00.000	Worcester Wolves	758	London Lions	415	BBL - 2018/19	14	4	467
-2019-02-28 19:35:00.000	Benetton Treviso	60	Edinburgh Rugby	159	Pro14 - 2018	12	9	360
-2019-02-28 19:35:00.000	Cheetahs	108	Cardiff Blues	96	Pro14 - 2018	12	9	273
-2019-02-28 19:45:00.000	Castleford Tigers	97	St Helens Rlfc	634	Super 8s - 2018	43	9	103
-2019-02-28 19:45:00.000	Doncaster Knights	154	Nottingham	482	RFU Championship - 2018	30	9	165
-2019-02-28 19:45:00.000	Hull FC	328	Wigan Warriors	753	Super 8s - 2018	43	9	86
-2019-02-28 19:45:00.000	Leeds Carnegie	399	Jersey	357	RFU Championship - 2018	30	9	453
-2019-02-28 19:45:00.000	Toronto Wolfpack	675	Leeds Rhinos	400	Super 8s - 2018	43	9	530
-2019-02-28 19:45:00.000	Warrington Wolves	746	Wakefield Trinity Wildcats	744	Super 8s - 2018	43	9	212
-2019-02-28 20:00:00.000	Spain	625	Canada	92	FIBA World Championship - 2018/19	80	4	321
-2019-02-28 20:30:00.000	Valencia Basket	720	Unicaja Malaga	708	Spagnola ACB - 2018/19	4	4	283
+﻿MatchID	DateMatch	HomeParticipant	AwayParticipant	TeamID	SportArenaID
+1	2019-02-07 17:00:00.000	178	669	31	15
+2	2019-02-07 18:00:00.000	498	89	31	420
+3	2019-02-07 18:30:00.000	179	1	31	232
+4	2019-02-07 19:30:00.000	177	616	31	436
+5	2019-02-11 14:50:00.000	731	142	33	462
+6	2019-02-11 15:00:00.000	710	390	34	279
+7	2019-02-11 15:00:00.000	288	421	24	480
+8	2019-02-11 15:30:00.000	359	672	85	437
+9	2019-02-11 17:00:00.000	511	161	70	389
+10	2019-02-11 17:00:00.000	56	256	47	335
+11	2019-02-11 17:00:00.000	467	306	47	528
+12	2019-02-11 17:00:00.000	629	389	19	30
+13	2019-02-11 17:00:00.000	304	436	47	313
+14	2019-02-11 17:00:00.000	309	448	6	93
+15	2019-02-11 17:00:00.000	738	559	2	533
+16	2019-02-11 17:00:00.000	144	578	33	544
+17	2019-02-11 17:00:00.000	592	760	47	160
+18	2019-02-11 17:30:00.000	257	259	24	267
+19	2019-02-11 17:30:00.000	303	292	2	579
+20	2019-02-11 17:30:00.000	569	318	33	339
+21	2019-02-11 17:30:00.000	644	340	9	330
+22	2019-02-11 17:30:00.000	140	413	24	171
+23	2019-02-11 17:30:00.000	611	588	24	112
+24	2019-02-11 17:30:00.000	483	610	47	181
+25	2019-02-11 17:30:00.000	7	618	79	76
+26	2019-02-11 17:30:00.000	645	639	9	27
+27	2019-02-11 18:00:00.000	20	13	29	572
+28	2019-02-11 18:00:00.000	763	270	11	315
+29	2019-02-11 18:00:00.000	418	333	86	446
+30	2019-02-11 18:00:00.000	176	452	86	539
+31	2019-02-11 18:00:00.000	85	667	86	290
+32	2019-02-11 18:30:00.000	212	67	79	223
+33	2019-02-11 18:30:00.000	693	754	87	151
+34	2019-02-11 19:00:00.000	662	206	7	107
+35	2019-02-11 19:00:00.000	246	255	86	6
+36	2019-02-11 19:30:00.000	47	160	7	347
+37	2019-02-11 19:45:00.000	253	640	11	381
+38	2019-02-12 08:00:00.000	143	346	81	248
+39	2019-02-12 08:35:00.000	479	94	67	187
+40	2019-02-12 10:30:00.000	23	10	24	370
+41	2019-02-12 11:00:00.000	362	586	81	208
+42	2019-02-12 12:00:00.000	677	90	2	123
+43	2019-02-12 12:00:00.000	198	114	58	16
+44	2019-02-12 13:00:00.000	615	311	2	412
+45	2019-02-12 13:00:00.000	435	312	2	551
+46	2019-02-12 13:00:00.000	91	691	58	483
+47	2019-02-12 14:30:00.000	250	465	24	252
+48	2019-02-12 15:00:00.000	469	93	58	489
+49	2019-02-12 15:00:00.000	676	100	2	309
+50	2019-02-12 15:00:00.000	349	522	58	512
+51	2019-02-12 15:00:00.000	565	678	24	157
+52	2019-02-12 16:00:00.000	393	215	2	360
+53	2019-02-12 16:00:00.000	709	519	37	187
+54	2019-02-12 16:00:00.000	139	520	2	232
+55	2019-02-12 16:00:00.000	40	561	58	299
+56	2019-02-12 16:00:00.000	153	612	58	336
+57	2019-02-12 16:15:00.000	123	538	59	268
+58	2019-02-12 16:30:00.000	271	278	50	558
+59	2019-02-12 16:30:00.000	263	283	50	302
+60	2019-02-12 16:30:00.000	466	386	2	127
+61	2019-02-12 16:30:00.000	48	761	2	187
+62	2019-02-12 17:00:00.000	151	110	2	522
+63	2019-02-12 17:00:00.000	598	251	50	548
+64	2019-02-12 17:00:00.000	249	252	62	58
+65	2019-02-12 17:00:00.000	305	258	50	30
+66	2019-02-12 17:00:00.000	248	276	50	217
+67	2019-02-12 17:00:00.000	265	280	50	540
+68	2019-02-12 17:00:00.000	62	445	19	306
+69	2019-02-12 17:00:00.000	457	499	59	177
+70	2019-02-12 17:00:00.000	547	535	63	102
+71	2019-02-12 17:30:00.000	301	17	24	309
+72	2019-02-12 17:30:00.000	150	167	59	272
+73	2019-02-12 17:30:00.000	291	281	24	145
+74	2019-02-12 17:30:00.000	600	360	24	189
+75	2019-02-12 17:30:00.000	302	627	24	46
+76	2019-02-12 17:30:00.000	607	661	79	179
+77	2019-02-12 17:30:00.000	446	736	19	217
+78	2019-02-12 18:00:00.000	542	183	59	31
+79	2019-02-12 18:00:00.000	609	319	29	379
+80	2019-02-12 18:00:00.000	759	336	29	450
+81	2019-02-12 18:00:00.000	236	339	29	412
+82	2019-02-12 18:00:00.000	307	417	29	342
+83	2019-02-12 18:00:00.000	730	527	77	383
+84	2019-02-12 18:00:00.000	338	540	29	354
+85	2019-02-12 18:00:00.000	550	549	63	29
+86	2019-02-12 18:30:00.000	82	162	58	326
+87	2019-02-12 18:30:00.000	141	517	58	71
+88	2019-02-12 18:30:00.000	741	558	1	433
+89	2019-02-12 18:30:00.000	589	689	66	201
+90	2019-02-12 19:00:00.000	267	86	1	523
+91	2019-02-12 19:00:00.000	437	101	45	89
+92	2019-02-12 19:00:00.000	81	104	45	218
+93	2019-02-12 19:00:00.000	170	241	45	322
+94	2019-02-12 19:00:00.000	679	351	45	5
+95	2019-02-12 19:00:00.000	49	431	69	388
+96	2019-02-12 19:00:00.000	715	487	64	529
+97	2019-02-12 19:15:00.000	387	757	19	152
+98	2019-02-12 19:30:00.000	58	30	58	331
+99	2019-02-12 19:30:00.000	687	103	64	487
+100	2019-02-12 19:30:00.000	594	189	40	313
+101	2019-02-12 19:30:00.000	680	450	64	40
+102	2019-02-12 19:30:00.000	83	464	45	284
+103	2019-02-12 19:30:00.000	119	489	45	94
+104	2019-02-12 19:30:00.000	712	518	64	151
+105	2019-02-12 19:30:00.000	714	587	58	13
+106	2019-02-12 19:45:00.000	502	563	64	286
+107	2019-02-12 20:30:00.000	237	187	35	508
+108	2019-02-12 20:30:00.000	348	584	35	361
+109	2019-02-12 21:00:00.000	3	420	18	254
+110	2019-02-12 21:30:00.000	99	185	18	284
+111	2019-02-13 01:00:00.000	747	582	53	53
+112	2019-02-13 08:00:00.000	651	26	81	531
+113	2019-02-13 08:35:00.000	742	238	67	355
+114	2019-02-13 11:00:00.000	751	111	81	218
+115	2019-02-13 15:00:00.000	288	44	24	17
+116	2019-02-13 15:00:00.000	162	93	58	260
+117	2019-02-13 15:00:00.000	522	517	58	353
+118	2019-02-13 15:30:00.000	294	580	37	118
+119	2019-02-13 16:00:00.000	153	356	58	30
+120	2019-02-13 16:00:00.000	40	714	58	153
+121	2019-02-13 16:15:00.000	640	740	11	344
+122	2019-02-13 17:00:00.000	306	56	47	521
+123	2019-02-13 17:00:00.000	467	256	47	201
+124	2019-02-13 17:00:00.000	639	429	9	168
+125	2019-02-13 17:00:00.000	304	592	47	504
+126	2019-02-13 17:00:00.000	436	760	47	258
+127	2019-02-13 17:30:00.000	405	201	9	399
+128	2019-02-13 17:30:00.000	611	259	24	539
+129	2019-02-13 17:30:00.000	546	340	9	241
+130	2019-02-13 17:30:00.000	301	421	24	174
+131	2019-02-13 17:30:00.000	140	588	24	365
+132	2019-02-13 17:30:00.000	644	645	9	365
+133	2019-02-13 18:00:00.000	657	89	31	448
+134	2019-02-13 18:00:00.000	384	343	29	232
+135	2019-02-13 18:00:00.000	184	379	77	101
+136	2019-02-13 18:00:00.000	493	391	29	43
+137	2019-02-13 18:00:00.000	416	409	54	517
+138	2019-02-13 18:00:00.000	324	461	54	302
+139	2019-02-13 18:00:00.000	576	664	54	343
+140	2019-02-13 18:00:00.000	590	688	54	104
+141	2019-02-13 18:00:00.000	204	690	54	344
+142	2019-02-13 18:15:00.000	343	227	29	20
+143	2019-02-13 18:30:00.000	543	5	79	413
+144	2019-02-13 18:30:00.000	68	74	29	494
+145	2019-02-13 18:30:00.000	349	88	58	306
+146	2019-02-13 18:30:00.000	526	188	71	45
+147	2019-02-13 18:30:00.000	82	198	58	106
+148	2019-02-13 19:15:00.000	509	365	1	363
+149	2019-02-13 19:15:00.000	551	548	63	535
+150	2019-02-13 19:30:00.000	91	587	58	274
+151	2019-02-13 19:45:00.000	240	156	64	441
+152	2019-02-13 19:45:00.000	97	326	43	430
+153	2019-02-13 20:15:00.000	353	58	58	169
+154	2019-02-13 21:00:00.000	107	490	60	394
+155	2019-02-13 22:30:00.000	743	78	60	98
+156	2019-02-14 01:20:00.000	118	46	23	495
+157	2019-02-14 08:45:00.000	656	655	67	499
+158	2019-02-14 10:40:00.000	136	507	52	8
+159	2019-02-14 10:50:00.000	239	433	75	74
+160	2019-02-14 17:00:00.000	178	181	31	423
+161	2019-02-14 18:00:00.000	1	9	31	106
+162	2019-02-14 18:00:00.000	498	180	31	346
+163	2019-02-14 18:00:00.000	739	192	61	472
+164	2019-02-14 18:30:00.000	669	670	31	273
+165	2019-02-14 19:00:00.000	614	177	31	276
+166	2019-02-14 19:35:00.000	159	128	12	259
+167	2019-02-14 19:35:00.000	462	495	12	369
+168	2019-02-14 19:45:00.000	211	84	3	396
+169	2019-02-14 19:45:00.000	744	98	43	307
+170	2019-02-14 19:45:00.000	634	328	43	217
+171	2019-02-14 19:45:00.000	400	566	43	143
+172	2019-02-14 19:45:00.000	753	746	43	573
+173	2019-02-15 03:05:00.000	133	749	67	203
+174	2019-02-15 08:35:00.000	472	620	38	74
+175	2019-02-15 10:25:00.000	124	217	75	143
+176	2019-02-15 10:40:00.000	622	633	52	49
+177	2019-02-15 11:05:00.000	39	29	38	406
+178	2019-02-15 12:00:00.000	554	331	16	7
+179	2019-02-15 13:00:00.000	616	179	31	274
+180	2019-02-15 13:30:00.000	61	63	16	388
+181	2019-02-15 13:30:00.000	130	647	16	229
+182	2019-02-15 14:00:00.000	213	148	61	146
+183	2019-02-15 14:30:00.000	234	131	30	69
+184	2019-02-15 15:00:00.000	134	55	30	312
+185	2019-02-15 15:00:00.000	544	154	30	317
+186	2019-02-15 15:00:00.000	157	399	30	375
+187	2019-02-15 15:15:00.000	752	225	43	496
+188	2019-02-15 16:15:00.000	223	682	61	372
+189	2019-02-15 17:15:00.000	577	60	12	85
+190	2019-02-15 17:15:00.000	401	474	12	333
+191	2019-02-15 17:30:00.000	675	681	43	445
+192	2019-02-15 18:00:00.000	329	414	43	278
+193	2019-02-15 18:30:00.000	108	210	12	439
+194	2019-02-15 19:35:00.000	762	96	12	334
+195	2019-02-16 03:05:00.000	479	50	67	196
+196	2019-02-16 08:00:00.000	633	95	27	57
+197	2019-02-16 14:00:00.000	395	683	10	330
+198	2019-02-16 14:00:00.000	199	724	16	148
+199	2019-02-16 15:00:00.000	181	89	31	47
+200	2019-02-16 15:00:00.000	732	182	10	379
+201	2019-02-16 15:00:00.000	120	233	10	273
+202	2019-02-16 15:00:00.000	632	750	10	205
+203	2019-02-16 16:00:00.000	491	172	10	189
+204	2019-02-16 16:00:00.000	180	669	31	49
+205	2019-02-16 16:30:00.000	381	641	10	318
+206	2019-02-16 17:00:00.000	177	1	31	103
+207	2019-02-16 17:00:00.000	614	178	31	186
+208	2019-02-16 17:00:00.000	498	657	31	393
+209	2019-02-17 09:10:00.000	616	670	31	401
+210	2019-02-17 10:30:00.000	10	140	24	259
+211	2019-02-17 10:30:00.000	23	257	24	562
+212	2019-02-17 11:00:00.000	628	438	36	31
+213	2019-02-17 11:30:00.000	100	48	2	274
+214	2019-02-17 12:30:00.000	274	611	24	267
+215	2019-02-17 13:30:00.000	371	449	2	91
+216	2019-02-17 14:00:00.000	571	354	2	527
+217	2019-02-17 14:30:00.000	520	677	2	426
+218	2019-02-17 15:00:00.000	162	469	58	369
+219	2019-02-17 15:00:00.000	141	522	58	186
+220	2019-02-17 15:00:00.000	383	604	36	324
+221	2019-02-17 15:30:00.000	224	322	33	463
+222	2019-02-17 16:00:00.000	561	91	58	208
+223	2019-02-17 16:00:00.000	58	153	58	116
+224	2019-02-17 16:30:00.000	360	288	24	46
+225	2019-02-17 16:30:00.000	476	573	10	210
+226	2019-02-17 17:00:00.000	279	280	50	317
+227	2019-02-17 17:10:00.000	179	9	31	170
+228	2019-02-17 17:30:00.000	603	7	79	283
+229	2019-02-17 17:30:00.000	627	44	24	325
+230	2019-02-17 17:30:00.000	281	421	24	52
+231	2019-02-17 17:40:00.000	318	578	33	251
+232	2019-02-17 18:00:00.000	661	16	77	453
+233	2019-02-17 18:00:00.000	338	20	29	55
+234	2019-02-17 18:00:00.000	374	659	88	468
+235	2019-02-17 18:30:00.000	82	93	58	141
+236	2019-02-17 18:30:00.000	184	485	39	60
+237	2019-02-17 18:30:00.000	349	517	58	136
+238	2019-02-17 18:30:00.000	602	726	5	538
+239	2019-02-17 19:00:00.000	142	132	33	175
+240	2019-02-17 19:30:00.000	19	584	35	390
+241	2019-02-17 19:30:00.000	30	612	58	43
+242	2019-02-17 19:30:00.000	40	691	58	93
+243	2019-02-17 20:30:00.000	11	348	35	321
+244	2019-02-18 00:00:00.000	126	87	13	477
+245	2019-02-18 00:00:00.000	510	471	13	294
+246	2019-02-18 01:00:00.000	756	441	13	555
+247	2019-02-18 01:15:00.000	112	581	23	329
+248	2019-02-18 15:00:00.000	383	604	36	573
+249	2019-02-18 16:00:00.000	279	262	50	246
+250	2019-02-18 16:00:00.000	737	463	36	111
+251	2019-02-18 16:30:00.000	635	21	36	7
+252	2019-02-18 16:30:00.000	718	299	72	478
+253	2019-02-18 16:30:00.000	684	370	72	359
+254	2019-02-18 16:30:00.000	266	442	47	395
+255	2019-02-18 16:30:00.000	460	483	47	371
+256	2019-02-18 16:30:00.000	368	532	72	318
+257	2019-02-18 17:00:00.000	592	56	47	183
+258	2019-02-18 17:00:00.000	2	102	36	329
+259	2019-02-18 17:00:00.000	315	243	47	251
+260	2019-02-18 17:00:00.000	760	256	47	370
+261	2019-02-18 17:00:00.000	436	306	47	292
+262	2019-02-18 17:00:00.000	308	310	36	126
+263	2019-02-18 17:00:00.000	314	313	47	293
+264	2019-02-18 17:00:00.000	155	411	47	494
+265	2019-02-18 17:00:00.000	601	412	36	379
+266	2019-02-18 17:00:00.000	304	467	47	84
+267	2019-02-18 17:30:00.000	209	214	85	427
+268	2019-02-18 17:30:00.000	722	340	9	276
+269	2019-02-18 17:30:00.000	546	429	9	12
+270	2019-02-18 17:30:00.000	644	639	9	343
+271	2019-02-18 18:00:00.000	619	6	55	411
+272	2019-02-18 18:00:00.000	332	171	55	477
+273	2019-02-18 18:00:00.000	488	200	55	461
+274	2019-02-18 18:00:00.000	422	242	47	579
+275	2019-02-18 18:00:00.000	297	555	55	93
+276	2019-02-18 18:00:00.000	298	560	55	233
+277	2019-02-18 18:00:00.000	405	645	9	182
+278	2019-02-18 18:30:00.000	158	164	41	426
+279	2019-02-18 19:00:00.000	219	25	76	428
+280	2019-02-18 19:00:00.000	456	105	76	153
+281	2019-02-18 19:00:00.000	272	138	76	518
+282	2019-02-18 19:00:00.000	247	557	76	116
+283	2019-02-18 19:15:00.000	76	34	76	476
+284	2019-02-18 19:30:00.000	222	189	40	579
+285	2019-02-18 19:30:00.000	528	419	76	505
+286	2019-02-21 08:35:00.000	50	742	67	115
+287	2019-02-21 10:40:00.000	434	136	52	111
+288	2019-02-21 10:50:00.000	545	124	75	377
+289	2019-02-21 14:30:00.000	132	144	33	241
+290	2019-02-21 14:30:00.000	322	578	33	497
+291	2019-02-21 14:50:00.000	731	224	33	45
+292	2019-02-21 16:00:00.000	682	192	61	329
+293	2019-02-21 16:30:00.000	172	732	10	76
+294	2019-02-21 17:00:00.000	186	142	33	377
+295	2019-02-21 17:00:00.000	375	377	65	342
+296	2019-02-21 17:00:00.000	182	632	10	348
+297	2019-02-21 18:15:00.000	108	707	12	31
+298	2019-02-21 19:00:00.000	125	64	73	240
+299	2019-02-21 19:00:00.000	745	190	82	531
+300	2019-02-21 19:00:00.000	105	219	76	162
+301	2019-02-21 19:00:00.000	247	272	76	137
+302	2019-02-21 19:00:00.000	116	378	82	113
+303	2019-02-21 19:00:00.000	557	419	76	185
+304	2019-02-21 19:00:00.000	138	456	76	429
+305	2019-02-21 19:00:00.000	41	503	73	170
+306	2019-02-21 19:00:00.000	534	624	73	18
+307	2019-02-21 19:00:00.000	80	711	73	195
+308	2019-02-21 19:00:00.000	637	717	73	349
+309	2019-02-21 19:30:00.000	34	528	76	143
+310	2019-02-21 19:30:00.000	137	700	65	195
+311	2019-02-21 19:30:00.000	32	713	73	204
+312	2019-02-21 19:35:00.000	96	462	12	95
+313	2019-02-21 19:45:00.000	473	175	3	404
+314	2019-02-21 19:45:00.000	97	744	43	99
+315	2019-02-22 00:00:00.000	702	191	60	568
+316	2019-02-22 01:30:00.000	755	451	48	569
+317	2019-02-22 02:00:00.000	344	506	60	411
+318	2019-02-22 03:30:00.000	716	748	60	497
+319	2019-02-22 03:35:00.000	238	479	67	187
+320	2019-02-22 13:30:00.000	331	61	16	218
+321	2019-02-22 14:00:00.000	573	120	10	187
+322	2019-02-22 14:00:00.000	647	554	16	185
+323	2019-02-22 15:00:00.000	233	491	10	62
+324	2019-02-22 16:00:00.000	766	703	82	355
+325	2019-02-22 17:00:00.000	1	178	31	292
+326	2019-02-22 17:00:00.000	745	652	82	192
+327	2019-02-22 18:00:00.000	704	190	82	421
+328	2019-02-22 18:00:00.000	216	277	82	101
+329	2019-02-22 18:00:00.000	666	705	82	361
+330	2019-02-22 19:00:00.000	670	179	31	500
+331	2019-02-24 10:00:00.000	539	383	36	321
+332	2019-02-24 13:30:00.000	245	394	36	237
+333	2019-02-24 14:00:00.000	562	350	36	53
+334	2019-02-24 14:00:00.000	508	626	34	242
+335	2019-02-24 15:00:00.000	288	565	24	133
+336	2019-02-24 15:30:00.000	322	132	33	315
+337	2019-02-24 16:00:00.000	412	102	36	523
+338	2019-02-24 16:00:00.000	737	284	36	500
+339	2019-02-24 16:30:00.000	263	251	50	218
+340	2019-02-24 16:30:00.000	21	463	36	423
+341	2019-02-24 16:30:00.000	373	466	2	145
+342	2019-02-24 16:30:00.000	476	683	10	510
+343	2019-02-24 16:30:00.000	381	750	10	425
+344	2019-02-24 17:00:00.000	2	24	36	290
+345	2019-02-24 17:00:00.000	706	224	33	381
+346	2019-02-24 17:00:00.000	279	258	50	166
+347	2019-02-24 17:00:00.000	598	271	50	573
+348	2019-02-24 17:00:00.000	465	274	24	189
+349	2019-02-24 17:00:00.000	262	276	50	567
+350	2019-02-24 17:00:00.000	248	278	50	440
+351	2019-02-24 17:00:00.000	283	280	50	383
+352	2019-02-24 17:00:00.000	311	292	2	250
+353	2019-02-24 17:00:00.000	265	293	50	149
+354	2019-02-24 17:00:00.000	90	559	2	567
+355	2019-02-24 17:00:00.000	606	591	34	92
+356	2019-02-24 17:00:00.000	438	635	36	78
+357	2019-02-24 17:00:00.000	767	676	2	256
+358	2019-02-24 17:30:00.000	301	23	24	544
+359	2019-02-24 17:30:00.000	259	250	24	71
+360	2019-02-24 17:30:00.000	17	596	24	480
+361	2019-02-24 18:00:00.000	307	339	29	345
+362	2019-02-24 18:00:00.000	77	685	56	195
+363	2019-02-24 18:30:00.000	403	543	79	462
+364	2019-02-24 19:00:00.000	318	186	33	549
+365	2019-02-24 19:00:00.000	325	408	87	513
+366	2019-02-24 19:00:00.000	188	665	71	119
+367	2019-02-24 19:45:00.000	361	358	22	177
+368	2019-02-24 20:30:00.000	584	11	35	64
+369	2019-02-24 20:30:00.000	643	723	35	391
+370	2019-02-25 01:15:00.000	653	514	23	485
+371	2019-02-25 01:30:00.000	127	173	83	46
+372	2019-02-25 09:00:00.000	180	614	31	138
+373	2019-02-25 11:00:00.000	355	521	80	103
+374	2019-02-25 11:30:00.000	38	692	80	157
+375	2019-02-25 12:30:00.000	386	139	2	452
+376	2019-02-25 13:30:00.000	621	218	80	280
+377	2019-02-25 13:30:00.000	245	394	36	271
+378	2019-02-25 14:00:00.000	648	109	34	155
+379	2019-02-25 14:00:00.000	585	113	80	31
+380	2019-02-25 14:00:00.000	562	350	36	50
+381	2019-02-25 14:30:00.000	110	435	2	232
+382	2019-02-25 14:30:00.000	761	615	2	295
+383	2019-02-25 15:00:00.000	44	413	24	410
+384	2019-02-25 15:00:00.000	631	492	36	20
+385	2019-02-25 15:00:00.000	421	588	24	80
+386	2019-02-25 16:00:00.000	537	59	36	42
+387	2019-02-25 16:30:00.000	370	320	72	299
+388	2019-02-25 16:30:00.000	242	422	47	399
+389	2019-02-25 16:30:00.000	120	641	10	372
+390	2019-02-25 16:30:00.000	363	684	72	186
+391	2019-02-25 17:00:00.000	443	45	70	161
+392	2019-02-25 17:00:00.000	264	129	84	531
+393	2019-02-25 17:00:00.000	359	214	85	484
+394	2019-02-25 17:00:00.000	604	310	36	236
+395	2019-02-25 17:00:00.000	663	372	85	91
+396	2019-02-25 17:00:00.000	672	388	85	528
+397	2019-02-25 17:00:00.000	315	610	47	541
+398	2019-02-25 17:00:00.000	306	760	47	240
+399	2019-02-25 17:30:00.000	340	201	9	131
+400	2019-02-25 17:30:00.000	140	281	24	341
+401	2019-02-25 17:30:00.000	257	360	24	481
+402	2019-02-25 17:30:00.000	209	444	85	564
+403	2019-02-25 17:30:00.000	282	458	47	547
+404	2019-02-25 17:30:00.000	28	475	80	365
+405	2019-02-25 17:30:00.000	389	515	19	328
+406	2019-02-25 17:30:00.000	611	627	24	43
+407	2019-02-25 17:30:00.000	494	671	85	205
+408	2019-02-25 17:30:00.000	553	765	69	61
+409	2019-02-25 18:00:00.000	560	171	55	46
+410	2019-02-25 18:00:00.000	619	200	55	410
+411	2019-02-25 18:00:00.000	759	236	29	451
+412	2019-02-25 18:00:00.000	555	298	55	279
+413	2019-02-25 18:00:00.000	6	332	55	341
+414	2019-02-25 18:00:00.000	14	447	46	278
+415	2019-02-25 18:00:00.000	297	488	55	333
+416	2019-02-25 18:00:00.000	300	497	5	553
+417	2019-02-25 18:00:00.000	467	592	47	340
+418	2019-02-25 18:00:00.000	642	658	15	451
+419	2019-02-25 18:00:00.000	639	722	9	31
+420	2019-02-25 18:15:00.000	289	533	49	264
+421	2019-02-25 18:30:00.000	694	323	87	481
+422	2019-02-25 18:30:00.000	7	477	79	154
+423	2019-02-25 18:45:00.000	316	145	74	508
+424	2019-02-25 18:45:00.000	246	163	28	301
+425	2019-02-25 18:45:00.000	261	174	28	125
+426	2019-02-25 18:45:00.000	396	207	28	235
+427	2019-02-25 18:45:00.000	574	269	28	235
+428	2019-02-25 18:45:00.000	255	529	28	228
+429	2019-02-25 18:45:00.000	764	579	28	220
+430	2019-02-25 19:00:00.000	36	27	22	389
+431	2019-02-25 19:00:00.000	397	115	22	413
+432	2019-02-25 19:00:00.000	219	138	76	565
+433	2019-02-25 19:00:00.000	106	194	22	79
+434	2019-02-25 19:00:00.000	456	247	76	157
+435	2019-02-25 19:00:00.000	459	552	63	145
+436	2019-02-25 19:00:00.000	272	557	76	336
+437	2019-02-25 19:00:00.000	406	734	22	70
+438	2019-02-25 19:15:00.000	76	105	76	351
+439	2019-02-25 19:30:00.000	528	25	76	77
+440	2019-02-25 19:30:00.000	419	34	76	76
+441	2019-02-25 19:30:00.000	149	79	22	342
+442	2019-02-25 19:30:00.000	500	169	22	186
+443	2019-02-25 20:00:00.000	57	625	80	134
+444	2019-02-25 20:30:00.000	92	196	80	396
+445	2019-02-26 08:35:00.000	238	480	67	55
+446	2019-02-26 09:30:00.000	15	71	25	565
+447	2019-02-26 12:00:00.000	524	568	25	193
+448	2019-02-26 13:00:00.000	674	392	36	204
+449	2019-02-26 13:00:00.000	638	427	36	124
+450	2019-02-26 14:30:00.000	43	597	36	293
+451	2019-02-26 15:00:00.000	183	65	17	442
+452	2019-02-26 15:00:00.000	631	492	36	190
+453	2019-02-26 15:00:00.000	570	699	36	372
+454	2019-02-26 16:00:00.000	512	468	68	396
+455	2019-02-26 16:00:00.000	82	561	58	25
+456	2019-02-26 16:15:00.000	53	52	68	546
+457	2019-02-26 16:30:00.000	564	35	72	568
+458	2019-02-26 16:30:00.000	280	262	50	490
+459	2019-02-26 16:30:00.000	258	263	50	299
+460	2019-02-26 16:30:00.000	271	265	50	508
+461	2019-02-26 16:30:00.000	251	283	50	371
+462	2019-02-26 16:30:00.000	504	363	72	399
+463	2019-02-26 16:30:00.000	299	380	72	70
+464	2019-02-26 16:30:00.000	573	491	10	283
+465	2019-02-26 16:30:00.000	654	532	72	57
+466	2019-02-26 16:30:00.000	364	595	68	243
+467	2019-02-26 16:30:00.000	373	676	2	510
+468	2019-02-26 16:50:00.000	470	404	68	540
+469	2019-02-26 17:00:00.000	678	10	24	52
+470	2019-02-26 17:00:00.000	465	23	24	419
+471	2019-02-26 17:00:00.000	70	69	20	36
+472	2019-02-26 17:00:00.000	12	220	42	339
+473	2019-02-26 17:00:00.000	293	248	50	123
+474	2019-02-26 17:00:00.000	17	274	24	4
+475	2019-02-26 17:00:00.000	278	279	50	142
+476	2019-02-26 17:00:00.000	287	286	62	72
+477	2019-02-26 17:00:00.000	90	292	2	562
+478	2019-02-26 17:00:00.000	604	310	36	512
+479	2019-02-26 17:00:00.000	767	466	2	195
+480	2019-02-26 17:00:00.000	715	499	64	477
+481	2019-02-26 17:00:00.000	203	511	70	387
+482	2019-02-26 17:00:00.000	311	559	2	319
+483	2019-02-26 17:00:00.000	305	598	50	450
+484	2019-02-26 17:00:00.000	150	741	59	28
+485	2019-02-26 17:30:00.000	673	67	79	108
+486	2019-02-26 17:30:00.000	291	250	24	510
+487	2019-02-26 17:30:00.000	302	565	24	516
+488	2019-02-26 17:30:00.000	660	572	78	554
+489	2019-02-26 17:30:00.000	600	596	24	474
+490	2019-02-26 17:30:00.000	18	721	78	495
+491	2019-02-26 17:45:00.000	424	72	8	224
+492	2019-02-26 18:00:00.000	343	20	29	102
+493	2019-02-26 18:00:00.000	369	66	46	250
+494	2019-02-26 18:00:00.000	335	77	56	221
+495	2019-02-26 18:00:00.000	757	123	59	130
+496	2019-02-26 18:00:00.000	228	168	57	216
+497	2019-02-26 18:00:00.000	367	254	44	166
+498	2019-02-26 18:00:00.000	542	270	59	520
+499	2019-02-26 18:00:00.000	22	290	46	47
+500	2019-02-26 18:00:00.000	454	334	44	337
+501	2019-02-26 18:00:00.000	417	336	29	245
+502	2019-02-26 18:00:00.000	608	337	56	531
+503	2019-02-26 18:00:00.000	342	341	46	416
+504	2019-02-26 18:00:00.000	295	366	44	67
+505	2019-02-26 18:00:00.000	193	382	56	82
+506	2019-02-26 18:00:00.000	226	385	44	133
+507	2019-02-26 18:00:00.000	221	407	56	572
+508	2019-02-26 18:00:00.000	426	430	56	160
+509	2019-02-26 18:00:00.000	229	484	44	554
+510	2019-02-26 18:00:00.000	75	599	88	325
+511	2019-02-26 18:00:00.000	333	613	46	507
+512	2019-02-26 18:00:00.000	230	617	57	77
+513	2019-02-26 18:00:00.000	685	649	56	192
+514	2019-02-26 18:00:00.000	583	686	57	460
+515	2019-02-26 18:00:00.000	327	725	57	294
+516	2019-02-26 18:00:00.000	402	727	46	455
+517	2019-02-26 18:00:00.000	668	733	46	205
+518	2019-02-26 18:00:00.000	698	735	44	205
+519	2019-02-26 18:45:00.000	268	244	74	363
+520	2019-02-26 19:00:00.000	502	103	64	181
+521	2019-02-26 19:00:00.000	352	487	64	356
+522	2019-02-26 19:00:00.000	563	518	64	106
+523	2019-02-26 19:00:00.000	156	712	64	176
+524	2019-02-26 19:15:00.000	536	547	63	51
+525	2019-02-26 19:30:00.000	212	5	79	577
+526	2019-02-26 19:30:00.000	538	195	17	519
+527	2019-02-26 19:30:00.000	680	687	64	550
+528	2019-02-26 19:45:00.000	398	646	22	414
+529	2019-02-26 20:15:00.000	353	587	58	348
+530	2019-02-26 20:30:00.000	185	420	18	69
+531	2019-02-26 21:00:00.000	630	4	18	565
+532	2019-02-26 21:00:00.000	8	99	18	364
+533	2019-02-27 00:00:00.000	73	486	83	525
+534	2019-02-27 01:00:00.000	505	31	83	286
+535	2019-02-27 01:30:00.000	567	173	83	360
+536	2019-02-27 08:35:00.000	50	428	67	436
+537	2019-02-27 11:00:00.000	628	635	36	44
+538	2019-02-27 12:00:00.000	539	308	36	539
+539	2019-02-27 13:00:00.000	674	392	36	7
+540	2019-02-27 14:30:00.000	761	435	2	7
+541	2019-02-27 15:00:00.000	421	259	24	423
+542	2019-02-27 15:00:00.000	288	413	24	529
+543	2019-02-27 15:00:00.000	44	588	24	238
+544	2019-02-27 15:00:00.000	570	699	36	78
+545	2019-02-27 16:00:00.000	737	24	36	520
+546	2019-02-27 16:00:00.000	537	59	36	436
+547	2019-02-27 16:00:00.000	423	205	8	29
+548	2019-02-27 16:00:00.000	610	314	47	362
+549	2019-02-27 16:00:00.000	411	442	47	519
+550	2019-02-27 16:00:00.000	412	463	36	125
+551	2019-02-27 16:00:00.000	714	561	58	91
+552	2019-02-27 16:30:00.000	21	102	36	12
+553	2019-02-27 16:30:00.000	285	312	2	64
+554	2019-02-27 16:30:00.000	345	370	72	531
+555	2019-02-27 16:30:00.000	48	571	2	451
+556	2019-02-27 16:50:00.000	376	42	68	261
+557	2019-02-27 17:00:00.000	2	284	36	72
+558	2019-02-27 17:00:00.000	467	304	47	198
+559	2019-02-27 17:00:00.000	142	322	33	29
+560	2019-02-27 17:00:00.000	151	371	2	34
+561	2019-02-27 17:00:00.000	306	436	47	222
+562	2019-02-27 17:00:00.000	738	520	2	456
+563	2019-02-27 17:00:00.000	256	592	47	204
+564	2019-02-27 17:00:00.000	438	601	36	577
+565	2019-02-27 17:00:00.000	56	760	47	60
+566	2019-02-27 17:30:00.000	429	201	9	360
+567	2019-02-27 17:30:00.000	303	215	2	540
+568	2019-02-27 17:30:00.000	257	281	24	556
+569	2019-02-27 17:30:00.000	645	340	9	519
+570	2019-02-27 17:30:00.000	611	360	24	376
+571	2019-02-27 17:30:00.000	607	403	79	518
+572	2019-02-27 17:30:00.000	644	405	9	377
+573	2019-02-27 17:30:00.000	140	627	24	269
+574	2019-02-27 17:40:00.000	318	569	33	374
+575	2019-02-27 17:45:00.000	481	516	26	539
+576	2019-02-27 18:00:00.000	667	176	21	315
+577	2019-02-27 18:00:00.000	556	202	21	177
+578	2019-02-27 18:00:00.000	208	235	32	454
+579	2019-02-27 18:00:00.000	688	409	54	380
+580	2019-02-27 18:00:00.000	273	410	21	87
+581	2019-02-27 18:00:00.000	330	425	21	170
+582	2019-02-27 18:00:00.000	152	452	21	357
+583	2019-02-27 18:00:00.000	664	461	54	288
+584	2019-02-27 18:00:00.000	659	513	88	432
+585	2019-02-27 18:00:00.000	729	575	54	445
+586	2019-02-27 18:00:00.000	418	605	21	366
+587	2019-02-27 18:00:00.000	590	690	54	291
+588	2019-02-27 18:00:00.000	85	728	21	296
+589	2019-02-27 18:30:00.000	455	661	79	31
+590	2019-02-27 19:00:00.000	232	231	8	421
+591	2019-02-27 19:30:00.000	517	587	58	414
+592	2019-02-27 19:45:00.000	501	33	22	568
+593	2019-02-27 19:45:00.000	64	41	73	27
+594	2019-02-27 19:45:00.000	240	450	64	296
+595	2019-02-27 19:45:00.000	566	681	43	498
+596	2019-02-27 20:00:00.000	146	197	26	204
+597	2019-02-27 20:30:00.000	541	296	4	93
+598	2019-02-28 01:00:00.000	122	121	83	394
+599	2019-02-28 01:00:00.000	439	478	60	200
+600	2019-02-28 01:00:00.000	347	523	83	89
+601	2019-02-28 01:20:00.000	636	440	23	380
+602	2019-02-28 02:35:00.000	742	623	67	214
+603	2019-02-28 08:35:00.000	37	496	67	538
+604	2019-02-28 14:00:00.000	38	113	80	167
+605	2019-02-28 14:30:00.000	9	616	31	368
+606	2019-02-28 16:00:00.000	181	177	31	77
+607	2019-02-28 16:00:00.000	657	178	31	297
+608	2019-02-28 16:15:00.000	640	270	11	417
+609	2019-02-28 16:30:00.000	750	182	10	218
+610	2019-02-28 16:30:00.000	476	233	10	359
+611	2019-02-28 16:30:00.000	172	395	10	358
+612	2019-02-28 17:00:00.000	669	179	31	35
+613	2019-02-28 17:00:00.000	700	453	51	49
+614	2019-02-28 17:00:00.000	1	614	31	434
+615	2019-02-28 17:30:00.000	57	196	80	448
+616	2019-02-28 17:30:00.000	719	525	15	367
+617	2019-02-28 18:00:00.000	531	51	14	276
+618	2019-02-28 18:00:00.000	180	89	31	12
+619	2019-02-28 18:00:00.000	670	498	31	164
+620	2019-02-28 18:00:00.000	165	695	87	257
+621	2019-02-28 18:15:00.000	54	701	4	396
+622	2019-02-28 18:30:00.000	16	317	71	513
+623	2019-02-28 18:30:00.000	260	325	87	446
+624	2019-02-28 18:30:00.000	147	696	87	569
+625	2019-02-28 19:00:00.000	137	117	51	476
+626	2019-02-28 19:00:00.000	194	149	22	56
+627	2019-02-28 19:00:00.000	697	321	87	6
+628	2019-02-28 19:00:00.000	275	694	87	460
+629	2019-02-28 19:30:00.000	166	135	14	371
+630	2019-02-28 19:30:00.000	27	397	22	268
+631	2019-02-28 19:30:00.000	530	432	14	452
+632	2019-02-28 19:30:00.000	593	650	14	182
+633	2019-02-28 19:30:00.000	415	758	14	467
+634	2019-02-28 19:35:00.000	159	60	12	360
+635	2019-02-28 19:35:00.000	96	108	12	273
+636	2019-02-28 19:45:00.000	634	97	43	103
+637	2019-02-28 19:45:00.000	482	154	30	165
+638	2019-02-28 19:45:00.000	753	328	43	86
+639	2019-02-28 19:45:00.000	357	399	30	453
+640	2019-02-28 19:45:00.000	400	675	43	530
+641	2019-02-28 19:45:00.000	744	746	43	212
+642	2019-02-28 20:00:00.000	92	625	80	321
+643	2019-02-28 20:30:00.000	708	720	4	283

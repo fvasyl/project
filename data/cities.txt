@@ -1,580 +1,580 @@
-﻿CityName	CountryRegionCode
-Southfield	US
-Seattle	US
-Bendigo	AU
-San Mateo	US
-Saint Matthews	US
-Chalk Riber	CA
-Huntsville	US
-Suwanee	US
-Kirkby	GB
-Springdale	US
-Abingdon	GB
-Sammamish	US
-Maidenhead	GB
-Downey	US
-Fullerton	US
-Augsburg	DE
-Woonsocket	US
-Aujan Mournede	FR
-Denver	US
-Federal Way	US
-Port Macquarie	AU
-Pnot-Rouge	CA
-Lincoln Acres	US
-Cloverdale	AU
-Erlangen	DE
-Racine	US
-Orange	US
-Casper	US
-Carol Stream	US
-Elk Grove	US
-Carson	US
-Roncq	FR
-Kittery	US
-Irvine	US
-Baldwin Park	US
-Shelton	US
-Hillsboro	US
-Bobigny	FR
-Cambridge	US
-Saginaw	US
-South Melbourne	AU
-Sydney	AU
-Kannapolis	US
-Warwick	US
-Sulzbach Taunus	DE
-Cambridge	GB
-Garland	US
-Bell Gardens	US
-Philadelphia	US
-Lynnwood	US
-Cliffside	CA
-W. York	GB
-National City	US
-Redford	US
-Matraville	AU
-Newcastle	AU
-N. Vancouver	CA
-Kennewick	US
-Milwaukie	US
-Jefferson City	US
-Ellensburg	US
-Hixson	US
-Stockton	US
-Woolston	GB
-Burnaby	CA
-Everett	US
-Edmonds	US
-Mosinee	US
-Park City	US
-Sacramento	US
-Saint-Denis	FR
-Port Orchard	US
-North York	CA
-Tigard	US
-Ferguson	US
-Cheyenne	US
-Hooksett	US
-Charlotte	US
-Gulfport	US
-Metchosin	CA
-Lane Cove	AU
-Baytown	US
-Oregon City	US
-St. Leonards	AU
-Cincinnati	US
-Glendale	US
-Modesto	US
-Richmond	CA
-Altadena	US
-Sèvres	FR
-Newport Hills	US
-Corpus Christi	US
-Fort Wayne	US
-Montgomery	US
-Sedro Woolley	US
-Ontario	US
-Bradenton	US
-Medford	US
-Hamden	US
-Englewood	US
-Mesa	US
-La Vergne	US
-Midland	US
-Kenmore	US
-Portland	US
-Sainte-Foy	CA
-Moline	US
-Brossard	CA
-Newport News	US
-Sequim	US
-Wood Dale	US
-San Antonio	US
-Branson	US
-Fort Worth	US
-Round Rock	US
-Whittier	US
-Woodinville	US
-Augusta	US
-Virginia Beach	US
-Pantin	FR
-Oakland	US
-Stamford	US
-Toronto	CA
-Suresnes	FR
-Gloucestershire	GB
-Burbank	US
-Beverly Hills	US
-Norridge	US
-Myrtle Beach	US
-Tremblay-en-France	FR
-Yakima	US
-Port Huron	US
-Sillery	CA
-Central Valley	US
-Saint Louis	US
-San Jose	US
-Loveland	US
-Odessa	US
-Millington	US
-Solingen	DE
-Kansas City	US
-Mill Valley	US
-Boulogne-sur-Mer	FR
-Nashua	US
-Brisbane	AU
-Boston	US
-Escondido	US
-Eilenburg	DE
-Kingston	CA
-Wokingham	GB
-Braintree	US
-Hamburg	DE
-Elgin	US
-Johnson Creek	US
-Burlingame	US
-Oak Bay	CA
-Sugar Land	US
-Coronado	US
-Memphis	US
-Gold Coast	AU
-Citrus Heights	US
-Hawthorne	AU
-Townsville	AU
-Winston-Salem	US
-Basingstoke Hants	GB
-Santa Monica	US
-Spring Valley	US
-North Las Vegas	US
-Greensboro	US
-Falls Church	US
-Farmington	US
-Los Angeles	US
-Merritt Island	US
-West Kingston	US
-Berkeley	US
-Santa Cruz	US
-Newport	US
-San Carlos	US
-Richmond	US
-Westland	US
-Seaford	AU
-Clackamas	US
-Richmond Hill	CA
-Sunrise	US
-Somerset	US
-Bellflower	US
-Lemon Grove	US
-Saugus	US
-Tampa	US
-Santa Ana	US
-Rockhampton	AU
-De Witt	US
-Gilbert	US
-Salzgitter	DE
-Hayward	US
-Hervey Bay	AU
-Missoula	US
-Melville	US
-Saint Ann	US
-Alhambra	US
-North Ryde	AU
-Esher-Molesey	GB
-Southgate	US
-Monrovia	US
-Mesquite	US
-Fremont	US
-Sarasota	US
-Norwood	US
-Cheltenham	GB
-Rio Rancho	US
-Palo Alto	US
-Michigan City	US
-Markham	CA
-Daleville	US
-Clarkston	US
-Chehalis	US
-Duluth	US
-Darlinghurst	AU
-Kent	US
-Findon	AU
-Milpitas	US
-Ogden	US
-Duvall	US
-Cranbourne	AU
-Ingolstadt	DE
-Marietta	US
-Edina	US
-Lake Oswego	US
-Decatur	US
-Minneapolis	US
-Lacey	US
-Paris	FR
-Phoenix	US
-Kendall	US
-Rock Springs	US
-Branch	US
-Lakeland	US
-Melbourne	AU
-Camarillo	US
-Las Cruces	US
-Mansfield	US
-Kirkland	US
-Clearwater	US
-Scarborough	CA
-Milsons Point	AU
-Crossville	US
-Puyallup	US
-Chicago	US
-Longview	US
-Dresden	DE
-Courbevoie	FR
-Sand City	US
-Savannah	US
-Berkshire	GB
-Tupelo	US
-El Segundo	US
-Springwood	AU
-Versailles	FR
-Novi	US
-Sunbury	AU
-Columbus	US
-Münster	DE
-Frankfurt	DE
-Bellevue	US
-Geelong	AU
-Saint John	CA
-Vancouver	CA
-Norwalk	US
-St. Louis	US
-Mobile	US
-Lille	FR
-Kelso	US
-Santa Fe	US
-Drancy	FR
-Biloxi	US
-Orleans	FR
-Peterborough	GB
-Snohomish	US
-Nashville	US
-San Francisco	US
-Idaho Falls	US
-Grossmont	US
-Newcastle upon Tyne	GB
-Ithaca	US
-Werne	DE
-Plano	US
-Outremont	CA
-Irving	US
-Saarbrücken	DE
-South Bend	US
-Wrentham	US
-Longmont	US
-Denby	US
-San Gabriel	US
-Oberlin	US
-Liverpool	GB
-Upland	US
-London	GB
-Roubaix	FR
-Heath	US
-Kingsport	US
-San Ysidro	US
-Billericay	GB
-Zeeland	US
-Corvallis	US
-Burien	US
-Etobicoke	CA
-La Marque	US
-West Chicago	US
-North Bend	US
-Las Vegas	US
-Lebanon	US
-El Cajon	US
-Lancaster	GB
-Gateshead	GB
-Tucson	US
-Bonn	DE
-Woodbury	US
-Colma	US
-Reno	US
-Index	US
-Carnation	US
-Caloundra	AU
-Van Nuys	US
-Mühlheim	DE
-Malabar	AU
-Westport	US
-Warrnambool	AU
-Stoke-on-Trent	GB
-Vacaville	US
-Washougal	US
-Scottsdale	US
-Redmond	US
-Bothell	US
-Ville De'anjou	CA
-Hobart	AU
-Pontiac	US
-Barrie	CA
-Hannover	DE
-Monroe	US
-Plaistow	US
-Sooke	CA
-Paris La Defense	FR
-City Of Commerce	US
-Destin	US
-Reading	GB
-Essen	DE
-Beaverton	US
-San Bruno	US
-North Randall	US
-Melton	AU
-Offenbach	DE
-Joliet	US
-Chantilly	US
-Tuscola	US
-La Mesa	US
-Nevada	US
-Euclid	US
-Cerritos	US
-Greeley	US
-Mentor	US
-Riverton	US
-Anacortes	US
-Bury	GB
-College Station	US
-Berks	GB
-Eureka	US
-Birmingham	US
-Metz	FR
-Ascheim	DE
-Lake Elsinore	US
-Sherman Oaks	US
-Redwood City	US
-Birmingham	GB
-Goulburn	AU
-Cheektowaga	US
-Roissy en Brie	FR
-Lavender Bay	AU
-Sandy	US
-Killeen	US
-Hollywood	US
-Barstow	US
-Verrieres Le Buisson	FR
-W. Linn	US
-Royal Oak	CA
-Colomiers	FR
-North Miami Beach	US
-Gilroy	US
-Rocky Mount	US
-Holland	US
-Billings	US
-Dallas	US
-Culver City	US
-Visalia	US
-La Grange	US
-Bracknell	GB
-North Sydney	AU
-Imperial Beach	US
-Nepean	CA
-Gold Bar	US
-New Castle	US
-East Haven	US
-Bottrop	DE
-Marysville	US
-Chula Vista	US
-Atlanta	US
-Muehlheim	DE
-Lieusaint	FR
-Simi Valley	US
-Chatou	FR
-New York	US
-Port Hammond	CA
-Warrington	GB
-Silverwater	AU
-Vista	US
-Lakewood	US
-Austell	US
-York	GB
-Concord	US
-Troutdale	US
-Stafford	US
-Renton	US
-Milwaukee	US
-Houston	US
-Valley Stream	US
-Darmstadt	DE
-Peoria	US
-Croix	FR
-Union Gap	US
-Woodburn	US
-Tooele	US
-Hanford	US
-Kassel	DE
-Bellingham	US
-Poing	DE
-Surrey	CA
-Albany	US
-Cergy	FR
-North Sioux City	US
-München	DE
-Saint Germain en Laye	FR
-Clay	US
-Hof	DE
-Calgary	CA
-Canoga Park	US
-Sandpoint	US
-Maryville	US
-Orlando	US
-Miami	US
-Perth	AU
-Humble	US
-Colombes	FR
-Austin	US
-San Ramon	US
-Saint Ouen	FR
-Aurora	CA
-Haney	CA
-Kanata	CA
-Winnipeg	CA
-Spokane	US
-Madison Heights	US
-Braunschweig	DE
-Stuttgart	DE
-Watford	GB
-Rhodes	AU
-Westminster	US
-Saarlouis	DE
-Duesseldorf	DE
-Laredo	US
-Coffs Harbour	AU
-Edmonton	CA
-Milford	US
-Frankfurt am Main	DE
-Leesburg	US
-San Diego	US
-Bluffton	US
-Neunkirchen	DE
-La Jolla	US
-Bremerton	US
-Detroit	US
-Paderborn	DE
-Logansport	US
-West Covina	US
-Florence	US
-High Wycombe	GB
-Torrance	US
-Dorval	CA
-Salt Lake City	US
-Pigeon Forge	US
-Redlands	US
-Newport Beach	US
-Langford	CA
-Oxford	GB
-Walnut Creek	US
-Klamath Falls	US
-Raleigh	US
-Parker	US
-Mississauga	CA
-Sparks	US
-Fontana	US
-Smithfield	US
-Ballard	US
-Westminster	CA
-Indianapolis	US
-Trabuco Canyon	US
-Boise	US
-East Brisbane	AU
-Morangis	FR
-Weston	CA
-Leipzig	DE
-Issaquah	US
-Berlin	DE
-Walla Walla	US
-Cedar Park	US
-Runcorn	GB
-Ottawa	CA
-Bordeaux	FR
-Leeds	GB
-Endicott	US
-New Hartford	US
-Kiel	DE
-Altamonte Springs	US
-Les Ulis	FR
-Shawnee	CA
-Baltimore	US
-Bountiful	US
-Alpine	US
-Campbellsville	US
-Chandler	US
-Fernley	US
-Tilton	US
-Newark	US
-Springfield	US
-Union City	US
-Arlington	US
-Novato	US
-Bad Soden	DE
-Oxon	GB
-Alexandria	AU
-Carrollton	US
-Milton Keynes	GB
-Oxnard	US
-Newton	CA
-New Haven	US
-Montreal	CA
-Wenatchee	US
-Waterloo	CA
-Woodland Hills	US
-Randolph	US
-West Sussex	GB
-Villeneuve-d'Ascq	FR
-Langley	CA
-Mcdonough	US
-Lewiston	US
-Olympia	US
-Pleasanton	US
-Quebec	CA
-Cedar City	US
-Auburn	US
-Long Beach	US
-Hull	CA
-Surprise	US
-Lake George	US
-Waterbury	US
-Tacoma	US
-Byron	US
-Gaffney	US
-Howell	US
-Vero Beach	US
-Victoria	CA
-Grevenbroich	DE
-Dunkerque	FR
-Wollongong	AU
-Boulogne-Billancourt	FR
-Orly	FR
-Salem	US
-Brampton	CA
-Daly City	US
-Great Falls	US
+﻿CityID	CountryCode	CityName
+1	US 	Southfield
+2	US 	Seattle
+3	AU 	Bendigo
+4	US 	San Mateo
+5	US 	Saint Matthews
+6	CA 	Chalk Riber
+7	US 	Huntsville
+8	US 	Suwanee
+9	GB 	Kirkby
+10	US 	Springdale
+11	GB 	Abingdon
+12	US 	Sammamish
+13	GB 	Maidenhead
+14	US 	Downey
+15	US 	Fullerton
+16	DE 	Augsburg
+17	US 	Woonsocket
+18	FR 	Aujan Mournede
+19	US 	Denver
+20	US 	Federal Way
+21	AU 	Port Macquarie
+22	CA 	Pnot-Rouge
+23	US 	Lincoln Acres
+24	AU 	Cloverdale
+25	DE 	Erlangen
+26	US 	Racine
+27	US 	Orange
+28	US 	Casper
+29	US 	Carol Stream
+30	US 	Elk Grove
+31	US 	Carson
+32	FR 	Roncq
+33	US 	Kittery
+34	US 	Irvine
+35	US 	Baldwin Park
+36	US 	Shelton
+37	US 	Hillsboro
+38	FR 	Bobigny
+39	US 	Cambridge
+40	US 	Saginaw
+41	AU 	South Melbourne
+42	AU 	Sydney
+43	US 	Kannapolis
+44	US 	Warwick
+45	DE 	Sulzbach Taunus
+46	GB 	Cambridge
+47	US 	Garland
+48	US 	Bell Gardens
+49	US 	Philadelphia
+50	US 	Lynnwood
+51	CA 	Cliffside
+52	GB 	W. York
+53	US 	National City
+54	US 	Redford
+55	AU 	Matraville
+56	AU 	Newcastle
+57	CA 	N. Vancouver
+58	US 	Kennewick
+59	US 	Milwaukie
+60	US 	Jefferson City
+61	US 	Ellensburg
+62	US 	Hixson
+63	US 	Stockton
+64	GB 	Woolston
+65	CA 	Burnaby
+66	US 	Everett
+67	US 	Edmonds
+68	US 	Mosinee
+69	US 	Park City
+70	US 	Sacramento
+71	FR 	Saint-Denis
+72	US 	Port Orchard
+73	CA 	North York
+74	US 	Tigard
+75	US 	Ferguson
+76	US 	Cheyenne
+77	US 	Hooksett
+78	US 	Charlotte
+79	US 	Gulfport
+80	CA 	Metchosin
+81	AU 	Lane Cove
+82	US 	Baytown
+83	US 	Oregon City
+84	AU 	St. Leonards
+85	US 	Cincinnati
+86	US 	Glendale
+87	US 	Modesto
+88	CA 	Richmond
+89	US 	Altadena
+90	FR 	Sèvres
+91	US 	Newport Hills
+92	US 	Corpus Christi
+93	US 	Fort Wayne
+94	US 	Montgomery
+95	US 	Sedro Woolley
+96	US 	Ontario
+97	US 	Bradenton
+98	US 	Medford
+99	US 	Hamden
+100	US 	Englewood
+101	US 	Mesa
+102	US 	La Vergne
+103	US 	Midland
+104	US 	Kenmore
+105	US 	Portland
+106	CA 	Sainte-Foy
+107	US 	Moline
+108	CA 	Brossard
+109	US 	Newport News
+110	US 	Sequim
+111	US 	Wood Dale
+112	US 	San Antonio
+113	US 	Branson
+114	US 	Fort Worth
+115	US 	Round Rock
+116	US 	Whittier
+117	US 	Woodinville
+118	US 	Augusta
+119	US 	Virginia Beach
+120	FR 	Pantin
+121	US 	Oakland
+122	US 	Stamford
+123	CA 	Toronto
+124	FR 	Suresnes
+125	GB 	Gloucestershire
+126	US 	Burbank
+127	US 	Beverly Hills
+128	US 	Norridge
+129	US 	Myrtle Beach
+130	FR 	Tremblay-en-France
+131	US 	Yakima
+132	US 	Port Huron
+133	CA 	Sillery
+134	US 	Central Valley
+135	US 	Saint Louis
+136	US 	San Jose
+137	US 	Loveland
+138	US 	Odessa
+139	US 	Millington
+140	DE 	Solingen
+141	US 	Kansas City
+142	US 	Mill Valley
+143	FR 	Boulogne-sur-Mer
+144	US 	Nashua
+145	AU 	Brisbane
+146	US 	Boston
+147	US 	Escondido
+148	DE 	Eilenburg
+149	CA 	Kingston
+150	GB 	Wokingham
+151	US 	Braintree
+152	DE 	Hamburg
+153	US 	Elgin
+154	US 	Johnson Creek
+155	US 	Burlingame
+156	CA 	Oak Bay
+157	US 	Sugar Land
+158	US 	Coronado
+159	US 	Memphis
+160	AU 	Gold Coast
+161	US 	Citrus Heights
+162	AU 	Hawthorne
+163	AU 	Townsville
+164	US 	Winston-Salem
+165	GB 	Basingstoke Hants
+166	US 	Santa Monica
+167	US 	Spring Valley
+168	US 	North Las Vegas
+169	US 	Greensboro
+170	US 	Falls Church
+171	US 	Farmington
+172	US 	Los Angeles
+173	US 	Merritt Island
+174	US 	West Kingston
+175	US 	Berkeley
+176	US 	Santa Cruz
+177	US 	Newport
+178	US 	San Carlos
+179	US 	Richmond
+180	US 	Westland
+181	AU 	Seaford
+182	US 	Clackamas
+183	CA 	Richmond Hill
+184	US 	Sunrise
+185	US 	Somerset
+186	US 	Bellflower
+187	US 	Lemon Grove
+188	US 	Saugus
+189	US 	Tampa
+190	US 	Santa Ana
+191	AU 	Rockhampton
+192	US 	De Witt
+193	US 	Gilbert
+194	DE 	Salzgitter
+195	US 	Hayward
+196	AU 	Hervey Bay
+197	US 	Missoula
+198	US 	Melville
+199	US 	Saint Ann
+200	US 	Alhambra
+201	AU 	North Ryde
+202	GB 	Esher-Molesey
+203	US 	Southgate
+204	US 	Monrovia
+205	US 	Mesquite
+206	US 	Fremont
+207	US 	Sarasota
+208	US 	Norwood
+209	GB 	Cheltenham
+210	US 	Rio Rancho
+211	US 	Palo Alto
+212	US 	Michigan City
+213	CA 	Markham
+214	US 	Daleville
+215	US 	Clarkston
+216	US 	Chehalis
+217	US 	Duluth
+218	AU 	Darlinghurst
+219	US 	Kent
+220	AU 	Findon
+221	US 	Milpitas
+222	US 	Ogden
+223	US 	Duvall
+224	AU 	Cranbourne
+225	DE 	Ingolstadt
+226	US 	Marietta
+227	US 	Edina
+228	US 	Lake Oswego
+229	US 	Decatur
+230	US 	Minneapolis
+231	US 	Lacey
+232	FR 	Paris
+233	US 	Phoenix
+234	US 	Kendall
+235	US 	Rock Springs
+236	US 	Branch
+237	US 	Lakeland
+238	AU 	Melbourne
+239	US 	Camarillo
+240	US 	Las Cruces
+241	US 	Mansfield
+242	US 	Kirkland
+243	US 	Clearwater
+244	CA 	Scarborough
+245	AU 	Milsons Point
+246	US 	Crossville
+247	US 	Puyallup
+248	US 	Chicago
+249	US 	Longview
+250	DE 	Dresden
+251	FR 	Courbevoie
+252	US 	Sand City
+253	US 	Savannah
+254	GB 	Berkshire
+255	US 	Tupelo
+256	US 	El Segundo
+257	AU 	Springwood
+258	FR 	Versailles
+259	US 	Novi
+260	AU 	Sunbury
+261	US 	Columbus
+262	DE 	Münster
+263	DE 	Frankfurt
+264	US 	Bellevue
+265	AU 	Geelong
+266	CA 	Saint John
+267	CA 	Vancouver
+268	US 	Norwalk
+269	US 	St. Louis
+270	US 	Mobile
+271	FR 	Lille
+272	US 	Kelso
+273	US 	Santa Fe
+274	FR 	Drancy
+275	US 	Biloxi
+276	FR 	Orleans
+277	GB 	Peterborough
+278	US 	Snohomish
+279	US 	Nashville
+280	US 	San Francisco
+281	US 	Idaho Falls
+282	US 	Grossmont
+283	GB 	Newcastle upon Tyne
+284	US 	Ithaca
+285	DE 	Werne
+286	US 	Plano
+287	CA 	Outremont
+288	US 	Irving
+289	DE 	Saarbrücken
+290	US 	South Bend
+291	US 	Wrentham
+292	US 	Longmont
+293	US 	Denby
+294	US 	San Gabriel
+295	US 	Oberlin
+296	GB 	Liverpool
+297	US 	Upland
+298	GB 	London
+299	FR 	Roubaix
+300	US 	Heath
+301	US 	Kingsport
+302	US 	San Ysidro
+303	GB 	Billericay
+304	US 	Zeeland
+305	US 	Corvallis
+306	US 	Burien
+307	CA 	Etobicoke
+308	US 	La Marque
+309	US 	West Chicago
+310	US 	North Bend
+311	US 	Las Vegas
+312	US 	Lebanon
+313	US 	El Cajon
+314	GB 	Lancaster
+315	GB 	Gateshead
+316	US 	Tucson
+317	DE 	Bonn
+318	US 	Woodbury
+319	US 	Colma
+320	US 	Reno
+321	US 	Index
+322	US 	Carnation
+323	AU 	Caloundra
+324	US 	Van Nuys
+325	DE 	Mühlheim
+326	AU 	Malabar
+327	US 	Westport
+328	AU 	Warrnambool
+329	GB 	Stoke-on-Trent
+330	US 	Vacaville
+331	US 	Washougal
+332	US 	Scottsdale
+333	US 	Redmond
+334	US 	Bothell
+335	CA 	Ville De'anjou
+336	AU 	Hobart
+337	US 	Pontiac
+338	CA 	Barrie
+339	DE 	Hannover
+340	US 	Monroe
+341	US 	Plaistow
+342	CA 	Sooke
+343	FR 	Paris La Defense
+344	US 	City Of Commerce
+345	US 	Destin
+346	GB 	Reading
+347	DE 	Essen
+348	US 	Beaverton
+349	US 	San Bruno
+350	US 	North Randall
+351	AU 	Melton
+352	DE 	Offenbach
+353	US 	Joliet
+354	US 	Chantilly
+355	US 	Tuscola
+356	US 	La Mesa
+357	US 	Nevada
+358	US 	Euclid
+359	US 	Cerritos
+360	US 	Greeley
+361	US 	Mentor
+362	US 	Riverton
+363	US 	Anacortes
+364	GB 	Bury
+365	US 	College Station
+366	GB 	Berks
+367	US 	Eureka
+368	US 	Birmingham
+369	FR 	Metz
+370	DE 	Ascheim
+371	US 	Lake Elsinore
+372	US 	Sherman Oaks
+373	US 	Redwood City
+374	GB 	Birmingham
+375	AU 	Goulburn
+376	US 	Cheektowaga
+377	FR 	Roissy en Brie
+378	AU 	Lavender Bay
+379	US 	Sandy
+380	US 	Killeen
+381	US 	Hollywood
+382	US 	Barstow
+383	FR 	Verrieres Le Buisson
+384	US 	W. Linn
+385	CA 	Royal Oak
+386	FR 	Colomiers
+387	US 	North Miami Beach
+388	US 	Gilroy
+389	US 	Rocky Mount
+390	US 	Holland
+391	US 	Billings
+392	US 	Dallas
+393	US 	Culver City
+394	US 	Visalia
+395	US 	La Grange
+396	GB 	Bracknell
+397	AU 	North Sydney
+398	US 	Imperial Beach
+399	CA 	Nepean
+400	US 	Gold Bar
+401	US 	New Castle
+402	US 	East Haven
+403	DE 	Bottrop
+404	US 	Marysville
+405	US 	Chula Vista
+406	US 	Atlanta
+407	DE 	Muehlheim
+408	FR 	Lieusaint
+409	US 	Simi Valley
+410	FR 	Chatou
+411	US 	New York
+412	CA 	Port Hammond
+413	GB 	Warrington
+414	AU 	Silverwater
+415	US 	Vista
+416	US 	Lakewood
+417	US 	Austell
+418	GB 	York
+419	US 	Concord
+420	US 	Troutdale
+421	US 	Stafford
+422	US 	Renton
+423	US 	Milwaukee
+424	US 	Houston
+425	US 	Valley Stream
+426	DE 	Darmstadt
+427	US 	Peoria
+428	FR 	Croix
+429	US 	Union Gap
+430	US 	Woodburn
+431	US 	Tooele
+432	US 	Hanford
+433	DE 	Kassel
+434	US 	Bellingham
+435	DE 	Poing
+436	CA 	Surrey
+437	US 	Albany
+438	FR 	Cergy
+439	US 	North Sioux City
+440	DE 	München
+441	FR 	Saint Germain en Laye
+442	US 	Clay
+443	DE 	Hof
+444	CA 	Calgary
+445	US 	Canoga Park
+446	US 	Sandpoint
+447	US 	Maryville
+448	US 	Orlando
+449	US 	Miami
+450	AU 	Perth
+451	US 	Humble
+452	FR 	Colombes
+453	US 	Austin
+454	US 	San Ramon
+455	FR 	Saint Ouen
+456	CA 	Aurora
+457	CA 	Haney
+458	CA 	Kanata
+459	CA 	Winnipeg
+460	US 	Spokane
+461	US 	Madison Heights
+462	DE 	Braunschweig
+463	DE 	Stuttgart
+464	GB 	Watford
+465	AU 	Rhodes
+466	US 	Westminster
+467	DE 	Saarlouis
+468	DE 	Duesseldorf
+469	US 	Laredo
+470	AU 	Coffs Harbour
+471	CA 	Edmonton
+472	US 	Milford
+473	DE 	Frankfurt am Main
+474	US 	Leesburg
+475	US 	San Diego
+476	US 	Bluffton
+477	DE 	Neunkirchen
+478	US 	La Jolla
+479	US 	Bremerton
+480	US 	Detroit
+481	DE 	Paderborn
+482	US 	Logansport
+483	US 	West Covina
+484	US 	Florence
+485	GB 	High Wycombe
+486	US 	Torrance
+487	CA 	Dorval
+488	US 	Salt Lake City
+489	US 	Pigeon Forge
+490	US 	Redlands
+491	US 	Newport Beach
+492	CA 	Langford
+493	GB 	Oxford
+494	US 	Walnut Creek
+495	US 	Klamath Falls
+496	US 	Raleigh
+497	US 	Parker
+498	CA 	Mississauga
+499	US 	Sparks
+500	US 	Fontana
+501	US 	Smithfield
+502	US 	Ballard
+503	CA 	Westminster
+504	US 	Indianapolis
+505	US 	Trabuco Canyon
+506	US 	Boise
+507	AU 	East Brisbane
+508	FR 	Morangis
+509	CA 	Weston
+510	DE 	Leipzig
+511	US 	Issaquah
+512	DE 	Berlin
+513	US 	Walla Walla
+514	US 	Cedar Park
+515	GB 	Runcorn
+516	CA 	Ottawa
+517	FR 	Bordeaux
+518	GB 	Leeds
+519	US 	Endicott
+520	US 	New Hartford
+521	DE 	Kiel
+522	US 	Altamonte Springs
+523	FR 	Les Ulis
+524	CA 	Shawnee
+525	US 	Baltimore
+526	US 	Bountiful
+527	US 	Alpine
+528	US 	Campbellsville
+529	US 	Chandler
+530	US 	Fernley
+531	US 	Tilton
+532	US 	Newark
+533	US 	Springfield
+534	US 	Union City
+535	US 	Arlington
+536	US 	Novato
+537	DE 	Bad Soden
+538	GB 	Oxon
+539	AU 	Alexandria
+540	US 	Carrollton
+541	GB 	Milton Keynes
+542	US 	Oxnard
+543	CA 	Newton
+544	US 	New Haven
+545	CA 	Montreal
+546	US 	Wenatchee
+547	CA 	Waterloo
+548	US 	Woodland Hills
+549	US 	Randolph
+550	GB 	West Sussex
+551	FR 	Villeneuve-d'Ascq
+552	CA 	Langley
+553	US 	Mcdonough
+554	US 	Lewiston
+555	US 	Olympia
+556	US 	Pleasanton
+557	CA 	Quebec
+558	US 	Cedar City
+559	US 	Auburn
+560	US 	Long Beach
+561	CA 	Hull
+562	US 	Surprise
+563	US 	Lake George
+564	US 	Waterbury
+565	US 	Tacoma
+566	US 	Byron
+567	US 	Gaffney
+568	US 	Howell
+569	US 	Vero Beach
+570	CA 	Victoria
+571	DE 	Grevenbroich
+572	FR 	Dunkerque
+573	AU 	Wollongong
+574	FR 	Boulogne-Billancourt
+575	FR 	Orly
+576	US 	Salem
+577	CA 	Brampton
+578	US 	Daly City
+579	US 	Great Falls

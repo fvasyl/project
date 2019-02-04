@@ -1,89 +1,89 @@
-﻿Team	TournamentID	ParentTeamID
-MNLA - 2018/19	57	
-VHL - 2018/19	86	
-English Premiership - 2018	28	
-Spagnola ACB - 2018/19	78	
-Allsvenskan - 2018/19	8	
-Latvian Hockey League - 2018/19	44	
-Club Friendlies - 2018/19	16	
-League Cup - 2018/19	45	
-Eliteserien - 2018/19	26	
-Salibandyliiga - 2018/19	73	
-SEHA League - 2018/19	74	
-Pro14 - 2018	71	
-NHL - 2018/19	64	
-BBL - 2018/19	12	
-Basketligaen - 2018/19	11	
-UFL - 2018/19	84	
-Asobal - 2018/19	10	
-1a Divisao - 2018/19	3	
-Superliga - 2018/19	82	
-NBL - 2018/19	63	
-SHL - 2018/19	75	
-Pro A - 2018/19	69	
-NFL - 2018/19	58	
-KHL - 2018/19	42	
-PBA - 2018/19	68	
-Int. Friendly Games - 2018/19	41	
-NSW Cup - 2018	67	
-National League A - 2018/19	60	
-Elitserien - 2018/19	27	
-RFU Championship - 2018	72	
-Extraliga - 2018/19	30	
-1st Division - 2018/19	4	
-Erste Liga - 2018/19	29	
-Super League - 2018/19	80	
-Urvalsdeild - 2018/19	85	
-MHL - 2018/19	56	
-Liga Nationala - 2018/19	48	
-The Rugby Championship - 2018	83	
-Cup - 2018/19	19	
-Elite League - 2018/19	25	
-Alps Hockey League - 2018/19	9	
-SM-Liiga - 2018/19	76	
-Super 8s - 2018	79	
-HockeyEttan Sodra - 2018/19	39	
-LNH Division 1 - 2018/19	52	
-Hockey Allsvenskan - 2018/19	36	
-Extraliga - 2018/19	32	
-CFL - 2018/19	14	
-EBEL - 2018/19	23	
-1st Liga - 2018/19	5	
-Liga ABA - 2018/19	46	
-NRL - 2018	66	
-WNBA - 2018/19	87	
-Bundesliga - 2018/19	13	
-Superisligaen - 2018/19	81	
-HockeyEttan Vastra - 2018/19	40	
-HockeyEttan Ostra - 2018/19	38	
-FIVB World Championship Men - 2018/19	34	
-Champions League - 2018/19	15	
-College - 2018/19	18	
-Currie Cup - 2018	20	
-Extraliga - 2018/19	31	
-1. liga - 2018/19	2	
-LNH Division 1 Men - 2018/19	53	
-Liga ABA Super Cup - 2018/19	47	
-Women Bundesliga - 2018/19	88	
-NPC - 2018	65	
-LKL - 2018/19	50	
-Division De Honor Femenina - 2018/19	22	
-NB I - 2018/19	62	
-1. Division - 2018/19	1	
-SM-Liiga - 2018/19	77	
-Pro D2 - 2018	70	
-National League B - 2018/19	61	
-AFL - 2018	7	
-Ligue Magnus - 2018/19	49	
-Damehandboldligaen - 2018/19	21	
-Mestaruusliiga - 2018/19	55	
-Handboldligaen - 2018/19	35	
-FIBA World Championship - 2018/19	33	
-KOVO Cup - 2018/19	43	
-National League - 2018/19	59	
-LNB - 2018/19	51	
-Meistriliiga - 2018/19	54	
-Ekstraliga - 2018/19	24	
-Club Friendlies - 2018/19	17	
-2nd Bundesliga - 2018/19	6	
-HockeyEttan Norra - 2018/19	37	
+﻿TeamID	Team	ParentTeamID	TournamentID
+1	MNLA - 2018/19		57
+2	VHL - 2018/19		86
+3	English Premiership - 2018		28
+4	Spagnola ACB - 2018/19		78
+5	Allsvenskan - 2018/19		8
+6	Latvian Hockey League - 2018/19		44
+7	Club Friendlies - 2018/19		16
+8	League Cup - 2018/19		45
+9	Eliteserien - 2018/19		26
+10	Salibandyliiga - 2018/19		73
+11	SEHA League - 2018/19		74
+12	Pro14 - 2018		71
+13	NHL - 2018/19		64
+14	BBL - 2018/19		12
+15	Basketligaen - 2018/19		11
+16	UFL - 2018/19		84
+17	Asobal - 2018/19		10
+18	1a Divisao - 2018/19		3
+19	Superliga - 2018/19		82
+20	NBL - 2018/19		63
+21	SHL - 2018/19		75
+22	Pro A - 2018/19		69
+23	NFL - 2018/19		58
+24	KHL - 2018/19		42
+25	PBA - 2018/19		68
+26	Int. Friendly Games - 2018/19		41
+27	NSW Cup - 2018		67
+28	National League A - 2018/19		60
+29	Elitserien - 2018/19		27
+30	RFU Championship - 2018		72
+31	Extraliga - 2018/19		30
+32	1st Division - 2018/19		4
+33	Erste Liga - 2018/19		29
+34	Super League - 2018/19		80
+35	Urvalsdeild - 2018/19		85
+36	MHL - 2018/19		56
+37	Liga Nationala - 2018/19		48
+38	The Rugby Championship - 2018		83
+39	Cup - 2018/19		19
+40	Elite League - 2018/19		25
+41	Alps Hockey League - 2018/19		9
+42	SM-Liiga - 2018/19		76
+43	Super 8s - 2018		79
+44	HockeyEttan Sodra - 2018/19		39
+45	LNH Division 1 - 2018/19		52
+46	Hockey Allsvenskan - 2018/19		36
+47	Extraliga - 2018/19		32
+48	CFL - 2018/19		14
+49	EBEL - 2018/19		23
+50	1st Liga - 2018/19		5
+51	Liga ABA - 2018/19		46
+52	NRL - 2018		66
+53	WNBA - 2018/19		87
+54	Bundesliga - 2018/19		13
+55	Superisligaen - 2018/19		81
+56	HockeyEttan Vastra - 2018/19		40
+57	HockeyEttan Ostra - 2018/19		38
+58	FIVB World Championship Men - 2018/19		34
+59	Champions League - 2018/19		15
+60	College - 2018/19		18
+61	Currie Cup - 2018		20
+62	Extraliga - 2018/19		31
+63	1. liga - 2018/19		2
+64	LNH Division 1 Men - 2018/19		53
+65	Liga ABA Super Cup - 2018/19		47
+66	Women Bundesliga - 2018/19		88
+67	NPC - 2018		65
+68	LKL - 2018/19		50
+69	Division De Honor Femenina - 2018/19		22
+70	NB I - 2018/19		62
+71	1. Division - 2018/19		1
+72	SM-Liiga - 2018/19		77
+73	Pro D2 - 2018		70
+74	National League B - 2018/19		61
+75	AFL - 2018		7
+76	Ligue Magnus - 2018/19		49
+77	Damehandboldligaen - 2018/19		21
+78	Mestaruusliiga - 2018/19		55
+79	Handboldligaen - 2018/19		35
+80	FIBA World Championship - 2018/19		33
+81	KOVO Cup - 2018/19		43
+82	National League - 2018/19		59
+83	LNB - 2018/19		51
+84	Meistriliiga - 2018/19		54
+85	Ekstraliga - 2018/19		24
+86	Club Friendlies - 2018/19		17
+87	2nd Bundesliga - 2018/19		6
+88	HockeyEttan Norra - 2018/19		37

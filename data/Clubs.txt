@@ -1,768 +1,768 @@
-﻿Club	SportID
-1 SC Ssk Vitkovice	6
-1946 St. Petersburg - Kapitan Stupino	11
-AA Aguas Santas	7
-AA Avanca	7
-AaB Handball	7
-Aalborg Pirates	11
-Aarhus Handball	7
-AC Fafe	7
-AC Sparta Prag	6
-Admiral Vladivostok	11
-Afturelding	7
-Aifk	7
-AIK	7
-AIK IF	11
-Air21 Express	4
-Ajax Copenhagen	7
-AK Bars Kazan	11
-Akaa Volley	13
-Akureyri Handboltafelag	7
-Alingsås HK	7
-Almaz Cherepovets	11
-Almtuna IS	11
-Amur Khabarovsk	11
-Amurskie Tigry K.	11
-Anglet Hormadi Elite	11
-Ansan Rush&Cash	13
-Antibes Sharks	4
-Argentina	4
-Argentina	9
-Argentina	13
-Argentino Junin	4
-AS Beziers Herault	9
-AS Monaco	4
-ASG Angers	11
-Ässät Pori	11
-Asvel Lyon-Villeurbanne	4
-Auckland	9
-Australia	4
-Australia	9
-Australia	13
-Aviron Bayonne	9
-Aviv - BC Zalgiris Kaunas	4
-Avto Yekaterinburg	11
-Avtomobilist Yekaterinburg	11
-Balatonfuredi Kse	7
-Baltimore Ravens	2
-Banco Di Sardegna Sassari	4
-Bars Kazan	11
-Baseti	7
-Bay of Plenty	9
-Bayern Munich	4
-BC Alytaus Dzukija	4
-BC Lietkabelis	4
-BC River Andorra	4
-Bedford	9
-Belarus	11
-Belgium	4
-Belgium	13
-Belye Medvedi	11
-Benetton Treviso	9
-Benlose FC	6
-Beskid Nowy Sacz - EKS Start Elblag	7
-BFC Vendsyssel	6
-Biarritz Olympique	9
-Bidasoa Irun	7
-BIK Karlskoga	11
-Bjerringbro	7
-BK Heid	7
-BK JIP Pardubice	4
-BK Sluneta USTI Nad Labem	4
-Blackwater Elite	4
-Bnei Herzelia	4
-Boca Juniors	4
-Boden Handball IF	7
-Bodens HF	11
-Bordeaux Ghc	11
-Borlänge HC	11
-Boston College Eagles	2
-Boulazac Basket	4
-Bourg	9
-Bourg De Peage	7
-Brazil	13
-Brest Bretagne Handball	7
-Bristol Shoguns	9
-Brynäs IF	11
-BSV Bern Muri	7
-Buffalo Sabres	11
-Bulgaria	13
-Bulldogs Brno	6
-Buran Voronezh	11
-Cameroon	13
-Canada	4
-Canada	13
-Canterbury	9
-Canterbury Bulldogs	9
-Cardiff Blues	9
-Castleford Tigers	9
-Catalans Dragons	9
-CCR Fermentoes	7
-Ceng Tou	11
-Cercle Dijon Bourgogne	7
-Chaika Nizhny Nov.	11
-Chambery Savoie	7
-Chambray Touraine	7
-Chamonix	11
-Champ. Chalons Reims Basket	4
-Charlotte 49ers	2
-Cheetahs	9
-Chehovski Medvedi	7
-Chelmet Chelyabinsk	11
-Cheonan Hyundai Capital Skywalkers	13
-Chicago Bears	2
-China	4
-China	13
-Cholet Basket	4
-Chur Uhc	6
-Cibona Zagreb	4
-Cincinnati Bengals	2
-CJF Fleury Les Aubrais	7
-Classic Tampere	6
-Club Atletico San Lorenzo De Almagro	4
-Club Deportivo Hispano Americano	4
-Cocks	7
-Collingwood Magpies	12
-Colomiers Rugby	9
-Columbus Blue Jackets	11
-Comunicaciones	4
-Connacht Rugby	9
-Coop Polva	7
-Copenhagen SFC	6
-Cornish Pirates	9
-Corona Brasov	11
-Counties Manukau	9
-Coventry Rugby	9
-Crailsheim Merlins	4
-Cronulla Sharks	9
-Crvena Zvezda Telekom	4
-CSG Strasbourg	11
-CSK VVS Samara	11
-CSKA Moscow	11
-Cuba	13
-DAB Docler	11
-Deajeon Bluefangs	13
-Debreceni Egyetem AC	11
-de-Fonds - HC Biasca	11
-Denmark	7
-DHC Rheinland	7
-DHL Western Province	9
-Dijon Bourgogne	4
-Dinamo Baumit Bucuresti	7
-Dizel Penza	11
-Djurgaardens IF	11
-Dominican Republic	13
-Doncaster Knights	9
-Dukla Trencin	11
-Dunkerque HB	7
-Ealing Trailfinders	9
-EC S.feldkirch	11
-Edinburgh Rugby	9
-Efes Anadolu Istanbul	4
-Eger Sbs	7
-Egypt	13
-EHC Biel	11
-EHC Bregenzerwald	11
-EHV Aue	7
-Eisbären Bremerhaven	4
-Elverum	7
-Enköpings SK HK	11
-ES Chalon	4
-ESBF Besancon	7
-Esbjerg Energy	11
-Espoon Oilers	6
-Estudiantes de Concordia	4
-EV Zug	11
-Exeter Chiefs	9
-Färjestads BK	11
-FBC Liberec	6
-FBC Ostrava	6
-FBC Pullo Trade Ceska Lipa	6
-FBK Sokol Mlada Boleslav	6
-FBS Bohemians	6
-FBT Pori	6
-FC Barcelona	7
-FC Midtjylland	7
-FC Porto Vitalis	7
-Ferencvaros	11
-FH Hafnarfjardar	7
-FHK Elite	7
-Fife Flyers	11
-Floorball Köniz	6
-Florida Atlantic Owls	2
-Ford Pumas	9
-Forshaga IF	11
-FOS Ouest Provence Basket	4
-Fraikin BM Granollers	7
-France	4
-France	7
-France	13
-Frederikshavn Blackhawks	6
-Frederikshavn White Hawks	11
-Frisk/Asker	11
-Frölunda HC	11
-FTC Budapest	7
-Füchse Berlin	7
-Galil Gilboa	4
-Gasterra Flames Groningen	4
-Geneve Servette HC	11
-Gjovik Mammuts	11
-GKS Katowice	11
-Glasgow Warriors	9
-Gloucester Rugby	9
-GOG Handbold	7
-Golden Lions	9
-Gorniczy Klub Sportowy Tychy	11
-Gornyak Uchaly	11
-Grasshopper Club Zurich	6
-Greater Western Sydney	12
-Greece	4
-Grenoble MH 38	11
-Grifk	7
-Grums IK	11
-Guildford Flames	11
-GWK Griquas	9
-Gyergyoi HK	11
-Halifax Blue Sox	9
-Halmstad Hammers	11
-Hammarby HB	7
-Hammarby Hockey IF	11
-Hanhals IF	11
-Hanvikens SK	11
-Hapoel Beer Sheva	4
-Hapoel Holon	4
-Happee	6
-Hartpury College	9
-Hasle/Loren Ishockey	11
-Hästö IF	7
-Haukar Hafnarfjordur	7
-Hawke´s Bay	9
-Hawthorn Hawks	12
-HBC Nantes	7
-HBC Saint-Amand-les-Eaux Porte du Hainaut	7
-HC 05 Banska Bystrica	11
-HC 07 Detva	11
-HC Ajoie	11
-HC Altai	11
-HC Ambri Piotta	11
-HC Amiens Somme	11
-HC AZ Havirov 2010	11
-HC Banik Karvina	7
-HC Barys Astana	11
-HC Benatky Nad Jizerou	11
-HC Cement Hranice	7
-HC Croatia Osiguranje Zagreb	7
-HC Dalen	11
-HC Davos	11
-HC Dinamo Maladzyechna	11
-HC Dinamo Riga	11
-HC Dukla Jihlava	11
-HC Dynamo Moscow	11
-HC Elbflorenz Dresden	7
-HC Fribourg Gotteron	11
-HC Frydek Mistek	11
-HC Horacka Slavia Trebic	11
-HC Kehra	7
-HC Kladno	11
-HC Kosice	11
-HC Kriens-Luzern	7
-HC La Chaux-de-Fonds	11
-HC Lugano	11
-HC Meshkov Brest	7
-HC Motor Ceske Budejovice	11
-HC Nice	11
-HC Orebro	11
-HC Red Star Kunlun	11
-HC Rhein Vikings	7
-HC RT Torax Poruba	11
-HC Rychenberg Winterthur	6
-HC Slavia Prag	11
-HC Slovan Ustecti Lvi	11
-HC Slovnaft Vsetin	11
-HC Sochi	11
-HC Sparta Prag	11
-HC Stadion Litomerice	11
-HC Taifun	11
-HC Tambov	11
-HC Tatran Presov	7
-HC THP Topvar Topolcany	7
-HC Traktor Chelyabinsk	11
-HC TWK Innsbruck Die Haie	11
-HC Vita Hasten	11
-HC Vitiaz Chehov	11
-HC Yugra Khanty-Mansiysk	11
-HC Zubr Prerov	11
-HCM Ramnicu Valcea	7
-Helsingborgs HC	11
-Herbalife Gran Canaria	4
-Herlev Eagles	11
-Herning Blue Fox	11
-HIFK Hockey	11
-HK Aranäs	7
-HK Avangard Omsk	11
-HK Dinamo Minsk	11
-HK Dinamo St Petersburg	11
-HK Gomel	11
-HK Jestrabi Prostejov	11
-HK Lida	11
-HK Malmö	7
-HK MVD	11
-HK Prizma	11
-HK Riga	11
-HK Ryazan	11
-HK Sarov	11
-HK SKP Poprad	11
-HKM Nitra	11
-HKM Zvolen	11
-Hockey Academy Zug	11
-Hoj	7
-Hokiklub Budapest	11
-Hoors HK H 65	7
-HPK Hämeenlinna	11
-HSC 2000 Coburg	7
-HSC Csikszereda	11
-HSG Nordhorn	7
-HSG Wetzlar	7
-HSV Hamburg	7
-Huddersfield Giants	9
-Hudiksvalls HC	11
-Hull FC	9
-Hull Kingston Rovers	9
-HV 71	11
-Hvidovre Attack	6
-Hvidovre Fighters	11
-IF Björklöven	11
-IF Troja/Ljungby	11
-IFK Arboga	11
-IFK Kristianstad	7
-IFK Kumla	11
-IFK Skövde HK	7
-IFK Ystads HK	7
-IHK Sparta Sarpsborg	11
-IK Oskarshamn	11
-IK Pantern	11
-IK Savehof	7
-Illinois Fighting Illini	2
-Ilves Tampere	11
-Incheon Korean Air Jumbos	13
-Instituto Atletico Central Cordoba	4
-IR Reykjavik	7
-Iran	13
-Irbis Kazan	11
-Issy Paris	7
-Istres Ouest Provence	7
-Italy	13
-Izhstal Izhevsk	11
-Japan	4
-Japan	13
-Jersey	9
-Jeunesse Laique de Bourg	4
-JKH GKS Jastrzebie	11
-Jokerit Helsinki	11
-JSF Nanterre	4
-JT Thunders	13
-Jukurit	11
-Juventus Utena	4
-K. Schaffhausen	7
-Kallinge/Ronneby IF	11
-Kalmar HC	11
-Kalpa Hockey	11
-Karlskrona HK	11
-Kärpät Oulu	11
-Kazzink	11
-KH Zaglebie Sosnowiec	11
-Khimik Voskresensk	11
-Kiruna AIF	11
-KK Cedevita Zagreb	4
-KK Prienai	4
-KK Zadar	4
-Kloten-Bülach Jets	6
-Kobenhavn H.b.	7
-Kookoo Kouvola	11
-Koovee	6
-Koping HC	11
-Krasnaya Armiya	11
-Kristianstad HK	7
-Kristianstads IK	11
-KRS Heilongjiang	11
-KS SPR Chrobry Glogow	7
-KS Stoczniowiec Gdansk	11
-KS Vive Targi Kielce	7
-Kuban	7
-Kungälvs HK	7
-Kuznetskie Medvedi	11
-Lada Togliatti	11
-Ladja Togliatti	11
-LaSB	6
-Lausanne HC	11
-Le Mans Basket	4
-Le Portel	4
-Leeds Carnegie	9
-Leeds Rhinos	9
-Leinster Lions	9
-Leksands IF	11
-Lemvig-Thyboron Handball	7
-Lietuvos Rytas	4
-Lillehammer IK	11
-Limoges CSP	4
-Lindlövens IF	11
-Lingen - Dessau-Rosslauer HV 2006	7
-Lingen - HC Erlangen	7
-Linköpings HC	11
-Liptovsky Mikulas	11
-Loko Yaroslavl	11
-Lokomotiv Yaroslavl	11
-London Broncos	9
-London Lions	4
-Lübbecke - TSV GWD Minden	7
-Lugi HF	7
-Luleaa Hockey	11
-Lyon HC	11
-M - Sporting CP	7
-M. Magnitogorsk	11
-MAC Budapest	11
-Maccabi Ashdod	4
-Maccabi Rishon Lezion	4
-Malmo IF	11
-Malungs IF	11
-Mamonty Yugry K. M.	11
-Manawatu	9
-Manglerud/Star	11
-Mariestads Bois	11
-Mecalia Atletico Guardes	7
-Medi Bayreuth	4
-Melbourne Demons	12
-Melbourne Storm	9
-Metallurg Novokuznetsk	11
-Metallurg Zhlobin	11
-Metz Handball	7
-MHK Krylia Sovetov	11
-Miami Florida	2
-Minnesota Vikings	2
-Minnesota Wild	11
-Miskolci JJSE	11
-MKB Veszprem KC	7
-MKS Cracovia Krakow	11
-MKS Lublin	7
-MKS Zaglebie Lubin	7
-Modo Hockey	11
-Mogo Riga	11
-Molot	11
-Montpellier Handball	7
-Montreal Alouettes	2
-Mora IK	11
-Mornar	4
-Morrum Gois IK	11
-Mors-Thy Handbold	7
-Morzine HC - Scorpions de Mulhouse	11
-Motor Zaporozhye	7
-Mountfield HK	11
-MRK Krka	7
-Mshk Zilina	11
-MT Melsungen	7
-Munster	9
-Mytishchinskie A.	11
-Nantes Loire Atlantique HB	7
-Neftekhimik Nizhnekamsk	11
-Neftyanik Almetyevsk	11
-Neman Grodno	11
-Neptunas Klaipeda	4
-Netherlands	13
-Nevezis Kedainiai	4
-New York Islanders	11
-New Zealand	9
-Newcastle Falcons	9
-Newport Gwent Dragons	9
-Nigeria	4
-Nokian Kristityt Palloilijat	6
-Nordsjaelland Handball	7
-North Carolina Tar Heels	2
-North Harbour	9
-Northland	9
-Norway	7
-Nottingham	9
-Nove Zamky	11
-Nybro IF	11
-Nykobing F.b Handboldklub	7
-Obras Sanitarias	4
-OC Cesson Handball	7
-Odense Bulldogs	11
-OGC Nice Cote D´Azur	7
-Old Dominion	2
-OLS Oulu	6
-Omskie Yastreby	11
-Önnereds HK	7
-Orlik Opole	11
-Ospreys	9
-Otago	9
-OV Helsingborg HK	7
-Panthers Otrokovice	6
-Paris Handball	7
-Paris Levallois	4
-Pau Lacq Orthez	4
-Pays Aix Universite Club Handball	7
-Pays D Aix	9
-Pelicans Lahti	11
-Penarol Mar Del Plata	4
-Penn St Nittany Lions	2
-Penrith Panthers	9
-Permskie Medvedi	7
-Pfadi Winterthur	7
-Philadelphia Flyers	11
-Pick Szeged	7
-Pieno Zvaigzdes	4
-Piteå HC	11
-Pittsburgh Steelers	2
-Pogon Handball Szczecin	7
-Poland	7
-Poland	13
-Pontault-Combault HB	7
-Potaissa Turda	7
-Prikamje Perm - Yuzhny Ural Orsk	11
-Puerto Rico	4
-Puerto Rico	13
-Quimsa Santiago del Estero	4
-Rain Or Shine Elasto	4
-Randers Cimbria	4
-Randers HH	7
-Randers HK	7
-Rapaces de Gap	11
-Rapperswil Jona Lakers	11
-Rasta Vechta	4
-Ratiopharm Ulm	4
-Rauma Lukko	11
-RB Salzburg	11
-RC Massy	9
-RD Loka	7
-RD Ribnica Riko Hise	7
-Reaktor Nizhnekamsk	11
-Reale Ademar	7
-Red Star Kunlun Junior	11
-Redbergslids IK	7
-Regal FC Barcelona	4
-Rhein Neckar Löwen	7
-Ribe-Esbjerg HH	7
-Richmond	9
-Richmond Tigers	12
-Ringerike IHK	11
-RK Celje Pivovarna Lasko	7
-RK Cimos Koper	7
-RK Gorenje Velenje	7
-RK Jeruzalem Ormoz	7
-RK Maribor Branik	7
-RK Trimo Trebnje	7
-Rocasa ACE Gran Canaria	7
-Rödovre FC	6
-Rodovre Mighty Bulls	11
-Rögle BK	11
-Rouen HE	11
-RTV 1879 Basel	7
-Rubin Tyumen	11
-Rungsted Ishockey	11
-Russia	13
-S. Barsy Astana	11
-Saint Raphael	7
-Saipa Lappeenranta	11
-Salavat Yulaev Ufa	11
-Salford Red Devils	9
-San Martin Corrientes	4
-San Mig Coffee Mixers	4
-Sapa Fehervar Av19 II	11
-Sarmaty Orenburg	11
-Saryarka	11
-Savo Volley	13
-SB Welhot	6
-SC Bern	11
-SC DHFK Leipzig	7
-SC Magdeburg	7
-Scarlets	9
-Schiller-Vasas HC	11
-SCL Tigers Langenau	11
-SCM Craiova	7
-Seattle Seahawks	2
-Seattle Storm	4
-Segeltorps IF	11
-Selfoss	7
-Senegal	4
-Seoul Woori Card Hansae	13
-Serbia	13
-Severstal Cherepovec	11
-SG BBM Bietigheim	7
-SG Flensburg-Handewitt	7
-Sgau-Saratov	7
-Shakhter Soligorsk	11
-Sheffield Sharks	4
-Sheffield Steelers	11
-Siauliai	4
-Sibir Novosibirsk	11
-Sibirskie Snaipery	11
-SK Kadan	11
-SK Lejon	11
-SKA St. Petersburg	11
-SKA-1946 St. Petersburg	11
-Skaanela IF	7
-Skanderborg Handball	7
-SKA-Varyagi	11
-Skellefteaa Aik	11
-SKIF	7
-Skjern Handbold	7
-Skövde IK	11
-Skuru IK	7
-Slovakia	11
-Slovan Bratislava	11
-Slovenia	13
-Södertälje SK	11
-Sokol Kral Vinohrady	6
-Sokol Krasnoyarsk	11
-Sokol Pardubice	6
-Sollentuna HC	11
-Sønderjyske	7
-Sonderjyske Ishockey	11
-South Africa	9
-South Korea	4
-South Sydney Rabbitohs	9
-Southland	9
-Soyaux Angoulême	9
-Spain	4
-Spartak Moscow	7
-Spartak Moskau	11
-Spartak Moskow	11
-Spojnia Gdynia	7
-Sport Lisboa Benfica	7
-Sputnik Almetievsk	11
-SPV	6
-St George Illawarra Dragons	9
-St Helens Rlfc	9
-St Petersburg	11
-St. Louis Rams	2
-Stade Aurillacois	9
-Stalnye Lisy	11
-Stavanger Oilers	11
-Steaua Bucharest	7
-Steelers	6
-Stevnsgade Supermen	4
-Stjarnan	7
-Stjernen Hockey	11
-Storhamar Dragons	11
-Strasbourg IG	4
-Sunds Seahawks FC	6
-Sungul	7
-Surahammar	11
-Surrey Heat	4
-Suwon Kepco	13
-SV Wiler Ersigen	6
-Tampa Bay Buccaneers	2
-Tappara Tampere	11
-Taranaki	9
-Tasman	9
-Tatran Omlux Stresovice	6
-Team Fog Naestved	4
-Team Kiruna	11
-Team Lakkapää	13
-Team TVIS Holstebro	7
-Telnet BC Oostende	4
-TH Unia Oswiecim	11
-THW Kiel	7
-Thyboron Handball - Otterup HK	7
-Tigers Langnau	6
-Timraa IK	11
-Tingsryds AIF	11
-TJ JM Chodov	6
-TJ VHS Znojmo	6
-TKH Nesta Torun	11
-TMH Polonia Bytom	11
-TMS Ringsted	7
-Tolpar UFA	11
-Toronto Wolfpack	9
-Toros Neftekamsk	11
-Torpedo - Ermak Angarsk	11
-Torpedo N. Novgorod	11
-Toulon Saint Cyr Var Handball	7
-Toulouse Handball	7
-Toulouse Olympique XIII	9
-Toyota Free State Cheetahs	9
-TPS	6
-TPS Turku	11
-Tranaas Aif	11
-Trangsund	11
-Tremblay En France	7
-TSG Ludwigshafen-Friesenheim	7
-TSV Bayer 04 Leverkusen	7
-TSV Hannover Burgdorf	7
-Tunisia	13
-Turkey	4
-TUS N	7
-Tusem Essen	7
-TV Emsdetten	7
-TV Grosswallstadt	7
-TV Hüttenberg	7
-Tyringe Sos	11
-Tyumenskiy Legion	11
-U. Olimpija Ljubljana	4
-UCAM Murcia	4
-UCF Knights	2
-UHC Alligator Malans	6
-UHC Thun	6
-UHC Uster	6
-Ujpest Budapest	11
-Ulster	9
-Unicaja Malaga	4
-Universitatea Politehnica Timisoara	7
-Universitet	7
-US Carcassonne	9
-US Ivry Handball	7
-US Montauban	9
-USA	13
-Usam Nimes	7
-USC Trojans	2
-USON Nevers	9
-Vaasan Sport	11
-Vaerlose BBK	4
-Valencia Basket	4
-Valepa	13
-Valerenga IF	11
-Valur Reykjavik	7
-Vanlose Floorball	6
-Väsby IK	11
-Vasterasirsta HF	7
-Västervik	11
-Växjö Lakers HC	11
-VfL Gummersbach	7
-Viborg HK	7
-Vienna Capitals II	11
-Viikingit	6
-VIK Vasteraas	11
-Villeurbanne - Gravelines Grand Fort BCM	4
-Vimmerby HC	11
-Vistal Gdynia	7
-Vityazi Chekhov	11
-VMF St Petersburg	11
-Vodacom Blue Bulls	9
-Vojvodina-Univerexport Novi Sad	7
-Wacker Thun	7
-Waikato	9
-Wake Forest Demon Deacons	2
-Wakefield Trinity Wildcats	9
-Waldkirch St.Gallen	6
-Warrington Wolves	9
-Washington Mystics	4
-Washington St Cougars	2
-Wellington	9
-Westend Indians	6
-Western KB Star Insurance	13
-Widnes Vikings	9
-Wigan Warriors	9
-Wilhelmshavener HV	7
-Winnipeg Blue Bombers	2
-Winnipeg Jets	11
-Wisla Plock	7
-Worcester Wolves	4
-Ystads IF HF	7
-Yunost Minsk	11
-Zauralye Kurgan	11
-Zebre	9
-Zeleznicar Indjija	7
-ZSC Lions	11
-Zuazo - Handbol Canyamelar Valencia	7
-Zug United	6
-Zvezda Chekhov	11
+﻿ClubID	Club	SportID
+1	1 SC Ssk Vitkovice	6
+2	1946 St. Petersburg - Kapitan Stupino	11
+3	AA Aguas Santas	7
+4	AA Avanca	7
+5	AaB Handball	7
+6	Aalborg Pirates	11
+7	Aarhus Handball	7
+8	AC Fafe	7
+9	AC Sparta Prag	6
+10	Admiral Vladivostok	11
+11	Afturelding	7
+12	Aifk	7
+13	AIK	7
+14	AIK IF	11
+15	Air21 Express	4
+16	Ajax Copenhagen	7
+17	AK Bars Kazan	11
+18	Akaa Volley	13
+19	Akureyri Handboltafelag	7
+20	Alingsås HK	7
+21	Almaz Cherepovets	11
+22	Almtuna IS	11
+23	Amur Khabarovsk	11
+24	Amurskie Tigry K.	11
+25	Anglet Hormadi Elite	11
+26	Ansan Rush&Cash	13
+27	Antibes Sharks	4
+28	Argentina	4
+29	Argentina	9
+30	Argentina	13
+31	Argentino Junin	4
+32	AS Beziers Herault	9
+33	AS Monaco	4
+34	ASG Angers	11
+35	Ässät Pori	11
+36	Asvel Lyon-Villeurbanne	4
+37	Auckland	9
+38	Australia	4
+39	Australia	9
+40	Australia	13
+41	Aviron Bayonne	9
+42	Aviv - BC Zalgiris Kaunas	4
+43	Avto Yekaterinburg	11
+44	Avtomobilist Yekaterinburg	11
+45	Balatonfuredi Kse	7
+46	Baltimore Ravens	2
+47	Banco Di Sardegna Sassari	4
+48	Bars Kazan	11
+49	Baseti	7
+50	Bay of Plenty	9
+51	Bayern Munich	4
+52	BC Alytaus Dzukija	4
+53	BC Lietkabelis	4
+54	BC River Andorra	4
+55	Bedford	9
+56	Belarus	11
+57	Belgium	4
+58	Belgium	13
+59	Belye Medvedi	11
+60	Benetton Treviso	9
+61	Benlose FC	6
+62	Beskid Nowy Sacz - EKS Start Elblag	7
+63	BFC Vendsyssel	6
+64	Biarritz Olympique	9
+65	Bidasoa Irun	7
+66	BIK Karlskoga	11
+67	Bjerringbro	7
+68	BK Heid	7
+69	BK JIP Pardubice	4
+70	BK Sluneta USTI Nad Labem	4
+71	Blackwater Elite	4
+72	Bnei Herzelia	4
+73	Boca Juniors	4
+74	Boden Handball IF	7
+75	Bodens HF	11
+76	Bordeaux Ghc	11
+77	Borlänge HC	11
+78	Boston College Eagles	2
+79	Boulazac Basket	4
+80	Bourg	9
+81	Bourg De Peage	7
+82	Brazil	13
+83	Brest Bretagne Handball	7
+84	Bristol Shoguns	9
+85	Brynäs IF	11
+86	BSV Bern Muri	7
+87	Buffalo Sabres	11
+88	Bulgaria	13
+89	Bulldogs Brno	6
+90	Buran Voronezh	11
+91	Cameroon	13
+92	Canada	4
+93	Canada	13
+94	Canterbury	9
+95	Canterbury Bulldogs	9
+96	Cardiff Blues	9
+97	Castleford Tigers	9
+98	Catalans Dragons	9
+99	CCR Fermentoes	7
+100	Ceng Tou	11
+101	Cercle Dijon Bourgogne	7
+102	Chaika Nizhny Nov.	11
+103	Chambery Savoie	7
+104	Chambray Touraine	7
+105	Chamonix	11
+106	Champ. Chalons Reims Basket	4
+107	Charlotte 49ers	2
+108	Cheetahs	9
+109	Chehovski Medvedi	7
+110	Chelmet Chelyabinsk	11
+111	Cheonan Hyundai Capital Skywalkers	13
+112	Chicago Bears	2
+113	China	4
+114	China	13
+115	Cholet Basket	4
+116	Chur Uhc	6
+117	Cibona Zagreb	4
+118	Cincinnati Bengals	2
+119	CJF Fleury Les Aubrais	7
+120	Classic Tampere	6
+121	Club Atletico San Lorenzo De Almagro	4
+122	Club Deportivo Hispano Americano	4
+123	Cocks	7
+124	Collingwood Magpies	12
+125	Colomiers Rugby	9
+126	Columbus Blue Jackets	11
+127	Comunicaciones	4
+128	Connacht Rugby	9
+129	Coop Polva	7
+130	Copenhagen SFC	6
+131	Cornish Pirates	9
+132	Corona Brasov	11
+133	Counties Manukau	9
+134	Coventry Rugby	9
+135	Crailsheim Merlins	4
+136	Cronulla Sharks	9
+137	Crvena Zvezda Telekom	4
+138	CSG Strasbourg	11
+139	CSK VVS Samara	11
+140	CSKA Moscow	11
+141	Cuba	13
+142	DAB Docler	11
+143	Deajeon Bluefangs	13
+144	Debreceni Egyetem AC	11
+145	de-Fonds - HC Biasca	11
+146	Denmark	7
+147	DHC Rheinland	7
+148	DHL Western Province	9
+149	Dijon Bourgogne	4
+150	Dinamo Baumit Bucuresti	7
+151	Dizel Penza	11
+152	Djurgaardens IF	11
+153	Dominican Republic	13
+154	Doncaster Knights	9
+155	Dukla Trencin	11
+156	Dunkerque HB	7
+157	Ealing Trailfinders	9
+158	EC S.feldkirch	11
+159	Edinburgh Rugby	9
+160	Efes Anadolu Istanbul	4
+161	Eger Sbs	7
+162	Egypt	13
+163	EHC Biel	11
+164	EHC Bregenzerwald	11
+165	EHV Aue	7
+166	Eisbären Bremerhaven	4
+167	Elverum	7
+168	Enköpings SK HK	11
+169	ES Chalon	4
+170	ESBF Besancon	7
+171	Esbjerg Energy	11
+172	Espoon Oilers	6
+173	Estudiantes de Concordia	4
+174	EV Zug	11
+175	Exeter Chiefs	9
+176	Färjestads BK	11
+177	FBC Liberec	6
+178	FBC Ostrava	6
+179	FBC Pullo Trade Ceska Lipa	6
+180	FBK Sokol Mlada Boleslav	6
+181	FBS Bohemians	6
+182	FBT Pori	6
+183	FC Barcelona	7
+184	FC Midtjylland	7
+185	FC Porto Vitalis	7
+186	Ferencvaros	11
+187	FH Hafnarfjardar	7
+188	FHK Elite	7
+189	Fife Flyers	11
+190	Floorball Köniz	6
+191	Florida Atlantic Owls	2
+192	Ford Pumas	9
+193	Forshaga IF	11
+194	FOS Ouest Provence Basket	4
+195	Fraikin BM Granollers	7
+196	France	4
+197	France	7
+198	France	13
+199	Frederikshavn Blackhawks	6
+200	Frederikshavn White Hawks	11
+201	Frisk/Asker	11
+202	Frölunda HC	11
+203	FTC Budapest	7
+204	Füchse Berlin	7
+205	Galil Gilboa	4
+206	Gasterra Flames Groningen	4
+207	Geneve Servette HC	11
+208	Gjovik Mammuts	11
+209	GKS Katowice	11
+210	Glasgow Warriors	9
+211	Gloucester Rugby	9
+212	GOG Handbold	7
+213	Golden Lions	9
+214	Gorniczy Klub Sportowy Tychy	11
+215	Gornyak Uchaly	11
+216	Grasshopper Club Zurich	6
+217	Greater Western Sydney	12
+218	Greece	4
+219	Grenoble MH 38	11
+220	Grifk	7
+221	Grums IK	11
+222	Guildford Flames	11
+223	GWK Griquas	9
+224	Gyergyoi HK	11
+225	Halifax Blue Sox	9
+226	Halmstad Hammers	11
+227	Hammarby HB	7
+228	Hammarby Hockey IF	11
+229	Hanhals IF	11
+230	Hanvikens SK	11
+231	Hapoel Beer Sheva	4
+232	Hapoel Holon	4
+233	Happee	6
+234	Hartpury College	9
+235	Hasle/Loren Ishockey	11
+236	Hästö IF	7
+237	Haukar Hafnarfjordur	7
+238	Hawke´s Bay	9
+239	Hawthorn Hawks	12
+240	HBC Nantes	7
+241	HBC Saint-Amand-les-Eaux Porte du Hainaut	7
+242	HC 05 Banska Bystrica	11
+243	HC 07 Detva	11
+244	HC Ajoie	11
+245	HC Altai	11
+246	HC Ambri Piotta	11
+247	HC Amiens Somme	11
+248	HC AZ Havirov 2010	11
+249	HC Banik Karvina	7
+250	HC Barys Astana	11
+251	HC Benatky Nad Jizerou	11
+252	HC Cement Hranice	7
+253	HC Croatia Osiguranje Zagreb	7
+254	HC Dalen	11
+255	HC Davos	11
+256	HC Dinamo Maladzyechna	11
+257	HC Dinamo Riga	11
+258	HC Dukla Jihlava	11
+259	HC Dynamo Moscow	11
+260	HC Elbflorenz Dresden	7
+261	HC Fribourg Gotteron	11
+262	HC Frydek Mistek	11
+263	HC Horacka Slavia Trebic	11
+264	HC Kehra	7
+265	HC Kladno	11
+266	HC Kosice	11
+267	HC Kriens-Luzern	7
+268	HC La Chaux-de-Fonds	11
+269	HC Lugano	11
+270	HC Meshkov Brest	7
+271	HC Motor Ceske Budejovice	11
+272	HC Nice	11
+273	HC Orebro	11
+274	HC Red Star Kunlun	11
+275	HC Rhein Vikings	7
+276	HC RT Torax Poruba	11
+277	HC Rychenberg Winterthur	6
+278	HC Slavia Prag	11
+279	HC Slovan Ustecti Lvi	11
+280	HC Slovnaft Vsetin	11
+281	HC Sochi	11
+282	HC Sparta Prag	11
+283	HC Stadion Litomerice	11
+284	HC Taifun	11
+285	HC Tambov	11
+286	HC Tatran Presov	7
+287	HC THP Topvar Topolcany	7
+288	HC Traktor Chelyabinsk	11
+289	HC TWK Innsbruck Die Haie	11
+290	HC Vita Hasten	11
+291	HC Vitiaz Chehov	11
+292	HC Yugra Khanty-Mansiysk	11
+293	HC Zubr Prerov	11
+294	HCM Ramnicu Valcea	7
+295	Helsingborgs HC	11
+296	Herbalife Gran Canaria	4
+297	Herlev Eagles	11
+298	Herning Blue Fox	11
+299	HIFK Hockey	11
+300	HK Aranäs	7
+301	HK Avangard Omsk	11
+302	HK Dinamo Minsk	11
+303	HK Dinamo St Petersburg	11
+304	HK Gomel	11
+305	HK Jestrabi Prostejov	11
+306	HK Lida	11
+307	HK Malmö	7
+308	HK MVD	11
+309	HK Prizma	11
+310	HK Riga	11
+311	HK Ryazan	11
+312	HK Sarov	11
+313	HK SKP Poprad	11
+314	HKM Nitra	11
+315	HKM Zvolen	11
+316	Hockey Academy Zug	11
+317	Hoj	7
+318	Hokiklub Budapest	11
+319	Hoors HK H 65	7
+320	HPK Hämeenlinna	11
+321	HSC 2000 Coburg	7
+322	HSC Csikszereda	11
+323	HSG Nordhorn	7
+324	HSG Wetzlar	7
+325	HSV Hamburg	7
+326	Huddersfield Giants	9
+327	Hudiksvalls HC	11
+328	Hull FC	9
+329	Hull Kingston Rovers	9
+330	HV 71	11
+331	Hvidovre Attack	6
+332	Hvidovre Fighters	11
+333	IF Björklöven	11
+334	IF Troja/Ljungby	11
+335	IFK Arboga	11
+336	IFK Kristianstad	7
+337	IFK Kumla	11
+338	IFK Skövde HK	7
+339	IFK Ystads HK	7
+340	IHK Sparta Sarpsborg	11
+341	IK Oskarshamn	11
+342	IK Pantern	11
+343	IK Savehof	7
+344	Illinois Fighting Illini	2
+345	Ilves Tampere	11
+346	Incheon Korean Air Jumbos	13
+347	Instituto Atletico Central Cordoba	4
+348	IR Reykjavik	7
+349	Iran	13
+350	Irbis Kazan	11
+351	Issy Paris	7
+352	Istres Ouest Provence	7
+353	Italy	13
+354	Izhstal Izhevsk	11
+355	Japan	4
+356	Japan	13
+357	Jersey	9
+358	Jeunesse Laique de Bourg	4
+359	JKH GKS Jastrzebie	11
+360	Jokerit Helsinki	11
+361	JSF Nanterre	4
+362	JT Thunders	13
+363	Jukurit	11
+364	Juventus Utena	4
+365	K. Schaffhausen	7
+366	Kallinge/Ronneby IF	11
+367	Kalmar HC	11
+368	Kalpa Hockey	11
+369	Karlskrona HK	11
+370	Kärpät Oulu	11
+371	Kazzink	11
+372	KH Zaglebie Sosnowiec	11
+373	Khimik Voskresensk	11
+374	Kiruna AIF	11
+375	KK Cedevita Zagreb	4
+376	KK Prienai	4
+377	KK Zadar	4
+378	Kloten-Bülach Jets	6
+379	Kobenhavn H.b.	7
+380	Kookoo Kouvola	11
+381	Koovee	6
+382	Koping HC	11
+383	Krasnaya Armiya	11
+384	Kristianstad HK	7
+385	Kristianstads IK	11
+386	KRS Heilongjiang	11
+387	KS SPR Chrobry Glogow	7
+388	KS Stoczniowiec Gdansk	11
+389	KS Vive Targi Kielce	7
+390	Kuban	7
+391	Kungälvs HK	7
+392	Kuznetskie Medvedi	11
+393	Lada Togliatti	11
+394	Ladja Togliatti	11
+395	LaSB	6
+396	Lausanne HC	11
+397	Le Mans Basket	4
+398	Le Portel	4
+399	Leeds Carnegie	9
+400	Leeds Rhinos	9
+401	Leinster Lions	9
+402	Leksands IF	11
+403	Lemvig-Thyboron Handball	7
+404	Lietuvos Rytas	4
+405	Lillehammer IK	11
+406	Limoges CSP	4
+407	Lindlövens IF	11
+408	Lingen - Dessau-Rosslauer HV 2006	7
+409	Lingen - HC Erlangen	7
+410	Linköpings HC	11
+411	Liptovsky Mikulas	11
+412	Loko Yaroslavl	11
+413	Lokomotiv Yaroslavl	11
+414	London Broncos	9
+415	London Lions	4
+416	Lübbecke - TSV GWD Minden	7
+417	Lugi HF	7
+418	Luleaa Hockey	11
+419	Lyon HC	11
+420	M - Sporting CP	7
+421	M. Magnitogorsk	11
+422	MAC Budapest	11
+423	Maccabi Ashdod	4
+424	Maccabi Rishon Lezion	4
+425	Malmo IF	11
+426	Malungs IF	11
+427	Mamonty Yugry K. M.	11
+428	Manawatu	9
+429	Manglerud/Star	11
+430	Mariestads Bois	11
+431	Mecalia Atletico Guardes	7
+432	Medi Bayreuth	4
+433	Melbourne Demons	12
+434	Melbourne Storm	9
+435	Metallurg Novokuznetsk	11
+436	Metallurg Zhlobin	11
+437	Metz Handball	7
+438	MHK Krylia Sovetov	11
+439	Miami Florida	2
+440	Minnesota Vikings	2
+441	Minnesota Wild	11
+442	Miskolci JJSE	11
+443	MKB Veszprem KC	7
+444	MKS Cracovia Krakow	11
+445	MKS Lublin	7
+446	MKS Zaglebie Lubin	7
+447	Modo Hockey	11
+448	Mogo Riga	11
+449	Molot	11
+450	Montpellier Handball	7
+451	Montreal Alouettes	2
+452	Mora IK	11
+453	Mornar	4
+454	Morrum Gois IK	11
+455	Mors-Thy Handbold	7
+456	Morzine HC - Scorpions de Mulhouse	11
+457	Motor Zaporozhye	7
+458	Mountfield HK	11
+459	MRK Krka	7
+460	Mshk Zilina	11
+461	MT Melsungen	7
+462	Munster	9
+463	Mytishchinskie A.	11
+464	Nantes Loire Atlantique HB	7
+465	Neftekhimik Nizhnekamsk	11
+466	Neftyanik Almetyevsk	11
+467	Neman Grodno	11
+468	Neptunas Klaipeda	4
+469	Netherlands	13
+470	Nevezis Kedainiai	4
+471	New York Islanders	11
+472	New Zealand	9
+473	Newcastle Falcons	9
+474	Newport Gwent Dragons	9
+475	Nigeria	4
+476	Nokian Kristityt Palloilijat	6
+477	Nordsjaelland Handball	7
+478	North Carolina Tar Heels	2
+479	North Harbour	9
+480	Northland	9
+481	Norway	7
+482	Nottingham	9
+483	Nove Zamky	11
+484	Nybro IF	11
+485	Nykobing F.b Handboldklub	7
+486	Obras Sanitarias	4
+487	OC Cesson Handball	7
+488	Odense Bulldogs	11
+489	OGC Nice Cote D´Azur	7
+490	Old Dominion	2
+491	OLS Oulu	6
+492	Omskie Yastreby	11
+493	Önnereds HK	7
+494	Orlik Opole	11
+495	Ospreys	9
+496	Otago	9
+497	OV Helsingborg HK	7
+498	Panthers Otrokovice	6
+499	Paris Handball	7
+500	Paris Levallois	4
+501	Pau Lacq Orthez	4
+502	Pays Aix Universite Club Handball	7
+503	Pays D Aix	9
+504	Pelicans Lahti	11
+505	Penarol Mar Del Plata	4
+506	Penn St Nittany Lions	2
+507	Penrith Panthers	9
+508	Permskie Medvedi	7
+509	Pfadi Winterthur	7
+510	Philadelphia Flyers	11
+511	Pick Szeged	7
+512	Pieno Zvaigzdes	4
+513	Piteå HC	11
+514	Pittsburgh Steelers	2
+515	Pogon Handball Szczecin	7
+516	Poland	7
+517	Poland	13
+518	Pontault-Combault HB	7
+519	Potaissa Turda	7
+520	Prikamje Perm - Yuzhny Ural Orsk	11
+521	Puerto Rico	4
+522	Puerto Rico	13
+523	Quimsa Santiago del Estero	4
+524	Rain Or Shine Elasto	4
+525	Randers Cimbria	4
+526	Randers HH	7
+527	Randers HK	7
+528	Rapaces de Gap	11
+529	Rapperswil Jona Lakers	11
+530	Rasta Vechta	4
+531	Ratiopharm Ulm	4
+532	Rauma Lukko	11
+533	RB Salzburg	11
+534	RC Massy	9
+535	RD Loka	7
+536	RD Ribnica Riko Hise	7
+537	Reaktor Nizhnekamsk	11
+538	Reale Ademar	7
+539	Red Star Kunlun Junior	11
+540	Redbergslids IK	7
+541	Regal FC Barcelona	4
+542	Rhein Neckar Löwen	7
+543	Ribe-Esbjerg HH	7
+544	Richmond	9
+545	Richmond Tigers	12
+546	Ringerike IHK	11
+547	RK Celje Pivovarna Lasko	7
+548	RK Cimos Koper	7
+549	RK Gorenje Velenje	7
+550	RK Jeruzalem Ormoz	7
+551	RK Maribor Branik	7
+552	RK Trimo Trebnje	7
+553	Rocasa ACE Gran Canaria	7
+554	Rödovre FC	6
+555	Rodovre Mighty Bulls	11
+556	Rögle BK	11
+557	Rouen HE	11
+558	RTV 1879 Basel	7
+559	Rubin Tyumen	11
+560	Rungsted Ishockey	11
+561	Russia	13
+562	S. Barsy Astana	11
+563	Saint Raphael	7
+564	Saipa Lappeenranta	11
+565	Salavat Yulaev Ufa	11
+566	Salford Red Devils	9
+567	San Martin Corrientes	4
+568	San Mig Coffee Mixers	4
+569	Sapa Fehervar Av19 II	11
+570	Sarmaty Orenburg	11
+571	Saryarka	11
+572	Savo Volley	13
+573	SB Welhot	6
+574	SC Bern	11
+575	SC DHFK Leipzig	7
+576	SC Magdeburg	7
+577	Scarlets	9
+578	Schiller-Vasas HC	11
+579	SCL Tigers Langenau	11
+580	SCM Craiova	7
+581	Seattle Seahawks	2
+582	Seattle Storm	4
+583	Segeltorps IF	11
+584	Selfoss	7
+585	Senegal	4
+586	Seoul Woori Card Hansae	13
+587	Serbia	13
+588	Severstal Cherepovec	11
+589	SG BBM Bietigheim	7
+590	SG Flensburg-Handewitt	7
+591	Sgau-Saratov	7
+592	Shakhter Soligorsk	11
+593	Sheffield Sharks	4
+594	Sheffield Steelers	11
+595	Siauliai	4
+596	Sibir Novosibirsk	11
+597	Sibirskie Snaipery	11
+598	SK Kadan	11
+599	SK Lejon	11
+600	SKA St. Petersburg	11
+601	SKA-1946 St. Petersburg	11
+602	Skaanela IF	7
+603	Skanderborg Handball	7
+604	SKA-Varyagi	11
+605	Skellefteaa Aik	11
+606	SKIF	7
+607	Skjern Handbold	7
+608	Skövde IK	11
+609	Skuru IK	7
+610	Slovakia	11
+611	Slovan Bratislava	11
+612	Slovenia	13
+613	Södertälje SK	11
+614	Sokol Kral Vinohrady	6
+615	Sokol Krasnoyarsk	11
+616	Sokol Pardubice	6
+617	Sollentuna HC	11
+618	Sønderjyske	7
+619	Sonderjyske Ishockey	11
+620	South Africa	9
+621	South Korea	4
+622	South Sydney Rabbitohs	9
+623	Southland	9
+624	Soyaux Angoulême	9
+625	Spain	4
+626	Spartak Moscow	7
+627	Spartak Moskau	11
+628	Spartak Moskow	11
+629	Spojnia Gdynia	7
+630	Sport Lisboa Benfica	7
+631	Sputnik Almetievsk	11
+632	SPV	6
+633	St George Illawarra Dragons	9
+634	St Helens Rlfc	9
+635	St Petersburg	11
+636	St. Louis Rams	2
+637	Stade Aurillacois	9
+638	Stalnye Lisy	11
+639	Stavanger Oilers	11
+640	Steaua Bucharest	7
+641	Steelers	6
+642	Stevnsgade Supermen	4
+643	Stjarnan	7
+644	Stjernen Hockey	11
+645	Storhamar Dragons	11
+646	Strasbourg IG	4
+647	Sunds Seahawks FC	6
+648	Sungul	7
+649	Surahammar	11
+650	Surrey Heat	4
+651	Suwon Kepco	13
+652	SV Wiler Ersigen	6
+653	Tampa Bay Buccaneers	2
+654	Tappara Tampere	11
+655	Taranaki	9
+656	Tasman	9
+657	Tatran Omlux Stresovice	6
+658	Team Fog Naestved	4
+659	Team Kiruna	11
+660	Team Lakkapää	13
+661	Team TVIS Holstebro	7
+662	Telnet BC Oostende	4
+663	TH Unia Oswiecim	11
+664	THW Kiel	7
+665	Thyboron Handball - Otterup HK	7
+666	Tigers Langnau	6
+667	Timraa IK	11
+668	Tingsryds AIF	11
+669	TJ JM Chodov	6
+670	TJ VHS Znojmo	6
+671	TKH Nesta Torun	11
+672	TMH Polonia Bytom	11
+673	TMS Ringsted	7
+674	Tolpar UFA	11
+675	Toronto Wolfpack	9
+676	Toros Neftekamsk	11
+677	Torpedo - Ermak Angarsk	11
+678	Torpedo N. Novgorod	11
+679	Toulon Saint Cyr Var Handball	7
+680	Toulouse Handball	7
+681	Toulouse Olympique XIII	9
+682	Toyota Free State Cheetahs	9
+683	TPS	6
+684	TPS Turku	11
+685	Tranaas Aif	11
+686	Trangsund	11
+687	Tremblay En France	7
+688	TSG Ludwigshafen-Friesenheim	7
+689	TSV Bayer 04 Leverkusen	7
+690	TSV Hannover Burgdorf	7
+691	Tunisia	13
+692	Turkey	4
+693	TUS N	7
+694	Tusem Essen	7
+695	TV Emsdetten	7
+696	TV Grosswallstadt	7
+697	TV Hüttenberg	7
+698	Tyringe Sos	11
+699	Tyumenskiy Legion	11
+700	U. Olimpija Ljubljana	4
+701	UCAM Murcia	4
+702	UCF Knights	2
+703	UHC Alligator Malans	6
+704	UHC Thun	6
+705	UHC Uster	6
+706	Ujpest Budapest	11
+707	Ulster	9
+708	Unicaja Malaga	4
+709	Universitatea Politehnica Timisoara	7
+710	Universitet	7
+711	US Carcassonne	9
+712	US Ivry Handball	7
+713	US Montauban	9
+714	USA	13
+715	Usam Nimes	7
+716	USC Trojans	2
+717	USON Nevers	9
+718	Vaasan Sport	11
+719	Vaerlose BBK	4
+720	Valencia Basket	4
+721	Valepa	13
+722	Valerenga IF	11
+723	Valur Reykjavik	7
+724	Vanlose Floorball	6
+725	Väsby IK	11
+726	Vasterasirsta HF	7
+727	Västervik	11
+728	Växjö Lakers HC	11
+729	VfL Gummersbach	7
+730	Viborg HK	7
+731	Vienna Capitals II	11
+732	Viikingit	6
+733	VIK Vasteraas	11
+734	Villeurbanne - Gravelines Grand Fort BCM	4
+735	Vimmerby HC	11
+736	Vistal Gdynia	7
+737	Vityazi Chekhov	11
+738	VMF St Petersburg	11
+739	Vodacom Blue Bulls	9
+740	Vojvodina-Univerexport Novi Sad	7
+741	Wacker Thun	7
+742	Waikato	9
+743	Wake Forest Demon Deacons	2
+744	Wakefield Trinity Wildcats	9
+745	Waldkirch St.Gallen	6
+746	Warrington Wolves	9
+747	Washington Mystics	4
+748	Washington St Cougars	2
+749	Wellington	9
+750	Westend Indians	6
+751	Western KB Star Insurance	13
+752	Widnes Vikings	9
+753	Wigan Warriors	9
+754	Wilhelmshavener HV	7
+755	Winnipeg Blue Bombers	2
+756	Winnipeg Jets	11
+757	Wisla Plock	7
+758	Worcester Wolves	4
+759	Ystads IF HF	7
+760	Yunost Minsk	11
+761	Zauralye Kurgan	11
+762	Zebre	9
+763	Zeleznicar Indjija	7
+764	ZSC Lions	11
+765	Zuazo - Handbol Canyamelar Valencia	7
+766	Zug United	6
+767	Zvezda Chekhov	11

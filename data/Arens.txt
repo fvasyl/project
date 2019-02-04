@@ -1,580 +1,580 @@
-﻿CityName	ArenaName	CityID	AmountOfSits
-Southfield	Southfield city Arena	1	21900
-Seattle	Seattle city Arena	2	11400
-Bendigo	Bendigo city Arena	3	12800
-San Mateo	San Mateo city Arena	4	19800
-Saint Matthews	Saint Matthews city Arena	5	11200
-Chalk Riber	Chalk Riber city Arena	6	23400
-Huntsville	Huntsville city Arena	7	9700
-Suwanee	Suwanee city Arena	8	23400
-Kirkby	Kirkby city Arena	9	16800
-Springdale	Springdale city Arena	10	9500
-Abingdon	Abingdon city Arena	11	12600
-Sammamish	Sammamish city Arena	12	14400
-Maidenhead	Maidenhead city Arena	13	16800
-Downey	Downey city Arena	14	14300
-Fullerton	Fullerton city Arena	15	15400
-Augsburg	Augsburg city Arena	16	13800
-Woonsocket	Woonsocket city Arena	17	14000
-Aujan Mournede	Aujan Mournede city Arena	18	21500
-Denver	Denver city Arena	19	14100
-Federal Way	Federal Way city Arena	20	17300
-Port Macquarie	Port Macquarie city Arena	21	13000
-Pnot-Rouge	Pnot-Rouge city Arena	22	15400
-Lincoln Acres	Lincoln Acres city Arena	23	15500
-Cloverdale	Cloverdale city Arena	24	15400
-Erlangen	Erlangen city Arena	25	18600
-Racine	Racine city Arena	26	17100
-Orange	Orange city Arena	27	22600
-Casper	Casper city Arena	28	19900
-Carol Stream	Carol Stream city Arena	29	20200
-Elk Grove	Elk Grove city Arena	30	18200
-Carson	Carson city Arena	31	22900
-Roncq	Roncq city Arena	32	23400
-Kittery	Kittery city Arena	33	18500
-Irvine	Irvine city Arena	34	11400
-Baldwin Park	Baldwin Park city Arena	35	21800
-Shelton	Shelton city Arena	36	21900
-Hillsboro	Hillsboro city Arena	37	18700
-Bobigny	Bobigny city Arena	38	11000
-Cambridge	Cambridge city Arena	39	13800
-Saginaw	Saginaw city Arena	40	9600
-South Melbourne	South Melbourne city Arena	41	10600
-Sydney	Sydney city Arena	42	12800
-Kannapolis	Kannapolis city Arena	43	19600
-Warwick	Warwick city Arena	44	20300
-Sulzbach Taunus	Sulzbach Taunus city Arena	45	18400
-Cambridge	Cambridge city Arena	46	16000
-Garland	Garland city Arena	47	23500
-Bell Gardens	Bell Gardens city Arena	48	18500
-Philadelphia	Philadelphia city Arena	49	11300
-Lynnwood	Lynnwood city Arena	50	19800
-Cliffside	Cliffside city Arena	51	20300
-W. York	W. York city Arena	52	21400
-National City	National City city Arena	53	19600
-Redford	Redford city Arena	54	23100
-Matraville	Matraville city Arena	55	19900
-Newcastle	Newcastle city Arena	56	14200
-N. Vancouver	N. Vancouver city Arena	57	10800
-Kennewick	Kennewick city Arena	58	10600
-Milwaukie	Milwaukie city Arena	59	9600
-Jefferson City	Jefferson City city Arena	60	14300
-Ellensburg	Ellensburg city Arena	61	16600
-Hixson	Hixson city Arena	62	13700
-Stockton	Stockton city Arena	63	17000
-Woolston	Woolston city Arena	64	13000
-Burnaby	Burnaby city Arena	65	15900
-Everett	Everett city Arena	66	10800
-Edmonds	Edmonds city Arena	67	18400
-Mosinee	Mosinee city Arena	68	19800
-Park City	Park City city Arena	69	19900
-Sacramento	Sacramento city Arena	70	21900
-Saint-Denis	Saint-Denis city Arena	71	22000
-Port Orchard	Port Orchard city Arena	72	18900
-North York	North York city Arena	73	9800
-Tigard	Tigard city Arena	74	13900
-Ferguson	Ferguson city Arena	75	23100
-Cheyenne	Cheyenne city Arena	76	10800
-Hooksett	Hooksett city Arena	77	11400
-Charlotte	Charlotte city Arena	78	15100
-Gulfport	Gulfport city Arena	79	12200
-Metchosin	Metchosin city Arena	80	17300
-Lane Cove	Lane Cove city Arena	81	15700
-Baytown	Baytown city Arena	82	16700
-Oregon City	Oregon City city Arena	83	10600
-St. Leonards	St. Leonards city Arena	84	11300
-Cincinnati	Cincinnati city Arena	85	15100
-Glendale	Glendale city Arena	86	13800
-Modesto	Modesto city Arena	87	9200
-Richmond	Richmond city Arena	88	15700
-Altadena	Altadena city Arena	89	9200
-Sèvres	Sèvres city Arena	90	21600
-Newport Hills	Newport Hills city Arena	91	10800
-Corpus Christi	Corpus Christi city Arena	92	15100
-Fort Wayne	Fort Wayne city Arena	93	21200
-Montgomery	Montgomery city Arena	94	17200
-Sedro Woolley	Sedro Woolley city Arena	95	23200
-Ontario	Ontario city Arena	96	23500
-Bradenton	Bradenton city Arena	97	17200
-Medford	Medford city Arena	98	17500
-Hamden	Hamden city Arena	99	11200
-Englewood	Englewood city Arena	100	18400
-Mesa	Mesa city Arena	101	9900
-La Vergne	La Vergne city Arena	102	23500
-Midland	Midland city Arena	103	18400
-Kenmore	Kenmore city Arena	104	15900
-Portland	Portland city Arena	105	14200
-Sainte-Foy	Sainte-Foy city Arena	106	21200
-Moline	Moline city Arena	107	15400
-Brossard	Brossard city Arena	108	18300
-Newport News	Newport News city Arena	109	19000
-Sequim	Sequim city Arena	110	18400
-Wood Dale	Wood Dale city Arena	111	9600
-San Antonio	San Antonio city Arena	112	12800
-Branson	Branson city Arena	113	14400
-Fort Worth	Fort Worth city Arena	114	14100
-Round Rock	Round Rock city Arena	115	22800
-Whittier	Whittier city Arena	116	19600
-Woodinville	Woodinville city Arena	117	11300
-Augusta	Augusta city Arena	118	21300
-Virginia Beach	Virginia Beach city Arena	119	13600
-Pantin	Pantin city Arena	120	16700
-Oakland	Oakland city Arena	121	9600
-Stamford	Stamford city Arena	122	18600
-Toronto	Toronto city Arena	123	13900
-Suresnes	Suresnes city Arena	124	16700
-Gloucestershire	Gloucestershire city Arena	125	22800
-Burbank	Burbank city Arena	126	20200
-Beverly Hills	Beverly Hills city Arena	127	12300
-Norridge	Norridge city Arena	128	21500
-Myrtle Beach	Myrtle Beach city Arena	129	9800
-Tremblay-en-France	Tremblay-en-France city Arena	130	21200
-Yakima	Yakima city Arena	131	9700
-Port Huron	Port Huron city Arena	132	22900
-Sillery	Sillery city Arena	133	23000
-Central Valley	Central Valley city Arena	134	12900
-Saint Louis	Saint Louis city Arena	135	17000
-San Jose	San Jose city Arena	136	17300
-Loveland	Loveland city Arena	137	23100
-Odessa	Odessa city Arena	138	16800
-Millington	Millington city Arena	139	16000
-Solingen	Solingen city Arena	140	13800
-Kansas City	Kansas City city Arena	141	11500
-Mill Valley	Mill Valley city Arena	142	23200
-Boulogne-sur-Mer	Boulogne-sur-Mer city Arena	143	18300
-Nashua	Nashua city Arena	144	15600
-Brisbane	Brisbane city Arena	145	18300
-Boston	Boston city Arena	146	13600
-Escondido	Escondido city Arena	147	15900
-Eilenburg	Eilenburg city Arena	148	22800
-Kingston	Kingston city Arena	149	21600
-Wokingham	Wokingham city Arena	150	12200
-Braintree	Braintree city Arena	151	20100
-Hamburg	Hamburg city Arena	152	18700
-Elgin	Elgin city Arena	153	14000
-Johnson Creek	Johnson Creek city Arena	154	10800
-Burlingame	Burlingame city Arena	155	18800
-Oak Bay	Oak Bay city Arena	156	16600
-Sugar Land	Sugar Land city Arena	157	16000
-Coronado	Coronado city Arena	158	20100
-Memphis	Memphis city Arena	159	19000
-Gold Coast	Gold Coast city Arena	160	14500
-Citrus Heights	Citrus Heights city Arena	161	13000
-Hawthorne	Hawthorne city Arena	162	15100
-Townsville	Townsville city Arena	163	11000
-Winston-Salem	Winston-Salem city Arena	164	10700
-Basingstoke Hants	Basingstoke Hants city Arena	165	20400
-Santa Monica	Santa Monica city Arena	166	10900
-Spring Valley	Spring Valley city Arena	167	17500
-North Las Vegas	North Las Vegas city Arena	168	18300
-Greensboro	Greensboro city Arena	169	9900
-Falls Church	Falls Church city Arena	170	19000
-Farmington	Farmington city Arena	171	14500
-Los Angeles	Los Angeles city Arena	172	22900
-Merritt Island	Merritt Island city Arena	173	10000
-West Kingston	West Kingston city Arena	174	15100
-Berkeley	Berkeley city Arena	175	12600
-Santa Cruz	Santa Cruz city Arena	176	15700
-Newport	Newport city Arena	177	10900
-San Carlos	San Carlos city Arena	178	14400
-Richmond	Richmond city Arena	179	23300
-Westland	Westland city Arena	180	9300
-Seaford	Seaford city Arena	181	15700
-Clackamas	Clackamas city Arena	182	10800
-Richmond Hill	Richmond Hill city Arena	183	10600
-Sunrise	Sunrise city Arena	184	19000
-Somerset	Somerset city Arena	185	9300
-Bellflower	Bellflower city Arena	186	12700
-Lemon Grove	Lemon Grove city Arena	187	9500
-Saugus	Saugus city Arena	188	16900
-Tampa	Tampa city Arena	189	17100
-Santa Ana	Santa Ana city Arena	190	21400
-Rockhampton	Rockhampton city Arena	191	23000
-De Witt	De Witt city Arena	192	21600
-Gilbert	Gilbert city Arena	193	9800
-Salzgitter	Salzgitter city Arena	194	20100
-Hayward	Hayward city Arena	195	22600
-Hervey Bay	Hervey Bay city Arena	196	21400
-Missoula	Missoula city Arena	197	21100
-Melville	Melville city Arena	198	9400
-Saint Ann	Saint Ann city Arena	199	19800
-Alhambra	Alhambra city Arena	200	12700
-North Ryde	North Ryde city Arena	201	21100
-Esher-Molesey	Esher-Molesey city Arena	202	11300
-Southgate	Southgate city Arena	203	18700
-Monrovia	Monrovia city Arena	204	16800
-Mesquite	Mesquite city Arena	205	21300
-Fremont	Fremont city Arena	206	12800
-Sarasota	Sarasota city Arena	207	14200
-Norwood	Norwood city Arena	208	22700
-Cheltenham	Cheltenham city Arena	209	22700
-Rio Rancho	Rio Rancho city Arena	210	19700
-Palo Alto	Palo Alto city Arena	211	12700
-Michigan City	Michigan City city Arena	212	17100
-Markham	Markham city Arena	213	23100
-Daleville	Daleville city Arena	214	13800
-Clarkston	Clarkston city Arena	215	15700
-Chehalis	Chehalis city Arena	216	14000
-Duluth	Duluth city Arena	217	18600
-Darlinghurst	Darlinghurst city Arena	218	22000
-Kent	Kent city Arena	219	16600
-Findon	Findon city Arena	220	18100
-Milpitas	Milpitas city Arena	221	21400
-Ogden	Ogden city Arena	222	12600
-Duvall	Duvall city Arena	223	18500
-Cranbourne	Cranbourne city Arena	224	9200
-Ingolstadt	Ingolstadt city Arena	225	9900
-Marietta	Marietta city Arena	226	23300
-Edina	Edina city Arena	227	16900
-Lake Oswego	Lake Oswego city Arena	228	9100
-Decatur	Decatur city Arena	229	23300
-Minneapolis	Minneapolis city Arena	230	23100
-Lacey	Lacey city Arena	231	17300
-Paris	Paris city Arena	232	14400
-Phoenix	Phoenix city Arena	233	12500
-Kendall	Kendall city Arena	234	10700
-Rock Springs	Rock Springs city Arena	235	23200
-Branch	Branch city Arena	236	18600
-Lakeland	Lakeland city Arena	237	15600
-Melbourne	Melbourne city Arena	238	13900
-Camarillo	Camarillo city Arena	239	17100
-Las Cruces	Las Cruces city Arena	240	11100
-Mansfield	Mansfield city Arena	241	21900
-Kirkland	Kirkland city Arena	242	12100
-Clearwater	Clearwater city Arena	243	11500
-Scarborough	Scarborough city Arena	244	23200
-Milsons Point	Milsons Point city Arena	245	11100
-Crossville	Crossville city Arena	246	16700
-Puyallup	Puyallup city Arena	247	11200
-Chicago	Chicago city Arena	248	15900
-Longview	Longview city Arena	249	21500
-Dresden	Dresden city Arena	250	22800
-Courbevoie	Courbevoie city Arena	251	16800
-Sand City	Sand City city Arena	252	21700
-Savannah	Savannah city Arena	253	23200
-Berkshire	Berkshire city Arena	254	23200
-Tupelo	Tupelo city Arena	255	15800
-El Segundo	El Segundo city Arena	256	13800
-Springwood	Springwood city Arena	257	9200
-Versailles	Versailles city Arena	258	19900
-Novi	Novi city Arena	259	18300
-Sunbury	Sunbury city Arena	260	18100
-Columbus	Columbus city Arena	261	14500
-Münster	Münster city Arena	262	18300
-Frankfurt	Frankfurt city Arena	263	15300
-Bellevue	Bellevue city Arena	264	18300
-Geelong	Geelong city Arena	265	15200
-Saint John	Saint John city Arena	266	18900
-Vancouver	Vancouver city Arena	267	17000
-Norwalk	Norwalk city Arena	268	12500
-St. Louis	St. Louis city Arena	269	23200
-Mobile	Mobile city Arena	270	16600
-Lille	Lille city Arena	271	18600
-Kelso	Kelso city Arena	272	9300
-Santa Fe	Santa Fe city Arena	273	19700
-Drancy	Drancy city Arena	274	23100
-Biloxi	Biloxi city Arena	275	17500
-Orleans	Orleans city Arena	276	12800
-Peterborough	Peterborough city Arena	277	21600
-Snohomish	Snohomish city Arena	278	14200
-Nashville	Nashville city Arena	279	18200
-San Francisco	San Francisco city Arena	280	14500
-Idaho Falls	Idaho Falls city Arena	281	14300
-Grossmont	Grossmont city Arena	282	15800
-Newcastle upon Tyne	Newcastle upon Tyne city Arena	283	9700
-Ithaca	Ithaca city Arena	284	13800
-Werne	Werne city Arena	285	23000
-Plano	Plano city Arena	286	14100
-Outremont	Outremont city Arena	287	15500
-Irving	Irving city Arena	288	20100
-Saarbrücken	Saarbrücken city Arena	289	14400
-South Bend	South Bend city Arena	290	14300
-Wrentham	Wrentham city Arena	291	17100
-Longmont	Longmont city Arena	292	21400
-Denby	Denby city Arena	293	23300
-San Gabriel	San Gabriel city Arena	294	12800
-Oberlin	Oberlin city Arena	295	14000
-Liverpool	Liverpool city Arena	296	15600
-Upland	Upland city Arena	297	15200
-London	London city Arena	298	16800
-Roubaix	Roubaix city Arena	299	23000
-Heath	Heath city Arena	300	23400
-Kingsport	Kingsport city Arena	301	19600
-San Ysidro	San Ysidro city Arena	302	19900
-Billericay	Billericay city Arena	303	18500
-Zeeland	Zeeland city Arena	304	9700
-Corvallis	Corvallis city Arena	305	21400
-Burien	Burien city Arena	306	19600
-Etobicoke	Etobicoke city Arena	307	13700
-La Marque	La Marque city Arena	308	15300
-West Chicago	West Chicago city Arena	309	23000
-North Bend	North Bend city Arena	310	20100
-Las Vegas	Las Vegas city Arena	311	18200
-Lebanon	Lebanon city Arena	312	16800
-El Cajon	El Cajon city Arena	313	18200
-Lancaster	Lancaster city Arena	314	12100
-Gateshead	Gateshead city Arena	315	21800
-Tucson	Tucson city Arena	316	11300
-Bonn	Bonn city Arena	317	15900
-Woodbury	Woodbury city Arena	318	21500
-Colma	Colma city Arena	319	11300
-Reno	Reno city Arena	320	19600
-Index	Index city Arena	321	13700
-Carnation	Carnation city Arena	322	14100
-Caloundra	Caloundra city Arena	323	18700
-Van Nuys	Van Nuys city Arena	324	17500
-Mühlheim	Mühlheim city Arena	325	19700
-Malabar	Malabar city Arena	326	17200
-Westport	Westport city Arena	327	20100
-Warrnambool	Warrnambool city Arena	328	22600
-Stoke-on-Trent	Stoke-on-Trent city Arena	329	23300
-Vacaville	Vacaville city Arena	330	11400
-Washougal	Washougal city Arena	331	9500
-Scottsdale	Scottsdale city Arena	332	21200
-Redmond	Redmond city Arena	333	11100
-Bothell	Bothell city Arena	334	23500
-Ville De'anjou	Ville De'anjou city Arena	335	18100
-Hobart	Hobart city Arena	336	12600
-Pontiac	Pontiac city Arena	337	21300
-Barrie	Barrie city Arena	338	20200
-Hannover	Hannover city Arena	339	15500
-Monroe	Monroe city Arena	340	15400
-Plaistow	Plaistow city Arena	341	16900
-Sooke	Sooke city Arena	342	21600
-Paris La Defense	Paris La Defense city Arena	343	16900
-City Of Commerce	City Of Commerce city Arena	344	15800
-Destin	Destin city Arena	345	19900
-Reading	Reading city Arena	346	16900
-Essen	Essen city Arena	347	22000
-Beaverton	Beaverton city Arena	348	15300
-San Bruno	San Bruno city Arena	349	20000
-North Randall	North Randall city Arena	350	14100
-Melton	Melton city Arena	351	9900
-Offenbach	Offenbach city Arena	352	17000
-Joliet	Joliet city Arena	353	11200
-Chantilly	Chantilly city Arena	354	20000
-Tuscola	Tuscola city Arena	355	21300
-La Mesa	La Mesa city Arena	356	10000
-Nevada	Nevada city Arena	357	15900
-Euclid	Euclid city Arena	358	21600
-Cerritos	Cerritos city Arena	359	22000
-Greeley	Greeley city Arena	360	23000
-Mentor	Mentor city Arena	361	22800
-Riverton	Riverton city Arena	362	9600
-Anacortes	Anacortes city Arena	363	12200
-Bury	Bury city Arena	364	20400
-College Station	College Station city Arena	365	21700
-Berks	Berks city Arena	366	23100
-Eureka	Eureka city Arena	367	12100
-Birmingham	Birmingham city Arena	368	11400
-Metz	Metz city Arena	369	16000
-Ascheim	Ascheim city Arena	370	21800
-Lake Elsinore	Lake Elsinore city Arena	371	9600
-Sherman Oaks	Sherman Oaks city Arena	372	18500
-Redwood City	Redwood City city Arena	373	9600
-Birmingham	Birmingham city Arena	374	14500
-Goulburn	Goulburn city Arena	375	21100
-Cheektowaga	Cheektowaga city Arena	376	17000
-Roissy en Brie	Roissy en Brie city Arena	377	23200
-Lavender Bay	Lavender Bay city Arena	378	12200
-Sandy	Sandy city Arena	379	9600
-Killeen	Killeen city Arena	380	9200
-Hollywood	Hollywood city Arena	381	15400
-Barstow	Barstow city Arena	382	21200
-Verrieres Le Buisson	Verrieres Le Buisson city Arena	383	18200
-W. Linn	W. Linn city Arena	384	12300
-Royal Oak	Royal Oak city Arena	385	18800
-Colomiers	Colomiers city Arena	386	15200
-North Miami Beach	North Miami Beach city Arena	387	14100
-Gilroy	Gilroy city Arena	388	9700
-Rocky Mount	Rocky Mount city Arena	389	22600
-Holland	Holland city Arena	390	13800
-Billings	Billings city Arena	391	21500
-Dallas	Dallas city Arena	392	18300
-Culver City	Culver City city Arena	393	15300
-Visalia	Visalia city Arena	394	19700
-La Grange	La Grange city Arena	395	21100
-Bracknell	Bracknell city Arena	396	19000
-North Sydney	North Sydney city Arena	397	13600
-Imperial Beach	Imperial Beach city Arena	398	17500
-Nepean	Nepean city Arena	399	12800
-Gold Bar	Gold Bar city Arena	400	21500
-New Castle	New Castle city Arena	401	15500
-East Haven	East Haven city Arena	402	9400
-Bottrop	Bottrop city Arena	403	14400
-Marysville	Marysville city Arena	404	14000
-Chula Vista	Chula Vista city Arena	405	21900
-Atlanta	Atlanta city Arena	406	19600
-Muehlheim	Muehlheim city Arena	407	15400
-Lieusaint	Lieusaint city Arena	408	18400
-Simi Valley	Simi Valley city Arena	409	13000
-Chatou	Chatou city Arena	410	14100
-New York	New York city Arena	411	21500
-Port Hammond	Port Hammond city Arena	412	13700
-Warrington	Warrington city Arena	413	14500
-Silverwater	Silverwater city Arena	414	17300
-Vista	Vista city Arena	415	22900
-Lakewood	Lakewood city Arena	416	10800
-Austell	Austell city Arena	417	17400
-York	York city Arena	418	18200
-Concord	Concord city Arena	419	12200
-Troutdale	Troutdale city Arena	420	13900
-Stafford	Stafford city Arena	421	10900
-Renton	Renton city Arena	422	16000
-Milwaukee	Milwaukee city Arena	423	12500
-Houston	Houston city Arena	424	23100
-Valley Stream	Valley Stream city Arena	425	10600
-Darmstadt	Darmstadt city Arena	426	12500
-Peoria	Peoria city Arena	427	9300
-Croix	Croix city Arena	428	14100
-Union Gap	Union Gap city Arena	429	11100
-Woodburn	Woodburn city Arena	430	20500
-Tooele	Tooele city Arena	431	21500
-Hanford	Hanford city Arena	432	9100
-Kassel	Kassel city Arena	433	15100
-Bellingham	Bellingham city Arena	434	21900
-Poing	Poing city Arena	435	11000
-Surrey	Surrey city Arena	436	9600
-Albany	Albany city Arena	437	14300
-Cergy	Cergy city Arena	438	15100
-North Sioux City	North Sioux City city Arena	439	12600
-München	München city Arena	440	22000
-Saint Germain en Laye	Saint Germain en Laye city Arena	441	20300
-Clay	Clay city Arena	442	9500
-Hof	Hof city Arena	443	9600
-Calgary	Calgary city Arena	444	14200
-Canoga Park	Canoga Park city Arena	445	20400
-Sandpoint	Sandpoint city Arena	446	18200
-Maryville	Maryville city Arena	447	17400
-Orlando	Orlando city Arena	448	11500
-Miami	Miami city Arena	449	14500
-Perth	Perth city Arena	450	9400
-Humble	Humble city Arena	451	14100
-Colombes	Colombes city Arena	452	23000
-Austin	Austin city Arena	453	15200
-San Ramon	San Ramon city Arena	454	11200
-Saint Ouen	Saint Ouen city Arena	455	18400
-Aurora	Aurora city Arena	456	12600
-Haney	Haney city Arena	457	9200
-Kanata	Kanata city Arena	458	15700
-Winnipeg	Winnipeg city Arena	459	21500
-Spokane	Spokane city Arena	460	21300
-Madison Heights	Madison Heights city Arena	461	17000
-Braunschweig	Braunschweig city Arena	462	12300
-Stuttgart	Stuttgart city Arena	463	19600
-Watford	Watford city Arena	464	9300
-Rhodes	Rhodes city Arena	465	15700
-Westminster	Westminster city Arena	466	21500
-Saarlouis	Saarlouis city Arena	467	18900
-Duesseldorf	Duesseldorf city Arena	468	19600
-Laredo	Laredo city Arena	469	21100
-Coffs Harbour	Coffs Harbour city Arena	470	10700
-Edmonton	Edmonton city Arena	471	9200
-Milford	Milford city Arena	472	13600
-Frankfurt am Main	Frankfurt am Main city Arena	473	11100
-Leesburg	Leesburg city Arena	474	17400
-San Diego	San Diego city Arena	475	18600
-Bluffton	Bluffton city Arena	476	21900
-Neunkirchen	Neunkirchen city Arena	477	9300
-La Jolla	La Jolla city Arena	478	20100
-Bremerton	Bremerton city Arena	479	9800
-Detroit	Detroit city Arena	480	9800
-Paderborn	Paderborn city Arena	481	12600
-Logansport	Logansport city Arena	482	11200
-West Covina	West Covina city Arena	483	23300
-Florence	Florence city Arena	484	14500
-High Wycombe	High Wycombe city Arena	485	17100
-Torrance	Torrance city Arena	486	18400
-Dorval	Dorval city Arena	487	11100
-Salt Lake City	Salt Lake City city Arena	488	11300
-Pigeon Forge	Pigeon Forge city Arena	489	15200
-Redlands	Redlands city Arena	490	21400
-Newport Beach	Newport Beach city Arena	491	16900
-Langford	Langford city Arena	492	14300
-Oxford	Oxford city Arena	493	11500
-Walnut Creek	Walnut Creek city Arena	494	9300
-Klamath Falls	Klamath Falls city Arena	495	16000
-Raleigh	Raleigh city Arena	496	11000
-Parker	Parker city Arena	497	14500
-Mississauga	Mississauga city Arena	498	22000
-Sparks	Sparks city Arena	499	17500
-Fontana	Fontana city Arena	500	9100
-Smithfield	Smithfield city Arena	501	10000
-Ballard	Ballard city Arena	502	15100
-Westminster	Westminster city Arena	503	14300
-Indianapolis	Indianapolis city Arena	504	18400
-Trabuco Canyon	Trabuco Canyon city Arena	505	20200
-Boise	Boise city Arena	506	16000
-East Brisbane	East Brisbane city Arena	507	22900
-Morangis	Morangis city Arena	508	15300
-Weston	Weston city Arena	509	23200
-Leipzig	Leipzig city Arena	510	22800
-Issaquah	Issaquah city Arena	511	10800
-Berlin	Berlin city Arena	512	21800
-Walla Walla	Walla Walla city Arena	513	21500
-Cedar Park	Cedar Park city Arena	514	21700
-Runcorn	Runcorn city Arena	515	14100
-Ottawa	Ottawa city Arena	516	19800
-Bordeaux	Bordeaux city Arena	517	15400
-Leeds	Leeds city Arena	518	12800
-Endicott	Endicott city Arena	519	14400
-New Hartford	New Hartford city Arena	520	10000
-Kiel	Kiel city Arena	521	23100
-Altamonte Springs	Altamonte Springs city Arena	522	19800
-Les Ulis	Les Ulis city Arena	523	11200
-Shawnee	Shawnee city Arena	524	13900
-Baltimore	Baltimore city Arena	525	18800
-Bountiful	Bountiful city Arena	526	12600
-Alpine	Alpine city Arena	527	15800
-Campbellsville	Campbellsville city Arena	528	17000
-Chandler	Chandler city Arena	529	13800
-Fernley	Fernley city Arena	530	15800
-Tilton	Tilton city Arena	531	22600
-Newark	Newark city Arena	532	21500
-Springfield	Springfield city Arena	533	19800
-Union City	Union City city Arena	534	9500
-Arlington	Arlington city Arena	535	16700
-Novato	Novato city Arena	536	19600
-Bad Soden	Bad Soden city Arena	537	22000
-Oxon	Oxon city Arena	538	12700
-Alexandria	Alexandria city Arena	539	17000
-Carrollton	Carrollton city Arena	540	13000
-Milton Keynes	Milton Keynes city Arena	541	21300
-Oxnard	Oxnard city Arena	542	12900
-Newton	Newton city Arena	543	21300
-New Haven	New Haven city Arena	544	18400
-Montreal	Montreal city Arena	545	23300
-Wenatchee	Wenatchee city Arena	546	15700
-Waterloo	Waterloo city Arena	547	9400
-Woodland Hills	Woodland Hills city Arena	548	13800
-Randolph	Randolph city Arena	549	23300
-West Sussex	West Sussex city Arena	550	10900
-Villeneuve-d'Ascq	Villeneuve-d'Ascq city Arena	551	10000
-Langley	Langley city Arena	552	11400
-Mcdonough	Mcdonough city Arena	553	9100
-Lewiston	Lewiston city Arena	554	21700
-Olympia	Olympia city Arena	555	12600
-Pleasanton	Pleasanton city Arena	556	21400
-Quebec	Quebec city Arena	557	9900
-Cedar City	Cedar City city Arena	558	11300
-Auburn	Auburn city Arena	559	21800
-Long Beach	Long Beach city Arena	560	22600
-Hull	Hull city Arena	561	12400
-Surprise	Surprise city Arena	562	12700
-Lake George	Lake George city Arena	563	11100
-Waterbury	Waterbury city Arena	564	9400
-Tacoma	Tacoma city Arena	565	11100
-Byron	Byron city Arena	566	9900
-Gaffney	Gaffney city Arena	567	10900
-Howell	Howell city Arena	568	21600
-Vero Beach	Vero Beach city Arena	569	22600
-Victoria	Victoria city Arena	570	12300
-Grevenbroich	Grevenbroich city Arena	571	9100
-Dunkerque	Dunkerque city Arena	572	18900
-Wollongong	Wollongong city Arena	573	16700
-Boulogne-Billancourt	Boulogne-Billancourt city Arena	574	11000
-Orly	Orly city Arena	575	11200
-Salem	Salem city Arena	576	18800
-Brampton	Brampton city Arena	577	23400
-Daly City	Daly City city Arena	578	23000
-Great Falls	Great Falls city Arena	579	12400
+﻿SportArenaID	AmountOfSits	CityID	ArenaName
+1	21900	1	Southfield city Arena
+2	11400	2	Seattle city Arena
+3	12800	3	Bendigo city Arena
+4	19800	4	San Mateo city Arena
+5	11200	5	Saint Matthews city Arena
+6	23400	6	Chalk Riber city Arena
+7	9700	7	Huntsville city Arena
+8	23400	8	Suwanee city Arena
+9	16800	9	Kirkby city Arena
+10	9500	10	Springdale city Arena
+11	12600	11	Abingdon city Arena
+12	14400	12	Sammamish city Arena
+13	16800	13	Maidenhead city Arena
+14	14300	14	Downey city Arena
+15	15400	15	Fullerton city Arena
+16	13800	16	Augsburg city Arena
+17	14000	17	Woonsocket city Arena
+18	21500	18	Aujan Mournede city Arena
+19	14100	19	Denver city Arena
+20	17300	20	Federal Way city Arena
+21	13000	21	Port Macquarie city Arena
+22	15400	22	Pnot-Rouge city Arena
+23	15500	23	Lincoln Acres city Arena
+24	15400	24	Cloverdale city Arena
+25	18600	25	Erlangen city Arena
+26	17100	26	Racine city Arena
+27	22600	27	Orange city Arena
+28	19900	28	Casper city Arena
+29	20200	29	Carol Stream city Arena
+30	18200	30	Elk Grove city Arena
+31	22900	31	Carson city Arena
+32	23400	32	Roncq city Arena
+33	18500	33	Kittery city Arena
+34	11400	34	Irvine city Arena
+35	21800	35	Baldwin Park city Arena
+36	21900	36	Shelton city Arena
+37	18700	37	Hillsboro city Arena
+38	11000	38	Bobigny city Arena
+39	13800	39	Cambridge city Arena
+40	9600	40	Saginaw city Arena
+41	10600	41	South Melbourne city Arena
+42	12800	42	Sydney city Arena
+43	19600	43	Kannapolis city Arena
+44	20300	44	Warwick city Arena
+45	18400	45	Sulzbach Taunus city Arena
+46	16000	46	Cambridge city Arena
+47	23500	47	Garland city Arena
+48	18500	48	Bell Gardens city Arena
+49	11300	49	Philadelphia city Arena
+50	19800	50	Lynnwood city Arena
+51	20300	51	Cliffside city Arena
+52	21400	52	W. York city Arena
+53	19600	53	National City city Arena
+54	23100	54	Redford city Arena
+55	19900	55	Matraville city Arena
+56	14200	56	Newcastle city Arena
+57	10800	57	N. Vancouver city Arena
+58	10600	58	Kennewick city Arena
+59	9600	59	Milwaukie city Arena
+60	14300	60	Jefferson City city Arena
+61	16600	61	Ellensburg city Arena
+62	13700	62	Hixson city Arena
+63	17000	63	Stockton city Arena
+64	13000	64	Woolston city Arena
+65	15900	65	Burnaby city Arena
+66	10800	66	Everett city Arena
+67	18400	67	Edmonds city Arena
+68	19800	68	Mosinee city Arena
+69	19900	69	Park City city Arena
+70	21900	70	Sacramento city Arena
+71	22000	71	Saint-Denis city Arena
+72	18900	72	Port Orchard city Arena
+73	9800	73	North York city Arena
+74	13900	74	Tigard city Arena
+75	23100	75	Ferguson city Arena
+76	10800	76	Cheyenne city Arena
+77	11400	77	Hooksett city Arena
+78	15100	78	Charlotte city Arena
+79	12200	79	Gulfport city Arena
+80	17300	80	Metchosin city Arena
+81	15700	81	Lane Cove city Arena
+82	16700	82	Baytown city Arena
+83	10600	83	Oregon City city Arena
+84	11300	84	St. Leonards city Arena
+85	15100	85	Cincinnati city Arena
+86	13800	86	Glendale city Arena
+87	9200	87	Modesto city Arena
+88	15700	88	Richmond city Arena
+89	9200	89	Altadena city Arena
+90	21600	90	Sèvres city Arena
+91	10800	91	Newport Hills city Arena
+92	15100	92	Corpus Christi city Arena
+93	21200	93	Fort Wayne city Arena
+94	17200	94	Montgomery city Arena
+95	23200	95	Sedro Woolley city Arena
+96	23500	96	Ontario city Arena
+97	17200	97	Bradenton city Arena
+98	17500	98	Medford city Arena
+99	11200	99	Hamden city Arena
+100	18400	100	Englewood city Arena
+101	9900	101	Mesa city Arena
+102	23500	102	La Vergne city Arena
+103	18400	103	Midland city Arena
+104	15900	104	Kenmore city Arena
+105	14200	105	Portland city Arena
+106	21200	106	Sainte-Foy city Arena
+107	15400	107	Moline city Arena
+108	18300	108	Brossard city Arena
+109	19000	109	Newport News city Arena
+110	18400	110	Sequim city Arena
+111	9600	111	Wood Dale city Arena
+112	12800	112	San Antonio city Arena
+113	14400	113	Branson city Arena
+114	14100	114	Fort Worth city Arena
+115	22800	115	Round Rock city Arena
+116	19600	116	Whittier city Arena
+117	11300	117	Woodinville city Arena
+118	21300	118	Augusta city Arena
+119	13600	119	Virginia Beach city Arena
+120	16700	120	Pantin city Arena
+121	9600	121	Oakland city Arena
+122	18600	122	Stamford city Arena
+123	13900	123	Toronto city Arena
+124	16700	124	Suresnes city Arena
+125	22800	125	Gloucestershire city Arena
+126	20200	126	Burbank city Arena
+127	12300	127	Beverly Hills city Arena
+128	21500	128	Norridge city Arena
+129	9800	129	Myrtle Beach city Arena
+130	21200	130	Tremblay-en-France city Arena
+131	9700	131	Yakima city Arena
+132	22900	132	Port Huron city Arena
+133	23000	133	Sillery city Arena
+134	12900	134	Central Valley city Arena
+135	17000	135	Saint Louis city Arena
+136	17300	136	San Jose city Arena
+137	23100	137	Loveland city Arena
+138	16800	138	Odessa city Arena
+139	16000	139	Millington city Arena
+140	13800	140	Solingen city Arena
+141	11500	141	Kansas City city Arena
+142	23200	142	Mill Valley city Arena
+143	18300	143	Boulogne-sur-Mer city Arena
+144	15600	144	Nashua city Arena
+145	18300	145	Brisbane city Arena
+146	13600	146	Boston city Arena
+147	15900	147	Escondido city Arena
+148	22800	148	Eilenburg city Arena
+149	21600	149	Kingston city Arena
+150	12200	150	Wokingham city Arena
+151	20100	151	Braintree city Arena
+152	18700	152	Hamburg city Arena
+153	14000	153	Elgin city Arena
+154	10800	154	Johnson Creek city Arena
+155	18800	155	Burlingame city Arena
+156	16600	156	Oak Bay city Arena
+157	16000	157	Sugar Land city Arena
+158	20100	158	Coronado city Arena
+159	19000	159	Memphis city Arena
+160	14500	160	Gold Coast city Arena
+161	13000	161	Citrus Heights city Arena
+162	15100	162	Hawthorne city Arena
+163	11000	163	Townsville city Arena
+164	10700	164	Winston-Salem city Arena
+165	20400	165	Basingstoke Hants city Arena
+166	10900	166	Santa Monica city Arena
+167	17500	167	Spring Valley city Arena
+168	18300	168	North Las Vegas city Arena
+169	9900	169	Greensboro city Arena
+170	19000	170	Falls Church city Arena
+171	14500	171	Farmington city Arena
+172	22900	172	Los Angeles city Arena
+173	10000	173	Merritt Island city Arena
+174	15100	174	West Kingston city Arena
+175	12600	175	Berkeley city Arena
+176	15700	176	Santa Cruz city Arena
+177	10900	177	Newport city Arena
+178	14400	178	San Carlos city Arena
+179	23300	179	Richmond city Arena
+180	9300	180	Westland city Arena
+181	15700	181	Seaford city Arena
+182	10800	182	Clackamas city Arena
+183	10600	183	Richmond Hill city Arena
+184	19000	184	Sunrise city Arena
+185	9300	185	Somerset city Arena
+186	12700	186	Bellflower city Arena
+187	9500	187	Lemon Grove city Arena
+188	16900	188	Saugus city Arena
+189	17100	189	Tampa city Arena
+190	21400	190	Santa Ana city Arena
+191	23000	191	Rockhampton city Arena
+192	21600	192	De Witt city Arena
+193	9800	193	Gilbert city Arena
+194	20100	194	Salzgitter city Arena
+195	22600	195	Hayward city Arena
+196	21400	196	Hervey Bay city Arena
+197	21100	197	Missoula city Arena
+198	9400	198	Melville city Arena
+199	19800	199	Saint Ann city Arena
+200	12700	200	Alhambra city Arena
+201	21100	201	North Ryde city Arena
+202	11300	202	Esher-Molesey city Arena
+203	18700	203	Southgate city Arena
+204	16800	204	Monrovia city Arena
+205	21300	205	Mesquite city Arena
+206	12800	206	Fremont city Arena
+207	14200	207	Sarasota city Arena
+208	22700	208	Norwood city Arena
+209	22700	209	Cheltenham city Arena
+210	19700	210	Rio Rancho city Arena
+211	12700	211	Palo Alto city Arena
+212	17100	212	Michigan City city Arena
+213	23100	213	Markham city Arena
+214	13800	214	Daleville city Arena
+215	15700	215	Clarkston city Arena
+216	14000	216	Chehalis city Arena
+217	18600	217	Duluth city Arena
+218	22000	218	Darlinghurst city Arena
+219	16600	219	Kent city Arena
+220	18100	220	Findon city Arena
+221	21400	221	Milpitas city Arena
+222	12600	222	Ogden city Arena
+223	18500	223	Duvall city Arena
+224	9200	224	Cranbourne city Arena
+225	9900	225	Ingolstadt city Arena
+226	23300	226	Marietta city Arena
+227	16900	227	Edina city Arena
+228	9100	228	Lake Oswego city Arena
+229	23300	229	Decatur city Arena
+230	23100	230	Minneapolis city Arena
+231	17300	231	Lacey city Arena
+232	14400	232	Paris city Arena
+233	12500	233	Phoenix city Arena
+234	10700	234	Kendall city Arena
+235	23200	235	Rock Springs city Arena
+236	18600	236	Branch city Arena
+237	15600	237	Lakeland city Arena
+238	13900	238	Melbourne city Arena
+239	17100	239	Camarillo city Arena
+240	11100	240	Las Cruces city Arena
+241	21900	241	Mansfield city Arena
+242	12100	242	Kirkland city Arena
+243	11500	243	Clearwater city Arena
+244	23200	244	Scarborough city Arena
+245	11100	245	Milsons Point city Arena
+246	16700	246	Crossville city Arena
+247	11200	247	Puyallup city Arena
+248	15900	248	Chicago city Arena
+249	21500	249	Longview city Arena
+250	22800	250	Dresden city Arena
+251	16800	251	Courbevoie city Arena
+252	21700	252	Sand City city Arena
+253	23200	253	Savannah city Arena
+254	23200	254	Berkshire city Arena
+255	15800	255	Tupelo city Arena
+256	13800	256	El Segundo city Arena
+257	9200	257	Springwood city Arena
+258	19900	258	Versailles city Arena
+259	18300	259	Novi city Arena
+260	18100	260	Sunbury city Arena
+261	14500	261	Columbus city Arena
+262	18300	262	Münster city Arena
+263	15300	263	Frankfurt city Arena
+264	18300	264	Bellevue city Arena
+265	15200	265	Geelong city Arena
+266	18900	266	Saint John city Arena
+267	17000	267	Vancouver city Arena
+268	12500	268	Norwalk city Arena
+269	23200	269	St. Louis city Arena
+270	16600	270	Mobile city Arena
+271	18600	271	Lille city Arena
+272	9300	272	Kelso city Arena
+273	19700	273	Santa Fe city Arena
+274	23100	274	Drancy city Arena
+275	17500	275	Biloxi city Arena
+276	12800	276	Orleans city Arena
+277	21600	277	Peterborough city Arena
+278	14200	278	Snohomish city Arena
+279	18200	279	Nashville city Arena
+280	14500	280	San Francisco city Arena
+281	14300	281	Idaho Falls city Arena
+282	15800	282	Grossmont city Arena
+283	9700	283	Newcastle upon Tyne city Arena
+284	13800	284	Ithaca city Arena
+285	23000	285	Werne city Arena
+286	14100	286	Plano city Arena
+287	15500	287	Outremont city Arena
+288	20100	288	Irving city Arena
+289	14400	289	Saarbrücken city Arena
+290	14300	290	South Bend city Arena
+291	17100	291	Wrentham city Arena
+292	21400	292	Longmont city Arena
+293	23300	293	Denby city Arena
+294	12800	294	San Gabriel city Arena
+295	14000	295	Oberlin city Arena
+296	15600	296	Liverpool city Arena
+297	15200	297	Upland city Arena
+298	16800	298	London city Arena
+299	23000	299	Roubaix city Arena
+300	23400	300	Heath city Arena
+301	19600	301	Kingsport city Arena
+302	19900	302	San Ysidro city Arena
+303	18500	303	Billericay city Arena
+304	9700	304	Zeeland city Arena
+305	21400	305	Corvallis city Arena
+306	19600	306	Burien city Arena
+307	13700	307	Etobicoke city Arena
+308	15300	308	La Marque city Arena
+309	23000	309	West Chicago city Arena
+310	20100	310	North Bend city Arena
+311	18200	311	Las Vegas city Arena
+312	16800	312	Lebanon city Arena
+313	18200	313	El Cajon city Arena
+314	12100	314	Lancaster city Arena
+315	21800	315	Gateshead city Arena
+316	11300	316	Tucson city Arena
+317	15900	317	Bonn city Arena
+318	21500	318	Woodbury city Arena
+319	11300	319	Colma city Arena
+320	19600	320	Reno city Arena
+321	13700	321	Index city Arena
+322	14100	322	Carnation city Arena
+323	18700	323	Caloundra city Arena
+324	17500	324	Van Nuys city Arena
+325	19700	325	Mühlheim city Arena
+326	17200	326	Malabar city Arena
+327	20100	327	Westport city Arena
+328	22600	328	Warrnambool city Arena
+329	23300	329	Stoke-on-Trent city Arena
+330	11400	330	Vacaville city Arena
+331	9500	331	Washougal city Arena
+332	21200	332	Scottsdale city Arena
+333	11100	333	Redmond city Arena
+334	23500	334	Bothell city Arena
+335	18100	335	Ville De'anjou city Arena
+336	12600	336	Hobart city Arena
+337	21300	337	Pontiac city Arena
+338	20200	338	Barrie city Arena
+339	15500	339	Hannover city Arena
+340	15400	340	Monroe city Arena
+341	16900	341	Plaistow city Arena
+342	21600	342	Sooke city Arena
+343	16900	343	Paris La Defense city Arena
+344	15800	344	City Of Commerce city Arena
+345	19900	345	Destin city Arena
+346	16900	346	Reading city Arena
+347	22000	347	Essen city Arena
+348	15300	348	Beaverton city Arena
+349	20000	349	San Bruno city Arena
+350	14100	350	North Randall city Arena
+351	9900	351	Melton city Arena
+352	17000	352	Offenbach city Arena
+353	11200	353	Joliet city Arena
+354	20000	354	Chantilly city Arena
+355	21300	355	Tuscola city Arena
+356	10000	356	La Mesa city Arena
+357	15900	357	Nevada city Arena
+358	21600	358	Euclid city Arena
+359	22000	359	Cerritos city Arena
+360	23000	360	Greeley city Arena
+361	22800	361	Mentor city Arena
+362	9600	362	Riverton city Arena
+363	12200	363	Anacortes city Arena
+364	20400	364	Bury city Arena
+365	21700	365	College Station city Arena
+366	23100	366	Berks city Arena
+367	12100	367	Eureka city Arena
+368	11400	368	Birmingham city Arena
+369	16000	369	Metz city Arena
+370	21800	370	Ascheim city Arena
+371	9600	371	Lake Elsinore city Arena
+372	18500	372	Sherman Oaks city Arena
+373	9600	373	Redwood City city Arena
+374	14500	374	Birmingham city Arena
+375	21100	375	Goulburn city Arena
+376	17000	376	Cheektowaga city Arena
+377	23200	377	Roissy en Brie city Arena
+378	12200	378	Lavender Bay city Arena
+379	9600	379	Sandy city Arena
+380	9200	380	Killeen city Arena
+381	15400	381	Hollywood city Arena
+382	21200	382	Barstow city Arena
+383	18200	383	Verrieres Le Buisson city Arena
+384	12300	384	W. Linn city Arena
+385	18800	385	Royal Oak city Arena
+386	15200	386	Colomiers city Arena
+387	14100	387	North Miami Beach city Arena
+388	9700	388	Gilroy city Arena
+389	22600	389	Rocky Mount city Arena
+390	13800	390	Holland city Arena
+391	21500	391	Billings city Arena
+392	18300	392	Dallas city Arena
+393	15300	393	Culver City city Arena
+394	19700	394	Visalia city Arena
+395	21100	395	La Grange city Arena
+396	19000	396	Bracknell city Arena
+397	13600	397	North Sydney city Arena
+398	17500	398	Imperial Beach city Arena
+399	12800	399	Nepean city Arena
+400	21500	400	Gold Bar city Arena
+401	15500	401	New Castle city Arena
+402	9400	402	East Haven city Arena
+403	14400	403	Bottrop city Arena
+404	14000	404	Marysville city Arena
+405	21900	405	Chula Vista city Arena
+406	19600	406	Atlanta city Arena
+407	15400	407	Muehlheim city Arena
+408	18400	408	Lieusaint city Arena
+409	13000	409	Simi Valley city Arena
+410	14100	410	Chatou city Arena
+411	21500	411	New York city Arena
+412	13700	412	Port Hammond city Arena
+413	14500	413	Warrington city Arena
+414	17300	414	Silverwater city Arena
+415	22900	415	Vista city Arena
+416	10800	416	Lakewood city Arena
+417	17400	417	Austell city Arena
+418	18200	418	York city Arena
+419	12200	419	Concord city Arena
+420	13900	420	Troutdale city Arena
+421	10900	421	Stafford city Arena
+422	16000	422	Renton city Arena
+423	12500	423	Milwaukee city Arena
+424	23100	424	Houston city Arena
+425	10600	425	Valley Stream city Arena
+426	12500	426	Darmstadt city Arena
+427	9300	427	Peoria city Arena
+428	14100	428	Croix city Arena
+429	11100	429	Union Gap city Arena
+430	20500	430	Woodburn city Arena
+431	21500	431	Tooele city Arena
+432	9100	432	Hanford city Arena
+433	15100	433	Kassel city Arena
+434	21900	434	Bellingham city Arena
+435	11000	435	Poing city Arena
+436	9600	436	Surrey city Arena
+437	14300	437	Albany city Arena
+438	15100	438	Cergy city Arena
+439	12600	439	North Sioux City city Arena
+440	22000	440	München city Arena
+441	20300	441	Saint Germain en Laye city Arena
+442	9500	442	Clay city Arena
+443	9600	443	Hof city Arena
+444	14200	444	Calgary city Arena
+445	20400	445	Canoga Park city Arena
+446	18200	446	Sandpoint city Arena
+447	17400	447	Maryville city Arena
+448	11500	448	Orlando city Arena
+449	14500	449	Miami city Arena
+450	9400	450	Perth city Arena
+451	14100	451	Humble city Arena
+452	23000	452	Colombes city Arena
+453	15200	453	Austin city Arena
+454	11200	454	San Ramon city Arena
+455	18400	455	Saint Ouen city Arena
+456	12600	456	Aurora city Arena
+457	9200	457	Haney city Arena
+458	15700	458	Kanata city Arena
+459	21500	459	Winnipeg city Arena
+460	21300	460	Spokane city Arena
+461	17000	461	Madison Heights city Arena
+462	12300	462	Braunschweig city Arena
+463	19600	463	Stuttgart city Arena
+464	9300	464	Watford city Arena
+465	15700	465	Rhodes city Arena
+466	21500	466	Westminster city Arena
+467	18900	467	Saarlouis city Arena
+468	19600	468	Duesseldorf city Arena
+469	21100	469	Laredo city Arena
+470	10700	470	Coffs Harbour city Arena
+471	9200	471	Edmonton city Arena
+472	13600	472	Milford city Arena
+473	11100	473	Frankfurt am Main city Arena
+474	17400	474	Leesburg city Arena
+475	18600	475	San Diego city Arena
+476	21900	476	Bluffton city Arena
+477	9300	477	Neunkirchen city Arena
+478	20100	478	La Jolla city Arena
+479	9800	479	Bremerton city Arena
+480	9800	480	Detroit city Arena
+481	12600	481	Paderborn city Arena
+482	11200	482	Logansport city Arena
+483	23300	483	West Covina city Arena
+484	14500	484	Florence city Arena
+485	17100	485	High Wycombe city Arena
+486	18400	486	Torrance city Arena
+487	11100	487	Dorval city Arena
+488	11300	488	Salt Lake City city Arena
+489	15200	489	Pigeon Forge city Arena
+490	21400	490	Redlands city Arena
+491	16900	491	Newport Beach city Arena
+492	14300	492	Langford city Arena
+493	11500	493	Oxford city Arena
+494	9300	494	Walnut Creek city Arena
+495	16000	495	Klamath Falls city Arena
+496	11000	496	Raleigh city Arena
+497	14500	497	Parker city Arena
+498	22000	498	Mississauga city Arena
+499	17500	499	Sparks city Arena
+500	9100	500	Fontana city Arena
+501	10000	501	Smithfield city Arena
+502	15100	502	Ballard city Arena
+503	14300	503	Westminster city Arena
+504	18400	504	Indianapolis city Arena
+505	20200	505	Trabuco Canyon city Arena
+506	16000	506	Boise city Arena
+507	22900	507	East Brisbane city Arena
+508	15300	508	Morangis city Arena
+509	23200	509	Weston city Arena
+510	22800	510	Leipzig city Arena
+511	10800	511	Issaquah city Arena
+512	21800	512	Berlin city Arena
+513	21500	513	Walla Walla city Arena
+514	21700	514	Cedar Park city Arena
+515	14100	515	Runcorn city Arena
+516	19800	516	Ottawa city Arena
+517	15400	517	Bordeaux city Arena
+518	12800	518	Leeds city Arena
+519	14400	519	Endicott city Arena
+520	10000	520	New Hartford city Arena
+521	23100	521	Kiel city Arena
+522	19800	522	Altamonte Springs city Arena
+523	11200	523	Les Ulis city Arena
+524	13900	524	Shawnee city Arena
+525	18800	525	Baltimore city Arena
+526	12600	526	Bountiful city Arena
+527	15800	527	Alpine city Arena
+528	17000	528	Campbellsville city Arena
+529	13800	529	Chandler city Arena
+530	15800	530	Fernley city Arena
+531	22600	531	Tilton city Arena
+532	21500	532	Newark city Arena
+533	19800	533	Springfield city Arena
+534	9500	534	Union City city Arena
+535	16700	535	Arlington city Arena
+536	19600	536	Novato city Arena
+537	22000	537	Bad Soden city Arena
+538	12700	538	Oxon city Arena
+539	17000	539	Alexandria city Arena
+540	13000	540	Carrollton city Arena
+541	21300	541	Milton Keynes city Arena
+542	12900	542	Oxnard city Arena
+543	21300	543	Newton city Arena
+544	18400	544	New Haven city Arena
+545	23300	545	Montreal city Arena
+546	15700	546	Wenatchee city Arena
+547	9400	547	Waterloo city Arena
+548	13800	548	Woodland Hills city Arena
+549	23300	549	Randolph city Arena
+550	10900	550	West Sussex city Arena
+551	10000	551	Villeneuve-d'Ascq city Arena
+552	11400	552	Langley city Arena
+553	9100	553	Mcdonough city Arena
+554	21700	554	Lewiston city Arena
+555	12600	555	Olympia city Arena
+556	21400	556	Pleasanton city Arena
+557	9900	557	Quebec city Arena
+558	11300	558	Cedar City city Arena
+559	21800	559	Auburn city Arena
+560	22600	560	Long Beach city Arena
+561	12400	561	Hull city Arena
+562	12700	562	Surprise city Arena
+563	11100	563	Lake George city Arena
+564	9400	564	Waterbury city Arena
+565	11100	565	Tacoma city Arena
+566	9900	566	Byron city Arena
+567	10900	567	Gaffney city Arena
+568	21600	568	Howell city Arena
+569	22600	569	Vero Beach city Arena
+570	12300	570	Victoria city Arena
+571	9100	571	Grevenbroich city Arena
+572	18900	572	Dunkerque city Arena
+573	16700	573	Wollongong city Arena
+574	11000	574	Boulogne-Billancourt city Arena
+575	11200	575	Orly city Arena
+576	18800	576	Salem city Arena
+577	23400	577	Brampton city Arena
+578	23000	578	Daly City city Arena
+579	12400	579	Great Falls city Arena

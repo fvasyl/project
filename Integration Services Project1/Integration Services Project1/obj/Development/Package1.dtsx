@@ -11,8 +11,8 @@
   DTS:LocaleID="1058"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="78"
-  DTS:VersionGUID="{39C39645-D3D0-498E-886C-4C3ADA402908}">
+  DTS:VersionBuild="119"
+  DTS:VersionGUID="{D1DD5105-697F-4A54-98E8-F8504A541CC7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -154,27 +154,35 @@
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="TeamID"
+              DTS:DTSID="{A1359658-11C0-4660-91D3-F1F2C9FAFA53}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="255"
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Team"
-              DTS:DTSID="{7FDF99B5-58DF-4F25-B7C6-BEBCB4B657A8}"
+              DTS:DTSID="{2842F215-78E7-4059-BFAA-1D3C18BFF9D3}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="TournamentID"
-              DTS:DTSID="{6E1B407F-A7B3-497E-8AEE-072FD5DB839D}"
+              DTS:ObjectName="ParentTeamID"
+              DTS:DTSID="{62FC8170-5277-4177-A032-B4C7945895D5}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="ParentTeamID"
-              DTS:DTSID="{F2EBBFF1-8F25-4BBE-856F-1F4100FBE2A8}"
+              DTS:ObjectName="TournamentID"
+              DTS:DTSID="{6F8353D6-DD2F-4992-9194-1104674366B5}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -310,7 +318,7 @@
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyCode"
-              DTS:DTSID="{3705B3E9-FE69-4D9A-832A-15CD6A052485}"
+              DTS:DTSID="{BC3E7D4C-107C-40E6-A703-04C1FC327B9E}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -319,7 +327,7 @@
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyName"
-              DTS:DTSID="{4BA1B14B-9764-4B0F-B08D-791AB7CB85F8}"
+              DTS:DTSID="{3E05FEC6-36F4-48CF-8728-C3F73181C2D2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -327,23 +335,23 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyDollar"
-              DTS:DTSID="{11DC2F5A-81A6-437B-A4AD-9947EE536B53}"
+              DTS:DTSID="{A790805C-2262-4118-AD63-BD3516F682D7}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
-              DTS:DataType="4"
+              DTS:DataType="5"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyDollarBay"
-              DTS:DTSID="{15846F52-2156-40D3-A3FD-028CBF5DF0CB}"
+              DTS:DTSID="{92A14A1C-5541-4FD0-83F2-CF21A21E9260}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
-              DTS:DataType="4"
+              DTS:DataType="5"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyDollarSell"
-              DTS:DTSID="{38154A45-92F1-48C7-9F61-641223D1D277}"
+              DTS:DTSID="{6056EEE1-F2F6-4353-B9CF-1CBA8EB419B5}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -422,7 +430,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Flat File Connection Manager 14]"
       DTS:CreationName="FLATFILE"
-      DTS:DTSID="{57773DDA-983C-4AA4-A22F-5FE0FCEEC706}"
+      DTS:DTSID="{C8D8A294-9EC4-4C26-9B24-64C3A2F127CB}"
       DTS:ObjectName="Flat File Connection Manager 14">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -433,41 +441,41 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x003C_none_x003E_"
           DTS:CodePage="65001"
-          DTS:ConnectionString="D:\i_study\dbcamp\project\data\Arens.txt">
+          DTS:ConnectionString="D:\i_study\dbcamp\project\data\Tax.txt">
           <DTS:FlatFileColumns>
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="130"
-              DTS:TextQualified="True"
-              DTS:ObjectName="CityName"
-              DTS:DTSID="{3F2EF8B4-E92D-4115-B573-D17D6E99EA29}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="130"
-              DTS:TextQualified="True"
-              DTS:ObjectName="ArenaName"
-              DTS:DTSID="{AFFBE395-F0BF-4573-A856-8C1E40CABD1B}"
-              DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="CityID"
-              DTS:DTSID="{35AD3DFF-FB8F-4BE4-B7A0-C6B979D6EDBB}"
+              DTS:ObjectName="TaxID"
+              DTS:DTSID="{EF4F553F-4525-49EB-9C40-4E4A9A8D0D58}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Tax"
+              DTS:DTSID="{6980266D-B0C4-4918-A349-88671768E104}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:DataType="5"
+              DTS:TextQualified="True"
+              DTS:ObjectName="TaxRate"
+              DTS:DTSID="{9B948393-182F-45C9-B5EC-579EFA3301C6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
-              DTS:DataType="19"
+              DTS:MaximumWidth="3"
+              DTS:DataType="130"
               DTS:TextQualified="True"
-              DTS:ObjectName="AmountOfSits"
-              DTS:DTSID="{E6D766CE-A3AD-4C2D-920B-AE8322823DB0}"
+              DTS:ObjectName="CountryCode"
+              DTS:DTSID="{16A54D77-30C4-45F1-A83F-0786643E2A08}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -492,53 +500,34 @@
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="MatchID"
+              DTS:DTSID="{9BF7A1A0-2B3E-436E-8FDB-B8391610C257}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
               DTS:DataType="135"
               DTS:TextQualified="True"
-              DTS:ObjectName="dateT"
-              DTS:DTSID="{1E45043F-886D-4F7C-BB5A-05DFE5B70ECA}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="130"
-              DTS:TextQualified="True"
-              DTS:ObjectName="AwayClub"
-              DTS:DTSID="{538400D2-FAAF-4666-82E0-A38A99AE86F2}"
+              DTS:ObjectName="DateMatch"
+              DTS:DTSID="{C41382A5-4F32-401F-91BC-AAE9BE1988DD}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="ClubIDA"
-              DTS:DTSID="{51041B54-9E1A-4997-95FD-46BF98FE5222}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="130"
-              DTS:TextQualified="True"
-              DTS:ObjectName="HomeClub"
-              DTS:DTSID="{EF41F79A-CA47-44FC-8CEF-EF0BE09B57D7}"
+              DTS:ObjectName="HomeParticipant"
+              DTS:DTSID="{7932A9FF-5409-4063-B583-E627C640DE97}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="ClubIDH"
-              DTS:DTSID="{90878CE3-3B55-4ACF-9AC9-E968F5F3B314}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="50"
-              DTS:DataType="130"
-              DTS:TextQualified="True"
-              DTS:ObjectName="AwayTeam"
-              DTS:DTSID="{775D2075-6381-4028-B0DF-6D313134DB3C}"
+              DTS:ObjectName="AwayParticipant"
+              DTS:DTSID="{3CF417A9-FAA7-4549-B8F5-5BE55618DDFE}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -546,15 +535,7 @@
               DTS:DataType="18"
               DTS:TextQualified="True"
               DTS:ObjectName="TeamID"
-              DTS:DTSID="{3060E501-BDE3-4BD4-BCBB-66EACBED0389}"
-              DTS:CreationName="" />
-            <DTS:FlatFileColumn
-              DTS:ColumnType="Delimited"
-              DTS:ColumnDelimiter="_x0009_"
-              DTS:DataType="18"
-              DTS:TextQualified="True"
-              DTS:ObjectName="SportID"
-              DTS:DTSID="{59FED061-4F3A-48A3-8E76-4670F3327779}"
+              DTS:DTSID="{0EA2B044-5917-4FDD-99C7-D18C5811B70C}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -562,7 +543,60 @@
               DTS:DataType="18"
               DTS:TextQualified="True"
               DTS:ObjectName="SportArenaID"
-              DTS:DTSID="{269559E7-E5FC-4000-B05E-502BF6221DE0}"
+              DTS:DTSID="{47643539-4F7E-4669-BB71-98B936B13E53}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager 16]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{2D74C34F-664A-45AC-9DD7-FDF9ECDE8AFC}"
+      DTS:ObjectName="Flat File Connection Manager 16">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1058"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="D:\i_study\dbcamp\project\data\Arens.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="SportArenaID"
+              DTS:DTSID="{0274FF39-3888-4A8A-AD1C-F398FED59009}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:DataType="19"
+              DTS:TextQualified="True"
+              DTS:ObjectName="AmountOfSits"
+              DTS:DTSID="{516E3578-F240-431E-ACE5-719380D31B39}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="CityID"
+              DTS:DTSID="{EB4C76AA-6434-4D59-97FB-5711889B08E7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="255"
+              DTS:DataType="130"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ArenaName"
+              DTS:DTSID="{E4282B94-022F-4EE0-86E8-0B68F52F4E02}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -840,20 +874,28 @@
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="255"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="CityID"
+              DTS:DTSID="{B017915A-3404-47B4-8BEF-C85C6E8AE85B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="3"
               DTS:DataType="130"
               DTS:TextQualified="True"
-              DTS:ObjectName="CityName"
-              DTS:DTSID="{F2E2D6EB-D7C7-4C33-BDBB-514F0B39D634}"
+              DTS:ObjectName="CountryCode"
+              DTS:DTSID="{4DEB297C-49CD-488B-8084-B593D858009D}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
-              DTS:MaximumWidth="3"
+              DTS:MaximumWidth="255"
               DTS:DataType="130"
               DTS:TextQualified="True"
-              DTS:ObjectName="CountryRegionCode"
-              DTS:DTSID="{3E424B63-6371-4131-AA44-E6BCBF2DE015}"
+              DTS:ObjectName="CityName"
+              DTS:DTSID="{000C1EF3-73B8-4B05-A5CF-28C80E49D978}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -985,19 +1027,27 @@
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x0009_"
-              DTS:MaximumWidth="250"
+              DTS:DataType="18"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ClubID"
+              DTS:DTSID="{05BE9D37-C3F2-46E1-8AD9-701A8D283EDD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="255"
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="Club"
-              DTS:DTSID="{D751996A-D036-4E73-A968-197795C25CA2}"
+              DTS:DTSID="{DDC93DA7-1B67-4E7D-A08B-2D2936FE6DAC}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
               DTS:ColumnDelimiter="_x000D__x000A_"
               DTS:DataType="18"
               DTS:TextQualified="True"
-              DTS:ObjectName="Sport"
-              DTS:DTSID="{6188101B-46D7-4A75-9A01-A12C14D15C96}"
+              DTS:ObjectName="SportID"
+              DTS:DTSID="{4D3824EA-DA05-4FFA-94CC-42F29CD35476}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -1193,7 +1243,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">true</property>
+                      name="FastLoadKeepNulls">false</property>
                     <property
                       dataType="System.String"
                       description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
@@ -2261,7 +2311,358 @@
             </pipeline>
           </DTS:ObjectData>
         </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Sequence Container\Data Flow Task Taxes"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{51764B03-FFB8-4BCA-9047-42B5C76B00DE}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Data Flow Task Taxes"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source"
+                  componentClassID="Microsoft.FlatFileSource"
+                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+                  description="Flat File Source"
+                  localeId="1058"
+                  name="Flat File Source"
+                  usesDispositions="true"
+                  version="1">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies whether zero-length columns are treated as null."
+                      name="RetainNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                      name="FileNameColumnName"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Connections[FlatFileConnection]"
+                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 14]"
+                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 14]"
+                      name="FlatFileConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output]"
+                      name="Flat File Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
+                          length="3"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]"
+                          name="CountryCode"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxRate]"
+                          dataType="r8"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TaxRate]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxRate]"
+                          name="TaxRate"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TaxID]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxID]"
+                          name="TaxID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[Tax]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Tax]"
+                          length="50"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[Tax]"
+                          name="Tax"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TaxRate]"
+                          dataType="r8"
+                          name="TaxRate" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
+                          dataType="wstr"
+                          length="3"
+                          name="CountryCode" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TaxID]"
+                          dataType="ui2"
+                          name="TaxID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Tax]"
+                          dataType="wstr"
+                          length="50"
+                          name="Tax" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output]"
+                      isErrorOut="true"
+                      name="Flat File Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          codePage="65001"
+                          dataType="text"
+                          description="Flat File Source Error Output Column"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          name="Flat File Source Error Output Column" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="OLE DB Destination"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[finance].[Taxes]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1251</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">true</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Tax]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="Tax"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Tax]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[Tax]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[TaxRate]"
+                          cachedDataType="r8"
+                          cachedName="TaxRate"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TaxRate]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxRate]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CountryCode]"
+                          cachedDataType="wstr"
+                          cachedLength="3"
+                          cachedName="CountryCode"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountryCode]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[TaxID]"
+                          cachedDataType="ui2"
+                          cachedName="TaxID"
+                          externalMetadataColumnId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TaxID]"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output].Columns[TaxID]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TaxID]"
+                          dataType="i4"
+                          name="TaxID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Tax]"
+                          dataType="wstr"
+                          length="50"
+                          name="Tax" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TaxRate]"
+                          dataType="r8"
+                          name="TaxRate" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountryCode]"
+                          dataType="wstr"
+                          length="3"
+                          name="CountryCode" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ModifiedDate]"
+                          dataType="dbTimeStamp"
+                          name="ModifiedDate" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\Sequence Container\Data Flow Task Taxes.Paths[Flat File Source Output]"
+                  endId="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  name="Flat File Source Output"
+                  startId="Package\Sequence Container\Data Flow Task Taxes\Flat File Source.Outputs[Flat File Source Output]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
       </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{35A964A1-810A-45DD-879B-22D3B2B38E74}"
+          DTS:From="Package\Sequence Container\Data Flow Countries"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Sequence Container\Data Flow Task Taxes" />
+      </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\Sequence Container 1"
@@ -2340,13 +2741,33 @@
                           </properties>
                         </outputColumn>
                         <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[Sport]"
+                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[ClubID]"
                           dataType="ui2"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sport]"
-                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[Sport]"
-                          name="Sport"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[ClubID]"
+                          name="ClubID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[SportID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[SportID]"
+                          name="SportID"
                           truncationRowDisposition="FailComponent">
                           <properties>
                             <property
@@ -2365,12 +2786,16 @@
                         <externalMetadataColumn
                           refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Club]"
                           dataType="wstr"
-                          length="250"
+                          length="255"
                           name="Club" />
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sport]"
+                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubID]"
                           dataType="ui2"
-                          name="Sport" />
+                          name="ClubID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportID]"
+                          dataType="ui2"
+                          name="SportID" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -2444,7 +2869,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -2482,11 +2907,17 @@
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Club]"
                           lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[Club]" />
                         <inputColumn
-                          refId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Sport]"
+                          refId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ClubID]"
                           cachedDataType="ui2"
-                          cachedName="Sport"
+                          cachedName="ClubID"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ClubID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[ClubID]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SportID]"
+                          cachedDataType="ui2"
+                          cachedName="SportID"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow Clubs\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SportID]"
-                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[Sport]" />
+                          lineageId="Package\Sequence Container 1\Data Flow Clubs\Flat File Source.Outputs[Flat File Source Output].Columns[SportID]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -2643,7 +3074,7 @@
                         </outputColumn>
                         <outputColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].Columns[CurrencyDollarBay]"
-                          dataType="r4"
+                          dataType="r8"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CurrencyDollarBay]"
@@ -2663,7 +3094,7 @@
                         </outputColumn>
                         <outputColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].Columns[CurrencyDollarSell]"
-                          dataType="r4"
+                          dataType="r8"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CurrencyDollarSell]"
@@ -2700,11 +3131,11 @@
                           name="CurrencyDollar" />
                         <externalMetadataColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CurrencyDollarBay]"
-                          dataType="r4"
+                          dataType="r8"
                           name="CurrencyDollarBay" />
                         <externalMetadataColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CurrencyDollarSell]"
-                          dataType="r4"
+                          dataType="r8"
                           name="CurrencyDollarSell" />
                       </externalMetadataColumns>
                     </output>
@@ -2824,13 +3255,13 @@
                           lineageId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].Columns[CurrencyDollar]" />
                         <inputColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CurrencyDollarBay]"
-                          cachedDataType="r4"
+                          cachedDataType="r8"
                           cachedName="CurrencyDollarBay"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyDollarBay]"
                           lineageId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].Columns[CurrencyDollarBay]" />
                         <inputColumn
                           refId="Package\Sequence Container 1\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CurrencyDollarSell]"
-                          cachedDataType="r4"
+                          cachedDataType="r8"
                           cachedName="CurrencyDollarSell"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyDollarSell]"
                           lineageId="Package\Sequence Container 1\Data Flow CurrenciesRates\Flat File Source.Outputs[Flat File Source Output].Columns[CurrencyDollarSell]" />
@@ -2902,380 +3333,6 @@
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
-          DTS:refId="Package\Sequence Container 1\Data Flow Task"
-          DTS:CreationName="Microsoft.Pipeline"
-          DTS:Description="Data Flow Task"
-          DTS:DTSID="{587FB732-D732-4BD5-A14F-416FF994AB8E}"
-          DTS:ExecutableType="Microsoft.Pipeline"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Data Flow Task"
-          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <pipeline
-              version="1">
-              <components>
-                <component
-                  refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1"
-                  componentClassID="Microsoft.FlatFileSource"
-                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-                  description="Flat File Source"
-                  localeId="1058"
-                  name="Flat File Source 1"
-                  usesDispositions="true"
-                  version="1">
-                  <properties>
-                    <property
-                      dataType="System.Boolean"
-                      description="Specifies whether zero-length columns are treated as null."
-                      name="RetainNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
-                      name="FileNameColumnName"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Connections[FlatFileConnection]"
-                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 8]"
-                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 8]"
-                      name="FlatFileConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output]"
-                      name="Flat File Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]"
-                          dataType="ui2"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[BusinessEntityID]"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]"
-                          name="BusinessEntityID"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]"
-                          codePage="1251"
-                          dataType="str"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordHash]"
-                          length="128"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]"
-                          name="PasswordHash"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]"
-                          codePage="1251"
-                          dataType="str"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordSalt]"
-                          length="10"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]"
-                          name="PasswordSalt"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[rowguid]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[rowguid]"
-                          length="50"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[rowguid]"
-                          name="rowguid"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[BusinessEntityID]"
-                          dataType="ui2"
-                          name="BusinessEntityID" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerLogin]"
-                          dataType="wstr"
-                          length="50"
-                          name="CustomerLogin" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordHash]"
-                          codePage="1251"
-                          dataType="str"
-                          length="128"
-                          name="PasswordHash" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordSalt]"
-                          codePage="1251"
-                          dataType="str"
-                          length="10"
-                          name="PasswordSalt" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerEmail]"
-                          dataType="wstr"
-                          length="50"
-                          name="CustomerEmail" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[SendMails]"
-                          dataType="bool"
-                          name="SendMails" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerGroupID]"
-                          dataType="ui1"
-                          name="CustomerGroupID" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
-                          dataType="wstr"
-                          length="3"
-                          name="CountryCode" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[(No column name)]"
-                          codePage="1251"
-                          dataType="str"
-                          length="50"
-                          name="(No column name)" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[rowguid]"
-                          dataType="wstr"
-                          length="50"
-                          name="rowguid" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output]"
-                      isErrorOut="true"
-                      name="Flat File Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
-                          codePage="65001"
-                          dataType="text"
-                          description="Flat File Source Error Output Column"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
-                          name="Flat File Source Error Output Column" />
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-                  description="OLE DB Destination"
-                  name="OLE DB Passwords"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[finance].[CustomersPasswords]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1251</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">true</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
-                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input]"
-                      errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="OLE DB Destination Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[BusinessEntityID]"
-                          cachedDataType="ui2"
-                          cachedName="BusinessEntityID"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]" />
-                        <inputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[PasswordHash]"
-                          cachedCodepage="1251"
-                          cachedDataType="str"
-                          cachedLength="128"
-                          cachedName="PasswordHash"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordHash]"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]" />
-                        <inputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[PasswordSalt]"
-                          cachedCodepage="1251"
-                          cachedDataType="str"
-                          cachedLength="10"
-                          cachedName="PasswordSalt"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordSalt]"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
-                          dataType="i4"
-                          name="CustomerID" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordHash]"
-                          codePage="1251"
-                          dataType="str"
-                          length="128"
-                          name="PasswordHash" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordSalt]"
-                          codePage="1251"
-                          dataType="str"
-                          length="10"
-                          name="PasswordSalt" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[rowguid]"
-                          dataType="guid"
-                          name="rowguid" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[ModifiedDate]"
-                          dataType="dbTimeStamp"
-                          name="ModifiedDate" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Outputs[OLE DB Destination Error Output]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="OLE DB Destination Error Output"
-                      synchronousInputId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-              </components>
-              <paths>
-                <path
-                  refId="Package\Sequence Container 1\Data Flow Task.Paths[Flat File Source Output]"
-                  endId="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords.Inputs[OLE DB Destination Input]"
-                  name="Flat File Source Output"
-                  startId="Package\Sequence Container 1\Data Flow Task\Flat File Source 1.Outputs[Flat File Source Output]" />
-              </paths>
-            </pipeline>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
           DTS:refId="Package\Sequence Container 1\Data Flow Task Cities"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
@@ -3342,14 +3399,34 @@
                           </properties>
                         </outputColumn>
                         <outputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryRegionCode]"
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CityID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CityID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CityID]"
+                          name="CityID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]"
                           dataType="wstr"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryRegionCode]"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
                           length="3"
-                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryRegionCode]"
-                          name="CountryRegionCode"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]"
+                          name="CountryCode"
                           truncationRowDisposition="FailComponent">
                           <properties>
                             <property
@@ -3371,10 +3448,14 @@
                           length="255"
                           name="CityName" />
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryRegionCode]"
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CityID]"
+                          dataType="ui2"
+                          name="CityID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
                           dataType="wstr"
                           length="3"
-                          name="CountryRegionCode" />
+                          name="CountryCode" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -3448,7 +3529,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -3486,12 +3567,18 @@
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CityName]"
                           lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CityName]" />
                         <inputColumn
-                          refId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CountryRegionCode]"
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CityID]"
+                          cachedDataType="ui2"
+                          cachedName="CityID"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CityID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CityID]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CountryCode]"
                           cachedDataType="wstr"
                           cachedLength="3"
-                          cachedName="CountryRegionCode"
+                          cachedName="CountryCode"
                           externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CountryCode]"
-                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryRegionCode]" />
+                          lineageId="Package\Sequence Container 1\Data Flow Task Cities\Flat File Source.Outputs[Flat File Source Output].Columns[CountryCode]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -3936,7 +4023,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">true</property>
+                      name="FastLoadKeepNulls">false</property>
                     <property
                       dataType="System.String"
                       description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
@@ -4416,6 +4503,380 @@
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
+          DTS:refId="Package\Sequence Container 1\Data Flow Task Passwords"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{587FB732-D732-4BD5-A14F-416FF994AB8E}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Data Flow Task Passwords"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1"
+                  componentClassID="Microsoft.FlatFileSource"
+                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+                  description="Flat File Source"
+                  localeId="1058"
+                  name="Flat File Source 1"
+                  usesDispositions="true"
+                  version="1">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies whether zero-length columns are treated as null."
+                      name="RetainNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                      name="FileNameColumnName"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Connections[FlatFileConnection]"
+                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 8]"
+                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 8]"
+                      name="FlatFileConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output]"
+                      name="Flat File Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[BusinessEntityID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]"
+                          name="BusinessEntityID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]"
+                          codePage="1251"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordHash]"
+                          length="128"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]"
+                          name="PasswordHash"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]"
+                          codePage="1251"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordSalt]"
+                          length="10"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]"
+                          name="PasswordSalt"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[rowguid]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[rowguid]"
+                          length="50"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[rowguid]"
+                          name="rowguid"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[BusinessEntityID]"
+                          dataType="ui2"
+                          name="BusinessEntityID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerLogin]"
+                          dataType="wstr"
+                          length="50"
+                          name="CustomerLogin" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordHash]"
+                          codePage="1251"
+                          dataType="str"
+                          length="128"
+                          name="PasswordHash" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[PasswordSalt]"
+                          codePage="1251"
+                          dataType="str"
+                          length="10"
+                          name="PasswordSalt" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerEmail]"
+                          dataType="wstr"
+                          length="50"
+                          name="CustomerEmail" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[SendMails]"
+                          dataType="bool"
+                          name="SendMails" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CustomerGroupID]"
+                          dataType="ui1"
+                          name="CustomerGroupID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[CountryCode]"
+                          dataType="wstr"
+                          length="3"
+                          name="CountryCode" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[(No column name)]"
+                          codePage="1251"
+                          dataType="str"
+                          length="50"
+                          name="(No column name)" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].ExternalColumns[rowguid]"
+                          dataType="wstr"
+                          length="50"
+                          name="rowguid" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output]"
+                      isErrorOut="true"
+                      name="Flat File Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          codePage="65001"
+                          dataType="text"
+                          description="Flat File Source Error Output Column"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          name="Flat File Source Error Output Column" />
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="OLE DB Passwords"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[finance].[CustomersPasswords]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1251</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">true</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[BusinessEntityID]"
+                          cachedDataType="ui2"
+                          cachedName="BusinessEntityID"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[BusinessEntityID]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[PasswordHash]"
+                          cachedCodepage="1251"
+                          cachedDataType="str"
+                          cachedLength="128"
+                          cachedName="PasswordHash"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordHash]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordHash]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].Columns[PasswordSalt]"
+                          cachedCodepage="1251"
+                          cachedDataType="str"
+                          cachedLength="10"
+                          cachedName="PasswordSalt"
+                          externalMetadataColumnId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordSalt]"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output].Columns[PasswordSalt]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
+                          dataType="i4"
+                          name="CustomerID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordHash]"
+                          codePage="1251"
+                          dataType="str"
+                          length="128"
+                          name="PasswordHash" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[PasswordSalt]"
+                          codePage="1251"
+                          dataType="str"
+                          length="10"
+                          name="PasswordSalt" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[rowguid]"
+                          dataType="guid"
+                          name="rowguid" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input].ExternalColumns[ModifiedDate]"
+                          dataType="dbTimeStamp"
+                          name="ModifiedDate" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\Sequence Container 1\Data Flow Task Passwords.Paths[Flat File Source Output]"
+                  endId="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords.Inputs[OLE DB Destination Input]"
+                  name="Flat File Source Output"
+                  startId="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1.Outputs[Flat File Source Output]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
           DTS:refId="Package\Sequence Container 1\Data Flow Task Tournaments"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
@@ -4730,7 +5191,7 @@
           DTS:From="Package\Sequence Container 1\Data Flow Task Customers"
           DTS:LogicalAnd="True"
           DTS:ObjectName="Constraint"
-          DTS:To="Package\Sequence Container 1\Data Flow Task" />
+          DTS:To="Package\Sequence Container 1\Data Flow Task Passwords" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
@@ -4789,53 +5250,13 @@
                       name="Flat File Source Output">
                       <outputColumns>
                         <outputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[dateT]"
-                          dataType="dbTimeStamp"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[dateT]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[dateT]"
-                          name="dateT"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                        <outputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDA]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
                           dataType="ui2"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubIDA]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDA]"
-                          name="ClubIDA"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
-                              name="FastParse">false</property>
-                            <property
-                              dataType="System.Boolean"
-                              description="Indicates whether the data is in binary format."
-                              name="UseBinaryFormat">false</property>
-                          </properties>
-                        </outputColumn>
-                        <outputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDH]"
-                          dataType="ui2"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubIDH]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDH]"
-                          name="ClubIDH"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
+                          name="SportArenaID"
                           truncationRowDisposition="FailComponent">
                           <properties>
                             <property
@@ -4869,13 +5290,73 @@
                           </properties>
                         </outputColumn>
                         <outputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[MatchID]"
                           dataType="ui2"
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
-                          name="SportArenaID"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[MatchID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[MatchID]"
+                          name="MatchID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[DateMatch]"
+                          dataType="dbTimeStamp"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[DateMatch]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[DateMatch]"
+                          name="DateMatch"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[HomeParticipant]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[HomeParticipant]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[HomeParticipant]"
+                          name="HomeParticipant"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[AwayParticipant]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[AwayParticipant]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[AwayParticipant]"
+                          name="AwayParticipant"
                           truncationRowDisposition="FailComponent">
                           <properties>
                             <property
@@ -4892,44 +5373,29 @@
                       <externalMetadataColumns
                         isUsed="True">
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[dateT]"
-                          dataType="dbTimeStamp"
-                          name="dateT" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[AwayClub]"
-                          dataType="wstr"
-                          length="50"
-                          name="AwayClub" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubIDA]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
                           dataType="ui2"
-                          name="ClubIDA" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[HomeClub]"
-                          dataType="wstr"
-                          length="50"
-                          name="HomeClub" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ClubIDH]"
-                          dataType="ui2"
-                          name="ClubIDH" />
-                        <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[AwayTeam]"
-                          dataType="wstr"
-                          length="50"
-                          name="AwayTeam" />
+                          name="SportArenaID" />
                         <externalMetadataColumn
                           refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TeamID]"
                           dataType="ui2"
                           name="TeamID" />
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportID]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[MatchID]"
                           dataType="ui2"
-                          name="SportID" />
+                          name="MatchID" />
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[DateMatch]"
+                          dataType="dbTimeStamp"
+                          name="DateMatch" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[HomeParticipant]"
                           dataType="ui2"
-                          name="SportArenaID" />
+                          name="HomeParticipant" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[AwayParticipant]"
+                          dataType="ui2"
+                          name="AwayParticipant" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -5003,7 +5469,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -5034,35 +5500,41 @@
                       name="OLE DB Destination Input">
                       <inputColumns>
                         <inputColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SportArenaID]"
+                          cachedDataType="ui2"
+                          cachedName="SportArenaID"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SportArenaID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]" />
+                        <inputColumn
                           refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[TeamID]"
                           cachedDataType="ui2"
                           cachedName="TeamID"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TeamID]"
                           lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[TeamID]" />
                         <inputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[dateT]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[MatchID]"
+                          cachedDataType="ui2"
+                          cachedName="MatchID"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[MatchID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[MatchID]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[DateMatch]"
                           cachedDataType="dbTimeStamp"
-                          cachedName="dateT"
+                          cachedName="DateMatch"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[DateMatch]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[dateT]" />
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[DateMatch]" />
                         <inputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ClubIDH]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[HomeParticipant]"
                           cachedDataType="ui2"
-                          cachedName="ClubIDH"
+                          cachedName="HomeParticipant"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[HomeParticipant]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDH]" />
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[HomeParticipant]" />
                         <inputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ClubIDA]"
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[AwayParticipant]"
                           cachedDataType="ui2"
-                          cachedName="ClubIDA"
+                          cachedName="AwayParticipant"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AwayParticipant]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[ClubIDA]" />
-                        <inputColumn
-                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SportArenaID]"
-                          cachedDataType="ui2"
-                          cachedName="SportArenaID"
-                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SportArenaID]"
-                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]" />
+                          lineageId="Package\Sequence Container 2\Data Flow Matches\Flat File Source.Outputs[Flat File Source Output].Columns[AwayParticipant]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -5165,8 +5637,8 @@
                   <connections>
                     <connection
                       refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Connections[FlatFileConnection]"
-                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 14]"
-                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 14]"
+                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager 16]"
+                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager 16]"
                       name="FlatFileConnection" />
                   </connections>
                   <outputs>
@@ -5180,7 +5652,7 @@
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ArenaName]"
-                          length="50"
+                          length="255"
                           lineageId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[ArenaName]"
                           name="ArenaName"
                           truncationRowDisposition="FailComponent">
@@ -5235,18 +5707,33 @@
                               name="UseBinaryFormat">false</property>
                           </properties>
                         </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]"
+                          name="SportArenaID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
                       </outputColumns>
                       <externalMetadataColumns
                         isUsed="True">
                         <externalMetadataColumn
-                          refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CityName]"
-                          dataType="wstr"
-                          length="50"
-                          name="CityName" />
-                        <externalMetadataColumn
                           refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ArenaName]"
                           dataType="wstr"
-                          length="50"
+                          length="255"
                           name="ArenaName" />
                         <externalMetadataColumn
                           refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[CityID]"
@@ -5256,6 +5743,10 @@
                           refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[AmountOfSits]"
                           dataType="ui4"
                           name="AmountOfSits" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[SportArenaID]"
+                          dataType="ui2"
+                          name="SportArenaID" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -5329,7 +5820,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -5362,7 +5853,7 @@
                         <inputColumn
                           refId="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[ArenaName]"
                           cachedDataType="wstr"
-                          cachedLength="50"
+                          cachedLength="255"
                           cachedName="ArenaName"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ArenaName]"
                           lineageId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[ArenaName]" />
@@ -5378,6 +5869,12 @@
                           cachedName="AmountOfSits"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[AmountOfSits]"
                           lineageId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[AmountOfSits]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SportArenaID]"
+                          cachedDataType="ui2"
+                          cachedName="SportArenaID"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SportArenaID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source.Outputs[Flat File Source Output].Columns[SportArenaID]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -5491,7 +5988,7 @@
                           errorOrTruncationOperation="Conversion"
                           errorRowDisposition="FailComponent"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Team]"
-                          length="50"
+                          length="255"
                           lineageId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[Team]"
                           name="Team"
                           truncationRowDisposition="FailComponent">
@@ -5546,13 +6043,33 @@
                               name="UseBinaryFormat">false</property>
                           </properties>
                         </outputColumn>
+                        <outputColumn
+                          refId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[TeamID]"
+                          dataType="ui2"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TeamID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[TeamID]"
+                          name="TeamID"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
                       </outputColumns>
                       <externalMetadataColumns
                         isUsed="True">
                         <externalMetadataColumn
                           refId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Team]"
                           dataType="wstr"
-                          length="50"
+                          length="255"
                           name="Team" />
                         <externalMetadataColumn
                           refId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TournamentID]"
@@ -5562,6 +6079,10 @@
                           refId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[ParentTeamID]"
                           dataType="ui2"
                           name="ParentTeamID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[TeamID]"
+                          dataType="ui2"
+                          name="TeamID" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -5635,11 +6156,11 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">true</property>
+                      name="FastLoadKeepNulls">false</property>
                     <property
                       dataType="System.String"
                       description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
@@ -5668,7 +6189,7 @@
                         <inputColumn
                           refId="Package\Sequence Container 2\Data Flow Teams\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Team]"
                           cachedDataType="wstr"
-                          cachedLength="50"
+                          cachedLength="255"
                           cachedName="Team"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Teams\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Team]"
                           lineageId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[Team]" />
@@ -5684,6 +6205,12 @@
                           cachedName="ParentTeamID"
                           externalMetadataColumnId="Package\Sequence Container 2\Data Flow Teams\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ParentTeamID]"
                           lineageId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[ParentTeamID]" />
+                        <inputColumn
+                          refId="Package\Sequence Container 2\Data Flow Teams\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[TeamID]"
+                          cachedDataType="ui2"
+                          cachedName="TeamID"
+                          externalMetadataColumnId="Package\Sequence Container 2\Data Flow Teams\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[TeamID]"
+                          lineageId="Package\Sequence Container 2\Data Flow Teams\Flat File Source.Outputs[Flat File Source Output].Columns[TeamID]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -5943,7 +6470,7 @@
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
+                      name="FastLoadKeepNulls">true</property>
                     <property
                       dataType="System.String"
                       description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
@@ -6059,6 +6586,22 @@
           DTS:To="Package\Sequence Container 2\Data Flow Matches" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Truncate Tables"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{e7fd2e56-aa77-4631-b9da-9272c231f79c}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Truncate Tables"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{FAB41E61-2276-43D3-8914-87A4717A90F6}"
+          SQLTask:SqlStatementSource="-- disable all constraints&#xA;EXEC sp_MSForEachTable &quot;ALTER TABLE ? NOCHECK CONSTRAINT all&quot;&#xA;&#xA;-- delete data in all tables&#xA;EXEC sp_MSForEachTable &quot;DELETE FROM ?&quot;&#xA;&#xA;-- enable all constraints&#xA;exec sp_MSForEachTable &quot;ALTER TABLE ? WITH CHECK CHECK CONSTRAINT all&quot;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -6077,6 +6620,14 @@
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\Sequence Container 2" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{7D7C2FB4-CA21-41FF-BF66-AED36E9547D7}"
+      DTS:From="Package\Truncate Tables"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 2"
+      DTS:To="Package\Sequence Container" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -6106,13 +6657,39 @@
           Size="180,42"
           Id="Package\Sequence Container\Data Flow Task Sport"
           TopLeft="30,17" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\Sequence Container\Data Flow Task Taxes"
+          TopLeft="243,155" />
+        <EdgeLayout
+          Id="Package\Sequence Container.PrecedenceConstraints[Constraint]"
+          TopLeft="336.5,125">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,30"
+              Start="0,0"
+              End="0,22.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,22.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="430,163"
-          Size="430,206"
+          PanelSize="447,235"
+          Size="447,278"
           Id="Package\Sequence Container"
-          TopLeft="119,34" />
+          TopLeft="90,108" />
         <NodeLayout
           Size="155,42"
           Id="Package\Sequence Container 1\Data Flow Clubs"
@@ -6122,9 +6699,9 @@
           Id="Package\Sequence Container 1\Data Flow CurrenciesRates"
           TopLeft="22,139" />
         <NodeLayout
-          Size="151,42"
-          Id="Package\Sequence Container 1\Data Flow Task"
-          TopLeft="279,153" />
+          Size="204,42"
+          Id="Package\Sequence Container 1\Data Flow Task Passwords"
+          TopLeft="250,162" />
         <NodeLayout
           Size="180,42"
           Id="Package\Sequence Container 1\Data Flow Task Cities"
@@ -6143,18 +6720,18 @@
           TopLeft="16,15" />
         <EdgeLayout
           Id="Package\Sequence Container 1.PrecedenceConstraints[Constraint]"
-          TopLeft="351.75,121">
+          TopLeft="350.5,121">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,32"
+              EndConnector="0,41"
               Start="0,0"
-              End="0,24.5">
+              End="0,33.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,24.5" />
+                    End="0,33.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -6169,7 +6746,15 @@
           PanelSize="489,300"
           Size="489,343"
           Id="Package\Sequence Container 1"
-          TopLeft="84,286" />
+          TopLeft="76,443" />
+        <NodeLayout
+          Size="168,42"
+          Id="Package\Sequence Container 2\Data Flow Matches"
+          TopLeft="249,92" />
+        <NodeLayout
+          Size="184,42"
+          Id="Package\Sequence Container 2\Data Flow Sport Arens"
+          TopLeft="253,21" />
         <NodeLayout
           Size="161,42"
           Id="Package\Sequence Container 2\Data Flow Teams"
@@ -6180,18 +6765,30 @@
           TopLeft="15,90" />
         <EdgeLayout
           Id="Package\Sequence Container 2.PrecedenceConstraints[Constraint]"
-          TopLeft="109.5,57">
+          TopLeft="84,57">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,33"
+              EndConnector="25.5,33"
               Start="0,0"
-              End="0,25.5">
+              End="25.5,25.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.5" />
+                    End="0,9.39483394833948" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,9.39483394833948"
+                    Point2="0,13.3948339483395"
+                    Point3="4,13.3948339483395" />
+                  <mssgle:LineSegment
+                    End="21.5,13.3948339483395" />
+                  <mssgle:CubicBezierSegment
+                    Point1="21.5,13.3948339483395"
+                    Point2="25.5,13.3948339483395"
+                    Point3="25.5,17.3948339483395" />
+                  <mssgle:LineSegment
+                    End="25.5,25.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -6200,40 +6797,32 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="184,42"
-          Id="Package\Sequence Container 2\Data Flow Sport Arens"
-          TopLeft="253,21" />
-        <NodeLayout
-          Size="168,42"
-          Id="Package\Sequence Container 2\Data Flow Matches"
-          TopLeft="249,92" />
         <EdgeLayout
           Id="Package\Sequence Container 2.PrecedenceConstraints[Constraint 1]"
           TopLeft="135,57">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="198,35"
+              EndConnector="171.333333333333,35"
               Start="0,0"
-              End="198,27.5">
+              End="171.333333333333,27.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,10.2066420664207" />
+                    End="0,13.5088428499242" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,10.2066420664207"
-                    Point2="0,14.2066420664207"
-                    Point3="4,14.2066420664207" />
+                    Point1="0,13.5088428499242"
+                    Point2="0,17.5088428499242"
+                    Point3="4,17.5088428499242" />
                   <mssgle:LineSegment
-                    End="194,14.2066420664207" />
+                    End="167.333333333333,17.5088428499242" />
                   <mssgle:CubicBezierSegment
-                    Point1="194,14.2066420664207"
-                    Point2="198,14.2066420664207"
-                    Point3="198,18.2066420664207" />
+                    Point1="167.333333333333,17.5088428499242"
+                    Point2="171.333333333333,17.5088428499242"
+                    Point3="171.333333333333,21.5088428499242" />
                   <mssgle:LineSegment
-                    End="198,27.5" />
+                    End="171.333333333333,27.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -6282,32 +6871,10 @@
           PanelSize="471,184"
           Size="471,227"
           Id="Package\Sequence Container 2"
-          TopLeft="99,686" />
+          TopLeft="83,840" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="331.25,240">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,46"
-              Start="0,0"
-              End="0,38.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,38.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="331.5,629">
+          TopLeft="317,386">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -6327,6 +6894,66 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="319.5,786">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,54"
+              Start="0,0"
+              End="0,46.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,46.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="155,42"
+          Id="Package\Truncate Tables"
+          TopLeft="248,28" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="325.5,70">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-12,38"
+              Start="0,0"
+              End="-12,30.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,15" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,15"
+                    Point2="0,19"
+                    Point3="-4,19" />
+                  <mssgle:LineSegment
+                    End="-8,19" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-8,19"
+                    Point2="-12,19"
+                    Point3="-12,23" />
+                  <mssgle:LineSegment
+                    End="-12,30.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -6334,7 +6961,7 @@
     design-time-name="Package\Sequence Container\Data Flow Countries">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="171,42"
           Id="Package\Sequence Container\Data Flow Countries\OLE DB Destination"
@@ -6362,9 +6989,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6387,7 +7012,7 @@
     design-time-name="Package\Sequence Container\Data Flow Customer Groups">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="151,42"
           Id="Package\Sequence Container\Data Flow Customer Groups\Flat File Source"
@@ -6415,9 +7040,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6440,7 +7063,7 @@
     design-time-name="Package\Sequence Container\Data Flow Task Currencies">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="171,42"
           Id="Package\Sequence Container\Data Flow Task Currencies\OLE DB Destination"
@@ -6468,9 +7091,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6643,20 +7264,20 @@
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Sequence Container 1\Data Flow Task">
+    design-time-name="Package\Sequence Container 1\Data Flow Task Passwords">
     <LayoutInfo>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="167,42"
-          Id="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords"
+          Id="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords"
           TopLeft="82,180" />
         <NodeLayout
           Size="160,42"
-          Id="Package\Sequence Container 1\Data Flow Task\Flat File Source 1"
+          Id="Package\Sequence Container 1\Data Flow Task Passwords\Flat File Source 1"
           TopLeft="87,60" />
         <EdgeLayout
-          Id="Package\Sequence Container 1\Data Flow Task.Paths[Flat File Source Output]"
+          Id="Package\Sequence Container 1\Data Flow Task Passwords.Paths[Flat File Source Output]"
           TopLeft="166.25,102">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -6681,7 +7302,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container 1\Data Flow Task\OLE DB Passwords">
+    design-time-name="Package\Sequence Container 1\Data Flow Task Passwords\OLE DB Passwords">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -6697,7 +7318,7 @@
     design-time-name="Package\Sequence Container 1\Data Flow Task Cities">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="171,42"
           Id="Package\Sequence Container 1\Data Flow Task Cities\OLE DB Destination"
@@ -6725,9 +7346,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6752,13 +7371,13 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="151,42"
-          Id="Package\Sequence Container 1\Data Flow Task Customers\Flat File Source"
-          TopLeft="267,61" />
-        <NodeLayout
           Size="168,42"
           Id="Package\Sequence Container 1\Data Flow Task Customers\OLE DB Customers"
           TopLeft="256,173" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Sequence Container 1\Data Flow Task Customers\Flat File Source"
+          TopLeft="267,61" />
         <EdgeLayout
           Id="Package\Sequence Container 1\Data Flow Task Customers.Paths[Flat File Source Output]"
           TopLeft="341.25,103">
@@ -6801,7 +7420,7 @@
     design-time-name="Package\Sequence Container 1\Data Flow Task Events">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="151,42"
           Id="Package\Sequence Container 1\Data Flow Task Events\Flat File Source"
@@ -6829,9 +7448,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6902,6 +7519,108 @@
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
+    design-time-name="Package\Sequence Container 2\Data Flow Matches">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Sequence Container 2\Data Flow Matches\Flat File Source"
+          TopLeft="247,91" />
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination"
+          TopLeft="231,189" />
+        <EdgeLayout
+          Id="Package\Sequence Container 2\Data Flow Matches.Paths[Flat File Source Output]"
+          TopLeft="319.5,133">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,56"
+              Start="0,0"
+              End="0,48.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,48.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Sequence Container 2\Data Flow Sport Arens">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination"
+          TopLeft="269,154" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source"
+          TopLeft="275,54" />
+        <EdgeLayout
+          Id="Package\Sequence Container 2\Data Flow Sport Arens.Paths[Flat File Source Output]"
+          TopLeft="352.5,96">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,58"
+              Start="0,0"
+              End="0,50.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,50.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
     design-time-name="Package\Sequence Container 2\Data Flow Teams">
     <LayoutInfo>
       <GraphLayout
@@ -6958,13 +7677,13 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="151,42"
-          Id="Package\Sequence Container 2\Data Flow Teams Clubs\Flat File Source"
-          TopLeft="314,47" />
-        <NodeLayout
           Size="171,42"
           Id="Package\Sequence Container 2\Data Flow Teams Clubs\OLE DB Destination"
           TopLeft="298,141" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Sequence Container 2\Data Flow Teams Clubs\Flat File Source"
+          TopLeft="314,47" />
         <EdgeLayout
           Id="Package\Sequence Container 2\Data Flow Teams Clubs.Paths[Flat File Source Output]"
           TopLeft="386.5,89">
@@ -7004,32 +7723,32 @@
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Sequence Container 2\Data Flow Sport Arens">
+    design-time-name="Package\Sequence Container\Data Flow Task Taxes">
     <LayoutInfo>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="151,42"
-          Id="Package\Sequence Container 2\Data Flow Sport Arens\Flat File Source"
-          TopLeft="275,54" />
+          Id="Package\Sequence Container\Data Flow Task Taxes\Flat File Source"
+          TopLeft="262,53" />
         <NodeLayout
           Size="171,42"
-          Id="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination"
-          TopLeft="271,159" />
+          Id="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination"
+          TopLeft="247,156" />
         <EdgeLayout
-          Id="Package\Sequence Container 2\Data Flow Sport Arens.Paths[Flat File Source Output]"
-          TopLeft="353.5,96">
+          Id="Package\Sequence Container\Data Flow Task Taxes.Paths[Flat File Source Output]"
+          TopLeft="335,95">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,63"
+              EndConnector="0,61"
               Start="0,0"
-              End="0,55.5">
+              End="0,53.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.5" />
+                    End="0,53.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -7042,58 +7761,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container 2\Data Flow Sport Arens\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Sequence Container 2\Data Flow Matches">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="151,42"
-          Id="Package\Sequence Container 2\Data Flow Matches\Flat File Source"
-          TopLeft="247,91" />
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination"
-          TopLeft="231,188" />
-        <EdgeLayout
-          Id="Package\Sequence Container 2\Data Flow Matches.Paths[Flat File Source Output]"
-          TopLeft="319.5,133">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,55"
-              Start="0,0"
-              End="0,47.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,47.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination">
+    design-time-name="Package\Sequence Container\Data Flow Task Taxes\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
