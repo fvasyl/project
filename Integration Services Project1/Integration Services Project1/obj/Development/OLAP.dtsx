@@ -11,8 +11,8 @@
   DTS:LocaleID="1058"
   DTS:ObjectName="OLAP"
   DTS:PackageType="5"
-  DTS:VersionBuild="13"
-  DTS:VersionGUID="{362DE384-5D4F-4471-96D8-8491AAB926FE}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{265EDB75-97A2-4F2E-85C0-9EB9BAFD2493}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -59,6 +59,292 @@
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Data Flow Currencies"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{1aee7cfc-dc12-4a00-a3ec-2fa84745360d}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Data Flow Currencies"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Data Flow Currencies\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[DimCurrencies]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1251</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Data Flow Currencies\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDBWH]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDBWH]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CurrencyCode]"
+                      cachedDataType="wstr"
+                      cachedLength="3"
+                      cachedName="CurrencyCode"
+                      externalMetadataColumnId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyCode]"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyCode]" />
+                    <inputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CurrencyName]"
+                      cachedDataType="wstr"
+                      cachedLength="50"
+                      cachedName="CurrencyName"
+                      externalMetadataColumnId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyName]"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyName]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyCode]"
+                      dataType="wstr"
+                      length="3"
+                      name="CurrencyCode" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CurrencyName" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Currencies\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Currencies\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Currencies\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Data Flow Currencies\OLE DB Source"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="OLE DB Source"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[finance].[Currencies]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT        C.CurrencyCode, C.CurrencyName
+FROM            SportDB.finance.Currencies C
+WHERE        C.CurrencyCode  NOT IN
+                             (SELECT        CurrencyCode
+                               FROM            SportDBWH.dbo.DimCurrencies)</property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1251</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">2</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Data Flow Currencies\OLE DB Source.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-GCE26V1\NEW.SportDB]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyCode]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CurrencyCode]"
+                      length="3"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyCode]"
+                      name="CurrencyCode"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyName]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CurrencyName]"
+                      length="50"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyName]"
+                      name="CurrencyName"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CurrencyCode]"
+                      dataType="wstr"
+                      length="3"
+                      name="CurrencyCode" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CurrencyName]"
+                      dataType="wstr"
+                      length="50"
+                      name="CurrencyName" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CurrencyCode]"
+                      dataType="wstr"
+                      length="3"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CurrencyCode]"
+                      name="CurrencyCode" />
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CurrencyName]"
+                      dataType="wstr"
+                      length="50"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CurrencyName]"
+                      name="CurrencyName" />
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Data Flow Currencies.Paths[OLE DB Source Output]"
+              endId="Package\Data Flow Currencies\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\Data Flow Currencies\OLE DB Source.Outputs[OLE DB Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\Data Flow CurrenciesRates"
       DTS:CreationName="Microsoft.Pipeline"
@@ -176,6 +462,12 @@
                       cachedName="Date"
                       externalMetadataColumnId="Package\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Date]"
                       lineageId="Package\Data Flow CurrenciesRates\OLE DB Source.Outputs[OLE DB Source Output].Columns[Date]" />
+                    <inputColumn
+                      refId="Package\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CurrencyRateID]"
+                      cachedDataType="i4"
+                      cachedName="CurrencyRateID"
+                      externalMetadataColumnId="Package\Data Flow CurrenciesRates\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CurrencyRateID]"
+                      lineageId="Package\Data Flow CurrenciesRates\OLE DB Source.Outputs[OLE DB Source Output].Columns[CurrencyRateID]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -454,12 +746,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Arens"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Arens') is not null&#xA;    drop table #Arens&#xA;&#xA;create table #Arens (&#xA;&#x9;&#xA;&#x9;[SportArenaID] [int] ,&#xA;&#x9;[AmountOfSits] [int] ,&#xA;&#x9;[LocationID] [int] ,&#xA;&#x9;[ArenaName] [nvarchar](max) ,&#xA;&#x9;[ModifiedDate] [datetime] ,&#xA;)&#xA;&#xA;insert into #Arens ( [SportArenaID], [AmountOfSits], [LocationID], [ArenaName],  [ModifiedDate])&#xA;select  S.SportArenaID, S.AmountOfSits, S.CityID, S.ArenaName, S.ModifiedDate  from SportDB.location.SportArens S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimArens DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimArens &#xA;(&#xA;&#x9; [ArenaKey]&#xA;&#x9;, [AmountOfSits]&#xA;&#x9;, [LocationID]&#xA;&#x9;, [ArenaName]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [SportArenaID]&#xA;&#x9; , [AmountOfSits]&#xA;&#x9;, [LocationID]&#xA;&#x9;, [ArenaName]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimArens emp&#xA;&#x9;USING #Arens ute&#xA;&#x9;ON [emp].[ArenaKey] = [ute].[SportArenaID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [ArenaKey], [AmountOfSits], [LocationID], [ArenaName],   [ValidFrom])&#xA;&#x9;VALUES ( [ute].[SportArenaID], [ute].[AmountOfSits], [ute].[LocationID], [ute].[ArenaName], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[SportArenaID] as [SportArenaID],&#xA;&#x9;&#x9;ute.[AmountOfSits] as [AmountOfSits],&#xA;&#x9;&#x9;ute.[LocationID] as [LocationID],&#xA;&#x9;&#x9;ute.[ArenaName] as [ArenaName]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Arens') is not null&#xA;    drop table #Arens" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertArens" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -470,12 +762,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Clubs"
-      DTS:ThreadHint="5">
+      DTS:ThreadHint="4">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Clubs') is not null&#xA;    drop table #Clubs&#xA;&#xA;create table #Clubs (&#xA;&#x9;[ClubID] [int] NOT NULL,&#xA;&#x9;--[ClubKey][int] not null,&#xA;&#x9;[Club] [nvarchar](450) NULL,&#xA;&#x9;[CouchFullName] [nvarchar](150) NULL,&#xA;--&#x9;[SportID] [int] NOT NULL,&#xA;&#x9;[ValidFrom] datetime  not null&#xA;)&#xA;&#xA;insert into #Clubs ([ClubID], [Club], [CouchFullName], [ValidFrom])&#xA;select C.ClubID, C.Club, C.CouchFullName, C.ModifiedDate from SportDB.sport.Clubs C&#xA;&#x9;where C.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimClubs DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;&#xA;insert into SportDBWH.dbo.DimClubs &#xA;(&#xA;&#x9;ClubKey&#xA;&#x9;, [Club]&#xA;&#x9;, [CouchFullName]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;[ClubID]&#xA;&#x9;, [Club]&#xA;&#x9;, [CouchFullName]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimClubs emp&#xA;&#x9;USING #Clubs ute&#xA;&#x9;ON [emp].[ClubKey] = [ute].[ClubID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT (ClubKey, [Club], [CouchFullName], [ValidFrom])&#xA;&#x9;VALUES ([ute].[ClubID], [ute].[Club], [ute].[CouchFullName], [ute].[ValidFrom])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[ClubID] as [ClubID],&#xA;&#x9;&#x9;ute.[Club] as [Club],&#xA;&#x9;&#x9;ute.[CouchFullName] as [CouchFullName]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Clubs') is not null&#xA;    drop table #Clubs" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertClubs;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -486,12 +778,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Conditions"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="insert into SportDBWH.dbo.DimConditions ( [ConditionID], [SportEventID], [EventID], [Chance], [IsTrue], [DateOfLoading])&#xA;select  S.ConditionID, S.[SportEventID], S.[EventID], S.[Chance], S.[IsTrue], S.[DateOfCreating] from SportDB.finance.Conditions S&#xA;&#x9;where S.[DateOfCreating] &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.[DateOfLoading])),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimConditions DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#x9;&#x9;and S.[IsTrue] is not null" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertConditions" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -502,12 +794,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Countries"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Countries') is not null&#xA;    drop table #Countries&#xA;&#xA;create table #Countries (&#xA;&#x9;&#xA;&#x9;[CountryID] [int] ,&#xA;&#x9;[CountryCode] [nchar](3) ,&#xA;&#x9;[CountryEnglishName] [nvarchar](max) ,&#xA;&#x9;[ModifiedDate] datetime&#xA;)&#xA;&#xA;insert into #Countries ( [CountryCode], [CountryEnglishName], [ModifiedDate])&#xA;select  S.[CountryCode], S.[CountryEnglishName], S.ModifiedDate from SportDB.location.Countries S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimCountries DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimCountries &#xA;(&#xA;&#x9; [CountryCode]&#xA;&#x9;, [CountryEnglishName]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [CountryCode]&#xA;&#x9;, [CountryEnglishName]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimCountries emp&#xA;&#x9;USING #Countries ute&#xA;&#x9;ON [emp].[CountryCode] = [ute].[CountryCode]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [CountryCode], [CountryEnglishName], [ValidFrom])&#xA;&#x9;VALUES ( [ute].[CountryCode], [ute].[CountryEnglishName], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[CountryCode] as [CountryCode],&#xA;&#x9;&#x9;ute.[CountryEnglishName] as [CountryEnglishName]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Countries') is not null&#xA;    drop table #Countries" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertCountries;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -522,8 +814,8 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#CustomersGroups') is not null&#xA;    drop table #CustomersGroups&#xA;&#xA;create table #CustomersGroups (&#xA;&#x9;&#xA;&#x9;[CustomerGroupID] [int] ,&#xA;&#x9;[CustomerGroup] [nvarchar](450) ,&#xA;&#x9;[CustomerGroupCommissionAddStake] [float] ,&#xA;&#x9;[CustomerGroupCommissionEditStake] [float] ,&#xA;&#x9;[CustomerGroupCommissionDeleteStake] [float] ,&#xA;&#x9;[ModifiedDate] [datetime]&#xA;&#x9;)&#xA;&#xA;insert into #CustomersGroups ( [CustomerGroupID], [CustomerGroup], [CustomerGroupCommissionAddStake], [CustomerGroupCommissionEditStake], [CustomerGroupCommissionDeleteStake],  [ModifiedDate])&#xA;select  S.CustomerGroupID, S.CustomerGroup, S.CustomerGroupCommissionAddStake, S.CustomerGroupCommissionEditStake, S.CustomerGroupCommissionDeleteStake,  S.ModifiedDate  from SportDB.finance.CustomersGroups S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimCustomersGroups DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimCustomersGroups &#xA;(&#xA;&#x9; [CustomerGroupKey]&#xA;&#x9;, [CustomerGroup]&#xA;&#x9;, [CustomerGroupCommissionAddStake]&#xA;&#x9;, [CustomerGroupCommissionEditStake]&#xA;&#x9;, CustomerGroupCommissionDeleteStake&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [CustomerGroupID]&#xA;&#x9; , [CustomerGroup]&#xA;&#x9;, [CustomerGroupCommissionAddStake]&#xA;&#x9;, [CustomerGroupCommissionEditStake]&#xA;&#x9;, [CustomerGroupCommissionDeleteStake]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimCustomersGroups emp&#xA;&#x9;USING #CustomersGroups ute&#xA;&#x9;ON [emp].[CustomerGroupKey] = [ute].[CustomerGroupID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [CustomerGroupKey], [CustomerGroup], [CustomerGroupCommissionAddStake], [CustomerGroupCommissionEditStake], CustomerGroupCommissionDeleteStake,  [ValidFrom])&#xA;&#x9;VALUES ( [ute].[CustomerGroupID], [ute].[CustomerGroup], [ute].[CustomerGroupCommissionAddStake], [ute].[CustomerGroupCommissionEditStake], [ute].CustomerGroupCommissionDeleteStake, [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[CustomerGroupID] as [CustomerGroupID],&#xA;&#x9;&#x9;ute.[CustomerGroup] as [CustomerGroup],&#xA;&#x9;&#x9;ute.[CustomerGroupCommissionAddStake] as [CustomerGroupCommissionAddStake],&#xA;&#x9;&#x9;ute.[CustomerGroupCommissionEditStake] as [CustomerGroupCommissionEditStake],&#xA;&#x9;&#x9;ute.CustomerGroupCommissionDeleteStake as CustomerGroupCommissionDeleteStake&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#CustomersGroups') is not null&#xA;    drop table #CustomersGroups" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertCustomersGroups" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -538,8 +830,8 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="insert into SportDBWH.dbo.FactCustomersFinanceOperations ( [FinanceOperationID], [CustomerID], [FinanceOperationTyp], [Amount], [AmountCommission], [AmountTax],  [FinalAmount], [CurrencyCode], [OperationDate])&#xA;select  S.FinanceOperationID, S.[CustomerID], S.[FinanceOperationTyp], S.[Amount], S.[AmountCommission], S.[AmountTax], S.[FinalAmount], S.[CurrencyCode], S.OperationDate  from SportDB.finance.CustomersFinanceOperations S&#xA;&#x9;where S.OperationDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.OperationDate)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.FactCustomersFinanceOperations DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertFactCustomersFinanceOperations" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -554,8 +846,8 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Customers') is not null&#xA;    drop table #Customers&#xA;&#xA;create table #Customers (&#xA;&#x9;&#xA;&#x9;[CustomerID] [int] ,&#xA;&#x9;[CustomerLogin] [nvarchar](50) ,&#xA;&#x9;[CustomerEmail] [nvarchar](50) ,&#xA;&#x9;[SendMails] [bit] NULL ,&#xA;&#x9;[CustomerGroupID] [int] ,&#xA;&#x9;[CountryCode] [nchar](3) ,&#xA;&#x9;[ModifiedDate] [datetime] ,&#xA;)&#xA;&#xA;insert into #Customers ( [CustomerID], [CustomerLogin], [CustomerEmail], [SendMails], [CustomerGroupID], [CountryCode],  [ModifiedDate])&#xA;select  S.CustomerID, S.[CustomerLogin], S.[CustomerEmail], S.[SendMails], S.[CustomerGroupID], S.CountryCode, S.ModifiedDate  from SportDB.finance.Customers S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimCustomers DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimCustomers &#xA;(&#xA;&#x9; [CustomerKey]&#xA;&#x9;, [CustomerLogin]&#xA;&#x9;, [CustomerEmail]&#xA;&#x9;, [SendMails]&#xA;&#x9;, [CustomerGroupID]&#xA;&#x9;, [CountryCode]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [CustomerID]&#xA;&#x9;, [CustomerLogin]&#xA;&#x9;, [CustomerEmail]&#xA;&#x9;, [SendMails]&#xA;&#x9;, [CustomerGroupID]&#xA;&#x9;, [CountryCode]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimCustomers emp&#xA;&#x9;USING #Customers ute&#xA;&#x9;ON [emp].[CustomerKey] = [ute].[CustomerID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [CustomerKey], [CustomerLogin], [CustomerEmail], [SendMails], [CustomerGroupID], [CountryCode],  [ValidFrom])&#xA;&#x9;VALUES ( [ute].[CustomerID], [ute].[CustomerLogin], [ute].[CustomerEmail], [ute].[SendMails], [ute].[CustomerGroupID], [ute].[CountryCode], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[CustomerID] as [CustomerID],&#xA;&#x9;&#x9;ute.[CustomerLogin] as [CustomerLogin],&#xA;&#x9;&#x9;ute.[CustomerEmail] as [CustomerEmail],&#xA;&#x9;&#x9;ute.[SendMails] as [SendMails],&#xA;&#x9;&#x9;ute.[CustomerGroupID] as [CustomerGroupID],&#xA;&#x9;&#x9;ute.[CountryCode] as [CountryCode]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Customers') is not null&#xA;    drop table #Customers" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertCustomers" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -566,12 +858,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Events"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="5">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Events') is not null&#xA;    drop table #Events&#xA;&#xA;create table #Events (&#xA;&#x9;[EventID] [int] ,&#xA;&#x9;[Event] [nvarchar](15),&#xA;&#x9;[SportID] [int] ,&#xA;&#x9;[EventGroup] [int] ,&#xA;&#x9;[ModifiedDate] [datetime] ,&#xA;)&#xA;&#xA;insert into #Events ([EventID], [Event], [SportID], [EventGroup],  [ModifiedDate])&#xA;select S.EventID, S.[Event], S.[SportID], S.[EventGroup], S.ModifiedDate from SportDB.finance.Events S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimEvents DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;&#xA;insert into SportDBWH.dbo.DimEvents &#xA;(&#xA;&#x9;EventKey&#xA;&#x9;, [Event]&#xA;&#x9;, [SportID]&#xA;&#x9;, [EventGroup]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;EventID &#xA;&#x9;, [Event]&#xA;&#x9;, [SportID]&#xA;&#x9;, [EventGroup]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimEvents emp&#xA;&#x9;USING #Events ute&#xA;&#x9;ON [emp].[EventKey] = [ute].[EventID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ([EventKey], [Event], [SportID], [EventGroup],  [ValidFrom])&#xA;&#x9;VALUES ([ute].[EventID], [ute].[Event], [ute].[SportID], [ute].[EventGroup], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[EventID] as [EventID],&#xA;&#x9;&#x9;ute.[Event] as [Event],&#xA;&#x9;&#x9;ute.[SportID] as [SportID],&#xA;&#x9;&#x9;ute.[EventGroup] as [EventGroup]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;if object_id('tempdb..#Events') is not null&#xA;    drop table #Events" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertEvents" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -582,12 +874,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Location"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Locations') is not null&#xA;    drop table #Locations&#xA;&#xA;create table #Locations (&#xA;&#x9;[LocationID] [int] ,&#xA;&#x9;[CountryCode] [nchar](3) ,&#xA;&#x9;[City] [nvarchar](max) ,&#xA;&#x9;[Country][nvarchar](max) ,&#xA;&#x9;[ModifiedDate] [datetime] &#xA;)&#xA;&#xA;insert into #Locations ([LocationID], [CountryCode], [City], [Country],  [ModifiedDate])&#xA;select S.CityID, S.CountryCode, S.CityName, C.CountryEnglishName, S.ModifiedDate from SportDB.location.Cities S join SportDB.location.Countries C on  C.CountryCode = S.CountryCode&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimLocations DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#x9;&#x9;or C.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimLocations DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimLocations &#xA;(&#xA;&#x9;LocationKey&#xA;&#x9;, [CountryCode]&#xA;&#x9;, [City]&#xA;&#x9;, [Country]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;LocationID &#xA;&#x9;, [CountryCode]&#xA;&#x9;, [City]&#xA;&#x9;, [Country]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimLocations emp&#xA;&#x9;USING #Locations ute&#xA;&#x9;ON [emp].[LocationKey] = [ute].[LocationID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ([LocationKey], [CountryCode], [City], [Country], [ValidFrom])&#xA;&#x9;VALUES ([ute].[LocationID], [ute].[CountryCode], [ute].[City], [ute].[Country], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[LocationID] as [LocationID],&#xA;&#x9;&#x9;ute.[CountryCode] as [CountryCode],&#xA;&#x9;&#x9;ute.[City] as [City],&#xA;&#x9;&#x9;ute.[Country] as [Country]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;if object_id('tempdb..#Locations') is not null&#xA;    drop table #Locations" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertLocations" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -598,12 +890,28 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Matches"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Matches') is not null&#xA;    drop table #Matches&#xA;&#xA;create table #Matches (&#xA;&#x9;&#xA;&#x9;[MatchID] [int] ,&#xA;&#x9;[DateMatch] [datetime] ,&#xA;&#x9;[HomeParticipant] [int] ,&#xA;&#x9;[AwayParticipant] [int],&#xA;&#x9;[TeamID] [int] ,&#xA;&#x9;[ArenaID] [int] ,&#xA;&#x9;[SportID] [int] ,&#xA;&#x9;[TournamentID] [int] ,&#xA;&#x9;[ModifiedDate] [datetime] ,&#xA;&#xA;)&#xA;&#xA;insert into #Matches ( [MatchID], [DateMatch], [HomeParticipant], [AwayParticipant], [TeamID], [ArenaID],  [SportID], [TournamentID], [ModifiedDate])&#xA;select  S.MatchID, S.[DateMatch], S.[HomeParticipant], S.[AwayParticipant], S.[TeamID], S.[SportArenaID], TT.[SportID], TT.[TournamentID], S.[ModifiedDate]  &#xA;from SportDB.sport.Matches S &#xA;&#x9;join SportDB.sport.Teams T on S.TeamID = T.TeamID&#xA;&#x9;join SportDB.sport.Tournaments TT on T.TournamentID = TT.TournamentID&#xA;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.FactMatches DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.FactMatches &#xA;(&#xA;&#x9; [MatchKey]&#xA;&#x9;, [DateMatch]&#xA;&#x9;, [HomeParticipant]&#xA;&#x9;, [AwayParticipant]&#xA;&#x9;, [TeamID]&#xA;&#x9;, [ArenaID]&#xA;&#x9;, [SportID]&#xA;&#x9;, [TournamentID]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [MatchID]&#xA;&#x9;, [DateMatch]&#xA;&#x9;, [HomeParticipant]&#xA;&#x9;, [AwayParticipant]&#xA;&#x9;, [TeamID]&#xA;&#x9;, [ArenaID]&#xA;&#x9;, [SportID]&#xA;&#x9;, [TournamentID]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.FactMatches emp&#xA;&#x9;USING #Matches ute&#xA;&#x9;ON [emp].[MatchKey] = [ute].[MatchID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [MatchKey], [DateMatch], [HomeParticipant], [AwayParticipant], [TeamID], [ArenaID],  [SportID], [TournamentID], [ValidFrom])&#xA;&#x9;VALUES ( [ute].[MatchID], [ute].[DateMatch], [ute].[HomeParticipant], [ute].[AwayParticipant], [ute].[TeamID], [ute].[ArenaID], [ute].[SportID], [ute].[TournamentID], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[MatchID] as [MatchID],&#xA;&#x9;&#x9;ute.[DateMatch] as [DateMatch],&#xA;&#x9;&#x9;ute.[HomeParticipant] as [HomeParticipant],&#xA;&#x9;&#x9;ute.[AwayParticipant] as [AwayParticipant],&#xA;&#x9;&#x9;ute.[TeamID] as [TeamID],&#xA;&#x9;&#x9;ute.[ArenaID] as [ArenaID],&#xA;&#x9;&#x9;ute.[SportID] as [SportID],&#xA;&#x9;&#x9;ute.[TournamentID] as [TournamentID]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertMatches" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Stakes"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{16694BF1-8550-49BE-95D4-40A087D042C8}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Stakes"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource=" exec dbo.InsertStakes" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -614,12 +922,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task Sports"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="5">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Sports') is not null&#xA;    drop table #Sports&#xA;&#xA;create table #Sports (&#xA;&#x9;[SportID] [int],&#xA;&#x9;[Sport] [nvarchar](max),&#xA;&#x9;[SportInformation][nvarchar](max),&#xA;&#x9;[SportType] [nvarchar](max),&#xA;&#x9;[ModifiedDate] [datetime],&#xA;)&#xA;&#xA;insert into #Sports ([SportID], [Sport],[SportType], [ModifiedDate])&#xA;select S.SportID, S.Sport, S.SportType, S.ModifiedDate from SportDB.sport.Sports S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimSports DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;&#xA;insert into SportDBWH.dbo.DimSports &#xA;(&#xA;&#x9;SportKey&#xA;&#x9;, Sport&#xA;&#x9;, SportType&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;SportID, Sport, SportType&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimSports emp&#xA;&#x9;USING #Sports ute&#xA;&#x9;ON [emp].[SportKey] = [ute].[SportID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ([SportKey], [Sport],[SportType], [ValidFrom])&#xA;&#x9;VALUES ([ute].[SportID], [ute].[Sport], [ute].[SportType], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[SportID] as [SportID],&#xA;&#x9;&#x9;ute.[Sport] as [Sport],&#xA;&#x9;&#x9;ute.[SportType] as [SportType]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertSports;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -630,12 +938,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Taxes"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Taxes') is not null&#xA;    drop table #Taxes&#xA;&#xA;create table #Taxes (&#xA;&#x9;&#xA;&#x9;[TaxID] [int],&#xA;&#x9;[Tax] nvarchar(50) ,&#xA;&#x9;[TaxRate] [float] ,&#xA;&#x9;[CountryCode] nchar(3) ,&#xA;&#x9;[ModifiedDate] [datetime] ,&#xA;)&#xA;&#xA;insert into #Taxes ( [TaxID], [Tax], [TaxRate], [CountryCode],  [ModifiedDate])&#xA;select  S.[TaxID], S.[Tax], S.[TaxRate], S.CountryCode, S.ModifiedDate  from SportDB.finance.Taxes S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimTaxes DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;insert into SportDBWH.dbo.DimTaxes &#xA;(&#xA;&#x9; [TaxKey]&#xA;&#x9;, [Tax]&#xA;&#x9;, [TaxRate]&#xA;&#x9;, [CountryCode]&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9; [TaxID]&#xA;&#x9; , [Tax]&#xA;&#x9; , [TaxRate]&#xA;&#x9;, [CountryCode]&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimTaxes emp&#xA;&#x9;USING #Taxes ute&#xA;&#x9;ON [emp].[TaxKey] = [ute].[TaxID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ( [TaxKey], [Tax], [TaxRate], [CountryCode],  [ValidFrom])&#xA;&#x9;VALUES ( [ute].[TaxID], [ute].[Tax], [ute].[TaxRate], [ute].[CountryCode], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[TaxID] as [TaxID],&#xA;&#x9;&#x9;ute.[TaxRate] as [TaxRate],&#xA;&#x9;&#x9;ute.[CountryCode] as [CountryCode],&#xA;&#x9;&#x9;ute.[Tax] as [Tax]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Taxes') is not null&#xA;    drop table #Taxes" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertTaxes" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -646,12 +954,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Teams"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Teams') is not null&#xA;    drop table #Teams&#xA;&#xA;create table #Teams (&#xA;&#x9;[TeamID] [int],&#xA;&#x9;[Team] [nvarchar](450) ,&#xA;&#x9;[ParentTeamID] [int] ,&#xA;&#x9;[ModifiedDate] [datetime],&#xA;)&#xA;&#xA;insert into #Teams ([TeamID], [Team],[ParentTeamID], [ModifiedDate])&#xA;select S.TeamID, S.Team, S.ParentTeamID, S.ModifiedDate from SportDB.Sport.Teams S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimTeams DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;&#xA;insert into SportDBWH.dbo.DimTeams &#xA;(&#xA;&#x9;TeamKey&#xA;&#x9;, Team&#xA;&#x9;, ParentTeamID&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;TeamID, Team, ParentTeamID&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimTeams emp&#xA;&#x9;USING #Teams ute&#xA;&#x9;ON [emp].[TeamKey] = [ute].[TeamID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ([TeamKey], [Team],[ParentTeamID], [ValidFrom])&#xA;&#x9;VALUES ([ute].[TeamID], [ute].[Team], [ute].[ParentTeamID], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[TeamID] as [TeamID],&#xA;&#x9;&#x9;ute.[Team] as [Team],&#xA;&#x9;&#x9;ute.[ParentTeamID] as [ParentTeamID]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
+          SQLTask:SqlStatementSource="exec dbo.InsertTeams" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -662,28 +970,12 @@
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Tournaments"
-      DTS:ThreadHint="1">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{E4C1963F-D531-4BC2-99FC-E2E6D26ACA27}"
-          SQLTask:SqlStatementSource="if object_id('tempdb..#Tournaments') is not null&#xA;    drop table #Tournaments&#xA;&#xA;create table #Tournaments (&#xA;&#x9;[TournamentID] [int],&#xA;&#x9;[TournamentName] [nvarchar](max) ,&#xA;&#x9;[ModifiedDate] [datetime],&#xA;)&#xA;&#xA;insert into #Tournaments ([TournamentID], [TournamentName], [ModifiedDate])&#xA;select S.TournamentID, S.TournamentName, S.ModifiedDate from SportDB.Sport.Tournaments S&#xA;&#x9;where S.ModifiedDate &gt; (&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;select ISNULL(MAX( CONVERT(datetime, DC.ValidFrom)),'2000-01-01 00:00:00.000') &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;from SportDBWH.dbo.DimTournaments DC&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;)&#xA;&#xA;&#xA;insert into SportDBWH.dbo.DimTournaments &#xA;(&#xA;&#x9;TournamentKey&#xA;&#x9;, TournamentName&#xA;&#x9;, [ValidFrom]&#xA;&#x9;, [ValidTo]&#xA;)&#xA;select &#xA;&#x9;TournamentID, TournamentName&#xA;&#x9;, getdate()&#xA;&#x9;, NULL&#xA;from&#xA;(&#xA;&#x9;MERGE SportDBWH.dbo.DimTournaments emp&#xA;&#x9;USING #Tournaments ute&#xA;&#x9;ON [emp].[TournamentKey] = [ute].[TournamentID]&#xA;&#x9;WHEN NOT MATCHED THEN&#xA;&#x9;INSERT ([TournamentKey], [TournamentName], [ValidFrom])&#xA;&#x9;VALUES ([ute].[TournamentID], [ute].[TournamentName], [ute].[ModifiedDate])&#xA;&#x9;WHEN MATCHED AND [ValidTo] IS NULL THEN&#xA;&#x9;  UPDATE&#xA;&#x9;  SET [emp].[ValidTo] = getdate()&#xA;&#x9;OUTPUT $Action MergeAction, &#xA;&#x9;&#x9;ute.[TournamentID] as [TournamentID],&#xA;&#x9;&#x9;ute.[TournamentName] as [TournamentName]&#xA;) MergeOutput&#xA;&#x9;WHERE -- we'll filter using a where clause&#xA;          MergeAction = 'Update';&#xA;&#xA;if object_id('tempdb..#Tournaments') is not null&#xA;    drop table #Tournaments" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Get Last Load Date"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Execute SQL Task"
-      DTS:DTSID="{66B4E053-424A-4EB0-8E9C-73AC3D5E33C3}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Get Last Load Date"
       DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{AD1C3DBE-7112-4199-9F96-960E87BFE28F}"
-          SQLTask:SqlStatementSource="SELECT        ISNULL(MAX( CONVERT(datetime,ValidFrom)), '2000-01-01 00:00:00.000') as LastLoadDate&#xA;FROM       dbo.DimClubs" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="exec dbo.InsertTournaments" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -691,19 +983,19 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint]"
       DTS:CreationName=""
-      DTS:DTSID="{E5CCBA79-9EC4-470F-8C1A-F0F5BC84C932}"
-      DTS:From="Package\Get Last Load Date"
+      DTS:DTSID="{1E9BFFA3-4538-4626-B8BC-077C270CB0B4}"
+      DTS:From="Package\Execute SQL Task Sports"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint"
-      DTS:To="Package\Execute SQL Clubs" />
+      DTS:To="Package\Execute SQL Events" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
-      DTS:DTSID="{84A44D87-7FEE-4C05-936B-038C8D0A468E}"
-      DTS:From="Package\Get Last Load Date"
+      DTS:DTSID="{5041677E-C852-4D41-B2E0-9830FC1BBF5D}"
+      DTS:From="Package\Execute SQL Location"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
-      DTS:To="Package\Execute SQL Task Sports" />
+      DTS:To="Package\Execute SQL Arens" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 10]"
       DTS:CreationName=""
@@ -715,51 +1007,67 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 11]"
       DTS:CreationName=""
-      DTS:DTSID="{9B4AE264-4ADB-4213-9BE8-DEE2B241B54B}"
-      DTS:From="Package\Execute SQL Arens"
+      DTS:DTSID="{6BCC805A-F7A3-4E7F-8BE9-983ADE93EC5E}"
+      DTS:From="Package\Execute SQL Tournaments"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 11"
       DTS:To="Package\Execute SQL Matches" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 12]"
       DTS:CreationName=""
-      DTS:DTSID="{3CBC3A66-8955-4E55-9D92-D5FD8CF31691}"
-      DTS:From="Package\Execute SQL Tournaments"
+      DTS:DTSID="{3905DDA8-BFB0-4EE9-AC32-C88DB89AC5EA}"
+      DTS:From="Package\Execute SQL Countries"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 12"
-      DTS:To="Package\Execute SQL Matches" />
+      DTS:To="Package\Execute SQL Customers" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 13]"
       DTS:CreationName=""
-      DTS:DTSID="{BF942FB7-FF38-48E5-8F14-184B5E0DBCD1}"
-      DTS:From="Package\Execute SQL Events"
+      DTS:DTSID="{A5F334F1-6A19-4868-A184-F51657551372}"
+      DTS:From="Package\Execute SQL Clubs"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 13"
-      DTS:To="Package\Execute SQL Conditions" />
+      DTS:To="Package\Execute SQL Matches" />
     <DTS:PrecedenceConstraint
-      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
+      DTS:refId="Package.PrecedenceConstraints[Constraint 14]"
       DTS:CreationName=""
-      DTS:DTSID="{C3C83F46-CC79-4DCB-A627-28C63402B64D}"
-      DTS:From="Package\Get Last Load Date"
+      DTS:DTSID="{D78EDB9D-19D5-430B-9221-D8273E46BA17}"
+      DTS:From="Package\Execute SQL Conditions"
       DTS:LogicalAnd="True"
-      DTS:ObjectName="Constraint 2"
-      DTS:To="Package\Execute SQL Teams" />
+      DTS:ObjectName="Constraint 14"
+      DTS:To="Package\Execute SQL Stakes" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 15]"
+      DTS:CreationName=""
+      DTS:DTSID="{C90A3D34-E595-4122-879B-4F805747CA3F}"
+      DTS:From="Package\Execute SQL Customers"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 15"
+      DTS:To="Package\Execute SQL Stakes" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 16]"
+      DTS:CreationName=""
+      DTS:DTSID="{A9930846-8F1E-4EDF-97D9-3E96B7F0201F}"
+      DTS:From="Package\Data Flow Currencies"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 16"
+      DTS:To="Package\Execute SQL Stakes" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
       DTS:CreationName=""
-      DTS:DTSID="{52FC9CE5-ED2C-46D8-9B66-D7438BB98061}"
-      DTS:From="Package\Get Last Load Date"
+      DTS:DTSID="{E01431CF-BD9B-40A6-90C3-4DB78CBC917D}"
+      DTS:From="Package\Data Flow Currencies"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 3"
-      DTS:To="Package\Execute SQL Tournaments" />
+      DTS:To="Package\Data Flow CurrenciesRates" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 4]"
       DTS:CreationName=""
-      DTS:DTSID="{BA7FF9E2-F924-4601-9AEF-1F529E5E438B}"
-      DTS:From="Package\Execute SQL Task Sports"
+      DTS:DTSID="{7E1A16D1-57FA-4D6F-B812-64CD6F7E2C72}"
+      DTS:From="Package\Execute SQL Arens"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 4"
-      DTS:To="Package\Execute SQL Events" />
+      DTS:To="Package\Execute SQL Matches" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 5]"
       DTS:CreationName=""
@@ -771,11 +1079,11 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
       DTS:CreationName=""
-      DTS:DTSID="{7D662250-D4B8-4573-85A6-E002D52086C5}"
-      DTS:From="Package\Execute SQL Location"
+      DTS:DTSID="{C4380FB7-BD5F-47FF-AC8D-8F4D3BC348A9}"
+      DTS:From="Package\Execute SQL Teams"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 6"
-      DTS:To="Package\Execute SQL Arens" />
+      DTS:To="Package\Execute SQL Matches" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 7]"
       DTS:CreationName=""
@@ -795,8 +1103,8 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 9]"
       DTS:CreationName=""
-      DTS:DTSID="{F1ABDFD9-E978-4676-8460-0BFECC7D8887}"
-      DTS:From="Package\Execute SQL Customers"
+      DTS:DTSID="{BD891773-BCA2-4C56-8C27-F91E95354A1C}"
+      DTS:From="Package\Execute SQL Events"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 9"
       DTS:To="Package\Execute SQL Conditions" />
@@ -812,237 +1120,77 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="205,42"
           Id="Package\Data Flow CurrenciesRates"
-          TopLeft="492,188" />
+          TopLeft="618,217" />
         <NodeLayout
           Size="167,42"
           Id="Package\Execute SQL Clubs"
-          TopLeft="58,90" />
+          TopLeft="295,95" />
         <NodeLayout
           Size="186,42"
           Id="Package\Execute SQL Countries"
-          TopLeft="482,255" />
+          TopLeft="647,281" />
         <NodeLayout
           Size="223,42"
           Id="Package\Execute SQL Customer Groups"
-          TopLeft="17,462" />
+          TopLeft="412,264" />
         <NodeLayout
-          Size="173,42"
+          Size="195,42"
           Id="Package\Execute SQL Events"
-          TopLeft="273,176" />
+          TopLeft="81,96" />
         <NodeLayout
           Size="181,42"
           Id="Package\Execute SQL Location"
-          TopLeft="12,254" />
+          TopLeft="498,92" />
         <NodeLayout
           Size="168,42"
           Id="Package\Execute SQL Arens"
-          TopLeft="25,342" />
+          TopLeft="503,168" />
         <NodeLayout
           Size="196,42"
           Id="Package\Execute SQL Task Sports"
-          TopLeft="262,91" />
+          TopLeft="167,29" />
         <NodeLayout
           Size="169,42"
           Id="Package\Execute SQL Taxes"
-          TopLeft="485,336" />
+          TopLeft="641,384" />
         <NodeLayout
           Size="173,42"
           Id="Package\Execute SQL Teams"
-          TopLeft="504,97" />
+          TopLeft="459,20" />
         <NodeLayout
           Size="204,42"
           Id="Package\Execute SQL Tournaments"
-          TopLeft="29,186" />
-        <NodeLayout
-          Size="169,42"
-          Id="Package\Get Last Load Date"
-          TopLeft="258,21" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="326.4,63">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-184.9,27"
-              Start="0,0"
-              End="-184.9,19.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,8.07848266841072" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,8.07848266841072"
-                    Point2="0,12.0784826684107"
-                    Point3="-4,12.0784826684107" />
-                  <mssgle:LineSegment
-                    End="-180.9,12.0784826684107" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-180.9,12.0784826684107"
-                    Point2="-184.9,12.0784826684107"
-                    Point3="-184.9,16.0784826684107" />
-                  <mssgle:LineSegment
-                    End="-184.9,19.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="359.3,63">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,28"
-              Start="0,0"
-              End="0,20.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,20.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="390.8,63">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="199.7,34"
-              Start="0,0"
-              End="199.7,26.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,6.19718309859155" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,6.19718309859155"
-                    Point2="0,10.1971830985915"
-                    Point3="4,10.1971830985915" />
-                  <mssgle:LineSegment
-                    End="195.7,10.1971830985915" />
-                  <mssgle:CubicBezierSegment
-                    Point1="195.7,10.1971830985915"
-                    Point2="199.7,10.1971830985915"
-                    Point3="199.7,14.1971830985915" />
-                  <mssgle:LineSegment
-                    End="199.7,26.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="266,63">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-213,123"
-              Start="0,0"
-              End="-213,115.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-13.1101905550953" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,-13.1101905550953"
-                    Point2="0,-17.1101905550953"
-                    Point3="-4,-17.1101905550953" />
-                  <mssgle:LineSegment
-                    End="-209,-17.1101905550953" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-209,-17.1101905550953"
-                    Point2="-213,-17.1101905550953"
-                    Point3="-213,-13.1101905550953" />
-                  <mssgle:LineSegment
-                    End="-213,115.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="359.75,133">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,43"
-              Start="0,0"
-              End="0,35.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          TopLeft="82,159" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="572.25,297">
+          TopLeft="784.5,323">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,39"
+              EndConnector="-59,61"
               Start="0,0"
-              End="0,31.5">
+              End="-59,53.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,31.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 6]"
-          TopLeft="105.75,296">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,46"
-              Start="0,0"
-              End="0,38.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
+                    End="0,16.9081272084806" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.9081272084806"
+                    Point2="0,20.9081272084806"
+                    Point3="-4,20.9081272084806" />
                   <mssgle:LineSegment
-                    End="0,38.5" />
+                    End="-55,20.9081272084806" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-55,20.9081272084806"
+                    Point2="-59,20.9081272084806"
+                    Point3="-59,24.9081272084806" />
+                  <mssgle:LineSegment
+                    End="-59,53.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1054,33 +1202,33 @@
         <NodeLayout
           Size="191,42"
           Id="Package\Execute SQL Customers"
-          TopLeft="9,608" />
+          TopLeft="426,380" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="128.5,504">
+          TopLeft="523.5,306">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-54.5,104"
+              EndConnector="-32.5,74"
               Start="0,0"
-              End="-54.5,96.5">
+              End="-32.5,66.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,57.8816199376947" />
+                    End="0,40.0311526479751" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,57.8816199376947"
-                    Point2="0,61.8816199376947"
-                    Point3="-4,61.8816199376947" />
+                    Point1="0,40.0311526479751"
+                    Point2="0,44.0311526479751"
+                    Point3="-4,44.0311526479751" />
                   <mssgle:LineSegment
-                    End="-50.5,61.8816199376947" />
+                    End="-28.5,44.0311526479751" />
                   <mssgle:CubicBezierSegment
-                    Point1="-50.5,61.8816199376947"
-                    Point2="-54.5,61.8816199376947"
-                    Point3="-54.5,65.8816199376947" />
+                    Point1="-28.5,44.0311526479751"
+                    Point2="-32.5,44.0311526479751"
+                    Point3="-32.5,48.0311526479751" />
                   <mssgle:LineSegment
-                    End="-54.5,96.5" />
+                    End="-32.5,66.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1092,33 +1240,21 @@
         <NodeLayout
           Size="269,42"
           Id="Package\Execute SQL CustomerFinanceOperation"
-          TopLeft="278,699" />
+          TopLeft="411,477" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 8]"
-          TopLeft="104.5,650">
+          TopLeft="548.75,422">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="308,49"
+              EndConnector="0,55"
               Start="0,0"
-              End="308,41.5">
+              End="0,47.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,20.5"
-                    Point2="0,24.5"
-                    Point3="4,24.5" />
-                  <mssgle:LineSegment
-                    End="304,24.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="304,24.5"
-                    Point2="308,24.5"
-                    Point3="308,28.5" />
-                  <mssgle:LineSegment
-                    End="308,41.5" />
+                    End="0,47.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1130,33 +1266,37 @@
         <NodeLayout
           Size="190,42"
           Id="Package\Execute SQL Conditions"
-          TopLeft="279,527" />
+          TopLeft="97,446" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Execute SQL Matches"
+          TopLeft="191,229" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 9]"
-          TopLeft="135,608">
+          Id="Package.PrecedenceConstraints[Constraint 10]"
+          TopLeft="281,271">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="239,-39"
+              EndConnector="-83.5,175"
               Start="0,0"
-              End="239,-31.5">
+              End="-83.5,167.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-11.7943925233645" />
+                    End="0,111.051903114187" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,-11.7943925233645"
-                    Point2="0,-15.7943925233645"
-                    Point3="4,-15.7943925233645" />
+                    Point1="0,111.051903114187"
+                    Point2="0,115.051903114187"
+                    Point3="-4,115.051903114187" />
                   <mssgle:LineSegment
-                    End="235,-15.7943925233645" />
+                    End="-79.5,115.051903114187" />
                   <mssgle:CubicBezierSegment
-                    Point1="235,-15.7943925233645"
-                    Point2="239,-15.7943925233645"
-                    Point3="239,-19.7943925233645" />
+                    Point1="-79.5,115.051903114187"
+                    Point2="-83.5,115.051903114187"
+                    Point3="-83.5,119.051903114187" />
                   <mssgle:LineSegment
-                    End="239,-31.5" />
+                    End="-83.5,167.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1166,35 +1306,163 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="180,42"
-          Id="Package\Execute SQL Matches"
-          TopLeft="180,393" />
+          Size="172,42"
+          Id="Package\Execute SQL Stakes"
+          TopLeft="168,528" />
+        <NodeLayout
+          Size="179,42"
+          Id="Package\Data Flow Currencies"
+          TopLeft="687,112" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 10]"
-          TopLeft="270,435">
+          Id="Package.PrecedenceConstraints[Constraint 3]"
+          TopLeft="805,154">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="73.6666666666667,92"
+              EndConnector="-84.5,63"
               Start="0,0"
-              End="73.6666666666667,84.5">
+              End="-84.5,55.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,50.7390396659708" />
+                    End="0,21.5348837209302" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,50.7390396659708"
-                    Point2="0,54.7390396659708"
-                    Point3="4,54.7390396659708" />
+                    Point1="0,21.5348837209302"
+                    Point2="0,25.5348837209302"
+                    Point3="-4,25.5348837209302" />
                   <mssgle:LineSegment
-                    End="69.6666666666667,54.7390396659708" />
+                    End="-80.5,25.5348837209302" />
                   <mssgle:CubicBezierSegment
-                    Point1="69.6666666666667,54.7390396659708"
-                    Point2="73.6666666666667,54.7390396659708"
-                    Point3="73.6666666666667,58.7390396659708" />
+                    Point1="-80.5,25.5348837209302"
+                    Point2="-84.5,25.5348837209302"
+                    Point3="-84.5,29.5348837209302" />
                   <mssgle:LineSegment
-                    End="73.6666666666667,84.5" />
+                    End="-84.5,55.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="265,71">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-86.5,25"
+              Start="0,0"
+              End="-86.5,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,8.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,8.5"
+                    Point2="0,12.5"
+                    Point3="-4,12.5" />
+                  <mssgle:LineSegment
+                    End="-82.5,12.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-82.5,12.5"
+                    Point2="-86.5,12.5"
+                    Point3="-86.5,16.5" />
+                  <mssgle:LineSegment
+                    End="-86.5,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="587.75,134">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,34"
+              Start="0,0"
+              End="0,26.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="503,189">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-132,61"
+              Start="0,0"
+              End="-124.5,61">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-62,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-62,0"
+                    Point2="-66,0"
+                    Point3="-66,4" />
+                  <mssgle:LineSegment
+                    End="-66,57" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-66,57"
+                    Point2="-66,61"
+                    Point3="-70,61" />
+                  <mssgle:LineSegment
+                    End="-124.5,61" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 6]"
+          TopLeft="486.5,62">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-176.833333333333,167"
+              Start="0,0"
+              End="-176.833333333333,159.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,95.3171806167401" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,95.3171806167401"
+                    Point2="0,99.3171806167401"
+                    Point3="-4,99.3171806167401" />
+                  <mssgle:LineSegment
+                    End="-172.833333333333,99.3171806167401" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-172.833333333333,99.3171806167401"
+                    Point2="-176.833333333333,99.3171806167401"
+                    Point3="-176.833333333333,103.31718061674" />
+                  <mssgle:LineSegment
+                    End="-176.833333333333,159.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1205,24 +1473,30 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 11]"
-          TopLeft="193,363">
+          TopLeft="184,201">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="48.3333333333333,30"
+              EndConnector="68.3333333333333,28"
               Start="0,0"
-              End="48.3333333333333,22.5">
+              End="68.3333333333333,20.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="44.3333333333333,0" />
+                    End="0,12.6519823788546" />
                   <mssgle:CubicBezierSegment
-                    Point1="44.3333333333333,0"
-                    Point2="48.3333333333333,0"
-                    Point3="48.3333333333333,4" />
+                    Point1="0,12.6519823788546"
+                    Point2="0,16.6519823788546"
+                    Point3="4,16.6519823788546" />
                   <mssgle:LineSegment
-                    End="48.3333333333333,22.5" />
+                    End="64.3333333333333,16.6519823788546" />
+                  <mssgle:CubicBezierSegment
+                    Point1="64.3333333333333,16.6519823788546"
+                    Point2="68.3333333333333,16.6519823788546"
+                    Point3="68.3333333333333,20.6519823788546" />
+                  <mssgle:LineSegment
+                    End="68.3333333333333,20.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1233,30 +1507,166 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 12]"
-          TopLeft="203,228">
+          TopLeft="695.5,323">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="95.6666666666666,165"
+              EndConnector="-143.5,57"
               Start="0,0"
-              End="95.6666666666666,157.5">
+              End="-143.5,49.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,94.1277533039647" />
+                    End="0,20.7275388109678" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,94.1277533039647"
-                    Point2="0,98.1277533039647"
-                    Point3="4,98.1277533039647" />
+                    Point1="0,20.7275388109678"
+                    Point2="0,24.7275388109678"
+                    Point3="-4,24.7275388109678" />
                   <mssgle:LineSegment
-                    End="91.6666666666666,98.1277533039647" />
+                    End="-139.5,24.7275388109678" />
                   <mssgle:CubicBezierSegment
-                    Point1="91.6666666666666,98.1277533039647"
-                    Point2="95.6666666666666,98.1277533039647"
-                    Point3="95.6666666666666,102.127753303965" />
+                    Point1="-139.5,24.7275388109678"
+                    Point2="-143.5,24.7275388109678"
+                    Point3="-143.5,28.7275388109678" />
                   <mssgle:LineSegment
-                    End="95.6666666666666,157.5" />
+                    End="-143.5,49.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 9]"
+          TopLeft="72,138">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="89.6666666666667,308"
+              Start="0,0"
+              End="89.6666666666667,300.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,179.256784968685" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,179.256784968685"
+                    Point2="0,183.256784968685"
+                    Point3="4,183.256784968685" />
+                  <mssgle:LineSegment
+                    End="85.6666666666667,183.256784968685" />
+                  <mssgle:CubicBezierSegment
+                    Point1="85.6666666666667,183.256784968685"
+                    Point2="89.6666666666667,183.256784968685"
+                    Point3="89.6666666666667,187.256784968685" />
+                  <mssgle:LineSegment
+                    End="89.6666666666667,300.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 14]"
+          TopLeft="192,488">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="62,40"
+              Start="0,0"
+              End="62,32.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16"
+                    Point2="0,20"
+                    Point3="4,20" />
+                  <mssgle:LineSegment
+                    End="58,20" />
+                  <mssgle:CubicBezierSegment
+                    Point1="58,20"
+                    Point2="62,20"
+                    Point3="62,24" />
+                  <mssgle:LineSegment
+                    End="62,32.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 15]"
+          TopLeft="491,422">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-180.666666666667,106"
+              Start="0,0"
+              End="-180.666666666667,98.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,48.9400202513551" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,48.9400202513551"
+                    Point2="0,52.9400202513551"
+                    Point3="-4,52.9400202513551" />
+                  <mssgle:LineSegment
+                    End="-176.666666666667,52.9400202513551" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-176.666666666667,52.9400202513551"
+                    Point2="-180.666666666667,52.9400202513551"
+                    Point3="-180.666666666667,56.9400202513551" />
+                  <mssgle:LineSegment
+                    End="-180.666666666667,98.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 16]"
+          TopLeft="820,154">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-525,374"
+              Start="0,0"
+              End="-525,366.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,361.571035747021" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,361.571035747021"
+                    Point2="0,365.571035747021"
+                    Point3="-4,365.571035747021" />
+                  <mssgle:LineSegment
+                    End="-521,365.571035747021" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-521,365.571035747021"
+                    Point2="-525,365.571035747021"
+                    Point3="-525,369.571035747021" />
+                  <mssgle:LineSegment
+                    End="-525,366.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1267,18 +1677,18 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 13]"
-          TopLeft="372.583333333333,218">
+          TopLeft="295.75,137">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,309"
+              EndConnector="0,92"
               Start="0,0"
-              End="0,301.5">
+              End="0,84.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,301.5" />
+                    End="0,84.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1294,49 +1704,35 @@
     design-time-name="Package\Data Flow CurrenciesRates">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="150,42"
           Id="Package\Data Flow CurrenciesRates\OLE DB Source"
-          TopLeft="318,38" />
+          TopLeft="302,38" />
         <NodeLayout
           Size="171,42"
           Id="Package\Data Flow CurrenciesRates\OLE DB Destination"
           TopLeft="298,131" />
         <EdgeLayout
           Id="Package\Data Flow CurrenciesRates.Paths[OLE DB Source Output]"
-          TopLeft="393,80">
+          TopLeft="380.25,80">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-9.5,51"
+              EndConnector="0,51"
               Start="0,0"
-              End="-9.5,43.5">
+              End="0,43.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,21.5"
-                    Point2="0,25.5"
-                    Point3="-4,25.5" />
-                  <mssgle:LineSegment
-                    End="-5.5,25.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-5.5,25.5"
-                    Point2="-9.5,25.5"
-                    Point3="-9.5,29.5" />
-                  <mssgle:LineSegment
-                    End="-9.5,43.5" />
+                    End="0,43.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -1360,6 +1756,70 @@
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Data Flow Currencies">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="171,42"
+          Id="Package\Data Flow Currencies\OLE DB Destination"
+          TopLeft="224,169" />
+        <NodeLayout
+          Size="150,42"
+          Id="Package\Data Flow Currencies\OLE DB Source"
+          TopLeft="230,58" />
+        <EdgeLayout
+          Id="Package\Data Flow Currencies.Paths[OLE DB Source Output]"
+          TopLeft="307.25,100">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,69"
+              Start="0,0"
+              End="0,61.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,61.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Currencies\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Currencies\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
