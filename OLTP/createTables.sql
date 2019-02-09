@@ -194,6 +194,7 @@ CREATE TABLE [sport].[Matches](
 	[AwayParticipant] [int] NOT NULL,
 	[TeamID] [int] NULL,
 	[SportArenaID] [int] NULL,
+	[ModifiedDate] [datetime] default (getDate()),
  CONSTRAINT [PK_Matches] PRIMARY KEY CLUSTERED 
 (
 	[MatchID] ASC
@@ -435,38 +436,6 @@ ALTER TABLE [finance].[Stakes] CHECK CONSTRAINT [FK_Stakes_Conditions]
 GO
 
 ----------------------------
-CREATE TABLE [finance].[CustomersFinanceOperations](
-	[FinanceOperationID] [int] NOT NULL IDENTITY(1,1),
-	[CustomerID] [int] NOT NULL,
-	[FinanceOperationTyp] [int] NOT NULL,
-	[Amount] [money] NOT NULL,
-	[AmountCommission] [money] NOT NULL,
-	[AmountTax] [money] NOT NULL,
-	[FinalAmount] [money] NOT NULL,
-	[CurrencyCode] nchar(3) NOT NULL,
-	[OperationDate] [datetime] not null,
- CONSTRAINT [PK_CustomersFinanceOperations] PRIMARY KEY CLUSTERED 
-(
-	[FinanceOperationID] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
-GO
-
-ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Customers] FOREIGN KEY([CustomerID])
-REFERENCES [finance].[Customers] ([CustomerID])
-GO
-
-ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Customers]
-GO
-
-ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Currencies] FOREIGN KEY([CurrencyCode])
-REFERENCES [finance].[Currencies] ([CurrencyCode])
-GO
-
-ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Currencies]
-GO
-
-----------------------------
 CREATE TABLE [sport].[MatchesResults](
 	[MatchID] [int] NOT NULL,
 	[EventID] [int] NOT NULL,
@@ -512,6 +481,47 @@ GO
 
 ALTER TABLE [finance].[Taxes] ADD  CONSTRAINT [DF_Taxes_ModifiedDate]  DEFAULT (getdate()) FOR [ModifiedDate]
 GO
+
+----------------------------
+CREATE TABLE [finance].[CustomersFinanceOperations](
+	[FinanceOperationID] [int] NOT NULL IDENTITY(1,1),
+	[CustomerID] [int] NOT NULL,
+	[FinanceOperationTyp] [int] NOT NULL,
+	[Amount] [money] NOT NULL,
+	[AmountCommission] [money] NOT NULL,
+	[AmountTax] [money] NOT NULL,
+	[FinalAmount] [money] NOT NULL,
+	[CurrencyCode] nchar(3) NOT NULL,
+	[StakeID] [int] null,
+	[OperationDate] [datetime] not null,
+ CONSTRAINT [PK_CustomersFinanceOperations] PRIMARY KEY CLUSTERED 
+(
+	[FinanceOperationID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Customers] FOREIGN KEY([CustomerID])
+REFERENCES [finance].[Customers] ([CustomerID])
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Customers]
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Currencies] FOREIGN KEY([CurrencyCode])
+REFERENCES [finance].[Currencies] ([CurrencyCode])
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Currencies]
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Stakes] FOREIGN KEY([StakeID])
+REFERENCES [finance].[Stakes] ([StakeID])
+GO
+
+ALTER TABLE [finance].[CustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Stakes]
+GO
+
 ----------------------------------------------
 /*
 CREATE TABLE [finance].[InsideFinanceOperations](

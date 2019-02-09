@@ -11,8 +11,8 @@
   DTS:LocaleID="1058"
   DTS:ObjectName="OLTP"
   DTS:PackageType="5"
-  DTS:VersionBuild="122"
-  DTS:VersionGUID="{D395FDC1-D122-4579-B328-8ED3DCBE1A84}">
+  DTS:VersionBuild="123"
+  DTS:VersionGUID="{0FB64716-AAB9-4321-AD9B-49C01AADA14E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -5562,6 +5562,10 @@
                           refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SportArenaID]"
                           dataType="i4"
                           name="SportArenaID" />
+                        <externalMetadataColumn
+                          refId="Package\Sequence Container 2\Data Flow Matches\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[ModifiedDate]"
+                          dataType="dbTimeStamp"
+                          name="ModifiedDate" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>

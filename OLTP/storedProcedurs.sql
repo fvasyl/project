@@ -35,6 +35,9 @@ create procedure location.UpsertCity
 	@CityName nvarchar(max) = null, 
 	@CountryCode  nchar(3) = null
 as
+	if not exists(select top (1) C.CountryCode from location.Countries C where C.CountryCode = @CountryCode)
+		throw 50000, 'country doesnt exist', 1
+
 	begin try
 		set nocount, xact_abort on
 
@@ -376,6 +379,9 @@ as
 		if isnull(@SportEventID,'') = '' or
 			isnull(@EventID,'') = ''  
 			throw 50000, 'Invalid parameters', 1
+
+		if exists(select top (1) * from finance.Conditions C where C.SportEventID = @SportEventID and C.EventID = @EventID )
+			throw 50000, 'condition already exists', 1
 
 		declare @AvaliableTo datetime = DATEADD(s, -10,(select M.DateMatch from sport.Matches M Where M.MatchID = @SportEventID))
 

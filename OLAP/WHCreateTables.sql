@@ -3,7 +3,7 @@ go
 
 --------------------
 CREATE TABLE [dbo].[DimCountries](
-	[CountryCode] [nchar](3) NOT NULL,
+	[CountryCode] [nvarchar](3) NOT NULL,
 	[CountryEnglishName] [nvarchar](max) NULL,
 	[DateOfLoading] datetime  not null,
 	 
@@ -372,6 +372,7 @@ CREATE TABLE [dbo].[FactCustomersFinanceOperations](
 	[AmountTax] [money] NOT NULL,
 	[FinalAmount] [money] NOT NULL,
 	[CurrencyCode] nchar(3) NOT NULL,
+	[StakeID] [int] null,
 	[OperationDate] [datetime] not null,
  CONSTRAINT [PK_CustomersFinanceOperations] PRIMARY KEY CLUSTERED 
 (
@@ -392,6 +393,13 @@ REFERENCES [dbo].[DimCurrencies] ([CurrencyCode])
 GO
 
 ALTER TABLE [dbo].[FactCustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Currencies]
+GO
+
+ALTER TABLE [dbo].[FactCustomersFinanceOperations]  WITH CHECK ADD  CONSTRAINT [FK_CustomersFinanceOperations_Stakes] FOREIGN KEY([StakeID])
+REFERENCES [dbo].[FactStakes] ([StakeID])
+GO
+
+ALTER TABLE [dbo].[FactCustomersFinanceOperations] CHECK CONSTRAINT [FK_CustomersFinanceOperations_Stakes]
 GO
 
 ----------------------------------------
