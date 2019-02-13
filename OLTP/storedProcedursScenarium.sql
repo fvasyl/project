@@ -550,24 +550,27 @@ create procedure sport.UpsertMatch
 	@DateMatch datetime = null,
 	@HomeParticipant int = null,
 	@AwayParticipant int = null, 
-	@TeamID int = null
+	@TeamID int = null,
+	@ArenaID int = null
 as
 	begin try
 		set nocount, xact_abort on
 
 		if isnull(@DateMatch,'') = '' or
 			isnull(@HomeParticipant,'') = ''  or
+			isnull(@ArenaID,'') = ''  or
 			isnull(@AwayParticipant,'') = '' 
 			throw 50000, 'Invalid parameters', 1
 
 		if isnull(@MatchID,'') = ''
-			insert into sport.Matches(DateMatch, HomeParticipant, AwayParticipant, TeamID)
-			values (@DateMatch, @HomeParticipant, @AwayParticipant, @TeamID)
+			insert into sport.Matches(DateMatch, HomeParticipant, AwayParticipant,SportArenaID, TeamID)
+			values (@DateMatch, @HomeParticipant, @AwayParticipant, @ArenaID, @TeamID)
 		else
 		   update sport.Matches
 		   set sport.Matches.DateMatch = @DateMatch,
 				sport.Matches.HomeParticipant = @HomeParticipant,
 				sport.Matches.AwayParticipant = @AwayParticipant,
+				sport.Matches.SportArenaID = @ArenaID,
 				sport.Matches.TeamID = @TeamID
 		   where sport.Matches.MatchID = @MatchID;
 

@@ -1,6 +1,20 @@
 use [SportDBWH]
 go
 
+
+CREATE TABLE [dbo].[DimLocations](
+	[LocationID] [int] NOT NULL,
+	[City] [nvarchar](max) NULL,
+	[CountryCode][nvarchar](3) NULL,
+	[Country][nvarchar](max) NULL,
+	[DateOfLoading] datetime  not null,
+ CONSTRAINT [PK_Locations] PRIMARY KEY CLUSTERED 
+(
+	[LocationID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
 --------------------
 CREATE TABLE [dbo].[DimCountries](
 	[CountryCode] [nvarchar](3) NOT NULL,
@@ -90,6 +104,13 @@ CREATE TABLE [dbo].[DimArens](
 	[ArenaID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[DimArens]  WITH CHECK ADD  CONSTRAINT [FK_Arens_Locations] FOREIGN KEY([LocationID])
+REFERENCES [dbo].[DimLocations] ([LocationID])
+GO
+
+ALTER TABLE [dbo].[DimArens] CHECK CONSTRAINT [FK_Arens_Locations]
 GO
 -----------------------------------------------
 
@@ -207,20 +228,6 @@ ALTER TABLE [dbo].[DimConditions] CHECK CONSTRAINT [FK_Conditions_Events]
 GO
 
 -------------------------------------------
-
-CREATE TABLE [dbo].[DimLocations](
-	[LocationID] [int] NOT NULL,
-	[City] [nvarchar](max) NULL,
-	[CountryCode][nvarchar](3) NULL,
-	[Country][nvarchar](max) NULL,
-	[DateOfLoading] datetime  not null,
- CONSTRAINT [PK_Locations] PRIMARY KEY CLUSTERED 
-(
-	[LocationID] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
---------------------------------------
 
 CREATE TABLE [dbo].[DimCustomersGroups](
 	[CustomerGroupID] [int] NOT NULL   ,

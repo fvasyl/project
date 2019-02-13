@@ -1,0 +1,252 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="60595a56-3243-4607-bc2a-5f0b3a513f77" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Sport DBWH 1</ID>
+  <Name>Sport DBWH 1</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Dimensions>
+    <Dimension dwd:design-time-name="c15a00c3-95df-4389-b370-232b987cdff0">
+      <ID>DimDate</ID>
+      <Name>DimDate</Name>
+      <DimensionID>DimDate</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="9b17d2d1-0481-4a95-8bd1-6591fb503bbc">
+          <AttributeID>Stake ID</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="8db5f0d3-3a96-4b23-8630-0d3fead40b81">
+          <AttributeID>Date</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="d382f16e-b1fc-4eb6-8b64-e49357b3a9ac">
+      <ID>Dim Conditions</ID>
+      <Name>Dim Conditions</Name>
+      <DimensionID>Dim Conditions</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="9688eca9-84ef-4ca0-a6fb-87e76a75be18">
+          <AttributeID>Condition ID</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9815f548-5825-401c-869c-47a158954887">
+          <AttributeID>Chance</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="639496e4-854f-4721-8fb8-e38cc33fd0db">
+          <AttributeID>Is True</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="7960b4e8-1090-46c4-9367-691f05b33721">
+          <AttributeID>Event ID</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="9bed663d-eb52-4941-9939-0c21ff008898">
+          <AttributeID>Match ID</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="be47c66c-4ad5-4774-9bd1-b6775d19745c">
+      <ID>Dim Customers</ID>
+      <Name>Dim Customers</Name>
+      <DimensionID>Dim Customers</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="6bfd3475-a3c4-42c3-8e78-560345431aca">
+          <AttributeID>Customer ID</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="3b06b834-cfa2-46db-948c-e2f2b0aad386">
+          <AttributeID>Customer Login</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="1a8108b8-9574-4fa2-839f-c768a61dfe9b">
+          <AttributeID>Send Mails</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="a33a22c6-ecde-4a9b-96d0-be9c1539fb08">
+          <AttributeID>Customer Group ID</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+    <Dimension dwd:design-time-name="47677dac-4a67-4953-88e8-7cee6b8df93b">
+      <ID>Dim Currencies</ID>
+      <Name>Dim Currencies</Name>
+      <DimensionID>Dim Currencies</DimensionID>
+      <Attributes>
+        <Attribute dwd:design-time-name="dbf547c1-99a8-42de-85b1-4f7266579e1d">
+          <AttributeID>Currency Code</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="093d7e8d-6905-478b-975f-13d3c6d7743c">
+          <AttributeID>Currency Name</AttributeID>
+        </Attribute>
+      </Attributes>
+    </Dimension>
+  </Dimensions>
+  <MeasureGroups>
+    <MeasureGroup dwd:design-time-name="85ff0829-ba11-4faf-aaf2-c75719bbaa77">
+      <ID>Fact Stakes</ID>
+      <Name>Fact Stakes</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+      <State>Unprocessed</State>
+      <Measures>
+        <Measure dwd:design-time-name="ec803198-bf02-4e0c-a835-d9916cf01267">
+          <ID>Stake</ID>
+          <Name>Stake</Name>
+          <Source dwd:design-time-name="b7b88c4a-3e8a-43ce-832e-2b9628ab2df4">
+            <DataType>Double</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="f411cb9e-da13-4df2-b36b-fffc87737be5">
+              <TableID>dbo_FactStakes</TableID>
+              <ColumnID>Stake</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="34b3a627-9783-42c7-94df-bf5f3adca037">
+          <ID>Chance</ID>
+          <Name>Chance</Name>
+          <Source dwd:design-time-name="ee09aa12-d489-45f1-b661-1b709ad5e090">
+            <DataType>Double</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="f339f7eb-f632-475f-9d38-1e7821d92132">
+              <TableID>dbo_FactStakes</TableID>
+              <ColumnID>Chance</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="35019a61-453d-40fa-b656-458b6fc30fdc">
+          <ID>Status</ID>
+          <Name>Status</Name>
+          <Source dwd:design-time-name="a99fa5bd-04bc-4c24-9a65-87441c333e7c">
+            <DataType>Integer</DataType>
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="fb40ecc2-86b7-4185-8b6d-5d3263a427bf">
+              <TableID>dbo_FactStakes</TableID>
+              <ColumnID>Status</ColumnID>
+            </Source>
+          </Source>
+        </Measure>
+        <Measure dwd:design-time-name="fe8f412d-c747-4a38-9dee-8fd8dd8a891d">
+          <ID>Fact Stakes Count</ID>
+          <Name>Fact Stakes Count</Name>
+          <AggregateFunction>Count</AggregateFunction>
+          <Source dwd:design-time-name="49edfc8f-ae69-4656-aa01-0472f1ea65fb">
+            <DataType>Integer</DataType>
+            <DataSize>4</DataSize>
+            <Source xsi:type="RowBinding" dwd:design-time-name="7f47781b-a5bf-4c24-9eb9-3e364a538243">
+              <TableID>dbo_FactStakes</TableID>
+            </Source>
+          </Source>
+        </Measure>
+      </Measures>
+      <StorageMode>Molap</StorageMode>
+      <ProcessingMode>Regular</ProcessingMode>
+      <Dimensions>
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="dd60f298-83a9-4952-b6f3-f334d16c125e">
+          <CubeDimensionID>DimDate</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="464ccec3-0ff4-4084-a88f-7aa28447b176">
+              <AttributeID>Stake ID</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="f3e45146-91c1-4928-8aef-429c3a76beae">
+                  <DataType>Integer</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="fa847770-478b-4327-95df-dcc1f8f48639">
+                    <TableID>dbo_FactStakes</TableID>
+                    <ColumnID>StakeID</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8af42f8e-b72f-47ae-bd42-c0939d693340">
+          <CubeDimensionID>Dim Conditions</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="9495d4d0-8a12-4ad0-844a-e7469731e9d5">
+              <AttributeID>Condition ID</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="bdef8952-8315-41e5-ac7a-b471ace98fb9">
+                  <DataType>Integer</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="b5af7df6-e3b2-40f5-a84d-e27ea7c88792">
+                    <TableID>dbo_FactStakes</TableID>
+                    <ColumnID>ConditionID</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="bd3d533f-7ffb-47a8-a190-e7f7d6ad2162">
+          <CubeDimensionID>Dim Customers</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="16cb252a-3490-4531-ac6f-8217f4af379f">
+              <AttributeID>Customer ID</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="75e77e74-977f-4fcf-ad24-56d7ddf17d6c">
+                  <DataType>Integer</DataType>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c5f497cf-7cdb-4bb4-a0b5-9113c8f79a09">
+                    <TableID>dbo_FactStakes</TableID>
+                    <ColumnID>CustomerID</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="c6dce0ed-af9f-42ce-973d-9b877a336f13">
+          <CubeDimensionID>Dim Currencies</CubeDimensionID>
+          <Attributes>
+            <Attribute dwd:design-time-name="2224982f-9678-4371-aabf-3061dd83dea5">
+              <AttributeID>Currency Code</AttributeID>
+              <KeyColumns>
+                <KeyColumn dwd:design-time-name="85a3dd8c-852c-420c-aebc-9fe37dfd230f">
+                  <DataType>WChar</DataType>
+                  <DataSize>3</DataSize>
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="92338a65-3819-4976-b94e-c98ba911f39a">
+                    <TableID>dbo_FactStakes</TableID>
+                    <ColumnID>CurrencyCode</ColumnID>
+                  </Source>
+                </KeyColumn>
+              </KeyColumns>
+              <Type>Granularity</Type>
+            </Attribute>
+          </Attributes>
+        </Dimension>
+      </Dimensions>
+      <Partitions />
+    </MeasureGroup>
+  </MeasureGroups>
+  <Source dwd:design-time-name="7cbd3fbc-ddae-40a0-b021-9f5a47790cee">
+    <DataSourceViewID>Sport DBWH</DataSourceViewID>
+  </Source>
+</Cube>

@@ -1,0 +1,202 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="12411885-c190-4ef4-b325-5d595397abcd" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Fact Matches</ID>
+  <Name>Fact Matches</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="cd004073-3678-4ea8-ac14-a594dfd8b49d">
+    <DataSourceViewID>Sport DBWH</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="638e8986-2bc2-461f-95b8-9236a685f1d6">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="3d2d0330-a1c1-49e2-a7d9-880d74b06312">
+      <ID>Match ID</ID>
+      <Name>Match ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="fc536611-0fce-4210-8749-c0883e6a77e0">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="25c88735-f44a-49d5-b87d-4d848e9abf5f">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>MatchID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="3a9b07a5-c106-4336-9b88-c61ce4fa43a6">
+          <AttributeID>Sport ID</AttributeID>
+          <Name>Sport ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="62688f4e-aa7e-4611-899f-8680bc3c45cc">
+          <AttributeID>Team ID</AttributeID>
+          <Name>Team ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="a9509665-1186-487a-8612-286d18f38a42">
+          <AttributeID>Home Participant</AttributeID>
+          <Name>Home Participant</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f6df1696-9ad8-4c39-a996-53605e0dd8fc">
+          <AttributeID>Away Participant</AttributeID>
+          <Name>Away Participant</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="11a66c57-4548-45dd-9834-1feb8fae6ff7">
+          <AttributeID>Arena ID</AttributeID>
+          <Name>Arena ID</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="a0c04637-9e90-42ea-85d2-520185386321">
+          <AttributeID>Tournament ID</AttributeID>
+          <Name>Tournament ID</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="249843e0-f690-445d-a6fa-20e492b81e85">
+      <ID>Sport ID</ID>
+      <Name>Sport ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a9a3e313-0c91-412e-ada2-993b78cd37fa">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ab163ecb-d253-4389-94f0-1c9a7030cf73">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>SportID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="8adc3a71-717d-47ed-bd4e-8a2896bfb9f1">
+      <ID>Team ID</ID>
+      <Name>Team ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6ceb023a-065d-4e76-86c8-95a85ef2563c">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f8b0d9c6-39ba-4d47-b240-3da761f9c3f4">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>TeamID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="69ccf8d1-1735-4d5a-8361-26597f6cc988">
+      <ID>Home Participant</ID>
+      <Name>Home Participant</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="19262a22-aba4-41a6-9851-27d73f7a40f5">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="34ea6a0f-dd7e-4c1a-9b94-1ccfaa319141">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>HomeParticipant</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="450a3773-b95e-40bf-9e1f-4b114068445c">
+      <ID>Away Participant</ID>
+      <Name>Away Participant</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4839d6f6-4af4-4f24-b5aa-8ec966584aab">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="53ea7028-bc5c-4f63-bedb-9368443d0fe6">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>AwayParticipant</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9f3a8dba-78d1-4f5c-84d3-8749d25f7e06">
+      <ID>Arena ID</ID>
+      <Name>Arena ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="28ecf4fc-b89f-45a7-9acf-1d7109f02e27">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4eb14eca-0e65-41fd-8655-48f85d958432">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>ArenaID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="c5a8e5d3-c193-48cb-8291-814831b6a57c">
+      <ID>Tournament ID</ID>
+      <Name>Tournament ID</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b9516059-d5b4-47f9-a1c5-f0197cda31d1">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="80cb8b0f-e4b9-49cb-afeb-1aed6dca40a4">
+            <TableID>dbo_FactMatches</TableID>
+            <ColumnID>TournamentID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

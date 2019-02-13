@@ -1,0 +1,157 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="afe334d2-5775-413e-8777-83282ffc4f97" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Dim Customers Groups</ID>
+  <Name>Dim Customers Groups</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="0d33ee0f-510e-42ae-8739-eac66c54c082">
+    <DataSourceViewID>Sport DBWH</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="4a898fa0-4cb2-4cc2-a8a3-f688d80b7e8f">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="4c7e984d-c57a-41e9-be6f-d20fc3f09ab5">
+      <ID>Customer Group ID</ID>
+      <Name>Customer Group ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8400d56f-6f4d-45d3-9c4b-0b4f72bdc15c">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="18e20a86-07bb-42df-bd9a-bc0abb0e99d4">
+            <TableID>dbo_DimCustomersGroups</TableID>
+            <ColumnID>CustomerGroupID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="9f973d75-4185-429c-ab78-30c2f1588db6">
+          <AttributeID>Customer Group</AttributeID>
+          <Name>Customer Group</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="49e17542-8a27-4357-bfb9-bb2fe3c4c793">
+          <AttributeID>Customer Group Commission Add Stake</AttributeID>
+          <Name>Customer Group Commission Add Stake</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="4f70a009-821e-40eb-8692-1fc6c63faba5">
+          <AttributeID>Customer Group Commission Edit Stake</AttributeID>
+          <Name>Customer Group Commission Edit Stake</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="92f65920-6cda-4ad5-9ad4-829d89696e98">
+          <AttributeID>Customer Group Commission Delete Stake</AttributeID>
+          <Name>Customer Group Commission Delete Stake</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5011680d-fb09-4cde-b0fd-1ca1f777d78d">
+      <ID>Customer Group</ID>
+      <Name>Customer Group</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e994cee1-f5f7-4653-8f0e-80b6c9c05789">
+          <DataType>WChar</DataType>
+          <DataSize>450</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="611c1be9-95ed-4632-843a-a74a7c8479c7">
+            <TableID>dbo_DimCustomersGroups</TableID>
+            <ColumnID>CustomerGroup</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d1397374-7ff1-4ee5-97ba-1efc940fe9fa">
+      <ID>Customer Group Commission Add Stake</ID>
+      <Name>Customer Group Commission Add Stake</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c828b630-10cd-486e-adce-2a1be59e6438">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="07ad7ab6-825e-45d0-babe-bbfcbac89a13">
+            <TableID>dbo_DimCustomersGroups</TableID>
+            <ColumnID>CustomerGroupCommissionAddStake</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="5c12e881-28a9-43c5-a99d-3c16f2abf227">
+      <ID>Customer Group Commission Edit Stake</ID>
+      <Name>Customer Group Commission Edit Stake</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="3834c04e-ff6e-4992-9ce0-dfb9c6879d05">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d04b6765-cd91-4464-9a93-cb742baf4737">
+            <TableID>dbo_DimCustomersGroups</TableID>
+            <ColumnID>CustomerGroupCommissionEditStake</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="374cfb37-99d3-4b1f-aa9a-a43c1130f854">
+      <ID>Customer Group Commission Delete Stake</ID>
+      <Name>Customer Group Commission Delete Stake</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c52ee72a-ac62-4ef9-b529-bdc76cd935ee">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="276fc547-bbf3-4e4a-8bef-f6bfd7c36b6b">
+            <TableID>dbo_DimCustomersGroups</TableID>
+            <ColumnID>CustomerGroupCommissionDeleteStake</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
