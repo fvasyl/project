@@ -73,14 +73,22 @@ exec finance.UpsertEvent default, 'second not win', null, 2
 select * from finance.Events
 go
 
+exec location.UpsertCity default, 'if', 'UA'
+select * from location.Cities
+go
+
+exec location.UpsertSportArena default, 15000, 1, 'Arena'
+select * from location.SportArens
+go
+
 --матч
 declare  @date datetime = DATEADD(s,250, getdate())
-exec sport.UpsertMatch default, @date, 2, 1, null
+exec sport.UpsertMatch default, @date, 2, 1, null, 1
 select * from sport.Matches
 go
 
 declare  @date datetime = DATEADD(s,250, getdate())
-exec sport.UpsertMatch default, @date, 2, 1, null
+exec sport.UpsertMatch default, @date, 2, 1, null, 1
 select * from sport.Matches
 go
 --три події
@@ -149,7 +157,7 @@ go
 
 
 insert into Sport.MatchesResults (MatchID, EventID, IsTrue)
-	values (1, 1, 0), (1, 2, 0), (1, 3, 1), (1, 4, 1), (1, 5, 0)		
+	values (1, 1, 1), (1, 4, 1), (2, 3, 1), (2, 5, 1)		
 
 select * from sport.MatchesResults
 

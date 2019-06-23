@@ -612,3 +612,88 @@ select
 	group by E.ConditionID, E.SportEventID
 go
 
+
+IF EXISTS (SELECT * FROM sys.objects WHERE [object_id] = OBJECT_ID(N'sport.AfterInsertTrigger')
+               AND [type] = 'TR')
+BEGIN
+      DROP TRIGGER sport.AfterInsertTrigger;
+END
+go
+
+CREATE TRIGGER sport.AfterInsertTrigger
+ON sport.MatchesResults
+AFTER INSERT
+AS
+		;with getEvent (EventID, EventGroup, MatchID, isTrue)
+		as
+		(
+			select E1.EventID, E1.EventGroup, I.MatchID, 0 from finance.Events E1 
+				join inserted I on  E1.EventID = I.EventID and I.IsTrue = 1 
+		)
+		--insert into sport.MatchesResults (MatchID, EventID, IsTrue)
+		, results(MatchID, EventID, isTrue)
+		as
+		(
+			select gE.MatchID, E.EventID, gE.isTrue
+			from finance.Events E join getEvent gE
+				on  E.EventGroup = gE.EventGroup 
+			union   (select * from inserted )
+		)
+		insert into sport.MatchesResults (MatchID, EventID, IsTrue)
+		select R.MatchID, R.EventID, min(R.isTrue) from results R
+		group by R.EventID, MatchID
+		having max(R.isTrue) = 0	
+GO
+
+
+IF EXISTS (SELECT * FROM sys.objects WHERE [object_id] = OBJECT_ID(N'sport.CheckConditions')
+               AND [type] = 'TR')
+BEGIN
+      DROP TRIGGER sport.CheckConditions;
+END
+go
+CREATE TRIGGER sport.CheckConditions
+ON sport.MatchesResults
+AFTER INSERT
+AS
+	update C
+		set C.IsTrue = 1
+		from  finance.Conditions C
+			inner join inserted MR
+				on C.SportEventID = MR.MatchID and C.EventID = MR.EventID
+		where MR.IsTrue = 1
+
+		update C
+		set C.IsTrue = 0
+		from  finance.Conditions C
+			inner join inserted MR
+				on C.SportEventID = MR.MatchID and C.EventID = MR.EventID
+		where MR.IsTrue = 0		
+GO
+
+IF EXISTS (SELECT * FROM sys.objects WHERE [object_id] = OBJECT_ID(N'finance.CheckStakes')
+               AND [type] = 'TR')
+BEGIN
+      DROP TRIGGER finance.CheckStakes;
+END
+go
+CREATE TRIGGER finance.CheckStakes
+ON finance.Conditions
+AFTER UPDATE
+AS
+		insert into [finance].[CustomersFinanceOperations] (CustomerID, FinanceOperationTyp, Amount, AmountCommission, AmountTax,  FinalAmount, CurrencyCode,StakeID, OperationDate)
+		select S.CustomerID, 1, S.Stake/(1 - C.Chance), 0, 0, S.Stake/(1 - C.Chance), S.CurrencyCode,S.StakeID, getdate() 
+		from finance.Stakes S 
+			join inserted C on C.ConditionID = S.ConditionID 
+		where C.IsTrue = 1 and S.Status = 1
+
+		update S
+		set S.Status = 2
+		from  finance.Stakes S
+			inner join inserted C
+				on C.ConditionID = S.ConditionID
+		where S.Status = 1 and C.IsTrue is not null
+GO
+
+
+

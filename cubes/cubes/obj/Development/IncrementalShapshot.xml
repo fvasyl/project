@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -19,7 +19,7 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>aFbRGJMfd15gmTllWq26SZCJ+Sw=12.02.2019 2:07:0611.02.2019 13:49:30</TimeStamp>
+        <TimeStamp>aFbRGJMfd15gmTllWq26SZCJ+Sw=01.03.2019 13:33:3311.02.2019 13:49:30</TimeStamp>
         <ID>
           <String>Sport DBWH</String>
         </ID>
@@ -33,107 +33,100 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>GSJ8fQke2NUMtHN1XTfkw3ZlmFM=11.02.2019 16:04:3511.02.2019 16:03:29</TimeStamp>
+        <TimeStamp>QeyTDi5Sb5QyWwbwFVZcbHx8uy8=01.03.2019 13:41:2311.02.2019 16:03:29</TimeStamp>
         <ID>
           <String>Dim Locations</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>7nJcTrVtEo2sgyVC5AevVuIhsCU=11.02.2019 16:04:3511.02.2019 16:04:35</TimeStamp>
+        <TimeStamp>3QJw7QRI3kck7cbW+w8RCMdzdjk=01.03.2019 13:42:3411.02.2019 16:04:35</TimeStamp>
         <ID>
           <String>Dim Arens</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>SpSxyQZTxQzgTN6NoLzZsFIaFAk=11.02.2019 16:04:5211.02.2019 16:04:52</TimeStamp>
+        <TimeStamp>UlduBx1I+WfXR+YRkLWBooc0OjA=01.03.2019 13:43:3311.02.2019 16:04:52</TimeStamp>
         <ID>
           <String>Dim Clubs</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>ZzkcHLgjBaqw6CvNIy/Swy5Og58=11.02.2019 16:05:0811.02.2019 16:05:08</TimeStamp>
+        <TimeStamp>OlIt+yy8WWlexCsm9ADs7XyLyEw=01.03.2019 13:44:2311.02.2019 16:05:08</TimeStamp>
         <ID>
           <String>Dim Tournaments</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>N8+SC2T/vM4c2C9ANSO4v0YjSS8=11.02.2019 16:05:2311.02.2019 16:05:23</TimeStamp>
+        <TimeStamp>EiVUD7C/ba1gA+2ver0AKtJgQZ8=01.03.2019 13:44:5611.02.2019 16:05:23</TimeStamp>
         <ID>
           <String>Dim Sports</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>Diq3W0kTZNLGYVSLE8BDTmoOViA=11.02.2019 16:06:0011.02.2019 16:06:00</TimeStamp>
+        <TimeStamp>HhBHLjpSBUD8JOUS6RglrXge3gU=01.03.2019 13:46:1811.02.2019 16:06:00</TimeStamp>
         <ID>
           <String>Dim Teams</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>4l+Bk1X2MdoXcCFef66x7byidx8=11.02.2019 16:06:3111.02.2019 16:06:31</TimeStamp>
+        <TimeStamp>1F7uqyB7oNY58sQpnUheUvp8zI0=01.03.2019 13:46:5511.02.2019 16:06:31</TimeStamp>
         <ID>
           <String>Dim Events</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>wdEprWGFyiW4PHWNWhP06VCnpRo=11.02.2019 16:10:1611.02.2019 16:10:16</TimeStamp>
+        <TimeStamp>++3CPIiyI6euCaR/yeZel2r2JRI=01.03.2019 13:47:3311.02.2019 16:10:16</TimeStamp>
         <ID>
           <String>Dim Conditions</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>I15qg5svhevUbBqytSYeYnQSLJk=11.02.2019 16:10:5511.02.2019 16:10:55</TimeStamp>
+        <TimeStamp>5ztBgQZtgn8KUzeGTdeJgqFjHIg=01.03.2019 13:51:0411.02.2019 16:10:55</TimeStamp>
         <ID>
           <String>Dim Customers</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>fR5y80vfndezBTu2owlUxjTiPxc=11.02.2019 16:11:1111.02.2019 16:11:11</TimeStamp>
+        <TimeStamp>u8wmrbHH9jza2nBsYec/45GCW6Q=01.03.2019 13:39:5611.02.2019 16:11:11</TimeStamp>
         <ID>
           <String>Dim Currencies</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YTx3N7Swwqi9Wp4jq3HZHaMbR3o=11.02.2019 16:13:4411.02.2019 16:13:44</TimeStamp>
+        <TimeStamp>fllZeGsyx2RfvO4kPPeil6glFD4=01.03.2019 13:52:2711.02.2019 16:13:44</TimeStamp>
         <ID>
           <String>Dim Customers Groups</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>0PkEBrfDcp5NjhRQPs4NzJdpyhQ=11.02.2019 22:30:3011.02.2019 22:30:29</TimeStamp>
+        <TimeStamp>mHABHL4T5wQltLKjFEI0E6t2Nng=01.03.2019 13:53:2411.02.2019 22:30:29</TimeStamp>
         <ID>
           <String>Fact Matches</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>bZnf4UhtLxtXyL+i0qfMOd5efvo=11.02.2019 22:38:5711.02.2019 22:38:57</TimeStamp>
+        <TimeStamp>hbGnwZq0sxPRLMayu7zsuVDoeYw=01.03.2019 13:53:5011.02.2019 22:38:57</TimeStamp>
         <ID>
           <String>DimDate</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>VNNr/bntKTWsYZmSHH40FCJbDpY=11.02.2019 22:39:3911.02.2019 22:24:28I/ySDGf/HluEsYqT8Q5wrgItxXQ=11.02.2019 22:38:5711.02.2019 22:24:29</TimeStamp>
+        <TimeStamp>SehDoK9qajl/juQ/j6HPXH91M5Q=01.03.2019 13:29:5711.02.2019 22:24:28I/ySDGf/HluEsYqT8Q5wrgItxXQ=11.02.2019 22:38:5711.02.2019 22:24:29</TimeStamp>
         <ID>
           <String>Sport DBWH</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>KtZhUqTOfCqb1p3NFcMk/0kdsy0=13.02.2019 19:22:4313.02.2019 19:22:43UT8knA8AbqNJX54Euq+i0NjIJ3o=13.02.2019 19:22:4313.02.2019 19:22:43</TimeStamp>
-        <ID>
-          <String>Sport DBWH 1</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -148,5 +141,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2019-02-13T17:24:34.496667Z</LastDeployed>
+  <LastDeployed>2019-03-01T13:17:01.193333Z</LastDeployed>
 </DeploymentSnapshot>

@@ -66,19 +66,6 @@
           </MeasureGroup>
         </MeasureGroups>
       </Cube>
-      <Cube>
-        <ID>Sport DBWH 1</ID>
-        <MeasureGroups>
-          <MeasureGroup>
-            <ID>Fact Stakes</ID>
-            <Partitions>
-              <Partition>
-                <ID>Fact Stakes</ID>
-              </Partition>
-            </Partitions>
-          </MeasureGroup>
-        </MeasureGroups>
-      </Cube>
     </Cubes>
     <DataSourceImpersonationInfo>
       <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Default</ImpersonationMode>

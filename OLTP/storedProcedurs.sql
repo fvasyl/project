@@ -309,7 +309,7 @@ as
 		begin
 		   update finance.Customers
 		   set finance.Customers.CustomerLogin = @CustomerLogin,
-				--finance.Customers.CustomerPassword = @CustomerPassword,
+				finance.Customers.CountryCode = @CountryCode,
 				finance.Customers.CustomerEmail = @CustomerEmail,
 				finance.Customers.CustomerGroupID = @CustomerGroupID
 		   where finance.Customers.CustomerID = @CustomerID;

@@ -6,6 +6,32 @@
   <Annotations>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2137" scrolltop="-1680" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7594" y="8202" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01cc0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="FactMatches" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3281" height="4842" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000c0000d10c0000ea120000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_FactMatches" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
@@ -21,15 +47,15 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>0</Value>
+      <Value>-2137</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>0</Value>
+      <Value>-1680</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
-      <Value>0</Value>
+      <Value>20</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
@@ -54,7 +80,7 @@
   <Attributes>
     <Attribute dwd:design-time-name="3d2d0330-a1c1-49e2-a7d9-880d74b06312">
       <ID>Match ID</ID>
-      <Name>Match ID</Name>
+      <Name>MatchID</Name>
       <Usage>Key</Usage>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="fc536611-0fce-4210-8749-c0883e6a77e0">
@@ -97,7 +123,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="249843e0-f690-445d-a6fa-20e492b81e85">
       <ID>Sport ID</ID>
-      <Name>Sport ID</Name>
+      <Name>SportID</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="a9a3e313-0c91-412e-ada2-993b78cd37fa">
           <DataType>Integer</DataType>
@@ -114,7 +140,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="8adc3a71-717d-47ed-bd4e-8a2896bfb9f1">
       <ID>Team ID</ID>
-      <Name>Team ID</Name>
+      <Name>TeamID</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="6ceb023a-065d-4e76-86c8-95a85ef2563c">
           <DataType>Integer</DataType>
@@ -131,7 +157,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="69ccf8d1-1735-4d5a-8361-26597f6cc988">
       <ID>Home Participant</ID>
-      <Name>Home Participant</Name>
+      <Name>HomeParticipant</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="19262a22-aba4-41a6-9851-27d73f7a40f5">
           <DataType>Integer</DataType>
@@ -148,7 +174,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="450a3773-b95e-40bf-9e1f-4b114068445c">
       <ID>Away Participant</ID>
-      <Name>Away Participant</Name>
+      <Name>AwayParticipant</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="4839d6f6-4af4-4f24-b5aa-8ec966584aab">
           <DataType>Integer</DataType>
@@ -165,7 +191,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="9f3a8dba-78d1-4f5c-84d3-8749d25f7e06">
       <ID>Arena ID</ID>
-      <Name>Arena ID</Name>
+      <Name>ArenaID</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="28ecf4fc-b89f-45a7-9acf-1d7109f02e27">
           <DataType>Integer</DataType>
@@ -182,7 +208,7 @@
     </Attribute>
     <Attribute dwd:design-time-name="c5a8e5d3-c193-48cb-8291-814831b6a57c">
       <ID>Tournament ID</ID>
-      <Name>Tournament ID</Name>
+      <Name>TournamentID</Name>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="b9516059-d5b4-47f9-a1c5-f0197cda31d1">
           <DataType>Integer</DataType>
